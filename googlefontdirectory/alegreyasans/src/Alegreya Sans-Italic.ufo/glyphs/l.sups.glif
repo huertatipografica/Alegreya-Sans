@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sups" format="1">
+  <advance width="157"/>
+  <outline>
+    <contour>
+      <point x="179" y="810" type="line"/>
+      <point x="118" y="805" type="line"/>
+      <point x="115" y="738" type="line"/>
+      <point x="61" y="334" type="line"/>
+      <point x="122" y="338" type="line"/>
+      <point x="127" y="410" type="line"/>
+      <point x="179" y="810" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="6" y="0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="6" y="0" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

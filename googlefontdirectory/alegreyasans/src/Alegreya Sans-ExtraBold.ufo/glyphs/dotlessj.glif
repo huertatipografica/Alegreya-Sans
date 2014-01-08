@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="294"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="86" y="464" type="line"/>
+      <point x="7" y="464" type="line"/>
+      <point x="0" y="379" type="line"/>
+      <point x="9" y="370" type="line"/>
+      <point x="82" y="370" type="line"/>
+      <point x="86" y="191" type="line"/>
+      <point x="86" y="26" type="line" smooth="yes"/>
+      <point x="86" y="-41"/>
+      <point x="63" y="-82"/>
+      <point x="8" y="-112" type="curve"/>
+      <point x="8" y="-126" type="line"/>
+      <point x="62" y="-196" type="line"/>
+      <point x="183" y="-144"/>
+      <point x="236" y="-76"/>
+      <point x="236" y="30" type="curve"/>
+      <point x="229" y="207" type="line"/>
+      <point x="238" y="468" type="line"/>
+      <point x="233" y="471" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="468" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

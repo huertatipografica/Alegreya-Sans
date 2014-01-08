@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="536"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="431" y="569" type="line"/>
+      <point x="65" y="-66" type="line"/>
+      <point x="67" y="-72" type="line"/>
+      <point x="97" y="-88" type="line"/>
+      <point x="463" y="547" type="line"/>
+      <point x="461" y="553" type="line"/>
+    </contour>
+    <component base="o"/>
+    <contour>
+      <point x="282" y="495" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

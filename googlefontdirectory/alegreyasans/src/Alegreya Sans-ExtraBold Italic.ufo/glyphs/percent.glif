@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="1">
+  <advance width="874"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="162" y="516" type="move"/>
+    </contour>
+    <component base="zero.numr" xOffset="2" yOffset="55.636" yScale="0.92"/>
+    <component base="fraction" xOffset="377"/>
+    <component base="zero.dnom" xOffset="493" yScale="0.92"/>
+  </outline>
+</glyph>

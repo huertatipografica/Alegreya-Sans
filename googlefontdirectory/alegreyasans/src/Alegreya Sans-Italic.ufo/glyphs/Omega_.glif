@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="1">
+  <advance width="709"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <contour>
+      <point x="208" y="647"/>
+      <point x="101" y="495"/>
+      <point x="101" y="318" type="curve" smooth="yes"/>
+      <point x="101" y="224"/>
+      <point x="133" y="126"/>
+      <point x="197" y="62" type="curve"/>
+      <point x="196" y="59" type="line"/>
+      <point x="109" y="59" type="line"/>
+      <point x="29" y="65" type="line"/>
+      <point x="11" y="4" type="line"/>
+      <point x="16" y="-3" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="274" y="-2" type="line"/>
+      <point x="279" y="2" type="line"/>
+      <point x="286" y="62" type="line"/>
+      <point x="216" y="122"/>
+      <point x="179" y="225"/>
+      <point x="179" y="322" type="curve" smooth="yes"/>
+      <point x="179" y="466"/>
+      <point x="254" y="585"/>
+      <point x="399" y="585" type="curve" smooth="yes"/>
+      <point x="516" y="585"/>
+      <point x="567" y="504"/>
+      <point x="567" y="398" type="curve" smooth="yes"/>
+      <point x="567" y="273"/>
+      <point x="498" y="142"/>
+      <point x="383" y="62" type="curve"/>
+      <point x="376" y="2" type="line"/>
+      <point x="379" y="-2" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="635" y="-4" type="line"/>
+      <point x="651" y="60" type="line"/>
+      <point x="648" y="65" type="line"/>
+      <point x="571" y="59" type="line"/>
+      <point x="473" y="59" type="line"/>
+      <point x="472" y="62" type="line"/>
+      <point x="584" y="151"/>
+      <point x="645" y="281"/>
+      <point x="645" y="403" type="curve" smooth="yes"/>
+      <point x="645" y="537"/>
+      <point x="568" y="647"/>
+      <point x="404" y="647" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="2" y="640" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

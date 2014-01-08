@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="567"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="262" y="636" type="line"/>
+      <point x="16" y="0" type="line" smooth="yes"/>
+      <point x="70" y="0" type="line"/>
+      <point x="85" y="56" type="line"/>
+      <point x="285" y="576" type="line"/>
+      <point x="291" y="576" type="line"/>
+      <point x="474" y="54" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="317" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="236" type="line"/>
+      <point x="125" y="237" type="line"/>
+      <point x="122" y="191" type="line"/>
+      <point x="275" y="193" type="line"/>
+      <point x="442" y="191" type="line"/>
+      <point x="439" y="237" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="296" type="move"/>
+    </contour>
+    <component base="ringacute" xOffset="96" yOffset="98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

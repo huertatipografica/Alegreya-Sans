@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD" format="1">
+  <advance width="646"/>
+  <outline>
+    <component base="I"/>
+    <component base="acute.cap" xOffset="-15" yOffset="178"/>
+    <component base="J" xOffset="304"/>
+    <component base="acute.cap" xOffset="286" yOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

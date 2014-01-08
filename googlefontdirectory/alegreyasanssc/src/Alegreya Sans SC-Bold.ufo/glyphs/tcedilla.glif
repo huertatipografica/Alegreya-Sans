@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="1">
+  <advance width="446"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="196" y="21" type="line"/>
+      <point x="174" y="-74" type="line"/>
+      <point x="223" y="-102" type="line" smooth="yes"/>
+      <point x="233" y="-108"/>
+      <point x="239" y="-113"/>
+      <point x="239" y="-124" type="curve" smooth="yes"/>
+      <point x="239" y="-137"/>
+      <point x="230" y="-145"/>
+      <point x="215" y="-145" type="curve" smooth="yes"/>
+      <point x="196" y="-145"/>
+      <point x="176" y="-133"/>
+      <point x="158" y="-115" type="curve"/>
+      <point x="151" y="-117" type="line"/>
+      <point x="142" y="-172" type="line"/>
+      <point x="163" y="-188"/>
+      <point x="189" y="-200"/>
+      <point x="223" y="-200" type="curve" smooth="yes"/>
+      <point x="278" y="-200"/>
+      <point x="315" y="-169"/>
+      <point x="315" y="-126" type="curve" smooth="yes"/>
+      <point x="315" y="-103"/>
+      <point x="305" y="-85"/>
+      <point x="275" y="-67" type="curve" smooth="yes"/>
+      <point x="241" y="-48" type="line"/>
+      <point x="257" y="21" type="line"/>
+    </contour>
+    <component base="t" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

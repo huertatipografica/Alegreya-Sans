@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="450"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="228" y="592" type="line"/>
+      <point x="225" y="563" type="line"/>
+      <point x="229" y="559" type="line"/>
+      <point x="478" y="559" type="line"/>
+      <point x="481" y="587" type="line"/>
+      <point x="476" y="592" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

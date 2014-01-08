@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="590"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="443" y="642" type="line"/>
+      <point x="432" y="606" type="line"/>
+      <point x="399" y="515" type="line"/>
+      <point x="394" y="515" type="line"/>
+      <point x="364" y="608" type="line"/>
+      <point x="355" y="642" type="line"/>
+      <point x="277" y="642" type="line"/>
+      <point x="251" y="405" type="line"/>
+      <point x="308" y="405" type="line"/>
+      <point x="313" y="483" type="line"/>
+      <point x="320" y="544" type="line"/>
+      <point x="324" y="544" type="line"/>
+      <point x="367" y="427" type="line"/>
+      <point x="418" y="427" type="line"/>
+      <point x="467" y="544" type="line"/>
+      <point x="472" y="544" type="line"/>
+      <point x="478" y="476" type="line"/>
+      <point x="482" y="405" type="line"/>
+      <point x="541" y="405" type="line"/>
+      <point x="520" y="642" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="635" type="line"/>
+      <point x="92" y="475" type="line"/>
+      <point x="89" y="405" type="line"/>
+      <point x="155" y="405" type="line"/>
+      <point x="153" y="481" type="line"/>
+      <point x="155" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="642" type="line"/>
+      <point x="24" y="594" type="line"/>
+      <point x="28" y="589" type="line"/>
+      <point x="79" y="591" type="line"/>
+      <point x="166" y="591" type="line"/>
+      <point x="216" y="589" type="line"/>
+      <point x="219" y="637" type="line"/>
+      <point x="216" y="642" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

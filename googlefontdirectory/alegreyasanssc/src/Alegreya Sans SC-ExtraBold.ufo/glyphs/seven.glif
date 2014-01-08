@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="440"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="12" y="380" type="line"/>
+      <point x="20" y="367" type="line"/>
+      <point x="120" y="378" type="line"/>
+      <point x="261" y="378" type="line"/>
+      <point x="64" y="-39" type="line"/>
+      <point x="74" y="-64" type="line"/>
+      <point x="201" y="-99" type="line"/>
+      <point x="263" y="66" type="line"/>
+      <point x="414" y="395" type="line"/>
+      <point x="414" y="511" type="line"/>
+      <point x="361" y="509" type="line"/>
+      <point x="145" y="509" type="line"/>
+      <point x="22" y="513" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

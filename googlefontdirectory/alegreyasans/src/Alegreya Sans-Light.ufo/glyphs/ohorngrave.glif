@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorngrave" format="1">
+  <advance width="489"/>
+  <unicode hex="1EDD"/>
+  <outline>
+    <contour>
+      <point x="141" y="683" type="line"/>
+      <point x="121" y="656" type="line"/>
+      <point x="122" y="649" type="line"/>
+      <point x="176" y="602"/>
+      <point x="226" y="561"/>
+      <point x="280" y="518" type="curve"/>
+      <point x="287" y="519" type="line"/>
+      <point x="304" y="543" type="line"/>
+      <point x="253" y="585"/>
+      <point x="204" y="629"/>
+      <point x="149" y="684" type="curve"/>
+    </contour>
+    <component base="ohorn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

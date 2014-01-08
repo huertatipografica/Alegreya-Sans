@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.i" format="1">
+  <advance width="389"/>
+  <outline>
+    <contour>
+      <point x="85" y="645" type="line"/>
+      <point x="79" y="587" type="line"/>
+      <point x="86" y="579" type="line"/>
+      <point x="307" y="579" type="line"/>
+      <point x="311" y="638" type="line"/>
+      <point x="304" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="461" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

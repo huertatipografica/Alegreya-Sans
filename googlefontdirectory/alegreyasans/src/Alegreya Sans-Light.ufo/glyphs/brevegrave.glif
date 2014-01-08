@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevegrave" format="1">
+  <advance width="390"/>
+  <outline>
+    <contour>
+      <point x="109" y="722" type="line"/>
+      <point x="110" y="716" type="line"/>
+      <point x="138" y="684"/>
+      <point x="168" y="654"/>
+      <point x="199" y="622" type="curve"/>
+      <point x="206" y="623" type="line"/>
+      <point x="226" y="640" type="line"/>
+      <point x="196" y="673"/>
+      <point x="169" y="706"/>
+      <point x="140" y="740" type="curve"/>
+      <point x="134" y="740" type="line"/>
+    </contour>
+    <component base="breve.cap" yOffset="-20"/>
+    <contour>
+      <point x="195" y="455" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

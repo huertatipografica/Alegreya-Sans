@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="1">
+  <advance width="303"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="53" y="0" type="line"/>
+      <point x="30" y="-38"/>
+      <point x="22" y="-67"/>
+      <point x="22" y="-98" type="curve" smooth="yes"/>
+      <point x="22" y="-154"/>
+      <point x="61" y="-197"/>
+      <point x="126" y="-197" type="curve" smooth="yes"/>
+      <point x="163" y="-197"/>
+      <point x="201" y="-183"/>
+      <point x="243" y="-148" type="curve"/>
+      <point x="231" y="-75" type="line"/>
+      <point x="221" y="-75" type="line"/>
+      <point x="200" y="-92"/>
+      <point x="171" y="-99"/>
+      <point x="153" y="-99" type="curve" smooth="yes"/>
+      <point x="128" y="-99"/>
+      <point x="118" y="-85"/>
+      <point x="118" y="-68" type="curve" smooth="yes"/>
+      <point x="118" y="-50"/>
+      <point x="126" y="-25"/>
+      <point x="152" y="12" type="curve"/>
+    </contour>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

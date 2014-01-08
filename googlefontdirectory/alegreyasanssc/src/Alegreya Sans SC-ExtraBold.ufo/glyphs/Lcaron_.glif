@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="489"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="216" y="197" type="move"/>
+    </contour>
+    <component base="L"/>
+    <component base="caron.alt" xOffset="203" yOffset="-140"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
