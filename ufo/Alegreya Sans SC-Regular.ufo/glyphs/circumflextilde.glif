@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflextilde" format="1">
+  <advance width="389"/>
+  <outline>
+    <component base="circumflex.cap" yOffset="-20"/>
+    <component base="tilde" xOffset="16" yOffset="137" xScale="0.94" yScale="0.97"/>
+    <contour>
+      <point x="195" y="458" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

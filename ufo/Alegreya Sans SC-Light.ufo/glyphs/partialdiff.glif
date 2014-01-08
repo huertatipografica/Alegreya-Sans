@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="1">
+  <advance width="507"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="103" y="715" type="line"/>
+      <point x="72" y="691" type="line"/>
+      <point x="72" y="683" type="line"/>
+      <point x="293" y="604"/>
+      <point x="409" y="462"/>
+      <point x="409" y="254" type="curve"/>
+      <point x="409" y="113"/>
+      <point x="352" y="34"/>
+      <point x="245" y="34" type="curve"/>
+      <point x="145" y="34"/>
+      <point x="90" y="94"/>
+      <point x="90" y="204" type="curve"/>
+      <point x="90" y="314"/>
+      <point x="146" y="374"/>
+      <point x="247" y="374" type="curve"/>
+      <point x="301" y="374"/>
+      <point x="359" y="347"/>
+      <point x="412" y="299" type="curve"/>
+      <point x="404" y="370" type="line"/>
+      <point x="392" y="360" type="line"/>
+      <point x="347" y="393"/>
+      <point x="293" y="414"/>
+      <point x="243" y="417" type="curve"/>
+      <point x="114" y="417"/>
+      <point x="42" y="336"/>
+      <point x="42" y="204" type="curve"/>
+      <point x="42" y="74"/>
+      <point x="111" y="-7"/>
+      <point x="244" y="-7" type="curve"/>
+      <point x="381" y="-7"/>
+      <point x="458" y="89"/>
+      <point x="458" y="256" type="curve"/>
+      <point x="458" y="473"/>
+      <point x="331" y="628"/>
+      <point x="110" y="715" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

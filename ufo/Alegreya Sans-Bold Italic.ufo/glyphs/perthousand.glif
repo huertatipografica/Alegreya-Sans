@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1234"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="162" y="516" type="move"/>
+    </contour>
+    <component base="fraction" xOffset="377"/>
+    <component base="zero.dnom" xOffset="479" yScale="0.92"/>
+    <component base="zero.dnom" xOffset="854" yScale="0.92"/>
+    <component base="zero.numr" xOffset="2" yOffset="55" yScale="0.92"/>
+  </outline>
+</glyph>

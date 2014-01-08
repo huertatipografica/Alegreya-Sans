@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisacute" format="1">
+  <advance width="390"/>
+  <outline>
+    <contour>
+      <point x="268" y="709"/>
+      <point x="208" y="690"/>
+      <point x="150" y="674" type="curve"/>
+      <point x="154" y="658" type="line"/>
+      <point x="159" y="654" type="line"/>
+      <point x="222" y="673"/>
+      <point x="282" y="692"/>
+      <point x="346" y="715" type="curve"/>
+      <point x="349" y="720" type="line"/>
+      <point x="344" y="733" type="line"/>
+      <point x="340" y="736" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="595"/>
+      <point x="147" y="587"/>
+      <point x="147" y="575" type="curve" smooth="yes"/>
+      <point x="147" y="563"/>
+      <point x="155" y="555"/>
+      <point x="167" y="555" type="curve" smooth="yes"/>
+      <point x="179" y="555"/>
+      <point x="187" y="563"/>
+      <point x="187" y="575" type="curve" smooth="yes"/>
+      <point x="187" y="587"/>
+      <point x="179" y="595"/>
+      <point x="167" y="595" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="295" y="595"/>
+      <point x="287" y="587"/>
+      <point x="287" y="575" type="curve" smooth="yes"/>
+      <point x="287" y="563"/>
+      <point x="295" y="555"/>
+      <point x="307" y="555" type="curve" smooth="yes"/>
+      <point x="319" y="555"/>
+      <point x="327" y="563"/>
+      <point x="327" y="575" type="curve" smooth="yes"/>
+      <point x="327" y="587"/>
+      <point x="319" y="595"/>
+      <point x="307" y="595" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="223" y="452" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevetilde" format="1">
+  <advance width="388"/>
+  <outline>
+    <component base="breve.cap" xOffset="18" yOffset="18" xScale="0.93" yScale="0.93"/>
+    <component base="tilde" xOffset="22" yOffset="235" xScale="0.91" yScale="0.91"/>
+    <contour>
+      <point x="194" y="472" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

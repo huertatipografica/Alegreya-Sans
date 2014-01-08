@@ -1,0 +1,202 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn CAT;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn TRK;
+languagesystem latn ESP;
+languagesystem latn NLD;
+
+feature aalt {
+# automatic
+feature locl;
+feature sinf;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature lnum;
+feature pnum;
+feature tnum;
+feature onum;
+feature calt;
+feature case;
+feature ss01;
+feature ss02;
+feature ss03;
+} aalt;
+feature locl {
+script latn;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language KAZ;
+sub i by idotaccent;
+language TAT;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+language CRT;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
+language GUA;
+sub [quotesingle quoteright] by puso;
+sub @mayusc @mayusc puso' by puso.cap;
+sub @mayusc puso' @mayusc by puso.cap;
+language ESP;
+sub [quotesingle quoteright] by puso;
+sub @mayusc @mayusc puso' by puso.cap;
+sub @mayusc puso' @mayusc by puso.cap;
+language NLD;
+sub iacute j by iacute_j.loclNLD;
+sub Iacute J by Iacute_J.loclNLD;
+} locl;
+feature sinf {
+sub @num by @sinf;
+} sinf;
+feature sups {
+sub @ordn1 by @ordn2;
+sub @num by @sups;
+} sups;
+feature numr {
+sub @num by @numr;
+} numr;
+feature dnom {
+sub @num by @dnom;
+} dnom;
+feature frac {
+lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup HOCH {
+	sub @num by @numr;
+} HOCH;
+lookup TIEF {
+	sub fraction @numr' by @dnom;
+	sub @dnom @numr' by @dnom;
+} TIEF;
+} frac;
+feature ordn {
+# Ordinals
+	sub @ordn1 by @ordn2;
+} ordn;
+feature lnum {
+sub @lnum1 by @lnum2;
+} lnum;
+feature pnum {
+sub @pnum1 by @pnum2;
+} pnum;
+feature tnum {
+sub @tnum1 by @tnum2;
+} tnum;
+feature onum {
+sub @onum1 by @onum2;
+} onum;
+feature calt {
+sub less h t greater by foundryicon;
+  sub less r i g h t greater by right;
+  sub less d e r e c h a greater by right;
+  sub less l e f t greater by left;
+  sub less i z q u i e r d a greater by left;
+  sub less d o w n greater by down;
+  sub less a b a j o greater by down;
+  sub less u p greater by up;
+  sub less a r r i b a greater by up;
+  sub less c u a d r a d o greater by square1;
+  sub less s q u a r e greater by square1;
+} calt;
+feature case {
+sub @minusc by @mayusc;
+sub @lnum1 by @lnum2;
+} case;
+feature dlig {
+
+} dlig;
+feature liga {
+# Letters out of Unicode ranges (Guarani)
+sub	[tilde tildecomb asciitilde] e by etilde;
+sub	[tilde tildecomb asciitilde] g by gtilde;
+sub	dieresis i by idieresis;
+sub	[tilde tildecomb asciitilde] i by itilde;
+sub	dieresis o by odieresis;
+sub	[tilde tildecomb asciitilde] u by utilde;
+sub	[tilde tildecomb asciitilde] y by ytilde;
+sub	acute y by yacute;
+
+sub	[tilde tildecomb asciitilde] E by Etilde;
+sub	[tilde tildecomb asciitilde] G by Gtilde;
+sub	dieresis I by Idieresis;
+sub	[tilde tildecomb asciitilde] I by Itilde;
+sub	dieresis O by Odieresis;
+sub	[tilde tildecomb asciitilde] U by Utilde;
+sub	[tilde tildecomb asciitilde] Y by Ytilde;
+sub	acute Y by Yacute;
+
+# German versal eszett
+sub @mayusc germandbls' @mayusc by germandbls.calt;
+sub @mayusc @mayusc germandbls' by germandbls.calt;
+
+# Auto roman numerals
+script latn;
+language ESP;
+
+sub [S s] [I i] [G g] [L l] [O o] space @siglo1' @puntuacion by @siglo2;
+sub [S s] [I i] [G g] [L l] [O o] space @siglo1' @siglo1 @puntuacion by @siglo2;
+sub [S s] [I i] [G g] [L l] [O o] space @siglo1' @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [S s] [I i] [G g] [L l] [O o] space @siglo1' @siglo1 @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [S s] [I i] [G g] [L l] [O o] space @siglo1' @siglo1 @siglo1 @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [S s] [I i] [G g] [L l] [O o] space @siglo1' @siglo1 @siglo1 @siglo1 @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [S s] [I i] [G g] [L l] [O o] space @siglo1' @siglo1 @siglo1 @siglo1 @siglo1 @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [C c] [A a] [P p] [Iacute iacute] [T t] [U u] [L l] [O o] space @siglo1' @puntuacion by @siglo2;
+sub [C c] [A a] [P p] [Iacute iacute] [T t] [U u] [L l] [O o] space @siglo1' @siglo1 @puntuacion by @siglo2;
+sub [C c] [A a] [P p] [Iacute iacute] [T t] [U u] [L l] [O o] space @siglo1' @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [C c] [A a] [P p] [Iacute iacute] [T t] [U u] [L l] [O o] space @siglo1' @siglo1 @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [C c] [A a] [P p] [Iacute iacute] [T t] [U u] [L l] [O o] space @siglo1' @siglo1 @siglo1 @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [C c] [A a] [P p] [Iacute iacute] [T t] [U u] [L l] [O o] space @siglo1' @siglo1 @siglo1 @siglo1 @siglo1 @siglo1 @puntuacion by @siglo2;
+sub [C c] [A a] [P p] [Iacute iacute] [T t] [U u] [L l] [O o] space @siglo1' @siglo1 @siglo1 @siglo1 @siglo1 @siglo1 @siglo1 @puntuacion by @siglo2;
+sub @siglo2 @siglo1' by @siglo2;
+} liga;
+feature ss01 {
+sub @siglo1 by @siglo2;
+} ss01;
+feature ss02 {
+sub one by arrowleft;
+sub two by arrowup;
+sub three by arrowright;
+sub four by arrowdown;
+sub five by arrowupleft;
+sub six by arrowupright;
+sub seven by arrowdownright;
+sub eight by arrowdownleft;
+sub a by left;
+sub b by up;
+sub c by right;
+sub d by down;
+sub e by square1;
+sub f by square2;
+sub g by circle1;
+sub h by circle2;
+} ss02;
+feature ss03 {
+sub h t by foundryicon;
+} ss03;
+feature cpsp {
+pos @mayusc <8 0 16 0>;
+pos @lnum2 <8 0 16 0>;
+pos space <8 0 16 0>;
+} cpsp;

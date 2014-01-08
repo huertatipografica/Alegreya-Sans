@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V.ss01" format="1">
+  <advance width="527"/>
+  <outline>
+    <contour>
+      <point x="-100" y="453" type="line"/>
+      <point x="627" y="453" type="line"/>
+      <point x="627" y="508" type="line"/>
+      <point x="-100" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="-100" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="627" y="55" type="line"/>
+      <point x="-100" y="55" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="498" type="line"/>
+      <point x="354" y="410" type="line"/>
+      <point x="268" y="139" type="line"/>
+      <point x="259" y="139" type="line"/>
+      <point x="187" y="419" type="line"/>
+      <point x="172" y="498" type="line"/>
+      <point x="27" y="498" type="line"/>
+      <point x="174" y="10" type="line"/>
+      <point x="348" y="10" type="line"/>
+      <point x="510" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

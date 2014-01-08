@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.i" format="1">
+  <advance width="390"/>
+  <outline>
+    <component base="dotaccent" xOffset="29" yOffset="-16"/>
+    <component base="dotaccent" xOffset="129" yOffset="-16"/>
+    <contour>
+      <point x="194" y="452" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

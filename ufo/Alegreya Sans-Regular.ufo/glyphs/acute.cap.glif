@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="1">
+  <advance width="389"/>
+  <outline>
+    <contour>
+      <point x="209" y="641"/>
+      <point x="147" y="609"/>
+      <point x="84" y="578" type="curve"/>
+      <point x="98" y="542" type="line"/>
+      <point x="108" y="538" type="line"/>
+      <point x="172" y="565"/>
+      <point x="235" y="592"/>
+      <point x="303" y="624" type="curve"/>
+      <point x="306" y="632" type="line"/>
+      <point x="285" y="679" type="line"/>
+      <point x="276" y="681" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="458" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

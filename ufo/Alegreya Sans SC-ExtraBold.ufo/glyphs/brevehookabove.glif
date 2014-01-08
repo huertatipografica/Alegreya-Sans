@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevehookabove" format="1">
+  <advance width="388"/>
+  <outline>
+    <component base="breve.cap" yOffset="-20"/>
+    <component base="hookabove" xOffset="4" yOffset="148"/>
+    <contour>
+      <point x="194" y="468" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

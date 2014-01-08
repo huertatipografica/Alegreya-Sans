@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="892"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="793" y="645" type="line"/>
+      <point x="764" y="549" type="line"/>
+      <point x="609" y="162" type="line"/>
+      <point x="600" y="162" type="line"/>
+      <point x="551" y="542" type="line"/>
+      <point x="550" y="645" type="line"/>
+      <point x="388" y="645" type="line"/>
+      <point x="409" y="491" type="line"/>
+      <point x="276" y="162" type="line"/>
+      <point x="266" y="162" type="line"/>
+      <point x="223" y="558" type="line"/>
+      <point x="224" y="645" type="line"/>
+      <point x="69" y="645" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="438" y="281" type="line"/>
+      <point x="447" y="281" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="660" y="0" type="line"/>
+      <point x="940" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="645" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

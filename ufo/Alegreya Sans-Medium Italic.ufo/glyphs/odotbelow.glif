@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odotbelow" format="1">
+  <advance width="420"/>
+  <unicode hex="1ECD"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="12"/>
+    <contour>
+      <point x="256" y="460" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

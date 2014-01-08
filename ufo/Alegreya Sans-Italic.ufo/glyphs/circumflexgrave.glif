@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexgrave" format="1">
+  <advance width="390"/>
+  <outline>
+    <contour>
+      <point x="234" y="652" type="line"/>
+      <point x="196" y="621"/>
+      <point x="155" y="591"/>
+      <point x="110" y="563" type="curve"/>
+      <point x="122" y="530" type="line"/>
+      <point x="131" y="530" type="line"/>
+      <point x="169" y="553"/>
+      <point x="205" y="574"/>
+      <point x="241" y="597" type="curve"/>
+      <point x="272" y="574"/>
+      <point x="302" y="553"/>
+      <point x="334" y="530" type="curve"/>
+      <point x="343" y="530" type="line"/>
+      <point x="362" y="563" type="line"/>
+      <point x="326" y="591"/>
+      <point x="289" y="621"/>
+      <point x="256" y="652" type="curve"/>
+    </contour>
+    <contour>
+      <point x="260" y="743" type="line"/>
+      <point x="257" y="734" type="line"/>
+      <point x="327" y="648" type="line"/>
+      <point x="344" y="636" type="line"/>
+      <point x="371" y="656" type="line"/>
+      <point x="314" y="746" type="line"/>
+      <point x="297" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="458" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

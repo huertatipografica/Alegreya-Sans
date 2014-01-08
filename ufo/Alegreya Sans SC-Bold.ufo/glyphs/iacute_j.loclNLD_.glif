@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute_j.loclNLD" format="1">
+  <advance width="594"/>
+  <outline>
+    <contour>
+      <point x="201" y="219" type="move"/>
+    </contour>
+    <component base="iacute"/>
+    <component base="j" xOffset="278"/>
+    <component base="acute" xOffset="216" yOffset="39"/>
+    <contour>
+      <point x="132" y="499" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="196" y="8" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="132" y="499" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

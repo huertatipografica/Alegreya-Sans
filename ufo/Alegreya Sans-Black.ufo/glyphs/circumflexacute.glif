@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexacute" format="1">
+  <advance width="388"/>
+  <outline>
+    <contour>
+      <point x="322" y="870" type="line"/>
+      <point x="252" y="721" type="line"/>
+      <point x="316" y="674" type="line"/>
+      <point x="327" y="674" type="line"/>
+      <point x="437" y="823" type="line"/>
+      <point x="432" y="836" type="line"/>
+      <point x="334" y="877" type="line"/>
+    </contour>
+    <component base="circumflex.cap" yOffset="-20"/>
+    <contour>
+      <point x="194" y="472" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

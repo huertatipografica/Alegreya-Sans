@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="1">
+  <advance width="638"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="447" y="70" type="line"/>
+      <point x="378" y="-32" type="line" smooth="yes"/>
+      <point x="359" y="-59"/>
+      <point x="351" y="-85"/>
+      <point x="351" y="-109" type="curve" smooth="yes"/>
+      <point x="351" y="-160"/>
+      <point x="385" y="-197"/>
+      <point x="441" y="-197" type="curve" smooth="yes"/>
+      <point x="477" y="-197"/>
+      <point x="509" y="-180"/>
+      <point x="546" y="-147" type="curve"/>
+      <point x="534" y="-93" type="line"/>
+      <point x="526" y="-93" type="line"/>
+      <point x="504" y="-113"/>
+      <point x="480" y="-123"/>
+      <point x="459" y="-123" type="curve" smooth="yes"/>
+      <point x="434" y="-123"/>
+      <point x="423" y="-109"/>
+      <point x="423" y="-90" type="curve" smooth="yes"/>
+      <point x="423" y="-76"/>
+      <point x="429" y="-58"/>
+      <point x="440" y="-42" type="curve" smooth="yes"/>
+      <point x="510" y="70" type="line"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

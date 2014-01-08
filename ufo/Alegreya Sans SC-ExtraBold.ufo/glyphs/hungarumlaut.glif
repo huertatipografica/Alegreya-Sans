@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="388"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="218" y="521" type="line"/>
+      <point x="231" y="525" type="line"/>
+      <point x="280" y="574"/>
+      <point x="329" y="625"/>
+      <point x="376" y="679" type="curve"/>
+      <point x="374" y="691" type="line"/>
+      <point x="301" y="742" type="line"/>
+      <point x="289" y="739" type="line"/>
+      <point x="251" y="678"/>
+      <point x="212" y="619"/>
+      <point x="170" y="560" type="curve"/>
+    </contour>
+    <contour>
+      <point x="61" y="521" type="line"/>
+      <point x="74" y="525" type="line"/>
+      <point x="123" y="574"/>
+      <point x="172" y="625"/>
+      <point x="219" y="679" type="curve"/>
+      <point x="217" y="691" type="line"/>
+      <point x="144" y="742" type="line"/>
+      <point x="132" y="739" type="line"/>
+      <point x="94" y="678"/>
+      <point x="55" y="619"/>
+      <point x="13" y="560" type="curve"/>
+    </contour>
+    <contour>
+      <point x="162" y="468" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

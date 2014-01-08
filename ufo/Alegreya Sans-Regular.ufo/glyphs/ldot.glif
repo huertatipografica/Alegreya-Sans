@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="1">
+  <advance width="308"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="176" y="-78" type="move"/>
+    </contour>
+    <component base="l"/>
+    <component base="periodcentered" xOffset="152" yOffset="34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

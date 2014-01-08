@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydotbelow" format="1">
+  <advance width="434"/>
+  <unicode hex="1EF5"/>
+  <outline>
+    <contour>
+      <point x="249" y="329" type="move"/>
+    </contour>
+    <component base="y"/>
+    <component base="dotbelowcomb" xOffset="200" yOffset="4" xScale="0.97" yScale="0.97"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

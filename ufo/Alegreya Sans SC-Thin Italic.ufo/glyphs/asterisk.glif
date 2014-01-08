@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="365"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="122" y="458" type="line"/>
+      <point x="123" y="455" type="line"/>
+      <point x="128" y="451"/>
+      <point x="135" y="447"/>
+      <point x="142" y="445" type="curve"/>
+      <point x="209" y="530" type="line"/>
+      <point x="210" y="536" type="line"/>
+      <point x="198" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="627" type="line"/>
+      <point x="84" y="622"/>
+      <point x="83" y="614"/>
+      <point x="83" y="606" type="curve"/>
+      <point x="185" y="568" type="line"/>
+      <point x="190" y="569" type="line"/>
+      <point x="193" y="583" type="line"/>
+      <point x="89" y="629" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="535" type="line"/>
+      <point x="295" y="437" type="line"/>
+      <point x="298" y="437" type="line"/>
+      <point x="303" y="440"/>
+      <point x="308" y="445"/>
+      <point x="313" y="452" type="curve"/>
+      <point x="253" y="542" type="line"/>
+      <point x="248" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="715"/>
+      <point x="225" y="714"/>
+      <point x="218" y="712" type="curve"/>
+      <point x="213" y="603" type="line"/>
+      <point x="216" y="598" type="line"/>
+      <point x="230" y="600" type="line"/>
+      <point x="241" y="713" type="line"/>
+      <point x="239" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="587" type="line"/>
+      <point x="252" y="583" type="line"/>
+      <point x="257" y="570" type="line"/>
+      <point x="368" y="595" type="line"/>
+      <point x="369" y="597" type="line"/>
+      <point x="367" y="603"/>
+      <point x="364" y="610"/>
+      <point x="359" y="616" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

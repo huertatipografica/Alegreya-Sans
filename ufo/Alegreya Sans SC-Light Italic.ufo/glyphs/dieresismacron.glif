@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresismacron" format="1">
+  <advance width="390"/>
+  <outline>
+    <contour>
+      <point x="136" y="718" type="line"/>
+      <point x="133" y="687" type="line"/>
+      <point x="138" y="682" type="line"/>
+      <point x="385" y="682" type="line"/>
+      <point x="388" y="713" type="line"/>
+      <point x="384" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="611"/>
+      <point x="146" y="599"/>
+      <point x="146" y="580" type="curve" smooth="yes"/>
+      <point x="146" y="562"/>
+      <point x="157" y="550"/>
+      <point x="175" y="550" type="curve" smooth="yes"/>
+      <point x="194" y="550"/>
+      <point x="206" y="563"/>
+      <point x="206" y="581" type="curve" smooth="yes"/>
+      <point x="206" y="599"/>
+      <point x="195" y="611"/>
+      <point x="177" y="611" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="306" y="611"/>
+      <point x="294" y="599"/>
+      <point x="294" y="580" type="curve" smooth="yes"/>
+      <point x="294" y="562"/>
+      <point x="305" y="550"/>
+      <point x="323" y="550" type="curve" smooth="yes"/>
+      <point x="342" y="550"/>
+      <point x="354" y="563"/>
+      <point x="354" y="581" type="curve" smooth="yes"/>
+      <point x="354" y="599"/>
+      <point x="343" y="611"/>
+      <point x="325" y="611" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="223" y="455" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

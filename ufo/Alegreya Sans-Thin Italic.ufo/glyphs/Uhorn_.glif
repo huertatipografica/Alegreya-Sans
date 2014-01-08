@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="1">
+  <advance width="593"/>
+  <unicode hex="01AF"/>
+  <outline>
+    <contour>
+      <point x="588" y="761"/>
+      <point x="583" y="760"/>
+      <point x="578" y="756" type="curve"/>
+      <point x="576" y="751" type="line"/>
+      <point x="599" y="726"/>
+      <point x="607" y="708"/>
+      <point x="607" y="690" type="curve" smooth="yes"/>
+      <point x="607" y="658"/>
+      <point x="582" y="637"/>
+      <point x="542" y="637" type="curve"/>
+      <point x="541" y="617" type="line"/>
+      <point x="593" y="617"/>
+      <point x="627" y="646"/>
+      <point x="627" y="690" type="curve" smooth="yes"/>
+      <point x="627" y="730"/>
+      <point x="601" y="761"/>
+      <point x="590" y="761" type="curve" smooth="yes"/>
+    </contour>
+    <component base="U"/>
+    <contour>
+      <point x="339" y="637" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="481"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="24" y="161" type="line"/>
+      <point x="21" y="126" type="line"/>
+      <point x="25" y="121" type="line"/>
+      <point x="460" y="121" type="line"/>
+      <point x="463" y="156" type="line"/>
+      <point x="459" y="161" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="294" type="line"/>
+      <point x="21" y="259" type="line"/>
+      <point x="25" y="254" type="line"/>
+      <point x="194" y="254" type="line"/>
+      <point x="186" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="294" type="line"/>
+      <point x="284" y="254" type="line"/>
+      <point x="461" y="254" type="line"/>
+      <point x="465" y="290" type="line"/>
+      <point x="460" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="497" type="line"/>
+      <point x="376" y="467" type="line"/>
+      <point x="244" y="249" type="line"/>
+      <point x="238" y="249" type="line"/>
+      <point x="116" y="469" type="line"/>
+      <point x="106" y="497" type="line"/>
+      <point x="35" y="497" type="line"/>
+      <point x="227" y="140" type="line"/>
+      <point x="250" y="140" type="line"/>
+      <point x="459" y="497" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="209" y="211" type="line"/>
+      <point x="210" y="144" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="270" y="144" type="line"/>
+      <point x="272" y="211" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="498" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
