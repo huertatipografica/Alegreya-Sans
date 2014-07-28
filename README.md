@@ -34,6 +34,16 @@ The Alegreya type system is a "super family", originally intended for literature
 
 - Added some kerning pairs
 
+28 Jul 2014 (Juan Pablo del Peral)
+
+- Fixed dotbellow character
+
+- Fixed copyright
+
+- Added .glyphs files
+
+
+
 
 ### Acknowledgements
 
