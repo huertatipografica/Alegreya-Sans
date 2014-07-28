@@ -1,7 +1,8 @@
 # Alegreya Sans
 
-This file provides detailed information on the Alegreya Sans
-Font Software.
+This file provides detailed information on the Alegreya Sans Font Software.
+
+[Project homepage](http://www.huertatipografica.com/fonts/alegreya-sans-ht)
 
 This information should be distributed along with the 
 Alegreya Sans fonts and any derivative works.
