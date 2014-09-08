@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"\U00A2",
-"*Y"
+"/Acircumflextilde/Ecircumflextilde/Ocircumflextilde/acircumflextilde/ecircumflextilde/ocircumflextilde A"
 );
 classes = (
 {
@@ -7710,7 +7709,7 @@ unicode = 1EC2;
 {
 color = 4;
 glyphname = Ecircumflextilde;
-lastChange = "2013-10-15 18:11:47 -0300";
+lastChange = "2014-09-08 11:11:46 -0300";
 layers = (
 {
 background = {
@@ -7731,7 +7730,7 @@ name = E;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = circumflexgrave;
+name = circumflextilde;
 transform = "{1, 0, 0, 1, 71, 185}";
 }
 );
@@ -7758,7 +7757,7 @@ name = E;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = circumflexgrave;
+name = circumflextilde;
 transform = "{1, 0, 0, 1, 80, 182}";
 }
 );
@@ -7785,7 +7784,7 @@ name = E;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = circumflexgrave;
+name = circumflextilde;
 transform = "{1, 0, 0, 1, 98, 175}";
 }
 );
@@ -136019,5 +136018,5 @@ tH = 20;
 };
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }

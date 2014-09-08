@@ -1,8 +1,6 @@
 {
 DisplayStrings = (
-i/dotlessi/dotlessj,
-"i/dotlessi \U00ED/ibreve/icaron \U00EE\U00EF/idotaccent/idotbelow \U00EC/ihookabove/ij/imacron/iogonek/itilde",
-"*Y"
+/puso
 );
 classes = (
 {
@@ -13289,7 +13287,7 @@ unicode = 1EC2;
 {
 color = 1;
 glyphname = Ecircumflextilde;
-lastChange = "2013-11-26 18:03:45 -0300";
+lastChange = "2014-09-08 11:10:09 -0300";
 layers = (
 {
 background = {
@@ -13384,7 +13382,7 @@ name = E;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = circumflexgrave;
+name = circumflextilde;
 transform = "{1, 0, 0, 1, 88, 185}";
 }
 );
@@ -13485,8 +13483,8 @@ name = E;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = circumflexgrave;
-transform = "{1, 0, 0, 1, 88, 182}";
+name = circumflextilde;
+transform = "{1, 0, 0, 1, 109, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -13586,8 +13584,8 @@ name = E;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = circumflexgrave;
-transform = "{1, 0, 0, 1, 116, 175}";
+name = circumflextilde;
+transform = "{1, 0, 0, 1, 118, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -165564,98 +165562,6 @@ width = 432;
 );
 },
 {
-glyphname = newGlyph;
-lastChange = "2013-11-07 18:53:42 -0300";
-layers = (
-{
-layerId = UUID0;
-name = "Light Italic";
-width = 600;
-},
-{
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-name = "Regular Italic";
-width = 600;
-},
-{
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-name = "Bold Italic";
-width = 600;
-}
-);
-leftMetricsKey = one.numr;
-rightMetricsKey = one.numr;
-},
-{
-glyphname = newGlyph;
-lastChange = "2013-11-07 18:53:42 -0300";
-layers = (
-{
-layerId = UUID0;
-name = "Light Italic";
-width = 600;
-},
-{
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-name = "Regular Italic";
-width = 600;
-},
-{
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-name = "Bold Italic";
-width = 600;
-}
-);
-leftMetricsKey = three.numr;
-rightMetricsKey = three.numr;
-},
-{
-glyphname = newGlyph;
-lastChange = "2013-11-07 18:53:42 -0300";
-layers = (
-{
-layerId = UUID0;
-name = "Light Italic";
-width = 600;
-},
-{
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-name = "Regular Italic";
-width = 600;
-},
-{
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-name = "Bold Italic";
-width = 600;
-}
-);
-leftMetricsKey = five.numr;
-rightMetricsKey = five.numr;
-},
-{
-glyphname = newGlyph;
-lastChange = "2013-11-07 18:53:42 -0300";
-layers = (
-{
-layerId = UUID0;
-name = "Light Italic";
-width = 600;
-},
-{
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-name = "Regular Italic";
-width = 600;
-},
-{
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-name = "Bold Italic";
-width = 600;
-}
-);
-leftMetricsKey = seven.numr;
-rightMetricsKey = seven.numr;
-},
-{
 glyphname = puso;
 lastChange = "2013-11-01 20:46:27 -0300";
 layers = (
@@ -165702,7 +165608,7 @@ nodes = (
 );
 }
 );
-width = 74.419;
+width = 74;
 },
 {
 background = {
@@ -167313,5 +167219,5 @@ tH = 20;
 };
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
