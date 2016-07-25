@@ -1,8 +1,5 @@
 {
 .appVersion = "895";
-DisplayStrings = (
-"/Dcroat \U00AF\U00F0/dcroat  "
-);
 classes = (
 {
 code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE AEacute Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adotbelow Ahookabove Cacute Ccaron Ccedilla Ccircumflex Cdotaccent Dcaron Dcroat Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edotbelow Ehookabove Etilde Eogonek Eng Eth Gbreve Gcircumflex Gcommaaccent Gdotaccent Germandbls Hbar Hcircumflex IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde Icaron Idotbelow Ihookabove Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Ldot Lslash Nacute Ncaron Ncommaaccent Ntilde OE Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde Ocaron Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odotbelow Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Oogonek Racute Rcaron Rcommaaccent Sacute Scaron Scedilla Scircumflex Scommaaccent Tbar Tcaron Tcedilla Thorn Tcommaaccent Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Ucaron Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Wacute Wcircumflex Wdieresis Wgrave Yacute Ycircumflex Ydieresis Ygrave Ydotbelow Yhookabove Ytilde Zacute Zcaron Zdotaccent Iacute_J.loclNLD";
@@ -29860,9 +29857,19 @@ unicode = 01EA;
 {
 color = 1;
 glyphname = Oslash;
-lastChange = "2013-11-30 13:34:16 +0000";
+lastChange = "2016-07-25 19:44:54 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{272, 0}";
+},
+{
+name = top;
+position = "{350, 637}";
+}
+);
 background = {
 paths = (
 {
@@ -29936,8 +29943,12 @@ width = 600;
 {
 anchors = (
 {
+name = bottom;
+position = "{279, 0}";
+},
+{
 name = top;
-position = "{346, 642}";
+position = "{358, 641}";
 }
 );
 background = {
@@ -30013,8 +30024,12 @@ width = 614;
 {
 anchors = (
 {
+name = bottom;
+position = "{300, 0}";
+},
+{
 name = top;
-position = "{365, 650}";
+position = "{379, 647}";
 }
 );
 background = {
@@ -30088,6 +30103,16 @@ nodes = (
 width = 658;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{272, 0}";
+},
+{
+name = top;
+position = "{350, 637}";
+}
+);
 associatedMasterId = UUID0;
 background = {
 paths = (
@@ -30172,8 +30197,12 @@ width = 599;
 {
 anchors = (
 {
+name = bottom;
+position = "{279, 0}";
+},
+{
 name = top;
-position = "{346, 642}";
+position = "{358, 641}";
 }
 );
 associatedMasterId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -30260,8 +30289,12 @@ width = 613;
 {
 anchors = (
 {
+name = bottom;
+position = "{300, 0}";
+},
+{
 name = top;
-position = "{365, 650}";
+position = "{379, 647}";
 }
 );
 associatedMasterId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -66704,10 +66737,14 @@ unicode = 0125;
 {
 color = 1;
 glyphname = i;
-lastChange = "2013-11-30 14:13:16 +0000";
+lastChange = "2016-07-25 19:45:06 +0000";
 layers = (
 {
 anchors = (
+{
+name = ogonek;
+position = "{197, 8}";
+},
 {
 name = top;
 position = "{151, 491}";
@@ -125944,7 +125981,7 @@ unicode = 2070;
 },
 {
 glyphname = onesuperior;
-lastChange = "2013-11-07 18:49:00 +0000";
+lastChange = "2016-07-25 19:45:09 +0000";
 layers = (
 {
 background = {
@@ -125969,7 +126006,7 @@ nodes = (
 components = (
 {
 name = one.dnom;
-transform = "{1, 0, 0, 1, 40, 331}";
+transform = "{1, 0, 0, 1, 41, 331}";
 }
 );
 layerId = UUID0;
@@ -126042,7 +126079,7 @@ unicode = 00B9;
 },
 {
 glyphname = twosuperior;
-lastChange = "2013-11-07 18:49:00 +0000";
+lastChange = "2016-07-25 19:45:09 +0000";
 layers = (
 {
 background = {
@@ -126089,7 +126126,7 @@ nodes = (
 components = (
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 42, 331}";
+transform = "{1, 0, 0, 1, 41, 331}";
 }
 );
 layerId = UUID0;
@@ -126688,7 +126725,7 @@ unicode = 2075;
 },
 {
 glyphname = sixsuperior;
-lastChange = "2016-07-12 14:26:49 +0000";
+lastChange = "2016-07-25 19:45:09 +0000";
 layers = (
 {
 background = {
@@ -126738,7 +126775,7 @@ nodes = (
 components = (
 {
 name = six.dnom;
-transform = "{1, 0, 0, 1, 40, 331}";
+transform = "{1, 0, 0, 1, 41, 331}";
 }
 );
 layerId = UUID0;
@@ -126857,7 +126894,7 @@ unicode = 2076;
 },
 {
 glyphname = sevensuperior;
-lastChange = "2013-11-07 18:49:00 +0000";
+lastChange = "2016-07-25 19:45:09 +0000";
 layers = (
 {
 background = {
@@ -126885,7 +126922,7 @@ nodes = (
 components = (
 {
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 40, 331}";
+transform = "{1, 0, 0, 1, 41, 331}";
 }
 );
 layerId = UUID0;
@@ -126960,7 +126997,7 @@ unicode = 2077;
 },
 {
 glyphname = eightsuperior;
-lastChange = "2016-07-12 14:25:23 +0000";
+lastChange = "2016-07-25 19:45:09 +0000";
 layers = (
 {
 background = {
@@ -127035,7 +127072,7 @@ nodes = (
 components = (
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 40, 331}";
+transform = "{1, 0, 0, 1, 41, 331}";
 }
 );
 layerId = UUID0;

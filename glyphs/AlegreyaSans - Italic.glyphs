@@ -58723,17 +58723,17 @@ unicode = 01FD;
 },
 {
 glyphname = b;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:43:54 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{326, 0}";
+position = "{214, 0}";
 },
 {
 name = top;
-position = "{237, 472}";
+position = "{162, 700}";
 }
 );
 background = {
@@ -58806,7 +58806,7 @@ position = "{193, 0}";
 },
 {
 name = top;
-position = "{141, 287}";
+position = "{173, 700}";
 }
 );
 background = {
@@ -58872,6 +58872,16 @@ nodes = (
 width = 444;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{216, 0}";
+},
+{
+name = top;
+position = "{186, 700}";
+}
+);
 background = {
 paths = (
 {
@@ -58909,7 +58919,7 @@ nodes = (
 "274 119 CURVE",
 "145 153 LINE",
 "49 23 LINE",
-"240 -11 LINE",
+"247 -11 LINE",
 "247 -11 LINE",
 "405 42 OFFCURVE",
 "482 184 OFFCURVE",
@@ -75393,21 +75403,17 @@ unicode = 0142;
 },
 {
 glyphname = m;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:44:04 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{279, 0}";
-},
-{
-name = ogonek;
-position = "{179, 10}";
+position = "{319, 0}";
 },
 {
 name = top;
-position = "{128, 452}";
+position = "{375, 452}";
 }
 );
 background = {
@@ -75529,15 +75535,11 @@ width = 693;
 anchors = (
 {
 name = bottom;
-position = "{177, 0}";
-},
-{
-name = ogonek;
-position = "{200, 10}";
+position = "{333, 0}";
 },
 {
 name = top;
-position = "{137, 459}";
+position = "{389, 459}";
 }
 );
 background = {
@@ -75678,12 +75680,12 @@ width = 721;
 {
 anchors = (
 {
-name = ogonek;
-position = "{242, 10}";
+name = bottom;
+position = "{370, 0}";
 },
 {
 name = top;
-position = "{158, 472}";
+position = "{428, 472}";
 }
 );
 background = {
@@ -85409,17 +85411,17 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:44:11 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{325, 0}";
+position = "{183, 0}";
 },
 {
 name = top;
-position = "{236, 472}";
+position = "{239, 452}";
 }
 );
 background = {
@@ -85517,11 +85519,11 @@ width = 422;
 anchors = (
 {
 name = bottom;
-position = "{205, 0}";
+position = "{192, 0}";
 },
 {
 name = top;
-position = "{148, 301}";
+position = "{248, 459}";
 }
 );
 background = {
@@ -85616,6 +85618,16 @@ nodes = (
 width = 440;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{217, 0}";
+},
+{
+name = top;
+position = "{275, 472}";
+}
+);
 background = {
 paths = (
 {
@@ -103322,17 +103334,17 @@ width = 712;
 },
 {
 glyphname = f.f;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:44:22 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{188, 0}";
+position = "{96, 0}";
 },
 {
 name = top;
-position = "{295, 749}";
+position = "{152, 452}";
 }
 );
 background = {
@@ -103418,11 +103430,11 @@ width = 248.742;
 anchors = (
 {
 name = bottom;
-position = "{196, 0}";
+position = "{112, 0}";
 },
 {
 name = top;
-position = "{304, 749}";
+position = "{168, 459}";
 }
 );
 background = {
@@ -103505,6 +103517,16 @@ nodes = (
 width = 280;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{140, 0}";
+},
+{
+name = top;
+position = "{198, 472}";
+}
+);
 background = {
 paths = (
 {
@@ -112107,9 +112129,31 @@ leftKerningGroup = f;
 },
 {
 glyphname = f_j;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:44:35 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+position = "{87, 0}";
+},
+{
+name = bottom_2;
+position = "{317, 0}";
+},
+{
+name = caret_1;
+position = "{229.978, 0}";
+},
+{
+name = top_1;
+position = "{143, 452}";
+},
+{
+name = top_2;
+position = "{373, 452}";
+}
+);
 background = {
 paths = (
 {
@@ -112240,17 +112284,29 @@ nodes = (
 );
 }
 );
-width = 459.957;
+width = 459;
 },
 {
 anchors = (
 {
-name = _top;
-position = "{432, 452}";
+name = bottom_1;
+position = "{99, 0}";
 },
 {
-name = top;
-position = "{432, 452}";
+name = bottom_2;
+position = "{353, 0}";
+},
+{
+name = caret_1;
+position = "{254, 0}";
+},
+{
+name = top_1;
+position = "{155, 459}";
+},
+{
+name = top_2;
+position = "{409, 459}";
 }
 );
 background = {
@@ -112382,9 +112438,31 @@ nodes = (
 );
 }
 );
-width = 508;
+width = 499;
 },
 {
+anchors = (
+{
+name = bottom_1;
+position = "{122, 0}";
+},
+{
+name = bottom_2;
+position = "{425, 0}";
+},
+{
+name = caret_1;
+position = "{302.89, 0}";
+},
+{
+name = top_1;
+position = "{180, 472}";
+},
+{
+name = top_2;
+position = "{483, 472}";
+}
+);
 background = {
 paths = (
 {
@@ -112488,7 +112566,7 @@ nodes = (
 );
 }
 );
-width = 605.78;
+width = 601;
 }
 );
 leftKerningGroup = f;
@@ -133362,7 +133440,7 @@ width = 380;
 },
 {
 glyphname = one.numr;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:46:13 +0000";
 layers = (
 {
 background = {
@@ -133445,7 +133523,7 @@ nodes = (
 components = (
 {
 name = one.dnom;
-transform = "{1, 0, 0, 1, 32, 254}";
+transform = "{1, 0, 0, 1, 31, 254}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -133614,7 +133692,7 @@ width = 375;
 },
 {
 glyphname = three.numr;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:46:13 +0000";
 layers = (
 {
 background = {
@@ -133802,7 +133880,7 @@ nodes = (
 components = (
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 32, 254}";
+transform = "{1, 0, 0, 1, 31, 254}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -134929,7 +135007,7 @@ unicode = 2070;
 },
 {
 glyphname = onesuperior;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:46:13 +0000";
 layers = (
 {
 background = {
@@ -134954,7 +135032,7 @@ nodes = (
 components = (
 {
 name = one.dnom;
-transform = "{1, 0, 0, 1, 40, 331}";
+transform = "{1, 0, 0, 1, 41, 331}";
 }
 );
 layerId = UUID0;
@@ -135014,7 +135092,7 @@ nodes = (
 components = (
 {
 name = one.dnom;
-transform = "{1, 0, 0, 1, 37, 307}";
+transform = "{1, 0, 0, 1, 38, 307}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -135027,7 +135105,7 @@ unicode = 00B9;
 },
 {
 glyphname = twosuperior;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:46:13 +0000";
 layers = (
 {
 background = {
@@ -135074,7 +135152,7 @@ nodes = (
 components = (
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 42, 331}";
+transform = "{1, 0, 0, 1, 41, 331}";
 }
 );
 layerId = UUID0;
@@ -135125,7 +135203,7 @@ nodes = (
 components = (
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 15, 322}";
+transform = "{1, 0, 0, 1, 40, 322}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -135187,7 +135265,7 @@ unicode = 00B2;
 },
 {
 glyphname = threesuperior;
-lastChange = "2014-09-08 11:08:05 +0000";
+lastChange = "2016-07-25 19:46:13 +0000";
 layers = (
 {
 background = {
@@ -135311,7 +135389,7 @@ nodes = (
 components = (
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 49, 322}";
+transform = "{1, 0, 0, 1, 40, 322}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -135375,7 +135453,7 @@ nodes = (
 components = (
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 37, 307}";
+transform = "{1, 0, 0, 1, 38, 307}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
