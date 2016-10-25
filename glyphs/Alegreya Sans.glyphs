@@ -146792,7 +146792,7 @@ unicode = 2196;
 {
 color = 1;
 glyphname = leftRightArrow;
-lastChange = "2016-10-25 12:57:45 +0000";
+lastChange = "2016-10-25 13:10:35 +0000";
 layers = (
 {
 background = {
@@ -146803,13 +146803,46 @@ transform = "{0, -1, 1, 0, 21, 476}";
 }
 );
 };
-components = (
+layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
+paths = (
 {
-name = upDownArrow;
-transform = "{0, 1, -1, 0, 574, -42}";
+closed = 1;
+nodes = (
+"264 38 LINE",
+"91 217 LINE",
+"264 396 LINE",
+"264 409 LINE",
+"217 422 LINE",
+"23 223 LINE",
+"23 210 LINE",
+"217 12 LINE",
+"264 25 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"677 224 LINE",
+"483 422 LINE",
+"436 409 LINE",
+"436 396 LINE",
+"609 217 LINE",
+"436 38 LINE",
+"436 25 LINE",
+"483 12 LINE",
+"677 211 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"622 245 LINE",
+"73 245 LINE",
+"73 190 LINE",
+"622 190 LINE"
+);
 }
 );
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
 width = 700;
 },
 {
@@ -146821,13 +146854,46 @@ transform = "{0, -1, 1, 0, 37, 517}";
 }
 );
 };
-components = (
+layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
+paths = (
 {
-name = upDownArrow;
-transform = "{0, 1, -1, 0, 629, -34}";
+closed = 1;
+nodes = (
+"332 63 LINE",
+"166 241 LINE",
+"332 419 LINE",
+"332 443 LINE",
+"226 465 LINE",
+"25 255 LINE",
+"25 226 LINE",
+"226 17 LINE",
+"332 39 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"761 256 LINE",
+"560 465 LINE",
+"454 443 LINE",
+"454 419 LINE",
+"620 241 LINE",
+"454 63 LINE",
+"454 39 LINE",
+"560 17 LINE",
+"761 227 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"653 301 LINE",
+"133 301 LINE",
+"133 181 LINE",
+"653 181 LINE"
+);
 }
 );
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
 width = 786;
 },
 {
@@ -146839,13 +146905,46 @@ transform = "{0, -1, 1, 0, 21, 476}";
 }
 );
 };
-components = (
+layerId = UUID0;
+paths = (
 {
-name = upDownArrow;
-transform = "{0, 1, -1, 0, 543, -22}";
+closed = 1;
+nodes = (
+"225 47 LINE",
+"48 227 LINE",
+"225 407 LINE",
+"225 413 LINE",
+"211 421 LINE",
+"21 229 LINE",
+"21 225 LINE",
+"211 33 LINE",
+"225 41 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"623 229 LINE",
+"433 421 LINE",
+"419 413 LINE",
+"419 407 LINE",
+"596 227 LINE",
+"419 47 LINE",
+"419 41 LINE",
+"433 33 LINE",
+"623 225 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"606 237 LINE",
+"38 237 LINE",
+"38 217 LINE",
+"606 217 LINE"
+);
 }
 );
-layerId = UUID0;
 width = 644;
 }
 );
