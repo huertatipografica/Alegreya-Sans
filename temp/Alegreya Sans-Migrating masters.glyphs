@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"A/Aogonek/Aringacute \U00C6BCDEFG/Hbar I/Iogonek JKL/Lcaron/Lslash MN/Eng O/Ohorn \U00D8/OE P\U00DEQRS/Saltillo/Germandbls T/Tbar U/Uhorn/Uogonek VWXYZ/Q.corta \0121/C.ss01/D.ss01/I.ss01/L.ss01/M.ss01/V.ss01/X.ss01 a/aogonek \U00E6bcd\U00F0/dcaron/dcroat efgh/hbar/idotless/iogonek/jdotless k/kgreenlandic l/lcaron/ldot/lslash mn/eng o/ohorn/ohorngrave \U00F8/oe p\U00FEqrs/saltillo \U00DF/tbar u/uhorn/uogonek vwxy/ydotbelow z/f.f/f.l/a.sups/b.sups/c.sups/d.sups/e.sups/f.sups/g.sups/h.sups/i.sups/j.sups/k.sups/l.sups/m.sups/n.sups/o.sups/p.sups/q.sups/r.sups/s.sups/t.sups/u.sups/v.sups/w.sups/x.sups/y.sups/z.sups/f.t/f_j/fi/a.sc/aogonek.sc/ae.sc/b.sc/c.sc/d.sc/eth.sc/e.sc/f.sc/g.sc/h.sc/hbar.sc/i.sc/iogonek.sc/j.sc/k.sc/l.sc/lcaron.sc/ldot.sc/lslash.sc/m.sc/n.sc/eng.sc/o.sc/ohorn.sc/oogonek.sc/oslash.sc/oe.sc/p.sc/thorn.sc/q.sc/r.sc/s.sc/germandbls.sc/t.sc/tbar.sc/tcedilla.sc/u.sc/uhorn.sc/uogonek.sc/v.sc/w.sc/x.sc/y.sc/z.sc 012345678/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.sinf/one.sinf/two.sinf/three.sinf/four.sinf/five.sinf/six.sinf/seven.sinf/eight.sinf/nine.sinf/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tosf/one.tosf/two.tosf/three.tosf/four.tosf/five.tosf/six.tosf/seven.tosf/eight.tosf/nine.tosf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/fraction *,!#.?\"'//_{[(/emdash/endash -\U00AD/guilsinglright/quoteright \012\U00A2\U00A4$/euro/florin/franc \U00A3\U00A5+/minus \U00D7/notequal >~\U00AC/infinity \012/integral/product/radical/partialdiff %/perthousand \012@\U00A7a3i/cedillacomb/ogonekcomb"
+"A/Aogonek/Aringacute \U00C6BCDEFG/Hbar I/Iogonek JKL/Lcaron/Lslash \012/Eng/Ohorn \U00D8/OE P\U00DEQRS/Saltillo/Germandbls T/Tbar U/Uhorn/Uogonek \012Z/Q.corta \0121/C.ss01/D.ss01/I.ss01/L.ss01/M.ss01/V.ss01/X.ss01 a/aogonek \U00E6bcd\U00F0/dcaron/dcroat efgh/hbar/idotless/iogonek/jdotless k/kgreenlandic l/lcaron/ldot/lslash mn/eng o/ohorn/ohorngrave \U00F8/oe p\U00FEqrs/saltillo \U00DF/tbar u/uhorn/uogonek vwxy/ydotbelow z/f.f/f.l/a.sups/b.sups/c.sups/d.sups/e.sups/f.sups/g.sups/h.sups/i.sups/j.sups/k.sups/l.sups/m.sups/n.sups/o.sups/p.sups/q.sups/r.sups/s.sups/t.sups/u.sups/v.sups/w.sups/x.sups/y.sups/z.sups/f.t/f_j/fi/a.sc/aogonek.sc/ae.sc/b.sc/c.sc/d.sc/eth.sc/e.sc/f.sc/g.sc/h.sc/hbar.sc/i.sc/iogonek.sc/j.sc/k.sc/l.sc/lcaron.sc/ldot.sc/lslash.sc/m.sc/n.sc/eng.sc/o.sc/ohorn.sc/oogonek.sc/oslash.sc/oe.sc/p.sc/thorn.sc/q.sc/r.sc/s.sc/germandbls.sc/t.sc/tbar.sc/tcedilla.sc/u.sc/uhorn.sc/uogonek.sc/v.sc/w.sc/x.sc/y.sc/z.sc 012345678/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.sinf/one.sinf/two.sinf/three.sinf/four.sinf/five.sinf/six.sinf/seven.sinf/eight.sinf/nine.sinf/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tosf/one.tosf/two.tosf/three.tosf/four.tosf/five.tosf/six.tosf/seven.tosf/eight.tosf/nine.tosf/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/fraction *,!#.?\"'//_{[(/emdash/endash -\U00AD/guilsinglright/quoteright \012\U00A2\U00A4$/euro/florin/franc \U00A3\U00A5+/minus \U00D7/notequal >~\U00AC/infinity \012/integral/product/radical/partialdiff %/perthousand \012@\U00A7a3i/cedillacomb/ogonekcomb"
 );
 classes = (
 {
@@ -10945,8 +10945,9 @@ rightKerningGroup = O;
 unicode = 1ECE;
 },
 {
+color = 4;
 glyphname = Ohorn;
-lastChange = "2016-10-28 14:25:39 +0000";
+lastChange = "2016-10-28 14:51:01 +0000";
 layers = (
 {
 anchors = (
@@ -12829,8 +12830,9 @@ rightKerningGroup = Thorn;
 unicode = 00DE;
 },
 {
+color = 4;
 glyphname = Q;
-lastChange = "2016-10-28 14:25:39 +0000";
+lastChange = "2016-10-28 14:51:15 +0000";
 layers = (
 {
 layerId = "EDFD1FE9-67C2-43D2-81E5-EF1682ABC3BD";
@@ -19121,8 +19123,9 @@ width = 600;
 );
 },
 {
+color = 4;
 glyphname = Q.corta;
-lastChange = "2016-10-28 14:25:39 +0000";
+lastChange = "2016-10-28 14:52:13 +0000";
 layers = (
 {
 layerId = "EDFD1FE9-67C2-43D2-81E5-EF1682ABC3BD";
