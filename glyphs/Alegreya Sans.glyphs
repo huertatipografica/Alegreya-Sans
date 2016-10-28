@@ -180640,6 +180640,7 @@ width = 600;
 );
 instances = (
 {
+exports = 0;
 interpolationWeight = 20;
 instanceInterpolations = {
 UUID0 = 1;
@@ -180648,6 +180649,7 @@ name = Thin;
 weightClass = Thin;
 },
 {
+exports = 0;
 interpolationWeight = 47;
 instanceInterpolations = {
 UUID0 = 0.517857;
@@ -180657,6 +180659,7 @@ name = Light;
 weightClass = Light;
 },
 {
+exports = 0;
 interpolationWeight = 71;
 instanceInterpolations = {
 UUID0 = 0.0892857;
@@ -180665,6 +180668,7 @@ UUID0 = 0.0892857;
 name = Regular;
 },
 {
+exports = 0;
 interpolationWeight = 91;
 instanceInterpolations = {
 "6DC2006A-28B6-4A13-A5DF-3641E0854074" = 0.151515;
@@ -180674,6 +180678,7 @@ name = Medium;
 weightClass = Medium;
 },
 {
+exports = 0;
 interpolationWeight = 119;
 instanceInterpolations = {
 "6DC2006A-28B6-4A13-A5DF-3641E0854074" = 0.434343;
@@ -180685,6 +180690,7 @@ name = Bold;
 weightClass = Bold;
 },
 {
+exports = 0;
 interpolationWeight = 142;
 instanceInterpolations = {
 "6DC2006A-28B6-4A13-A5DF-3641E0854074" = 0.666667;
@@ -180694,12 +180700,29 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
+exports = 0;
 interpolationWeight = 175;
 instanceInterpolations = {
 "6DC2006A-28B6-4A13-A5DF-3641E0854074" = 1;
 };
 name = Black;
 weightClass = Black;
+},
+{
+customParameters = (
+{
+name = "Disable Masters";
+value = (
+Regular
+);
+}
+);
+interpolationWeight = 76;
+instanceInterpolations = {
+UUID0 = 0.63871;
+"6DC2006A-28B6-4A13-A5DF-3641E0854074" = 0.36129;
+};
+name = Interpolated;
 }
 );
 kerning = {
