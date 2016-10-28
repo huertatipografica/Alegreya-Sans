@@ -95160,16 +95160,13 @@ width = 600;
 );
 instances = (
 {
-customParameters = (
-{
-name = "Disable Masters";
-value = (
-Regular
-);
-}
-);
+interpolationCustom = 10;
 interpolationWeight = 76;
-name = Interpolated;
+instanceInterpolations = {
+"EDFD1FE9-67C2-43D2-81E5-EF1682ABC3BD" = -8;
+"083C0576-DCB5-487A-B9F4-85809F200F55" = 9;
+};
+name = Regular;
 }
 );
 kerning = {
