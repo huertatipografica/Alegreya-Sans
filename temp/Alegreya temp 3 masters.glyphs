@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-""
+"t/tbar/caron.alt t/tcaron/tcedilla/tcommaaccent/tdieresis/tdotbelow/macronbelowcomb/tlinebelow/c_t/s_t"
 );
 classes = (
 {
@@ -4552,7 +4552,7 @@ unicode = 1E0C;
 {
 color = 5;
 glyphname = Dlinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -10131,7 +10131,7 @@ unicode = 01C8;
 {
 color = 5;
 glyphname = Llinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -11813,7 +11813,7 @@ unicode = 01CB;
 {
 color = 5;
 glyphname = Nlinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -16076,7 +16076,7 @@ unicode = 0212;
 {
 color = 5;
 glyphname = Rlinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -18217,7 +18217,7 @@ unicode = 1E6C;
 {
 color = 5;
 glyphname = Tlinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -29586,7 +29586,7 @@ unicode = 1E0D;
 {
 color = 5;
 glyphname = dlinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -36350,7 +36350,7 @@ unicode = 01C9;
 {
 color = 5;
 glyphname = llinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -37764,7 +37764,7 @@ unicode = 01CC;
 {
 color = 5;
 glyphname = nlinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -42120,7 +42120,7 @@ unicode = 0213;
 {
 color = 5;
 glyphname = rlinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -43517,7 +43517,7 @@ unicode = 0074;
 {
 color = 0;
 glyphname = tbar;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 components = (
@@ -43620,7 +43620,7 @@ unicode = 0167;
 {
 color = 0;
 glyphname = tcaron;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 background = {
@@ -43793,7 +43793,7 @@ unicode = 0165;
 {
 color = 10;
 glyphname = tcedilla;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 components = (
@@ -43846,7 +43846,7 @@ unicode = 0163;
 {
 color = 10;
 glyphname = tcommaaccent;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 components = (
@@ -43899,7 +43899,7 @@ unicode = 021B;
 {
 color = 5;
 glyphname = tdieresis;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 components = (
@@ -43948,7 +43948,7 @@ unicode = 1E97;
 {
 color = 5;
 glyphname = tdotbelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 components = (
@@ -43997,7 +43997,7 @@ unicode = 1E6D;
 {
 color = 5;
 glyphname = tlinebelow;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:59 +0000";
 layers = (
 {
 components = (
@@ -57121,7 +57121,7 @@ rightMetricsKey = h;
 {
 color = 0;
 glyphname = c_t;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 anchors = (
@@ -58159,7 +58159,7 @@ unicode = FB02;
 {
 color = 0;
 glyphname = s_t;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 anchors = (
@@ -61947,7 +61947,7 @@ rightKerningGroup = O;
 {
 color = 5;
 glyphname = dlinebelow.sc;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -68147,7 +68147,7 @@ rightKerningGroup = J;
 {
 color = 5;
 glyphname = llinebelow.sc;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -69770,7 +69770,7 @@ rightKerningGroup = J;
 {
 color = 5;
 glyphname = nlinebelow.sc;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -73728,7 +73728,7 @@ rightKerningGroup = R;
 {
 color = 5;
 glyphname = rlinebelow.sc;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -75777,7 +75777,7 @@ rightKerningGroup = T;
 {
 color = 5;
 glyphname = tlinebelow.sc;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:47 +0000";
 layers = (
 {
 components = (
@@ -170710,7 +170710,7 @@ unicode = 032E;
 {
 color = 4;
 glyphname = macronbelowcomb;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:59 +0000";
 layers = (
 {
 anchors = (
@@ -174927,7 +174927,7 @@ unicode = 02DC;
 },
 {
 glyphname = caron.alt;
-lastChange = "2016-10-27 21:46:36 +0000";
+lastChange = "2016-10-29 20:10:12 +0000";
 layers = (
 {
 components = (
