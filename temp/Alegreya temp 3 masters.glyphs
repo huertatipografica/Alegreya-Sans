@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"\U00D8\U00F8/oslash.sc/cedi \U00A2/colonsign $/guarani/naira/peso/won/dagger/daggerdbl"
+""
 );
 classes = (
 {
@@ -333,7 +333,6 @@ verticalStems = (
 );
 weight = Light;
 weightValue = 20;
-widthValue = 100;
 xHeight = 442;
 },
 {
@@ -2262,7 +2261,7 @@ name = A;
 {
 alignment = -1;
 name = ringcomb.case;
-transform = "{0.9015, 0, 0, 0.9030, 120, 59}";
+transform = "{0.9015, 0, 0, 0.903, 120, 59}";
 },
 {
 alignment = -1;
@@ -27680,7 +27679,7 @@ name = a;
 {
 alignment = -1;
 name = ringcomb.case;
-transform = "{0.9015, 0, 0, 0.9030, 46, -140}";
+transform = "{0.9015, 0, 0, 0.903, 46, -140}";
 },
 {
 alignment = -1;
@@ -34507,7 +34506,7 @@ name = idotless;
 {
 alignment = -1;
 name = macroncomb;
-transform = "{0.8480, 0, 0, 1, -37, 0}";
+transform = "{0.848, 0, 0, 1, -37, 0}";
 }
 );
 layerId = "84F348E6-DC23-4C80-844C-395333532D17";
@@ -59924,7 +59923,7 @@ name = a.sc;
 {
 alignment = -1;
 name = ringcomb.case;
-transform = "{0.9015, 0, 0, 0.9030, 76, -78}";
+transform = "{0.9015, 0, 0, 0.903, 76, -78}";
 },
 {
 alignment = -1;
@@ -66470,7 +66469,7 @@ components = (
 {
 alignment = -1;
 name = ogonekcomb;
-transform = "{0.9850, 0, 0, 0.9850, -37, -6}";
+transform = "{0.985, 0, 0, 0.985, -37, -6}";
 },
 {
 alignment = -1;
@@ -182614,8 +182613,7 @@ weightClass = Black;
 {
 interpolationWeight = 20;
 instanceInterpolations = {
-UUID0 = 1.51961;
-UUID1 = -0.519608;
+"84F348E6-DC23-4C80-844C-395333532D17" = 1;
 };
 name = Regular;
 }
@@ -182632,11 +182630,14 @@ kerning = {
 "@MMK_R_X" = -24;
 "@MMK_R_Y" = -30;
 "@MMK_R_a" = 5;
+"@MMK_R_alpha" = 5;
 "@MMK_R_asterisk" = -110;
 "@MMK_R_chi" = -20;
+"@MMK_R_epsilon" = 5;
 "@MMK_R_gamma" = -14;
 "@MMK_R_h" = 3;
 "@MMK_R_hyphen" = -55;
+"@MMK_R_iota" = 10;
 "@MMK_R_n" = -20;
 "@MMK_R_nu" = -30;
 "@MMK_R_o" = -10;
@@ -182644,19 +182645,16 @@ kerning = {
 "@MMK_R_p" = -20;
 "@MMK_R_period" = -5;
 "@MMK_R_pi" = -20;
+"@MMK_R_rho" = 5;
+"@MMK_R_theta" = 10;
 "@MMK_R_upsilon" = -9;
 "@MMK_R_v" = -14;
+"@MMK_R_xi" = 5;
 b = -30.3922;
 colon = -5.19608;
 semicolon = -5.19608;
 u = -20;
 x = -15.5882;
-"@MMK_R_alpha" = 5;
-"@MMK_R_epsilon" = 5;
-"@MMK_R_iota" = 10;
-"@MMK_R_rho" = 5;
-"@MMK_R_theta" = 10;
-"@MMK_R_xi" = 5;
 };
 "@MMK_L_B" = {
 "@MMK_R_T" = 4;
@@ -182683,9 +182681,12 @@ u = 5.19608;
 };
 "@MMK_L_E" = {
 "@MMK_R_O" = -30;
+"@MMK_R_Omega" = 5;
 "@MMK_R_Phi" = -40;
 "@MMK_R_Y" = -36;
 "@MMK_R_a" = -25;
+"@MMK_R_alpha" = 10;
+"@MMK_R_chi" = 5;
 "@MMK_R_epsilon" = -25;
 "@MMK_R_f" = -25;
 "@MMK_R_g" = -56;
@@ -182695,15 +182696,12 @@ u = 5.19608;
 "@MMK_R_n" = -41;
 "@MMK_R_nu" = -61;
 "@MMK_R_o" = -33;
+"@MMK_R_omega" = 5;
 "@MMK_R_pi" = -41;
+"@MMK_R_rho" = 5;
 "@MMK_R_v" = -41;
 "@MMK_R_z" = -25;
 u = -25.1961;
-"@MMK_R_Omega" = 5;
-"@MMK_R_alpha" = 10;
-"@MMK_R_chi" = 5;
-"@MMK_R_omega" = 5;
-"@MMK_R_rho" = 5;
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = 5;
@@ -182824,8 +182822,8 @@ u = -25.1961;
 };
 "@MMK_L_Omega" = {
 "@MMK_R_T" = -46;
-"@MMK_R_Y" = -20;
 "@MMK_R_Xi" = 5;
+"@MMK_R_Y" = -20;
 "@MMK_R_nu" = 10;
 };
 "@MMK_L_P" = {
@@ -182983,10 +182981,10 @@ x = -14.4118;
 u = -10;
 };
 "@MMK_L_alpha" = {
-"@MMK_R_Y" = -50;
 "@MMK_R_A" = 5;
 "@MMK_R_X" = 5;
 "@MMK_R_Xi" = 5;
+"@MMK_R_Y" = -50;
 };
 "@MMK_L_asterisk" = {
 "@MMK_R_A" = -152;
@@ -183010,30 +183008,30 @@ x = -30.3922;
 };
 "@MMK_L_chi" = {
 "@MMK_R_A" = -20;
+"@MMK_R_H" = 5;
+"@MMK_R_Xi" = 5;
 "@MMK_R_Y" = -46;
 "@MMK_R_alpha" = -76;
 "@MMK_R_chi" = 30;
 "@MMK_R_epsilon" = -30;
+"@MMK_R_gamma" = 5;
+"@MMK_R_iota" = 5;
 "@MMK_R_lambda" = -40;
 "@MMK_R_n" = -15;
+"@MMK_R_nu" = 5;
 "@MMK_R_o" = -39;
 "@MMK_R_omega" = -15;
 "@MMK_R_pi" = -15;
-"@MMK_R_upsilon" = -15;
-"@MMK_R_H" = 5;
-"@MMK_R_Xi" = 5;
-"@MMK_R_gamma" = 5;
-"@MMK_R_iota" = 5;
-"@MMK_R_nu" = 5;
 "@MMK_R_rho" = 0;
 "@MMK_R_theta" = 5;
+"@MMK_R_upsilon" = -15;
 };
 "@MMK_L_delta" = {
-"@MMK_R_chi" = -30;
 "@MMK_R_A" = 10;
 "@MMK_R_H" = -5;
 "@MMK_R_Xi" = -5;
 "@MMK_R_Y" = -16;
+"@MMK_R_chi" = -30;
 };
 "@MMK_L_e" = {
 "@MMK_R_A" = -13;
@@ -183050,11 +183048,11 @@ x = -30.3922;
 x = -30.3922;
 };
 "@MMK_L_epsilon" = {
+"@MMK_R_A" = 5;
+"@MMK_R_X" = 10;
 "@MMK_R_Y" = -40;
 "@MMK_R_chi" = -30;
 "@MMK_R_lambda" = -10;
-"@MMK_R_A" = 5;
-"@MMK_R_X" = 10;
 };
 "@MMK_L_f" = {
 "@MMK_R_H" = 34;
@@ -183087,13 +183085,13 @@ quoteright = 35.5882;
 x = -10.6373;
 };
 "@MMK_L_gamma" = {
+"@MMK_R_A" = 16;
 "@MMK_R_X" = -5;
 "@MMK_R_Y" = -30;
-"@MMK_R_lambda" = -20;
-"@MMK_R_o" = -46;
-"@MMK_R_A" = 16;
 "@MMK_R_chi" = 5;
 "@MMK_R_gamma" = 5;
+"@MMK_R_lambda" = -20;
+"@MMK_R_o" = -46;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_A" = -55;
@@ -183115,59 +183113,59 @@ x = -9.60785;
 "@MMK_R_T" = -46;
 };
 "@MMK_L_iota" = {
-"@MMK_R_Y" = -15;
-"@MMK_R_gamma" = -15;
 "@MMK_R_A" = 5;
 "@MMK_R_Xi" = 5;
+"@MMK_R_Y" = -15;
+"@MMK_R_gamma" = -15;
 };
 "@MMK_L_j" = {
 "@MMK_R_period" = -51;
 };
 "@MMK_L_k" = {
+"@MMK_R_X" = 5;
 "@MMK_R_Y" = -20;
 "@MMK_R_gamma" = -15;
-"@MMK_R_X" = 5;
 "@MMK_R_lambda" = 5;
 "@MMK_R_nu" = 5;
 };
 "@MMK_L_lambda" = {
+"@MMK_R_A" = 10;
+"@MMK_R_X" = 5;
 "@MMK_R_Y" = -14;
 "@MMK_R_alpha" = -15;
 "@MMK_R_chi" = -25;
+"@MMK_R_epsilon" = 5;
 "@MMK_R_gamma" = -14;
 "@MMK_R_n" = -5;
 "@MMK_R_nu" = -30;
 "@MMK_R_o" = -15;
+"@MMK_R_omega" = 10;
+"@MMK_R_p" = 10;
 "@MMK_R_pi" = -61;
 "@MMK_R_theta" = -30;
 "@MMK_R_upsilon" = -15;
-"@MMK_R_A" = 10;
-"@MMK_R_X" = 5;
-"@MMK_R_epsilon" = 5;
-"@MMK_R_omega" = 10;
-"@MMK_R_p" = 10;
 };
 "@MMK_L_n" = {
+"@MMK_R_A" = 5;
 "@MMK_R_H" = -30;
 "@MMK_R_J" = -30;
 "@MMK_R_S" = -15;
 "@MMK_R_T" = -51;
 "@MMK_R_V" = -61;
+"@MMK_R_X" = 5;
 "@MMK_R_Y" = -45;
 "@MMK_R_asterisk" = -106;
 "@MMK_R_v" = -24;
 quoteright = -60.7843;
-"@MMK_R_A" = 5;
-"@MMK_R_X" = 5;
 };
 "@MMK_L_nu" = {
+"@MMK_R_A" = 16;
+"@MMK_R_Omega" = 10;
 "@MMK_R_Phi" = 0;
+"@MMK_R_X" = 10;
 "@MMK_R_Y" = -35;
 "@MMK_R_lambda" = -25;
 "@MMK_R_o" = -15;
-"@MMK_R_A" = 16;
-"@MMK_R_Omega" = 10;
-"@MMK_R_X" = 10;
 };
 "@MMK_L_o" = {
 "@MMK_R_A" = 0;
@@ -183188,9 +183186,9 @@ x = -23.6373;
 "@MMK_L_omega" = {
 "@MMK_R_A" = 1;
 "@MMK_R_H" = -5;
+"@MMK_R_Xi" = 5;
 "@MMK_R_Y" = -51;
 "@MMK_R_chi" = -15;
-"@MMK_R_Xi" = 5;
 "@MMK_R_lambda" = 10;
 };
 "@MMK_L_period" = {
@@ -183199,6 +183197,7 @@ x = -23.6373;
 "@MMK_R_Omega" = 1;
 "@MMK_R_T" = 26;
 "@MMK_R_U" = 26;
+"@MMK_R_Upsilontonos" = 47;
 "@MMK_R_V" = -110;
 "@MMK_R_Y" = -91;
 "@MMK_R_asterisk" = -60;
@@ -183208,13 +183207,12 @@ x = -23.6373;
 "@MMK_R_space" = -20;
 "@MMK_R_v" = -75;
 u = -60.7843;
-"@MMK_R_Upsilontonos" = 47;
 };
 "@MMK_L_pi" = {
-"@MMK_R_Y" = -14;
-"@MMK_R_lambda" = -30;
 "@MMK_R_A" = 21;
 "@MMK_R_X" = 10;
+"@MMK_R_Y" = -14;
+"@MMK_R_lambda" = -30;
 };
 "@MMK_L_r" = {
 "@MMK_R_A" = 26;
@@ -183241,9 +183239,14 @@ t = -5.19608;
 "@MMK_R_period" = -20;
 };
 "@MMK_L_sigma" = {
-"@MMK_R_Y" = -46;
 "@MMK_R_A" = 21;
 "@MMK_R_X" = 16;
+"@MMK_R_Y" = -46;
+};
+"@MMK_L_sigmafinal" = {
+"@MMK_R_A" = 5;
+"@MMK_R_X" = 10;
+"@MMK_R_Y" = 10;
 };
 "@MMK_L_space" = {
 "@MMK_R_Etatonos" = -20;
@@ -183251,23 +183254,26 @@ t = -5.19608;
 "@MMK_R_hyphen" = -20;
 "@MMK_R_period" = -20;
 };
+"@MMK_L_theta" = {
+"@MMK_R_A" = 10;
+};
 "@MMK_L_u" = {
+"@MMK_R_A" = 5;
 "@MMK_R_H" = 10;
 "@MMK_R_J" = -30;
 "@MMK_R_V" = -30;
 "@MMK_R_Y" = -35;
 "@MMK_R_asterisk" = 16;
-"@MMK_R_A" = 5;
 "@MMK_R_chi" = 5;
 "@MMK_R_gamma" = 5;
 "@MMK_R_lambda" = 5;
 };
 "@MMK_L_upsilon" = {
+"@MMK_R_A" = 16;
+"@MMK_R_X" = 5;
 "@MMK_R_Y" = -36;
 "@MMK_R_chi" = -15;
 "@MMK_R_lambda" = -15;
-"@MMK_R_A" = 16;
-"@MMK_R_X" = 5;
 };
 "@MMK_L_v" = {
 "@MMK_R_A" = -14;
@@ -183297,6 +183303,9 @@ t = -5.19608;
 "@MMK_R_hyphen" = -25;
 "@MMK_R_o" = -23;
 };
+"@MMK_L_xi" = {
+"@MMK_R_A" = 5;
+};
 "@MMK_L_z" = {
 "@MMK_R_H" = -15;
 "@MMK_R_J" = -30;
@@ -183305,13 +183314,22 @@ t = -5.19608;
 "@MMK_R_Y" = -30;
 };
 "@MMK_L_zeta" = {
+"@MMK_R_A" = 5;
 "@MMK_R_X" = 35;
+"@MMK_R_Y" = -10;
 "@MMK_R_chi" = -15;
 "@MMK_R_gamma" = -9;
 "@MMK_R_lambda" = 76;
 "@MMK_R_n" = -30;
-"@MMK_R_A" = 5;
-"@MMK_R_Y" = -10;
+};
+N = {
+"@MMK_R_a" = -20;
+"@MMK_R_h" = -5.19608;
+"@MMK_R_o" = -14.8039;
+};
+a = {
+"@MMK_R_H" = -25.1961;
+"@MMK_R_J" = -20;
 };
 d = {
 "@MMK_R_p" = 5.19608;
@@ -183364,26 +183382,6 @@ fraction = 15.1961;
 };
 zero.numr = {
 fraction = 5.19608;
-};
-"@MMK_L_sigmafinal" = {
-"@MMK_R_A" = 5;
-"@MMK_R_X" = 10;
-"@MMK_R_Y" = 10;
-};
-"@MMK_L_theta" = {
-"@MMK_R_A" = 10;
-};
-"@MMK_L_xi" = {
-"@MMK_R_A" = 5;
-};
-N = {
-"@MMK_R_a" = -20;
-"@MMK_R_h" = -5.19608;
-"@MMK_R_o" = -14.8039;
-};
-a = {
-"@MMK_R_H" = -25.1961;
-"@MMK_R_J" = -20;
 };
 };
 UUID0 = {
