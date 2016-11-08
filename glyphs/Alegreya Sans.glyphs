@@ -3,7 +3,7 @@
 DisplayStrings = (
 "/dieresiscomb/dieresiscomb_gravecomb/dieresiscomb_acutecomb/dieresiscomb_caroncomb/dieresiscomb_macroncomb/dotaccentcomb/dotaccentcomb_macroncomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/ringcomb_acutecomb/tildecomb/tildecomb_dieresiscomb/tildecomb_acutecomb/tildecomb_macroncomb/macroncomb/macroncomb_gravecomb/macroncomb_acutecomb/hookabovecomb/dblgravecomb/breveinvertedcomb/commaturnedabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccentcomb/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/dieresiscomb.case/dieresiscomb_gravecomb.case/dieresiscomb_acutecomb.case/dieresiscomb_caroncomb.case/dotaccentcomb.case/dotaccentcomb_macroncomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/tildecomb_dieresiscomb.case/tildecomb_acutecomb.case/tildecomb_macroncomb.case/macroncomb.case/macroncomb_gravecomb.case/macroncomb_acutecomb.case/dblgravecomb.case/dieresiscomb.i/tildecomb.i/macroncomb.i/apostrophemod/commaturnedmod/firsttonechinese/fourthtonechinese/primemod/ringhalfleft/ringhalfright/secondtonechinese/verticallinelowmod/verticallinemod \U00B4/breve/caron \U00B8/circumflex \U00A8/dotaccent `/hungarumlaut \U00AF/ogonek/ring/tilde/caron.alt/ypogegrammenicomb/tonos/dieresistonos/psili/dasia/psilivaria/dasiavaria/psilioxia/dasiaoxia/psiliperispomeni/dasiaperispomeni/dialytikavaria/dialytikaoxia/dialytikaperispomeni/varia/perispomeni/psili.case/dasia.case/psilivaria.case/dasiavaria.case/psilioxia.case/dasiaoxia.case/psiliperispomeni.case/dasiaperispomeni.case/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb",
 "/primemod/ringcomb/ringhalfleft/ringhalfright/secondtonechinese/verticallinelowmod/verticallinemod \U00B4/breve/caron \U00B8/circumflex \U00A8/dotaccent `/hungarumlaut \U00AF/ogonek/ring/tilde/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/dieresiscomb_gravecomb/macroncomb_gravecomb/macroncomb_gravecomb.case/dieresiscomb_acutecomb/tildecomb_acutecomb/macroncomb_acutecomb/dieresiscomb_acutecomb.case/tildecomb_acutecomb.case/macroncomb_acutecomb.case",
-/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/dieresiscomb_gravecomb/macroncomb_gravecomb/macroncomb_gravecomb.case/dieresiscomb_acutecomb/tildecomb_acutecomb/macroncomb_acutecomb/dieresiscomb_acutecomb.case/tildecomb_acutecomb.case/macroncomb_acutecomb.case
+/Schwa/schwa/schwa.sc
 );
 classes = (
 {
@@ -95062,7 +95062,7 @@ rightKerningGroup = Germandbls;
 {
 color = 1;
 glyphname = schwa.sc;
-lastChange = "2016-11-04 19:08:07 +0000";
+lastChange = "2016-11-08 21:55:22 +0000";
 layers = (
 {
 anchors = (
@@ -95134,9 +95134,9 @@ nodes = (
 "452 393 OFFCURVE",
 "452 249 CURVE SMOOTH",
 "452 106 OFFCURVE",
-"376 16 OFFCURVE",
-"256 16 CURVE SMOOTH",
-"152 16 OFFCURVE",
+"378 16 OFFCURVE",
+"258 16 CURVE SMOOTH",
+"144 16 OFFCURVE",
 "81 78 OFFCURVE",
 "81 169 CURVE",
 "82 193 LINE",
@@ -95148,9 +95148,9 @@ nodes = (
 "61 182 OFFCURVE",
 "61 171 CURVE SMOOTH",
 "61 66 OFFCURVE",
-"140 -4 OFFCURVE",
-"256 -4 CURVE SMOOTH",
-"389 -4 OFFCURVE",
+"132 -4 OFFCURVE",
+"258 -4 CURVE SMOOTH",
+"391 -4 OFFCURVE",
 "473 95 OFFCURVE",
 "473 249 CURVE SMOOTH",
 "473 404 OFFCURVE",
@@ -191536,7 +191536,7 @@ rightKerningGroup = asterisk;
 {
 color = 10;
 glyphname = dotaccentcomb;
-lastChange = "2016-11-08 21:25:19 +0000";
+lastChange = "2016-11-08 21:41:39 +0000";
 layers = (
 {
 anchors = (
@@ -191669,7 +191669,7 @@ unicode = 0307;
 {
 color = 5;
 glyphname = dotaccentcomb_macroncomb;
-lastChange = "2016-11-08 21:25:19 +0000";
+lastChange = "2016-11-08 21:41:39 +0000";
 layers = (
 {
 anchors = (
@@ -197386,7 +197386,7 @@ rightKerningGroup = asterisk;
 {
 color = 5;
 glyphname = dotaccentcomb.case;
-lastChange = "2016-11-08 21:25:19 +0000";
+lastChange = "2016-11-08 21:41:39 +0000";
 layers = (
 {
 anchors = (
@@ -197453,7 +197453,7 @@ width = 269;
 {
 color = 5;
 glyphname = dotaccentcomb_macroncomb.case;
-lastChange = "2016-11-08 21:25:19 +0000";
+lastChange = "2016-11-08 21:41:39 +0000";
 layers = (
 {
 anchors = (
@@ -198108,7 +198108,7 @@ rightKerningGroup = asterisk;
 {
 color = 10;
 glyphname = circumflexcomb.case;
-lastChange = "2016-11-08 21:38:16 +0000";
+lastChange = "2016-11-08 21:41:40 +0000";
 layers = (
 {
 anchors = (
@@ -198721,7 +198721,7 @@ width = 388;
 {
 color = 5;
 glyphname = tildecomb.case;
-lastChange = "2016-11-08 21:36:03 +0000";
+lastChange = "2016-11-08 21:41:40 +0000";
 layers = (
 {
 anchors = (
@@ -200733,7 +200733,7 @@ unicode = 00A8;
 {
 color = 10;
 glyphname = dotaccent;
-lastChange = "2016-11-08 21:25:19 +0000";
+lastChange = "2016-11-08 21:41:39 +0000";
 layers = (
 {
 components = (
@@ -206436,7 +206436,7 @@ rightKerningGroup = asterisk;
 {
 color = 10;
 glyphname = brevecomb_tildecomb;
-lastChange = "2016-11-08 21:36:03 +0000";
+lastChange = "2016-11-08 21:41:40 +0000";
 layers = (
 {
 anchors = (
@@ -206674,7 +206674,7 @@ rightKerningGroup = asterisk;
 {
 color = 0;
 glyphname = circumflexcomb_acutecomb;
-lastChange = "2016-11-08 21:37:59 +0000";
+lastChange = "2016-11-08 21:41:40 +0000";
 layers = (
 {
 anchors = (
@@ -206855,7 +206855,7 @@ rightKerningGroup = asterisk;
 {
 color = 0;
 glyphname = circumflexcomb_gravecomb;
-lastChange = "2016-11-08 21:38:16 +0000";
+lastChange = "2016-11-08 21:41:40 +0000";
 layers = (
 {
 anchors = (
@@ -207014,7 +207014,7 @@ rightKerningGroup = asterisk;
 {
 color = 10;
 glyphname = circumflexcomb_hookabovecomb;
-lastChange = "2016-11-08 21:37:59 +0000";
+lastChange = "2016-11-08 21:41:40 +0000";
 layers = (
 {
 anchors = (
@@ -207257,7 +207257,7 @@ rightKerningGroup = asterisk;
 {
 color = 10;
 glyphname = circumflexcomb_tildecomb;
-lastChange = "2016-11-08 21:37:59 +0000";
+lastChange = "2016-11-08 21:41:40 +0000";
 layers = (
 {
 anchors = (
