@@ -1,11 +1,15 @@
-check ogoneks
+Check
+	ogoneks
+	dotaccents
+	caron
+	Saltillos
+contours + components
 compatibility
-Saltillos
 
 Starting greek:
 	-extrapolate fake thin from Alegreya Serif
 
-End
+Ending
 	-Custom parameters for SC exporting
 	-new arrows ss0X combs
 	-check if some latin glyphs have been re-interpolated
