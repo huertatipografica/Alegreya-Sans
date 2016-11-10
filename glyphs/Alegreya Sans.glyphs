@@ -2,7 +2,7 @@
 .appVersion = "895";
 DisplayStrings = (
 "/Lcaron L/dcaron d/lcaron l/tcaron t/lcaron.sc/l.sc",
-"/Lcaron/Lcaron/Lcaron/Lcaron/Lcaron LLLLL\012/dcaron/dcaron/dcaron/dcaron/dcaron ddddd\012/lcaron/lcaron/lcaron/lcaron/lcaron lllll\012/tcaron/tcaron/tcaron/tcaron/tcaron ttttt\012/lcaron.sc/lcaron.sc/lcaron.sc/lcaron.sc/lcaron.sc/l.sc/l.sc/l.sc/l.sc/l.sc \012/Lcaron L/dcaron dl/lcaron dl/tcaron t/lcaron.sc/l.sc \012/spacingGlyph/Lcaron/spacingGlyph L/spacingGlyph/dcaron/spacingGlyph d/spacingGlyph/lcaron/spacingGlyph l/spacingGlyph/tcaron/spacingGlyph t/spacingGlyph/lcaron.sc/spacingGlyph/l.sc/spacingGlyph"
+"LLLLL/Ldot/Ldot/Ldot/Ldot/Ldot lllll/ldot/ldot/ldot/ldot/ldot \012/l.sc/l.sc/l.sc/l.sc/l.sc/ldot.sc/ldot.sc/ldot.sc/ldot.sc/ldot.sc \012L/Ldot l/ldot/l.sc/ldot.sc \012/spacingGlyph L/spacingGlyph/Ldot/spacingGlyph l/spacingGlyph/ldot/spacingGlyph/l.sc/spacingGlyph/ldot.sc/spacingGlyph"
 );
 classes = (
 {
@@ -45519,7 +45519,7 @@ nodes = (
 );
 }
 );
-width = 240;
+width = 228;
 },
 {
 anchors = (
@@ -45584,7 +45584,7 @@ nodes = (
 );
 }
 );
-width = 315;
+width = 295;
 },
 {
 anchors = (
@@ -45649,7 +45649,7 @@ nodes = (
 );
 }
 );
-width = 441;
+width = 413;
 }
 );
 leftKerningGroup = h;
