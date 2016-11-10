@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-/Utilde/tildecomb_acutecomb.case/Utildeacute/tilde/tildecomb/utilde/tildecomb_acutecomb/utildeacute/utilde.sc/utildeacute.sc
+"H/backslash H"
 );
 copyright = "Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)";
 customParameters = (
@@ -210040,12 +210040,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"84 670 LINE",
-"288 -110 LINE",
 "304 -110 LINE",
 "307 -106 LINE",
 "103 675 LINE",
-"87 675 LINE"
+"87 675 LINE",
+"84 670 LINE",
+"288 -110 LINE"
 );
 }
 );
@@ -210072,16 +210072,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"20 669 LINE",
-"225 -113 LINE",
 "284 -113 LINE",
 "290 -105 LINE",
 "85 678 LINE",
-"27 678 LINE"
+"27 678 LINE",
+"20 669 LINE",
+"225 -113 LINE"
 );
 }
 );
-width = 278.071;
+width = 278;
 },
 {
 background = {
@@ -210104,12 +210104,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"58 667 LINE",
-"266 -118 LINE",
 "401 -118 LINE",
 "412 -103 LINE",
 "204 683 LINE",
-"73 683 LINE"
+"73 683 LINE",
+"58 667 LINE",
+"266 -118 LINE"
 );
 }
 );
