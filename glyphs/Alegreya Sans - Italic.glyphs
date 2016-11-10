@@ -1,7 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"/Abrevedotbelow/Acircumflexdotbelow/Adotbelow/Ddotbelow/Dlinebelow/Ecircumflexdotbelow/Edotbelow/Hbrevebelow/Hdotbelow/Idotbelow/Ldotbelow/Llinebelow/Mdotbelow/Ndotbelow/Nlinebelow/Ocircumflexdotbelow/Odotbelow/Ohorndotbelow/Rdotbelow/Rlinebelow/Sdotbelow/Sdotbelowdotaccent/Tdotbelow/Tlinebelow/Udotbelow/Uhorndotbelow/Ydotbelow/Zdotbelow/abrevedotbelow/acircumflexdotbelow/adotbelow/ddotbelow/dlinebelow/ecircumflexdotbelow/edotbelow/hbrevebelow/hdotbelow/idotbelow/ldotbelow/llinebelow/mdotbelow/ndotbelow/nlinebelow/ocircumflexdotbelow/odotbelow/ohorndotbelow/rdotbelow/rlinebelow/sdotbelow/sdotbelowdotaccent/tdotbelow/tlinebelow u/udotbelow/uhorndotbelow/ydotbelow/zdotbelow/abrevedotbelow.sc/acircumflexdotbelow.sc/adotbelow.sc/ddotbelow.sc/dlinebelow.sc/ecircumflexdotbelow.sc/edotbelow.sc/hbrevebelow.sc/hdotbelow.sc/idotbelow.sc/ldotbelow.sc/llinebelow.sc/mdotbelow.sc/ndotbelow.sc/nlinebelow.sc/ocircumflexdotbelow.sc/odotbelow.sc/ohorn.sc/ohorndotbelow.sc/rdotbelow.sc/rlinebelow.sc/sdotbelow.sc/sdotbelowdotaccent.sc/tdotbelow.sc/tlinebelow.sc/udotbelow.sc/uhorndotbelow.sc/ydotbelow.sc/zdotbelow.sc/dotbelowcomb/dieresisbelowcomb/brevebelowcomb/macronbelowcomb"
+"/Abrevedotbelow/Acircumflexdotbelow/Adotbelow/Ddotbelow/Dlinebelow/Ecircumflexdotbelow/Edotbelow/Hbrevebelow/Hdotbelow/Idotbelow/Ldotbelow/Llinebelow/Mdotbelow/Ndotbelow/Nlinebelow/Ocircumflexdotbelow/Odotbelow/Ohorndotbelow/Rdotbelow/Rlinebelow/Sdotbelow/Sdotbelowdotaccent/Tdotbelow/Tlinebelow/Udotbelow/Uhorndotbelow/Ydotbelow/Zdotbelow/abrevedotbelow/acircumflexdotbelow/adotbelow/ddotbelow/dlinebelow/ecircumflexdotbelow/edotbelow/hbrevebelow/hdotbelow/idotbelow/ldotbelow/llinebelow/mdotbelow/ndotbelow/nlinebelow/ocircumflexdotbelow/odotbelow/ohorndotbelow/rdotbelow/rlinebelow/sdotbelow/sdotbelowdotaccent/tdotbelow/tlinebelow u/udotbelow/uhorndotbelow/ydotbelow/zdotbelow/abrevedotbelow.sc/acircumflexdotbelow.sc/adotbelow.sc/ddotbelow.sc/dlinebelow.sc/ecircumflexdotbelow.sc/edotbelow.sc/hbrevebelow.sc/hdotbelow.sc/idotbelow.sc/ldotbelow.sc/llinebelow.sc/mdotbelow.sc/ndotbelow.sc/nlinebelow.sc/ocircumflexdotbelow.sc/odotbelow.sc/ohorn.sc/ohorndotbelow.sc/rdotbelow.sc/rlinebelow.sc/sdotbelow.sc/sdotbelowdotaccent.sc/tdotbelow.sc/tlinebelow.sc/udotbelow.sc/uhorndotbelow.sc/ydotbelow.sc/zdotbelow.sc/dotbelowcomb/dieresisbelowcomb/brevebelowcomb/macronbelowcomb",
+"/Lcaron/Lcaron/Lcaron/Lcaron/Lcaron LLLLL\012/dcaron/dcaron/dcaron/dcaron/dcaron ddddd\012/lcaron/lcaron/lcaron/lcaron/lcaron lllll\012/tcaron/tcaron/tcaron/tcaron/tcaron ttttt\012/lcaron.sc/lcaron.sc/lcaron.sc/lcaron.sc/lcaron.sc/l.sc/l.sc/l.sc/l.sc/l.sc \012/Lcaron L/dcaron dl/lcaron dl/tcaron t/lcaron.sc/l.sc \012/spacingGlyph/Lcaron/spacingGlyph L/spacingGlyph/dcaron/spacingGlyph d/spacingGlyph/lcaron/spacingGlyph l/spacingGlyph/tcaron/spacingGlyph t/spacingGlyph/lcaron.sc/spacingGlyph/l.sc/spacingGlyph"
 );
 copyright = "Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)";
 customParameters = (
@@ -22754,6 +22755,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
@@ -22762,7 +22764,7 @@ transform = "{1, 0, 0, 1, 212, -65}";
 }
 );
 layerId = UUID0;
-width = 378;
+width = 391;
 },
 {
 background = {
@@ -22810,6 +22812,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
@@ -22866,6 +22869,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
@@ -22878,6 +22882,7 @@ width = 453;
 }
 );
 leftKerningGroup = H;
+leftMetricsKey = "=L";
 rightKerningGroup = L;
 unicode = 013D;
 },
@@ -27676,7 +27681,7 @@ name = O;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 139, 182}";
+transform = "{1, 0, 0, 1, 146, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -58369,7 +58374,7 @@ name = a;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 28, 1}";
+transform = "{1, 0, 0, 1, 35, 1}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -65282,7 +65287,7 @@ rightKerningGroup = eth;
 unicode = 00F0;
 },
 {
-color = 0;
+color = 1;
 glyphname = dcaron;
 layers = (
 {
@@ -65362,6 +65367,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = d;
 },
 {
@@ -65370,7 +65376,7 @@ transform = "{1, 0, 0, 1, 321, 0}";
 }
 );
 layerId = UUID0;
-width = 423;
+width = 443;
 },
 {
 background = {
@@ -65449,6 +65455,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = d;
 },
 {
@@ -65457,7 +65464,7 @@ transform = "{1, 0, 0, 1, 366, -43}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 444;
+width = 495;
 },
 {
 background = {
@@ -65536,6 +65543,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = d;
 },
 {
@@ -65544,12 +65552,11 @@ transform = "{1, 0, 0, 1, 449, -120}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-leftMetricsKey = "=d";
-width = 486;
+width = 586;
 }
 );
 leftKerningGroup = o;
-leftMetricsKey = d;
+leftMetricsKey = "=d";
 rightKerningGroup = l;
 unicode = 010F;
 },
@@ -68815,7 +68822,7 @@ name = e;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 16, 1}";
+transform = "{1, 0, 0, 1, 23, 1}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -79895,7 +79902,7 @@ rightKerningGroup = l;
 unicode = 013A;
 },
 {
-color = 0;
+color = 1;
 glyphname = lcaron;
 layers = (
 {
@@ -79933,6 +79940,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
@@ -79941,7 +79949,7 @@ transform = "{1, 0, 0, 1, 101, 0}";
 }
 );
 layerId = UUID0;
-width = 205;
+width = 225;
 },
 {
 background = {
@@ -79978,6 +79986,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
@@ -79986,7 +79995,7 @@ transform = "{1, 0, 0, 1, 143, -43}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 228;
+width = 273;
 },
 {
 background = {
@@ -80023,6 +80032,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
@@ -80031,10 +80041,11 @@ transform = "{1, 0, 0, 1, 221, -120}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 258;
+width = 358;
 }
 );
 leftKerningGroup = h;
+leftMetricsKey = "=l";
 rightKerningGroup = l;
 unicode = 013E;
 },
@@ -85769,7 +85780,7 @@ name = o;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 27, 0}";
+transform = "{1, 0, 0, 1, 34, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -97398,7 +97409,7 @@ transform = "{1, 0, 0, 1, 129, 0}";
 }
 );
 layerId = UUID0;
-width = 316;
+width = 341;
 },
 {
 background = {
@@ -97461,7 +97472,7 @@ transform = "{1, 0, 0, 1, 167, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 326;
+width = 351;
 },
 {
 background = {
@@ -97524,11 +97535,12 @@ transform = "{1, 0, 0, 1, 236, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 366;
+width = 391;
 }
 );
 leftKerningGroup = t;
 rightKerningGroup = t;
+rightMetricsKey = "=+25";
 unicode = 0165;
 },
 {
@@ -124383,7 +124395,7 @@ name = a.sc;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 63, 40}";
+transform = "{1, 0, 0, 1, 70, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -133669,7 +133681,7 @@ name = e.sc;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 50, 40}";
+transform = "{1, 0, 0, 1, 57, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -143968,7 +143980,7 @@ transform = "{1, 0, 0, 1, 162, -189}";
 }
 );
 layerId = UUID0;
-width = 351;
+width = 376;
 },
 {
 background = {
@@ -144024,7 +144036,7 @@ transform = "{1, 0, 0, 1, 188, -213}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 367;
+width = 392;
 },
 {
 background = {
@@ -144080,12 +144092,13 @@ transform = "{1, 0, 0, 1, 237, -257}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 403;
+width = 428;
 }
 );
 leftKerningGroup = H;
 leftMetricsKey = l.sc;
 rightKerningGroup = L;
+rightMetricsKey = "=+25";
 },
 {
 color = 10;
@@ -148989,7 +149002,7 @@ name = o.sc;
 },
 {
 name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 83, 40}";
+transform = "{1, 0, 0, 1, 90, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";

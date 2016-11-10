@@ -1,7 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-/Abrevedotbelow/Acircumflexdotbelow/Adotbelow/Ddotbelow/Ecircumflexdotbelow/Edotbelow/Hdotbelow/Idotbelow/Ldotbelow/Mdotbelow/Ndotbelow/Ocircumflexdotbelow/Odotbelow/Ohorndotbelow/Rdotbelow/Sdotbelow/Sdotbelowdotaccent/Tdotbelow/Udotbelow/Uhorndotbelow/Ydotbelow/Zdotbelow/abrevedotbelow/acircumflexdotbelow/adotbelow/ddotbelow/ecircumflexdotbelow/edotbelow/hdotbelow/idotbelow/ldotbelow/mdotbelow/ndotbelow/ocircumflexdotbelow/odotbelow/ohorndotbelow/rdotbelow/sdotbelow/sdotbelowdotaccent/tdotbelow/udotbelow/uhorndotbelow/ydotbelow/zdotbelow/abrevedotbelow.sc/acircumflexdotbelow.sc/adotbelow.sc/ddotbelow.sc/ecircumflexdotbelow.sc/edotbelow.sc/hdotbelow.sc/idotbelow.sc/ldotbelow.sc/mdotbelow.sc/ndotbelow.sc/ocircumflexdotbelow.sc/odotbelow.sc/ohorndotbelow.sc/rdotbelow.sc/sdotbelow.sc/sdotbelowdotaccent.sc/tdotbelow.sc/udotbelow.sc/uhorndotbelow.sc/ydotbelow.sc/zdotbelow.sc/dotbelowcomb
+"/Lcaron L/dcaron d/lcaron l/tcaron t/lcaron.sc/l.sc",
+"/Lcaron/Lcaron/Lcaron/Lcaron/Lcaron LLLLL\012/dcaron/dcaron/dcaron/dcaron/dcaron ddddd\012/lcaron/lcaron/lcaron/lcaron/lcaron lllll\012/tcaron/tcaron/tcaron/tcaron/tcaron ttttt\012/lcaron.sc/lcaron.sc/lcaron.sc/lcaron.sc/lcaron.sc/l.sc/l.sc/l.sc/l.sc/l.sc \012/Lcaron L/dcaron dl/lcaron dl/tcaron t/lcaron.sc/l.sc \012/spacingGlyph/Lcaron/spacingGlyph L/spacingGlyph/dcaron/spacingGlyph d/spacingGlyph/lcaron/spacingGlyph l/spacingGlyph/tcaron/spacingGlyph t/spacingGlyph/lcaron.sc/spacingGlyph/l.sc/spacingGlyph"
 );
 classes = (
 {
@@ -12323,7 +12324,7 @@ nodes = (
 );
 }
 );
-width = 408;
+width = 409;
 },
 {
 anchors = (
@@ -12402,7 +12403,7 @@ nodes = (
 );
 }
 );
-width = 426;
+width = 450;
 },
 {
 anchors = (
@@ -12481,7 +12482,7 @@ nodes = (
 );
 }
 );
-width = 521;
+width = 519;
 }
 );
 leftKerningGroup = H;
@@ -36385,16 +36386,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"524.196 717.314 LINE",
-"487.451 703.314 LINE",
-"487.451 703.314 OFFCURVE",
-"496.931 600.51 OFFCURVE",
-"491.892 495.706 CURVE",
-"498.735 495.784 LINE",
-"498.794 504.069 LINE",
-"517.196 600.873 OFFCURVE",
-"530.157 711.392 OFFCURVE",
-"530.157 711.392 CURVE"
+"524 717 LINE",
+"487 703 LINE",
+"487 703 OFFCURVE",
+"497 601 OFFCURVE",
+"492 496 CURVE",
+"499 496 LINE",
+"499 504 LINE",
+"517 601 OFFCURVE",
+"530 711 OFFCURVE",
+"530 711 CURVE"
 );
 }
 );
@@ -36474,7 +36475,7 @@ nodes = (
 );
 }
 );
-width = 482;
+width = 527;
 },
 {
 anchors = (
@@ -36585,16 +36586,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"497 645 LINE",
-"493 467 LINE",
-"500 461 LINE",
-"540 467 LINE",
-"564 642 LINE",
-"558 649 LINE"
+"507 645 LINE",
+"503 467 LINE",
+"510 461 LINE",
+"550 467 LINE",
+"574 642 LINE",
+"568 649 LINE"
 );
 }
 );
-width = 541;
+width = 574;
 },
 {
 anchors = (
@@ -36714,7 +36715,7 @@ nodes = (
 );
 }
 );
-width = 646;
+width = 630;
 }
 );
 leftKerningGroup = o;
@@ -45219,7 +45220,7 @@ nodes = (
 );
 }
 );
-width = 233;
+width = 250;
 },
 {
 anchors = (
@@ -45282,16 +45283,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"228 645 LINE",
-"224 467 LINE",
-"231 461 LINE",
-"271 467 LINE",
-"295 642 LINE",
-"289 649 LINE"
+"238 645 LINE",
+"234 467 LINE",
+"241 461 LINE",
+"281 467 LINE",
+"305 642 LINE",
+"299 649 LINE"
 );
 }
 );
-width = 259;
+width = 296;
 },
 {
 anchors = (
@@ -45363,7 +45364,7 @@ nodes = (
 );
 }
 );
-width = 392;
+width = 382;
 }
 );
 leftKerningGroup = h;
@@ -55973,7 +55974,7 @@ transform = "{1, 0, 0, 1, 116, 0}";
 }
 );
 layerId = UUID0;
-width = 320;
+width = 323;
 },
 {
 background = {
@@ -56010,7 +56011,7 @@ transform = "{1, 0, 0, 1, 184, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 343;
+width = 346;
 },
 {
 background = {
@@ -56047,12 +56048,12 @@ transform = "{1, 0, 0, 1, 235, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 383;
+width = 386;
 }
 );
 leftKerningGroup = t;
 rightKerningGroup = t;
-rightMetricsKey = "=+22";
+rightMetricsKey = "=+25";
 unicode = 0165;
 },
 {
@@ -85946,7 +85947,7 @@ nodes = (
 );
 }
 );
-width = 375;
+width = 385;
 },
 {
 anchors = (
@@ -86120,7 +86121,7 @@ nodes = (
 );
 }
 );
-width = 463;
+width = 465;
 }
 );
 leftKerningGroup = H;
