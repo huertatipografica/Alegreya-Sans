@@ -2,7 +2,7 @@
 .appVersion = "895";
 DisplayStrings = (
 /hookabovecomb/hookabovecomb/brevecomb_hookabovecomb/circumflexcomb.case/circumflexcomb.case/circumflexcomb_hookabovecomb,
-/hookabovecomb/Ahookabove/Ehookabove/Ihookabove/Ohookabove/Ohornhookabove/Uhookabove/Uhornhookabove/Yhookabove/ahookabove/ehookabove/ihookabove/ohookabove/ohornhookabove/uhookabove/uhornhookabove/yhookabove/ahookabove.sc/ehookabove.sc/ihookabove.sc/ohookabove.sc/ohornhookabove.sc/uhookabove.sc/uhornhookabove.sc/yhookabove.sc/brevecomb_hookabovecomb/circumflexcomb.case/circumflexcomb_hookabovecomb/brevecomb_hookabovecomb/circumflexcomb.case
+/hookabovecomb/Ihookabove
 );
 copyright = "Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)";
 customParameters = (
@@ -20508,7 +20508,7 @@ name = I;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, -8, 181}";
+transform = "{1, 0, 0, 1, 4, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -20563,7 +20563,7 @@ name = I;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, -24, 175}";
+transform = "{1, 0, 0, 1, -4, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -250720,7 +250720,7 @@ position = "{188, 511}";
 },
 {
 name = _top;
-position = "{191, 460}";
+position = "{179, 459}";
 },
 {
 name = top;
@@ -250786,6 +250786,12 @@ nodes = (
 "152 567 CURVE",
 "188 510 LINE"
 );
+},
+{
+closed = 0;
+nodes = (
+"-1701 830 LINE"
+);
 }
 );
 width = 277;
@@ -250798,7 +250804,7 @@ position = "{223, 501}";
 },
 {
 name = _top;
-position = "{235, 472}";
+position = "{215, 472}";
 },
 {
 name = top;

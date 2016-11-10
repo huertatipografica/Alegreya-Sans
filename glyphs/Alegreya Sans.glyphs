@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+/hookabovecomb/Ahookabove/Ehookabove/Ihookabove/Ohookabove/Ohornhookabove/Uhookabove/Uhornhookabove/Yhookabove/ahookabove/ehookabove/ihookabove/ohookabove/ohornhookabove/uhookabove/uhornhookabove/yhookabove/ahookabove.sc/ehookabove.sc/ihookabove.sc/ohookabove.sc/ohornhookabove.sc/uhookabove.sc/uhornhookabove.sc/yhookabove.sc/brevecomb_hookabovecomb/circumflexcomb_hookabovecomb/Ihookabove
+);
 classes = (
 {
 automatic = 1;
@@ -2237,7 +2240,7 @@ name = A;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 156, 181}";
+transform = "{1, 0, 0, 1, 165, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -7365,7 +7368,7 @@ name = E;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 140, 181}";
+transform = "{1, 0, 0, 1, 149, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -10776,7 +10779,7 @@ name = I;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 0, 181}";
+transform = "{1, 0, 0, 1, 9, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -10800,7 +10803,7 @@ name = I;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 30, 175}";
+transform = "{1, 0, 0, 1, 40, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -16106,7 +16109,7 @@ name = O;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 184, 181}";
+transform = "{1, 0, 0, 1, 193, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -16805,7 +16808,7 @@ name = Ohorn;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 174, 181}";
+transform = "{1, 0, 0, 1, 183, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -24538,7 +24541,7 @@ name = U;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 181, 181}";
+transform = "{1, 0, 0, 1, 190, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -25285,7 +25288,7 @@ name = Uhorn;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 181, 181}";
+transform = "{1, 0, 0, 1, 190, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -28016,7 +28019,7 @@ name = Y;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 125, 181}";
+transform = "{1, 0, 0, 1, 134, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -33739,7 +33742,7 @@ name = a;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 89, -1}";
+transform = "{1, 0, 0, 1, 98, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -39266,7 +39269,7 @@ name = e;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 104, -1}";
+transform = "{1, 0, 0, 1, 113, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -43080,7 +43083,7 @@ name = idotless;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, -15, -1}";
+transform = "{1, 0, 0, 1, -6, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -49005,7 +49008,7 @@ name = o;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 111, -1}";
+transform = "{1, 0, 0, 1, 120, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -49915,7 +49918,7 @@ name = ohorn;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 110, -1}";
+transform = "{1, 0, 0, 1, 119, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -57732,7 +57735,7 @@ name = u;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 120, -1}";
+transform = "{1, 0, 0, 1, 129, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -58480,7 +58483,7 @@ name = uhorn;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 106, -1}";
+transform = "{1, 0, 0, 1, 115, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -61203,7 +61206,7 @@ name = y;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 83, -1}";
+transform = "{1, 0, 0, 1, 92, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -75031,7 +75034,7 @@ name = a.sc;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 127, 39}";
+transform = "{1, 0, 0, 1, 136, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -80057,7 +80060,7 @@ name = e.sc;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 108, 39}";
+transform = "{1, 0, 0, 1, 117, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -83893,7 +83896,7 @@ name = i.sc;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, -3, 39}";
+transform = "{1, 0, 0, 1, 6, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -89904,7 +89907,7 @@ name = o.sc;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 145, 39}";
+transform = "{1, 0, 0, 1, 154, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -90598,7 +90601,7 @@ name = ohorn.sc;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 140, 39}";
+transform = "{1, 0, 0, 1, 149, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -98450,7 +98453,7 @@ name = u.sc;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 142, 39}";
+transform = "{1, 0, 0, 1, 151, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -99192,7 +99195,7 @@ name = uhorn.sc;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 132, 39}";
+transform = "{1, 0, 0, 1, 141, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -101951,7 +101954,7 @@ name = y.sc;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 107, 39}";
+transform = "{1, 0, 0, 1, 116, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -195637,7 +195640,7 @@ position = "{132, 511}";
 },
 {
 name = _top;
-position = "{135, 460}";
+position = "{126, 459}";
 },
 {
 name = top;
@@ -195715,7 +195718,7 @@ position = "{120, 501}";
 },
 {
 name = _top;
-position = "{132, 472}";
+position = "{122, 472}";
 },
 {
 name = top;
@@ -207187,7 +207190,7 @@ transform = "{1, 0, 0, 1, 0, -20}";
 },
 {
 name = hookabovecomb;
-transform = "{0.9672, 0, 0, 0.9672, 64, 141}";
+transform = "{0.9672, 0, 0, 0.9672, 73, 142}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
