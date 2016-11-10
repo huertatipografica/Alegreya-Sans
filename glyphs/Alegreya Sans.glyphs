@@ -2,7 +2,7 @@
 .appVersion = "895";
 DisplayStrings = (
 "/Lcaron L/dcaron d/lcaron l/tcaron t/lcaron.sc/l.sc",
-"LLLLL/Ldot/Ldot/Ldot/Ldot/Ldot lllll/ldot/ldot/ldot/ldot/ldot \012/l.sc/l.sc/l.sc/l.sc/l.sc/ldot.sc/ldot.sc/ldot.sc/ldot.sc/ldot.sc \012L/Ldot l/ldot/l.sc/ldot.sc \012/spacingGlyph L/spacingGlyph/Ldot/spacingGlyph l/spacingGlyph/ldot/spacingGlyph/l.sc/spacingGlyph/ldot.sc/spacingGlyph"
+"/macroncomb.i/macroncomb/macroncomb.case/Umacrondieresis/umacrondieresis/umacrondieresis.sc \012/macroncomb.i/Imacron/Umacrondieresis/imacron/imacron.sc/umacrondieresis.sc/dotaccentcomb_macroncomb/tildecomb_macroncomb/macroncomb/Amacron/Emacron/Omacron/Umacron/amacron/emacron/gmacron/omacron/umacron/umacrondieresis/ymacron/amacron.sc/emacron.sc/gmacron.sc/omacron.sc/umacron.sc/ymacron.sc/macroncomb.case/firsttonechinese \U00AF/firstofchinese/macroncomb.case/Gmacron/Ymacron"
 );
 classes = (
 {
@@ -25626,14 +25626,12 @@ components = (
 name = U;
 },
 {
-alignment = 1;
-name = macroncomb.i;
+name = macroncomb.case;
 transform = "{1, 0, 0, 1, 115, 185}";
 },
 {
-alignment = 1;
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 116, 290}";
+transform = "{1, 0, 0, 1, 116, 330}";
 }
 );
 layerId = UUID0;
@@ -25645,14 +25643,12 @@ components = (
 name = U;
 },
 {
-alignment = 1;
-name = macroncomb.i;
+name = macroncomb.case;
 transform = "{1, 0, 0, 1, 121, 182}";
 },
 {
-alignment = 1;
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 122, 314}";
+transform = "{1, 0, 0, 1, 122, 343}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -25664,14 +25660,12 @@ components = (
 name = U;
 },
 {
-alignment = 1;
-name = macroncomb.i;
+name = macroncomb.case;
 transform = "{1, 0, 0, 1, 132, 175}";
 },
 {
-alignment = 1;
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 132, 353}";
+transform = "{1, 0, 0, 1, 132, 364}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -58829,7 +58823,7 @@ transform = "{1, 0, 0, 1, 59, 0}";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 60, 115}";
+transform = "{1, 0, 0, 1, 60, 145}";
 }
 );
 layerId = UUID0;
@@ -58846,7 +58840,7 @@ transform = "{1, 0, 0, 1, 60, 0}";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 61, 142}";
+transform = "{1, 0, 0, 1, 61, 165}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -58863,7 +58857,7 @@ transform = "{1, 0, 0, 1, 69, 0}";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 69, 189}";
+transform = "{1, 0, 0, 1, 69, 199}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -99536,7 +99530,7 @@ transform = "{1, 0, 0, 1, 79, 39}";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 80, 144}";
+transform = "{1, 0, 0, 1, 80, 184}";
 }
 );
 layerId = UUID0;
@@ -99553,7 +99547,7 @@ transform = "{1, 0, 0, 1, 82, 40}";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 83, 172}";
+transform = "{1, 0, 0, 1, 83, 201}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -99570,7 +99564,7 @@ transform = "{1, 0, 0, 1, 88, 41}";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 88, 219}";
+transform = "{1, 0, 0, 1, 88, 229}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -195006,7 +195000,7 @@ position = "{195, 452}";
 },
 {
 name = top;
-position = "{195, 567}";
+position = "{195, 597}";
 }
 );
 background = {
@@ -195056,7 +195050,7 @@ position = "{195, 459}";
 },
 {
 name = top;
-position = "{195, 601}";
+position = "{195, 624}";
 }
 );
 background = {
@@ -195106,7 +195100,7 @@ position = "{194.5, 472}";
 },
 {
 name = top;
-position = "{195, 661}";
+position = "{195, 671}";
 }
 );
 background = {
@@ -199789,7 +199783,7 @@ position = "{195, 452}";
 },
 {
 name = top;
-position = "{195, 607}";
+position = "{195, 597}";
 }
 );
 components = (
@@ -199809,7 +199803,7 @@ position = "{195, 459}";
 },
 {
 name = top;
-position = "{195, 637}";
+position = "{195, 620}";
 }
 );
 components = (
@@ -199829,7 +199823,7 @@ position = "{195, 472}";
 },
 {
 name = top;
-position = "{195, 691}";
+position = "{195, 661}";
 }
 );
 components = (
@@ -200514,7 +200508,7 @@ position = "{195, 452}";
 },
 {
 name = top;
-position = "{195, 557}";
+position = "{195, 597}";
 }
 );
 background = {
@@ -200556,7 +200550,7 @@ position = "{195, 459}";
 },
 {
 name = top;
-position = "{195, 591}";
+position = "{195, 620}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -200583,7 +200577,7 @@ position = "{195, 472}";
 },
 {
 name = top;
-position = "{195, 650}";
+position = "{195, 660}";
 }
 );
 background = {

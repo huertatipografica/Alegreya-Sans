@@ -1,9 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"/Abrevedotbelow/Acircumflexdotbelow/Adotbelow/Ddotbelow/Dlinebelow/Ecircumflexdotbelow/Edotbelow/Hbrevebelow/Hdotbelow/Idotbelow/Ldotbelow/Llinebelow/Mdotbelow/Ndotbelow/Nlinebelow/Ocircumflexdotbelow/Odotbelow/Ohorndotbelow/Rdotbelow/Rlinebelow/Sdotbelow/Sdotbelowdotaccent/Tdotbelow/Tlinebelow/Udotbelow/Uhorndotbelow/Ydotbelow/Zdotbelow/abrevedotbelow/acircumflexdotbelow/adotbelow/ddotbelow/dlinebelow/ecircumflexdotbelow/edotbelow/hbrevebelow/hdotbelow/idotbelow/ldotbelow/llinebelow/mdotbelow/ndotbelow/nlinebelow/ocircumflexdotbelow/odotbelow/ohorndotbelow/rdotbelow/rlinebelow/sdotbelow/sdotbelowdotaccent/tdotbelow/tlinebelow u/udotbelow/uhorndotbelow/ydotbelow/zdotbelow/abrevedotbelow.sc/acircumflexdotbelow.sc/adotbelow.sc/ddotbelow.sc/dlinebelow.sc/ecircumflexdotbelow.sc/edotbelow.sc/hbrevebelow.sc/hdotbelow.sc/idotbelow.sc/ldotbelow.sc/llinebelow.sc/mdotbelow.sc/ndotbelow.sc/nlinebelow.sc/ocircumflexdotbelow.sc/odotbelow.sc/ohorn.sc/ohorndotbelow.sc/rdotbelow.sc/rlinebelow.sc/sdotbelow.sc/sdotbelowdotaccent.sc/tdotbelow.sc/tlinebelow.sc/udotbelow.sc/uhorndotbelow.sc/ydotbelow.sc/zdotbelow.sc/dotbelowcomb/dieresisbelowcomb/brevebelowcomb/macronbelowcomb",
-"L/Ldot l/ldot/l.sc/ldot.sc",
-"LLLLL/Ldot/Ldot/Ldot/Ldot/Ldot lllll/ldot/ldot/ldot/ldot/ldot \012/l.sc/l.sc/l.sc/l.sc/l.sc/ldot.sc/ldot.sc/ldot.sc/ldot.sc/ldot.sc \012/Ldot/ldot/ldot.sc \012/spacingGlyph L/spacingGlyph/Ldot/spacingGlyph l/spacingGlyph/ldot/spacingGlyph/l.sc/spacingGlyph/ldot.sc/spacingGlyph"
+"/macroncomb.i/macroncomb/macroncomb.case/Umacrondieresis/umacrondieresis/umacrondieresis.sc \012/macroncomb.i/Imacron/Umacrondieresis/imacron/imacron.sc/umacrondieresis.sc/dotaccentcomb_macroncomb/tildecomb_macroncomb/macroncomb/Amacron/Emacron/Omacron/Umacron/amacron/emacron/gmacron/omacron/umacron/umacrondieresis/ymacron/amacron.sc/emacron.sc/gmacron.sc/omacron.sc/umacron.sc/ymacron.sc/macroncomb.case/firsttonechinese \U00AF/firstofchinese/macroncomb.case/Gmacron/Ymacron"
 );
 copyright = "Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)";
 customParameters = (
@@ -5242,8 +5240,8 @@ components = (
 name = A;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 98, 185}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 97, 185}";
 }
 );
 layerId = UUID0;
@@ -5296,8 +5294,8 @@ components = (
 name = A;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 109, 182}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 108, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -5350,8 +5348,8 @@ components = (
 name = A;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 143, 175}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 141, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -15151,8 +15149,8 @@ components = (
 name = E;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 90, 185}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 89, 185}";
 }
 );
 layerId = UUID0;
@@ -15227,8 +15225,8 @@ components = (
 name = E;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 88, 182}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 87, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -15303,8 +15301,8 @@ components = (
 name = E;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 115, 175}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 113, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -23273,11 +23271,11 @@ name = L;
 {
 alignment = 1;
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 118, 0}";
+transform = "{1, 0, 0, 1, 120, 0}";
 }
 );
 layerId = UUID0;
-width = 378;
+width = 382;
 },
 {
 components = (
@@ -23301,11 +23299,11 @@ name = L;
 {
 alignment = 1;
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 128, 0}";
+transform = "{1, 0, 0, 1, 127, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 453;
+width = 452;
 }
 );
 unicode = 1E36;
@@ -23368,11 +23366,11 @@ name = L;
 {
 alignment = 1;
 name = macronbelowcomb;
-transform = "{1, 0, 0, 1, 73, 0}";
+transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 layerId = UUID0;
-width = 378;
+width = 382;
 },
 {
 components = (
@@ -31285,8 +31283,8 @@ components = (
 name = O;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 129, 185}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 128, 185}";
 }
 );
 layerId = UUID0;
@@ -31347,8 +31345,8 @@ components = (
 name = O;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 136, 182}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 135, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -31409,8 +31407,8 @@ components = (
 name = O;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 157, 175}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 155, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -36900,8 +36898,8 @@ components = (
 name = S;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 32, 185}";
+name = caroncomb.case;
+transform = "{1, 0, 0, 1, 39, 185}";
 }
 );
 layerId = UUID0;
@@ -36978,8 +36976,8 @@ components = (
 name = S;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 53, 182}";
+name = caroncomb.case;
+transform = "{1, 0, 0, 1, 56, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -37056,8 +37054,8 @@ components = (
 name = S;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 93, 175}";
+name = caroncomb.case;
+transform = "{1, 0, 0, 1, 91, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -45501,8 +45499,8 @@ components = (
 name = U;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 121, 185}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 120, 185}";
 }
 );
 layerId = UUID0;
@@ -45554,8 +45552,8 @@ components = (
 name = U;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 130, 182}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 129, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -45607,8 +45605,8 @@ components = (
 name = U;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 155, 175}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 153, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -45629,14 +45627,12 @@ components = (
 name = U;
 },
 {
-alignment = 1;
-name = macroncomb.i;
+name = macroncomb.case;
 transform = "{1, 0, 0, 1, 120, 185}";
 },
 {
-alignment = 1;
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 139, 340}";
+transform = "{1, 0, 0, 1, 140, 340}";
 }
 );
 layerId = UUID0;
@@ -45649,13 +45645,13 @@ name = U;
 },
 {
 alignment = 1;
-name = macroncomb.i;
-transform = "{1, 0, 0, 1, 130, 182}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 129, 182}";
 },
 {
 alignment = 1;
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 151, 360}";
+transform = "{1, 0, 0, 1, 150, 360}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -45667,12 +45663,10 @@ components = (
 name = U;
 },
 {
-alignment = 1;
-name = macroncomb.i;
-transform = "{1, 0, 0, 1, 155, 175}";
+name = macroncomb.case;
+transform = "{1, 0, 0, 1, 153, 175}";
 },
 {
-alignment = 1;
 name = dieresiscomb.case;
 transform = "{1, 0, 0, 1, 180, 394}";
 }
@@ -80510,11 +80504,11 @@ name = l;
 {
 alignment = 1;
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, -8, 0}";
+transform = "{1, 0, 0, 1, 8, 0}";
 }
 );
 layerId = UUID0;
-width = 205;
+width = 238;
 },
 {
 components = (
@@ -80538,11 +80532,11 @@ name = l;
 {
 alignment = 1;
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 18, 0}";
+transform = "{1, 0, 0, 1, 21, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 258;
+width = 267;
 }
 );
 unicode = 1E37;
@@ -80605,11 +80599,11 @@ name = l;
 {
 alignment = 1;
 name = macronbelowcomb;
-transform = "{1, 0, 0, 1, -53, 0}";
+transform = "{1, 0, 0, 1, -37, 0}";
 }
 );
 layerId = UUID0;
-width = 205;
+width = 238;
 },
 {
 components = (
@@ -144670,11 +144664,11 @@ name = l.sc;
 {
 alignment = 1;
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 118, 0}";
+transform = "{1, 0, 0, 1, 120, 0}";
 }
 );
 layerId = UUID0;
-width = 351;
+width = 354;
 },
 {
 components = (
@@ -144763,11 +144757,11 @@ name = l.sc;
 {
 alignment = 1;
 name = macronbelowcomb;
-transform = "{1, 0, 0, 1, 73, 0}";
+transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 layerId = UUID0;
-width = 351;
+width = 354;
 },
 {
 components = (
