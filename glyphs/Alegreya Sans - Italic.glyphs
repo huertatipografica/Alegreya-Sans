@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"/macroncomb.i/macroncomb/macroncomb.case/Umacrondieresis/umacrondieresis/umacrondieresis.sc \012/macroncomb.i/Imacron/Umacrondieresis/imacron/imacron.sc/umacrondieresis.sc/dotaccentcomb_macroncomb/tildecomb_macroncomb/macroncomb/Amacron/Emacron/Omacron/Umacron/amacron/emacron/gmacron/omacron/umacron/umacrondieresis/ymacron/amacron.sc/emacron.sc/gmacron.sc/omacron.sc/umacron.sc/ymacron.sc/macroncomb.case/firsttonechinese \U00AF/firstofchinese/macroncomb.case/Gmacron/Ymacron"
+/Utilde/tildecomb_acutecomb.case/Utildeacute/tilde/tildecomb/utilde/tildecomb_acutecomb/utildeacute/utilde.sc/utildeacute.sc
 );
 copyright = "Copyright (c) 2013 by Juan Pablo del Peral (huertatipografica.com.ar)";
 customParameters = (
@@ -46361,7 +46361,7 @@ name = U;
 {
 alignment = 1;
 name = tildecomb_acutecomb.case;
-transform = "{1, 0, 0, 1, 147, 185}";
+transform = "{1, 0, 0, 1, 130, 185}";
 }
 );
 layerId = UUID0;
@@ -46375,7 +46375,7 @@ name = U;
 {
 alignment = 1;
 name = tildecomb_acutecomb.case;
-transform = "{1, 0, 0, 1, 158, 182}";
+transform = "{1, 0, 0, 1, 144, 182}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -46389,7 +46389,7 @@ name = U;
 {
 alignment = 1;
 name = tildecomb_acutecomb.case;
-transform = "{1, 0, 0, 1, 184, 175}";
+transform = "{1, 0, 0, 1, 174, 175}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -104725,7 +104725,7 @@ components = (
 name = u;
 },
 {
-name = tilde;
+name = tildecomb;
 transform = "{1, 0, 0, 1, 35, 0}";
 }
 );
@@ -104808,8 +104808,8 @@ components = (
 name = u;
 },
 {
-name = tilde;
-transform = "{1, 0, 0, 1, 45, 0}";
+name = tildecomb;
+transform = "{1, 0, 0, 1, 46, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -104891,7 +104891,7 @@ components = (
 name = u;
 },
 {
-name = tilde;
+name = tildecomb;
 transform = "{1, 0, 0, 1, 69, 0}";
 }
 );
@@ -104915,7 +104915,7 @@ name = u;
 {
 alignment = 1;
 name = tildecomb_acutecomb;
-transform = "{1, 0, 0, 1, 64, 0}";
+transform = "{1, 0, 0, 1, 43, 0}";
 }
 );
 layerId = UUID0;
@@ -104929,7 +104929,7 @@ name = u;
 {
 alignment = 1;
 name = tildecomb_acutecomb;
-transform = "{1, 0, 0, 1, 77, 0}";
+transform = "{1, 0, 0, 1, 58, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -104943,7 +104943,7 @@ name = u;
 {
 alignment = 1;
 name = tildecomb_acutecomb;
-transform = "{1, 0, 0, 1, 100, 0}";
+transform = "{1, 0, 0, 1, 83, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -167430,7 +167430,7 @@ name = u.sc;
 {
 alignment = 1;
 name = tildecomb_acutecomb;
-transform = "{1, 0, 0, 1, 101, 39}";
+transform = "{1, 0, 0, 1, 80, 39}";
 }
 );
 layerId = UUID0;
@@ -167444,7 +167444,7 @@ name = u.sc;
 {
 alignment = 1;
 name = tildecomb_acutecomb;
-transform = "{1, 0, 0, 1, 109, 40}";
+transform = "{1, 0, 0, 1, 90, 40}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -167458,7 +167458,7 @@ name = u.sc;
 {
 alignment = 1;
 name = tildecomb_acutecomb;
-transform = "{1, 0, 0, 1, 128, 41}";
+transform = "{1, 0, 0, 1, 111, 41}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -249793,11 +249793,11 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{191, 452}";
+position = "{212, 452}";
 },
 {
 name = top;
-position = "{191, 669}";
+position = "{245, 727}";
 }
 );
 layerId = UUID0;
@@ -249852,11 +249852,11 @@ width = 386;
 anchors = (
 {
 name = _top;
-position = "{189, 459}";
+position = "{208, 459}";
 },
 {
 name = top;
-position = "{189, 700}";
+position = "{249, 792}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -249911,11 +249911,11 @@ width = 383;
 anchors = (
 {
 name = _top;
-position = "{186, 472}";
+position = "{203, 472}";
 },
 {
 name = top;
-position = "{186, 755}";
+position = "{256, 908}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -254537,11 +254537,11 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{195, 452}";
+position = "{212, 452}";
 },
 {
 name = top;
-position = "{195, 669}";
+position = "{245, 727}";
 }
 );
 components = (
@@ -254556,11 +254556,11 @@ width = 386;
 anchors = (
 {
 name = _top;
-position = "{194, 459}";
+position = "{208, 459}";
 },
 {
 name = top;
-position = "{194, 700}";
+position = "{249, 792}";
 }
 );
 components = (
@@ -254575,11 +254575,11 @@ width = 383;
 anchors = (
 {
 name = _top;
-position = "{193, 472}";
+position = "{203, 472}";
 },
 {
 name = top;
-position = "{193, 755}";
+position = "{256, 908}";
 }
 );
 components = (
