@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "939";
 classes = (
 {
 code = "A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA uni0200 Adieresis uni1EA0 Agrave uni1EA2 uni0202 Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla uni1E08 Ccircumflex Cdotaccent D uni01C4 Eth Dcaron Dcroat uni1E0C uni1E0E uni01C5 E Eacute Ebreve Ecaron uni1E1C Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 uni0204 Edieresis Edotaccent uni1EB8 Egrave uni1EBA uni0206 Emacron uni1E16 uni1E14 Eogonek uni1EBC F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent uni1E20 H Hbar uni1E2A Hcircumflex uni1E24 I IJ Iacute Ibreve uni01CF Icircumflex uni0208 Idieresis uni1E2E Idotaccent uni1ECA Igrave uni1EC8 uni020A Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L uni01C7 Lacute Lcaron Lcommaaccent Ldot uni1E36 uni01C8 uni1E3A Lslash M uni1E42 N uni01CA Nacute Ncaron Ncommaaccent uni1E44 uni1E46 Eng uni01CB uni1E48 Ntilde O Oacute Obreve uni01D1 Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 uni020C Odieresis uni022A uni0230 uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut uni020E Omacron uni1E52 uni1E50 uni01EA Oslash Oslashacute Otilde uni1E4C uni1E4E uni022C OE P Thorn Q R Racute Rcaron Rcommaaccent uni0210 uni1E5A uni0212 uni1E5E S Sacute uni1E64 uniA78B Scaron uni1E66 Scedilla Scircumflex Scommaaccent uni1E60 uni1E62 uni1E68 uni1E9E uni018F T Tbar Tcaron uni0162 uni021A uni1E6C uni1E6E U Uacute Ubreve uni01D3 Ucircumflex uni0214 Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut uni0216 Umacron uni1E7A Uogonek Uring Utilde uni1E78 V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis uni1E8E uni1EF4 Ygrave uni1EF6 uni0232 uni1EF8 Z Zacute Zcaron Zdotaccent uni1E92 Iacute_J.loclNLD uni1E9E.alt Q.corta C.ss01 D.ss01 I.ss01 L.ss01 M.ss01 V.ss01 X.ss01 Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis";
@@ -31,7 +31,8 @@ value = Huer;
 date = "2016-11-02 16:53:59 +0000";
 designer = "Juan Pablo del Peral";
 designerURL = "http://www.huertatipografica.com.ar";
-familyName = "Alegreya Sans";
+disablesAutomaticAlignment = 1;
+familyName = "Alegreya Sans Panos";
 featurePrefixes = (
 {
 code = "# Languagesystems\012languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem latn NLD;\012languagesystem latn CAT;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn KAZ;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn CRT;\012languagesystem latn AZE;";
@@ -3329,7 +3330,6 @@ width = 401;
 unicode = 0385;
 }
 );
-disablesAutomaticAlignment = 1;
 instances = (
 {
 instanceInterpolations = {
