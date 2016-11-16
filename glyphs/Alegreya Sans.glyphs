@@ -1,7 +1,7 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-"/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota k/idotless/kappa y/lambda/mu v/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega"
+/xi
 );
 classes = (
 {
@@ -114976,6 +114976,26 @@ paths = (
 {
 closed = 1;
 nodes = (
+"330 -136 OFFCURVE",
+"386 -86 OFFCURVE",
+"386 -17 CURVE SMOOTH",
+"386 29 OFFCURVE",
+"362 61 OFFCURVE",
+"305 75 CURVE SMOOTH",
+"236 94 LINE SMOOTH",
+"157 115 OFFCURVE",
+"117 155 OFFCURVE",
+"117 217 CURVE SMOOTH",
+"117 290 OFFCURVE",
+"176 337 OFFCURVE",
+"277 337 CURVE SMOOTH",
+"357 337 LINE",
+"363 391 LINE",
+"359 399 LINE",
+"261 399 LINE",
+"180 427 OFFCURVE",
+"141 465 OFFCURVE",
+"141 537 CURVE SMOOTH",
 "141 595 OFFCURVE",
 "194 632 OFFCURVE",
 "266 632 CURVE SMOOTH",
@@ -115008,27 +115028,7 @@ nodes = (
 "279 -82 OFFCURVE",
 "184 -119 CURVE",
 "179 -129 LINE",
-"209 -181 LINE",
-"330 -136 OFFCURVE",
-"386 -86 OFFCURVE",
-"386 -17 CURVE SMOOTH",
-"386 29 OFFCURVE",
-"362 61 OFFCURVE",
-"305 75 CURVE SMOOTH",
-"236 94 LINE SMOOTH",
-"157 115 OFFCURVE",
-"117 155 OFFCURVE",
-"117 217 CURVE SMOOTH",
-"117 290 OFFCURVE",
-"176 337 OFFCURVE",
-"277 337 CURVE SMOOTH",
-"357 337 LINE",
-"363 391 LINE",
-"359 399 LINE",
-"261 399 LINE",
-"180 427 OFFCURVE",
-"141 465 OFFCURVE",
-"141 537 CURVE SMOOTH"
+"209 -181 LINE"
 );
 }
 );
@@ -121365,11 +121365,11 @@ name = omega;
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, 255, 0}";
+transform = "{1, 0, 0, 1, 250, 0}";
 }
 );
 layerId = UUID0;
-width = 691;
+width = 681;
 },
 {
 components = (
@@ -121391,11 +121391,11 @@ name = omega;
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, 295, 0}";
+transform = "{1, 0, 0, 1, 289, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 720;
+width = 707;
 }
 );
 unicode = 03CE;
@@ -121411,11 +121411,11 @@ name = alpha;
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, 172, 0}";
+transform = "{1, 0, 0, 1, 169, 0}";
 }
 );
 layerId = UUID0;
-width = 526;
+width = 519;
 },
 {
 components = (
@@ -121437,11 +121437,11 @@ name = alpha;
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, 219, 0}";
+transform = "{1, 0, 0, 1, 217, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 545;
+width = 539;
 }
 );
 unicode = 03AC;
