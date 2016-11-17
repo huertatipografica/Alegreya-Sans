@@ -1,7 +1,8 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-"/alpha/beta/gamma/delta/epsilon/zeta m/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega"
+/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega,
+"/alpha/alpha/alpha/alpha/alpha/beta/beta/beta/beta/beta/gamma/gamma/gamma/gamma/gamma/delta/delta/delta/delta/delta/epsilon/epsilon e/epsilon/epsilon/epsilon/zeta/zeta/zeta/zeta/zeta/eta/eta/eta/eta/eta/theta/theta/theta/theta/theta/iota/iota/iota/iota/iota/kappa/kappa/kappa/kappa/kappa/lambda/lambda/lambda/lambda/lambda/mu/mu/mu/mu/mu/nu/nu/nu/nu/nu/xi/xi/xi/xi/xi/omicron/omicron/omicron/omicron/omicron/pi/pi/pi/pi/pi/rho/rho/rho/rho/rho/sigmafinal/sigmafinal/sigmafinal/sigmafinal/sigmafinal/sigma/sigma/sigma/sigma/sigma/tau/tau/tau/tau/tau/upsilon/upsilon/upsilon/upsilon/upsilon/phi/phi/phi/phi/phi/chi/chi/chi/chi/chi/psi/psi/psi/psi/psi/omega/omega/omega/omega/omega \012/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega \012/spacingGlyph/alpha/spacingGlyph/beta/spacingGlyph/gamma/spacingGlyph/delta/spacingGlyph/epsilon/spacingGlyph/zeta/spacingGlyph/eta/spacingGlyph/theta/spacingGlyph/iota/spacingGlyph/kappa/spacingGlyph/lambda/spacingGlyph/mu/spacingGlyph/nu/spacingGlyph/xi/spacingGlyph/omicron/spacingGlyph/pi/spacingGlyph/rho/spacingGlyph/sigmafinal/spacingGlyph/sigma/spacingGlyph/tau/spacingGlyph/upsilon/spacingGlyph/phi/spacingGlyph/chi/spacingGlyph/psi/spacingGlyph/omega/spacingGlyph"
 );
 classes = (
 {
@@ -37808,7 +37809,7 @@ nodes = (
 "304 341 OFFCURVE",
 "304 306 CURVE",
 "302 292 LINE",
-"168 286 LINE",
+"168 287 LINE",
 "168 194 LINE",
 "442 196 LINE",
 "463 221 LINE",
@@ -109999,8 +110000,8 @@ nodes = (
 "154 207 OFFCURVE",
 "218 207 CURVE SMOOTH",
 "333 207 LINE",
-"338 259 LINE",
-"334 265 LINE",
+"338 260 LINE",
+"334 266 LINE",
 "195 265 LINE",
 "165 277 OFFCURVE",
 "139 304 OFFCURVE",
