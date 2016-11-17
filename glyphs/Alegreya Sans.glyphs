@@ -1,5 +1,9 @@
 {
 .appVersion = "939";
+DisplayStrings = (
+"/Alphatonos/Alphatonos/Alphatonos/Alphatonos/Alphatonos/Epsilontonos/Epsilontonos/Epsilontonos/Epsilontonos/Epsilontonos/Etatonos/Etatonos/Etatonos/Etatonos/Etatonos/Iotatonos/Iotatonos/Iotatonos/Iotatonos/Iotatonos/Omicrontonos/Omicrontonos/Omicrontonos/Omicrontonos/Omicrontonos/Upsilontonos/Upsilontonos/Upsilontonos/Upsilontonos/Upsilontonos/Omegatonos/Omegatonos/Omegatonos/Omegatonos/Omegatonos/Iotadieresis/Iotadieresis/Iotadieresis/Iotadieresis/Iotadieresis/Upsilondieresis/Upsilondieresis/Upsilondieresis/Upsilondieresis/Upsilondieresis \012A/Alphatonos E/Epsilontonos H/Etatonos I/Iotatonos O/Omicrontonos Y/Upsilontonos/Omega/Omegatonos \012/spacingGlyph/Alphatonos/spacingGlyph/Epsilontonos/spacingGlyph/Etatonos/spacingGlyph/Iotatonos/spacingGlyph/Omicrontonos/spacingGlyph/Upsilontonos/spacingGlyph/Omegatonos/spacingGlyph/Iotadieresis/spacingGlyph/Upsilondieresis/spacingGlyph",
+"AAAAA/Alphatonos/Alphatonos/Alphatonos/Alphatonos/Alphatonos EEEEE/Epsilontonos/Epsilontonos/Epsilontonos/Epsilontonos/Epsilontonos HHHHH/Etatonos/Etatonos/Etatonos/Etatonos/Etatonos IIIII/Iotatonos/Iotatonos/Iotatonos/Iotatonos/Iotatonos OOOOO/Omicrontonos/Omicrontonos/Omicrontonos/Omicrontonos/Omicrontonos YYYYY/Upsilontonos/Upsilontonos/Upsilontonos/Upsilontonos/Upsilontonos/Omega/Omega/Omega/Omega/Omega/Omegatonos/Omegatonos/Omegatonos/Omegatonos/Omegatonos \012A/Alphatonos E/Epsilontonos H/Etatonos I/Iotatonos OH/tonos/Omicron/Omicrontonos HOY/Upsilontonos/Omega/Omegatonos \012/spacingGlyph A/spacingGlyph/Alphatonos/spacingGlyph E/spacingGlyph/Epsilontonos/spacingGlyph H/spacingGlyph/Etatonos/spacingGlyph I/spacingGlyph/Iotatonos/spacingGlyph O/spacingGlyph/Omicrontonos/spacingGlyph Y/spacingGlyph/Upsilontonos/spacingGlyph/Omega/spacingGlyph/Omegatonos/spacingGlyph"
+);
 classes = (
 {
 automatic = 1;
@@ -105283,7 +105287,7 @@ position = "{319, 641}";
 },
 {
 name = topleft;
-position = "{6, 641}";
+position = "{9, 641}";
 }
 );
 components = (
@@ -105302,7 +105306,7 @@ position = "{327, 647}";
 },
 {
 name = topleft;
-position = "{-20, 647}";
+position = "{-10, 647}";
 }
 );
 components = (
@@ -106858,7 +106862,7 @@ position = "{336, 641}";
 },
 {
 name = topleft;
-position = "{7, 641}";
+position = "{14, 641}";
 }
 );
 background = {
@@ -106980,7 +106984,7 @@ position = "{337, 647}";
 },
 {
 name = topleft;
-position = "{-19, 647}";
+position = "{-1, 647}";
 }
 );
 background = {
@@ -107361,15 +107365,15 @@ components = (
 {
 alignment = -1;
 name = Alpha;
-transform = "{1, 0, 0, 1, 51, 0}";
+transform = "{1, 0, 0, 1, 55, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -21, -24}";
+transform = "{1, 0, 0, 1, -17, -24}";
 }
 );
 layerId = UUID0;
-width = 605;
+width = 609;
 },
 {
 components = (
@@ -107414,15 +107418,15 @@ components = (
 {
 alignment = -1;
 name = Epsilon;
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 78, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -52, -24}";
+transform = "{1, 0, 0, 1, -54, -24}";
 }
 );
 layerId = UUID0;
-width = 534;
+width = 532;
 },
 {
 components = (
@@ -107444,15 +107448,15 @@ components = (
 {
 alignment = -1;
 name = Epsilon;
-transform = "{1, 0, 0, 1, 172, 0}";
+transform = "{1, 0, 0, 1, 182, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -20, -85}";
+transform = "{1, 0, 0, 1, -10, -85}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 713;
+width = 723;
 }
 );
 leftMetricsKey = "=Etatonos";
@@ -107468,45 +107472,45 @@ components = (
 {
 alignment = -1;
 name = Eta;
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 78, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -52, -24}";
+transform = "{1, 0, 0, 1, -54, -24}";
 }
 );
 layerId = UUID0;
-width = 750;
+width = 748;
 },
 {
 components = (
 {
 alignment = -1;
 name = Eta;
-transform = "{1, 0, 0, 1, 104, 0}";
+transform = "{1, 0, 0, 1, 124, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -49, -46}";
+transform = "{1, 0, 0, 1, -29, -46}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 789;
+width = 809;
 },
 {
 components = (
 {
 alignment = -1;
 name = Eta;
-transform = "{1, 0, 0, 1, 172, 0}";
+transform = "{1, 0, 0, 1, 182, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -20, -85}";
+transform = "{1, 0, 0, 1, -10, -85}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 883;
+width = 893;
 }
 );
 rightMetricsKey = "=Eta";
@@ -107521,15 +107525,15 @@ components = (
 {
 alignment = -1;
 name = Iota;
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 78, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -52, -24}";
+transform = "{1, 0, 0, 1, -54, -24}";
 }
 );
 layerId = UUID0;
-width = 320;
+width = 318;
 },
 {
 components = (
@@ -107551,15 +107555,15 @@ components = (
 {
 alignment = -1;
 name = Iota;
-transform = "{1, 0, 0, 1, 172, 0}";
+transform = "{1, 0, 0, 1, 182, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -20, -85}";
+transform = "{1, 0, 0, 1, -10, -85}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 499;
+width = 509;
 }
 );
 leftMetricsKey = "=Etatonos";
@@ -107575,15 +107579,15 @@ components = (
 {
 alignment = -1;
 name = Omicron;
-transform = "{1, 0, 0, 1, 86, 0}";
+transform = "{1, 0, 0, 1, 63, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -36, -24}";
+transform = "{1, 0, 0, 1, -59, -24}";
 }
 );
 layerId = UUID0;
-width = 713;
+width = 690;
 },
 {
 components = (
@@ -107594,7 +107598,7 @@ transform = "{1, 0, 0, 1, 95, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -37, -46}";
+transform = "{1, 0, 0, 1, -34, -46}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -107609,7 +107613,7 @@ transform = "{1, 0, 0, 1, 111, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -41, -85}";
+transform = "{1, 0, 0, 1, -31, -85}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -107681,15 +107685,15 @@ components = (
 {
 alignment = -1;
 name = Omega;
-transform = "{1, 0, 0, 1, 76, 0}";
+transform = "{1, 0, 0, 1, 78, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -44, -24}";
+transform = "{1, 0, 0, 1, -42, -24}";
 }
 );
 layerId = UUID0;
-width = 748;
+width = 750;
 },
 {
 components = (
@@ -107700,7 +107704,7 @@ transform = "{1, 0, 0, 1, 85, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -46, -46}";
+transform = "{1, 0, 0, 1, -39, -46}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -107715,7 +107719,7 @@ transform = "{1, 0, 0, 1, 101, 0}";
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, -50, -85}";
+transform = "{1, 0, 0, 1, -32, -85}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
