@@ -1,7 +1,7 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-/ypogegrammenicomb/tonos/dieresistonos/varia/psili/dasia/psilivaria/dasiavaria/psilioxia/varia/dasiaoxia/perispomeni/psili/dasia/psiliperispomeni/dasia/dasiaperispomeni/dialytikaperispomeni/dialytikavaria/dialytikaoxia/dialytikavaria/varia/perispomeni/psili.case/dasia.case/psilivaria.case/dasiavaria.case/psilioxia.case/dasiaoxia.case/psiliperispomeni.case/dasiaperispomeni.case/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb
+/ypogegrammenicomb/tonos/dieresistonos/varia/psili/dasia/psilivaria/dasiavaria/psilioxia/varia/dasiaoxia/perispomeni/psili/dasia/perispomeni/psiliperispomeni/dasia/dasiaperispomeni/dialytikaperispomeni/dialytikavaria/dialytikaoxia/dialytikavaria/varia/perispomeni/psili.case/dasia.case/psilivaria.case/dasiavaria.case/psilioxia.case/dasiaoxia.case/psiliperispomeni.case/dasiaperispomeni.case
 );
 classes = (
 {
@@ -189751,11 +189751,11 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{195, 452}";
+position = "{194, 452}";
 },
 {
 name = top;
-position = "{195, 601}";
+position = "{194, 599}";
 }
 );
 background = {
@@ -189794,42 +189794,42 @@ paths = (
 {
 closed = 1;
 nodes = (
-"321 631 LINE",
-"294 607 OFFCURVE",
-"281 590 OFFCURVE",
-"270 590 CURVE",
-"245 590 OFFCURVE",
-"152 625 OFFCURVE",
-"115 629 CURVE",
-"109 627 LINE",
+"320 630 LINE",
+"293 606 OFFCURVE",
+"280 589 OFFCURVE",
+"270 589 CURVE",
+"245 589 OFFCURVE",
+"151 624 OFFCURVE",
+"115 628 CURVE",
+"109 626 LINE",
 "56 579 LINE",
 "56 575 LINE",
-"65 564 LINE",
-"69 564 LINE",
-"96 588 OFFCURVE",
-"109 605 OFFCURVE",
-"120 605 CURVE",
-"145 605 OFFCURVE",
-"238 570 OFFCURVE",
-"275 566 CURVE",
-"281 568 LINE",
-"334 616 LINE",
-"334 620 LINE",
-"325 631 LINE"
+"64 564 LINE",
+"68 564 LINE",
+"95 588 OFFCURVE",
+"108 605 OFFCURVE",
+"119 605 CURVE",
+"144 605 OFFCURVE",
+"237 570 OFFCURVE",
+"274 566 CURVE",
+"280 568 LINE",
+"333 615 LINE",
+"333 619 LINE",
+"324 630 LINE"
 );
 }
 );
-width = 390;
+width = 389;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{195, 459}";
+position = "{194, 459}";
 },
 {
 name = top;
-position = "{195, 671}";
+position = "{194, 650}";
 }
 );
 background = {
@@ -189868,28 +189868,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"320 671 LINE",
-"294 645 OFFCURVE",
-"278 624 OFFCURVE",
-"262 624 CURVE",
-"237 624 OFFCURVE",
-"150 656 OFFCURVE",
-"108 661 CURVE",
+"319 670 LINE",
+"293 644 OFFCURVE",
+"277 623 OFFCURVE",
+"262 623 CURVE",
+"236 623 OFFCURVE",
+"149 655 OFFCURVE",
+"107 660 CURVE",
 "98 657 LINE",
 "35 586 LINE",
 "35 578 LINE",
-"61 551 LINE",
-"70 551 LINE",
-"95 576 OFFCURVE",
-"111 598 OFFCURVE",
-"127 598 CURVE",
-"153 598 OFFCURVE",
-"239 566 OFFCURVE",
+"60 551 LINE",
+"69 551 LINE",
+"94 576 OFFCURVE",
+"110 598 OFFCURVE",
+"126 598 CURVE",
+"152 598 OFFCURVE",
+"238 566 OFFCURVE",
 "281 561 CURVE",
-"291 564 LINE",
-"354 636 LINE",
-"354 644 LINE",
-"328 671 LINE"
+"290 564 LINE",
+"353 635 LINE",
+"353 643 LINE",
+"327 670 LINE"
 );
 }
 );
@@ -200879,14 +200879,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"280 671 LINE",
-"259 645 OFFCURVE",
-"245 624 OFFCURVE",
-"230 624 CURVE",
-"208 624 OFFCURVE",
-"136 655 OFFCURVE",
+"280 670 LINE",
+"259 644 OFFCURVE",
+"245 623 OFFCURVE",
+"230 623 CURVE",
+"208 623 OFFCURVE",
+"136 654 OFFCURVE",
 "99 660 CURVE",
-"90 657 LINE",
+"90 656 LINE",
 "35 586 LINE",
 "35 578 LINE",
 "61 551 LINE",
@@ -200898,9 +200898,9 @@ nodes = (
 "212 566 OFFCURVE",
 "250 561 CURVE",
 "258 565 LINE",
-"314 636 LINE",
-"314 644 LINE",
-"288 671 LINE"
+"313 636 LINE",
+"313 644 LINE",
+"288 670 LINE"
 );
 }
 );
@@ -201019,14 +201019,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"282 631 LINE",
-"259 607 OFFCURVE",
-"248 590 OFFCURVE",
-"238 590 CURVE",
-"217 590 OFFCURVE",
-"138 624 OFFCURVE",
-"106 628 CURVE",
-"101 626 LINE",
+"282 630 LINE",
+"259 606 OFFCURVE",
+"248 589 OFFCURVE",
+"238 589 CURVE",
+"217 589 OFFCURVE",
+"138 623 OFFCURVE",
+"106 627 CURVE",
+"101 625 LINE",
 "56 579 LINE",
 "56 575 LINE",
 "65 564 LINE",
@@ -201037,14 +201037,14 @@ nodes = (
 "133 605 OFFCURVE",
 "212 571 OFFCURVE",
 "244 567 CURVE",
-"249 569 LINE",
-"294 616 LINE",
-"294 620 LINE",
-"285 631 LINE"
+"248 569 LINE",
+"293 616 LINE",
+"293 620 LINE",
+"285 630 LINE"
 );
 }
 );
-width = 350;
+width = 349;
 }
 );
 leftMetricsKey = tilde;
@@ -204308,7 +204308,7 @@ name = circumflexcomb.case;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 0, 112}";
+transform = "{1, 0, 0, 1, 1, 112}";
 }
 );
 layerId = UUID0;
@@ -204384,7 +204384,7 @@ name = circumflexcomb.case;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -1, 148}";
+transform = "{1, 0, 0, 1, 0, 148}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
