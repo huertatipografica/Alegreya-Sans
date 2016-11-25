@@ -1,5 +1,8 @@
 {
 .appVersion = "939";
+DisplayStrings = (
+"/gamma.sc/gamma.sc/gamma.sc/gamma.sc/gamma.sc/delta.sc/delta.sc/delta.sc/delta.sc/delta.sc/theta.sc/theta.sc/theta.sc/theta.sc/theta.sc/lambda.sc/lambda.sc/lambda.sc/lambda.sc/lambda.sc/xi.sc/xi.sc/xi.sc/xi.sc/xi.sc/pi.sc/pi.sc/pi.sc/pi.sc/pi.sc/sigma.sc/sigma.sc/sigma.sc/sigma.sc/sigma.sc/phi.sc/phi.sc/phi.sc/phi.sc/phi.sc/psi.sc/psi.sc/psi.sc/psi.sc/psi.sc/omega.sc/omega.sc/omega.sc/omega.sc/omega.sc \012/gamma.sc/delta.sc/theta.sc/lambda.sc/xi.sc/pi.sc/sigma.sc/phi.sc/psi.sc/omega.sc \012/spacingGlyph/gamma.sc/spacingGlyph/delta.sc/spacingGlyph/theta.sc/spacingGlyph/lambda.sc/spacingGlyph/xi.sc/spacingGlyph/pi.sc/spacingGlyph/sigma.sc/spacingGlyph/phi.sc/spacingGlyph/psi.sc/spacingGlyph/omega.sc/spacingGlyph"
+);
 classes = (
 {
 automatic = 1;
@@ -140239,93 +140242,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"69 589 OFFCURVE",
-"64 543 OFFCURVE",
-"55 480 CURVE",
-"100 485 LINE",
-"123 565 OFFCURVE",
-"139 576 OFFCURVE",
-"230 576 CURVE SMOOTH",
-"392 576 LINE SMOOTH",
-"463 576 OFFCURVE",
-"473 563 OFFCURVE",
-"467 479 CURVE",
-"518 483 LINE",
-"520 527 OFFCURVE",
-"529 588 OFFCURVE",
-"542 643 CURVE",
-"539 649 LINE",
-"487 639 OFFCURVE",
-"429 636 OFFCURVE",
-"293 636 CURVE",
-"86 641 LINE",
-"71 627 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"290 2 LINE",
-"522 -3 LINE",
-"537 12 LINE",
-"541 73 OFFCURVE",
-"546 124 OFFCURVE",
-"551 155 CURVE",
-"547 159 LINE",
-"507 155 LINE",
-"485 74 OFFCURVE",
-"468 62 OFFCURVE",
-"378 62 CURVE SMOOTH",
-"212 62 LINE SMOOTH",
-"121 62 OFFCURVE",
-"103 75 OFFCURVE",
-"82 159 CURVE",
-"44 153 LINE",
-"41 147 LINE",
-"47 122 OFFCURVE",
-"51 75 OFFCURVE",
-"53 12 CURVE",
-"68 -3 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"131 336 OFFCURVE",
-"124 285 OFFCURVE",
-"115 241 CURVE",
-"118 235 LINE",
-"162 238 LINE",
-"169 283 OFFCURVE",
-"181 293 OFFCURVE",
-"222 293 CURVE SMOOTH",
-"361 293 LINE SMOOTH",
-"408 293 OFFCURVE",
-"407 283 OFFCURVE",
-"403 234 CURVE",
-"451 236 LINE",
-"456 289 OFFCURVE",
-"464 344 OFFCURVE",
-"475 405 CURVE",
-"472 410 LINE",
-"426 407 LINE",
-"420 365 OFFCURVE",
-"406 353 OFFCURVE",
-"367 353 CURVE SMOOTH",
-"228 353 LINE SMOOTH",
-"186 353 OFFCURVE",
-"179 362 OFFCURVE",
-"185 408 CURVE",
-"138 405 LINE"
-);
-}
-);
-};
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-paths = (
-{
-closed = 1;
-nodes = (
 "431 0 LINE",
 "439 68 LINE",
 "432 76 LINE",
@@ -140358,6 +140274,47 @@ nodes = (
 "71 501 LINE",
 "64 433 LINE",
 "70 425 LINE"
+);
+}
+);
+};
+layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
+paths = (
+{
+closed = 1;
+nodes = (
+"431 0 LINE",
+"439 68 LINE",
+"432 76 LINE",
+"245 73 LINE",
+"68 76 LINE",
+"62 68 LINE",
+"68 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"246 218 LINE",
+"390 217 LINE",
+"396 285 LINE",
+"391 292 LINE",
+"252 290 LINE",
+"107 292 LINE",
+"100 224 LINE",
+"106 217 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"250 426 LINE",
+"431 423 LINE",
+"438 492 LINE",
+"432 499 LINE",
+"71 499 LINE",
+"64 431 LINE",
+"70 423 LINE"
 );
 }
 );
@@ -140454,42 +140411,42 @@ paths = (
 {
 closed = 1;
 nodes = (
-"461 0 LINE",
-"473 132 LINE",
-"462 144 LINE",
-"250 138 LINE",
-"45 144 LINE",
-"35 132 LINE",
+"462 0 LINE",
+"474 133 LINE",
+"463 145 LINE",
+"251 139 LINE",
+"45 145 LINE",
+"35 133 LINE",
 "46 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"264 187 LINE",
-"412 185 LINE",
-"423 316 LINE",
-"413 328 LINE",
-"264 325 LINE",
-"92 328 LINE",
-"80 197 LINE",
-"91 185 LINE"
+"265 186 LINE",
+"413 184 LINE",
+"424 317 LINE",
+"414 329 LINE",
+"265 326 LINE",
+"92 329 LINE",
+"80 196 LINE",
+"91 184 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"265 374 LINE",
-"463 369 LINE",
-"475 501 LINE",
-"465 513 LINE",
+"266 373 LINE",
+"464 368 LINE",
+"476 501 LINE",
+"466 513 LINE",
 "48 513 LINE",
-"35 382 LINE",
-"46 369 LINE"
+"35 381 LINE",
+"46 368 LINE"
 );
 }
 );
-width = 508;
+width = 509;
 userData = {
 RMXScaler = {
 adjustSpace = 7;
