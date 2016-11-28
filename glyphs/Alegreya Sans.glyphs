@@ -3,8 +3,7 @@
 DisplayStrings = (
 /gamma.sc/delta.sc/theta.sc/o.sc/lambda.sc/xi.sc/pi.sc/sigma.sc/phi.sc/psi.sc/omega.sc,
 "/theta.sc/theta.sc/theta.sc/theta.sc/theta.sc/o.sc/o.sc/o.sc/o.sc/o.sc \012/theta.sc/o.sc O/Theta \012/spacingGlyph/theta.sc/spacingGlyph/o.sc/spacingGlyph",
-/a.sc/ae.sc/b.sc/c.sc/d.sc/eth.sc/e.sc/schwa.sc/f.sc/g.sc/h.sc/hbar.sc/i.sc/j.sc/k.sc/l.sc/lcaron.sc/ldot.sc/lslash.sc/m.sc/n.sc/eng.sc/omega.sc/o.sc/ohorn.sc/oslash.sc/oe.sc/p.sc/thorn.sc/q.sc/r.sc/s.sc/germandbls.sc/t.sc/tbar.sc/tcedilla.sc/u.sc/uhorn.sc/v.sc/w.sc/x.sc/y.sc/z.sc/gamma.sc/delta.sc/theta.sc/lambda.sc/xi.sc/pi.sc/sigma.sc/phi.sc/psi.sc/omega.sc/exclam.sc/question.sc/ampersand.sc,
-/omega.sc/o.sc
+/a.sc/ae.sc/b.sc/c.sc/d.sc/eth.sc/e.sc/schwa.sc/f.sc/g.sc/h.sc/hbar.sc/i.sc/j.sc/k.sc/l.sc/lcaron.sc/ldot.sc/lslash.sc/m.sc/n.sc/eng.sc/omega.sc/o.sc/ohorn.sc/oslash.sc/oe.sc/p.sc/thorn.sc/q.sc/r.sc/s.sc/germandbls.sc/t.sc/tbar.sc/tcedilla.sc/u.sc/uhorn.sc/v.sc/w.sc/x.sc/y.sc/z.sc/gamma.sc/delta.sc/theta.sc/lambda.sc/xi.sc/pi.sc/sigma.sc/phi.sc/psi.sc/omega.sc/exclam.sc/question.sc/ampersand.sc
 );
 classes = (
 {
@@ -141851,50 +141850,50 @@ paths = (
 {
 closed = 1;
 nodes = (
-"570 20 OFFCURVE",
-"692 82 OFFCURVE",
-"692 264 CURVE SMOOTH",
-"692 421 OFFCURVE",
-"583 495 OFFCURVE",
-"366 495 CURVE SMOOTH",
-"140 495 OFFCURVE",
-"20 433 OFFCURVE",
+"566 21 OFFCURVE",
+"688 83 OFFCURVE",
+"688 264 CURVE SMOOTH",
+"688 420 OFFCURVE",
+"579 494 OFFCURVE",
+"364 494 CURVE SMOOTH",
+"139 494 OFFCURVE",
+"20 432 OFFCURVE",
 "20 250 CURVE SMOOTH",
-"20 93 OFFCURVE",
-"129 20 OFFCURVE",
-"345 20 CURVE SMOOTH"
+"20 94 OFFCURVE",
+"128 21 OFFCURVE",
+"343 21 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"238 150 OFFCURVE",
-"196 169 OFFCURVE",
-"196 258 CURVE SMOOTH",
-"196 341 OFFCURVE",
-"237 363 OFFCURVE",
-"350 363 CURVE SMOOTH",
-"477 363 OFFCURVE",
-"516 338 OFFCURVE",
+"235 148 OFFCURVE",
+"192 168 OFFCURVE",
+"192 258 CURVE SMOOTH",
+"192 342 OFFCURVE",
+"234 365 OFFCURVE",
+"348 365 CURVE SMOOTH",
+"476 365 OFFCURVE",
+"516 339 OFFCURVE",
 "516 249 CURVE SMOOTH",
-"516 166 OFFCURVE",
-"473 150 OFFCURVE",
-"363 150 CURVE SMOOTH"
+"516 165 OFFCURVE",
+"471 148 OFFCURVE",
+"360 148 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"438 -27 LINE",
-"432 167 LINE",
-"440 535 LINE",
-"272 535 LINE",
-"280 150 LINE",
+"434 -27 LINE",
+"428 167 LINE",
+"436 534 LINE",
+"272 534 LINE",
+"279 150 LINE",
 "272 -27 LINE"
 );
 }
 );
-width = 711;
+width = 707;
 userData = {
 RMXScaler = {
 adjustSpace = 7;
