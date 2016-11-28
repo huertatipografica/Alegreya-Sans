@@ -1,5 +1,8 @@
 {
 .appVersion = "939";
+DisplayStrings = (
+"/lowernumeral-greek i/ypogegrammenicomb"
+);
 classes = (
 {
 automatic = 1;
@@ -222673,12 +222676,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"142 -217 LINE",
-"129 -41 LINE",
+"141 -217 LINE",
+"130 -42 LINE",
 "123 -35 LINE",
-"79 -39 LINE",
-"72 -216 LINE",
-"78 -222 LINE"
+"80 -39 LINE",
+"71 -216 LINE",
+"77 -221 LINE"
 );
 }
 );
@@ -222696,17 +222699,10 @@ position = "{112, -239}";
 }
 );
 background = {
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"183 -231 LINE",
-"174 -59 LINE",
-"160 -49 LINE",
-"59 -59 LINE",
-"28 -228 LINE",
-"38 -239 LINE"
-);
+name = idotless;
+transform = "{1, 0, 0, 1, -30, -290}";
 }
 );
 };
@@ -222715,12 +222711,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"189 -230 LINE",
-"161 -44 LINE",
-"147 -31 LINE",
-"51 -41 LINE",
-"34 -228 LINE",
-"46 -239 LINE"
+"187 -231 LINE",
+"163 -45 LINE",
+"149 -32 LINE",
+"53 -40 LINE",
+"32 -227 LINE",
+"44 -238 LINE"
 );
 }
 );
