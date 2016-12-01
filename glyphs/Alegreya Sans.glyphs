@@ -1,8 +1,5 @@
 {
 .appVersion = "939";
-DisplayStrings = (
-/alpha.sc/beta.sc/epsilon.sc/zeta.sc/eta.sc/iota.sc/kappa.sc/mu.sc/nu.sc/omicron.sc/rho.sc/sigmafinal.sc/tau.sc/chi.sc/iotatonos.sc/iotadieresis.sc/iotadieresistonos.sc/upsilontonos.sc/upsilondieresis.sc/upsilondieresistonos.sc/omicrontonos.sc/omegatonos.sc/alphatonos.sc/epsilontonos.sc/etatonos.sc/alphapsili.sc/alphadasia.sc/alphapsilivaria.sc/alphadasiavaria.sc/alphapsilioxia.sc/alphadasiaoxia.sc/alphapsiliperispomeni.sc/alphadasiaperispomeni.sc/alphavaria.sc/alphaoxia.sc/alphaperispomeni.sc/alphavrachy.sc/alphamacron.sc/alphaypogegrammeni.sc/alphavariaypogegrammeni.sc/alphaoxiaypogegrammeni.sc/alphapsiliypogegrammeni.sc/alphadasiaypogegrammeni.sc/alphapsilivariaypogegrammeni.sc/alphadasiavariaypogegrammeni.sc/alphapsilioxiaypogegrammeni.sc/alphadasiaoxiaypogegrammeni.sc/alphapsiliperispomeniypogegrammeni.sc/alphadasiaperispomeniypogegrammeni.sc/alphaperispomeniypogegrammeni.sc/epsilonpsili.sc/epsilondasia.sc/epsilonpsilivaria.sc/epsilondasiavaria.sc/epsilonpsilioxia.sc/epsilondasiaoxia.sc/epsilonvaria.sc/epsilonoxia.sc/etapsili.sc/etadasia.sc/etapsilivaria.sc/etadasiavaria.sc/etapsilioxia.sc/etadasiaoxia.sc/etapsiliperispomeni.sc/etadasiaperispomeni.sc/etavaria.sc/etaoxia.sc/etaperispomeni.sc/etaypogegrammeni.sc/etavariaypogegrammeni.sc/etaoxiaypogegrammeni.sc/etapsiliypogegrammeni.sc/etadasiaypogegrammeni.sc/etapsilivariaypogegrammeni.sc/etadasiavariaypogegrammeni.sc/etapsilioxiaypogegrammeni.sc/etadasiaoxiaypogegrammeni.sc/etapsiliperispomeniypogegrammeni.sc/etadasiaperispomeniypogegrammeni.sc/etaperispomeniypogegrammeni.sc/iotapsili.sc/iotadasia.sc/iotapsilivaria.sc/iotadasiavaria.sc/iotapsilioxia.sc/iotadasiaoxia.sc/iotapsiliperispomeni.sc/iotadasiaperispomeni.sc/iotavaria.sc/iotaoxia.sc/iotaperispomeni.sc/iotavrachy.sc/iotamacron.sc/iotadialytikavaria.sc/iotadialytikaoxia.sc/iotadialytikaperispomeni.sc/omicronpsili.sc/omicrondasia.sc/omicronpsilivaria.sc/omicrondasiavaria.sc/omicronpsilioxia.sc/omicrondasiaoxia.sc/omicronvaria.sc/omicronoxia.sc/rhopsili.sc/rhodasia.sc/upsilonpsili.sc/upsilondasia.sc/upsilonpsilivaria.sc/upsilondasiavaria.sc/upsilonpsilioxia.sc/upsilondasiaoxia.sc/upsilonpsiliperispomeni.sc/upsilondasiaperispomeni.sc/upsilonvaria.sc/upsilonoxia.sc/upsilonperispomeni.sc/upsilonvrachy.sc/upsilonmacron.sc/upsilondialytikavaria.sc/upsilondialytikaoxia.sc/upsilondialytikaperispomeni.sc/omegapsili.sc/omegadasia.sc/omegapsilivaria.sc/omegadasiavaria.sc/omegapsilioxia.sc/omegadasiaoxia.sc/omegapsiliperispomeni.sc/omegadasiaperispomeni.sc/omegavaria.sc/omegaoxia.sc/omegaperispomeni.sc/omegaypogegrammeni.sc/omegavariaypogegrammeni.sc/omegaoxiaypogegrammeni.sc/omegapsiliypogegrammeni.sc/omegadasiaypogegrammeni.sc/omegapsilivariaypogegrammeni.sc/omegadasiavariaypogegrammeni.sc/omegapsilioxiaypogegrammeni.sc/omegadasiaoxiaypogegrammeni.sc/omegapsiliperispomeniypogegrammeni.sc/omegadasiaperispomeniypogegrammeni.sc/omegaperispomeniypogegrammeni.sc/iotatonos.sc.ss05/iotadieresistonos.sc.ss05/upsilontonos.sc.ss05/upsilondieresistonos.sc.ss05/omicrontonos.sc.ss05/omegatonos.sc.ss05/alphatonos.sc.ss05/epsilontonos.sc.ss05/etatonos.sc.ss05/alphapsili.sc.ss05/alphadasia.sc.ss05/alphapsilivaria.sc.ss05/alphadasiavaria.sc.ss05/alphapsilioxia.sc.ss05/alphadasiaoxia.sc.ss05/alphapsiliperispomeni.sc.ss05/alphadasiaperispomeni.sc.ss05/alphavaria.sc.ss05/alphaoxia.sc.ss05/alphaperispomeni.sc.ss05/alphavrachy.sc.ss05/alphamacron.sc.ss05/alphaypogegrammeni.sc.ss05/alphavariaypogegrammeni.sc.ss05/alphaoxiaypogegrammeni.sc.ss05/alphapsiliypogegrammeni.sc.ss05/alphadasiaypogegrammeni.sc.ss05/alphapsilivariaypogegrammeni.sc.ss05/alphadasiavariaypogegrammeni.sc.ss05/alphapsilioxiaypogegrammeni.sc.ss05/alphadasiaoxiaypogegrammeni.sc.ss05/alphapsiliperispomeniypogegrammeni.sc.ss05/alphadasiaperispomeniypogegrammeni.sc.ss05/alphaperispomeniypogegrammeni.sc.ss05/epsilonpsili.sc.ss05/epsilondasia.sc.ss05/epsilonpsilivaria.sc.ss05/epsilondasiavaria.sc.ss05/epsilonpsilioxia.sc.ss05/epsilondasiaoxia.sc.ss05/epsilonvaria.sc.ss05/epsilonoxia.sc.ss05/etapsili.sc.ss05/etadasia.sc.ss05/etapsilivaria.sc.ss05/etadasiavaria.sc.ss05/etapsilioxia.sc.ss05/etadasiaoxia.sc.ss05/etapsiliperispomeni.sc.ss05/etadasiaperispomeni.sc.ss05/etavaria.sc.ss05/etaoxia.sc.ss05/etaperispomeni.sc.ss05/etaypogegrammeni.sc.ss05/etavariaypogegrammeni.sc.ss05/etaoxiaypogegrammeni.sc.ss05/etapsiliypogegrammeni.sc.ss05/etadasiaypogegrammeni.sc.ss05/etapsilivariaypogegrammeni.sc.ss05/etadasiavariaypogegrammeni.sc.ss05/etapsilioxiaypogegrammeni.sc.ss05/etadasiaoxiaypogegrammeni.sc.ss05/etapsiliperispomeniypogegrammeni.sc.ss05/etadasiaperispomeniypogegrammeni.sc.ss05/etaperispomeniypogegrammeni.sc.ss05/iotapsili.sc.ss05/iotadasia.sc.ss05/iotapsilivaria.sc.ss05/iotadasiavaria.sc.ss05/iotapsilioxia.sc.ss05/iotadasiaoxia.sc.ss05/iotapsiliperispomeni.sc.ss05/iotadasiaperispomeni.sc.ss05/iotavaria.sc.ss05/iotaoxia.sc.ss05/iotaperispomeni.sc.ss05/iotavrachy.sc.ss05/iotamacron.sc.ss05/iotadialytikavaria.sc.ss05/iotadialytikaoxia.sc.ss05/iotadialytikaperispomeni.sc.ss05/omicronpsili.sc.ss05/omicrondasia.sc.ss05/omicronpsilivaria.sc.ss05/omicrondasiavaria.sc.ss05/omicronpsilioxia.sc.ss05/omicrondasiaoxia.sc.ss05/omicronvaria.sc.ss05/omicronoxia.sc.ss05/rhopsili.sc.ss05/rhodasia.sc.ss05/upsilonpsili.sc.ss05/upsilondasia.sc.ss05/upsilonpsilivaria.sc.ss05/upsilondasiavaria.sc.ss05/upsilonpsilioxia.sc.ss05/upsilondasiaoxia.sc.ss05/upsilonpsiliperispomeni.sc.ss05/upsilondasiaperispomeni.sc.ss05/upsilonvaria.sc.ss05/upsilonoxia.sc.ss05/upsilonperispomeni.sc.ss05/upsilonvrachy.sc.ss05/upsilonmacron.sc.ss05/upsilondialytikavaria.sc.ss05/upsilondialytikaoxia.sc.ss05/upsilondialytikaperispomeni.sc.ss05/omegapsili.sc.ss05/omegadasia.sc.ss05/omegapsilivaria.sc.ss05/omegadasiavaria.sc.ss05/omegapsilioxia.sc.ss05/omegadasiaoxia.sc.ss05/omegapsiliperispomeni.sc.ss05/omegadasiaperispomeni.sc.ss05/omegavaria.sc.ss05/omegaoxia.sc.ss05/omegaperispomeni.sc.ss05/omegaypogegrammeni.sc.ss05/omegavariaypogegrammeni.sc.ss05/omegaoxiaypogegrammeni.sc.ss05/omegapsiliypogegrammeni.sc.ss05/omegadasiaypogegrammeni.sc.ss05/omegapsilivariaypogegrammeni.sc.ss05/omegadasiavariaypogegrammeni.sc.ss05/omegapsilioxiaypogegrammeni.sc.ss05/omegadasiaoxiaypogegrammeni.sc.ss05/omegapsiliperispomeniypogegrammeni.sc.ss05/omegadasiaperispomeniypogegrammeni.sc.ss05/omegaperispomeniypogegrammeni.sc.ss05
-);
 classes = (
 {
 automatic = 1;
@@ -108142,6 +108139,7 @@ width = 594;
 unicode = 03AB;
 },
 {
+color = 10;
 glyphname = Alphapsili;
 layers = (
 {
@@ -108198,6 +108196,7 @@ rightMetricsKey = Alpha;
 unicode = 1F08;
 },
 {
+color = 10;
 glyphname = Alphadasia;
 layers = (
 {
@@ -108254,6 +108253,7 @@ rightMetricsKey = Alpha;
 unicode = 1F09;
 },
 {
+color = 10;
 glyphname = Alphapsilivaria;
 layers = (
 {
@@ -108310,6 +108310,7 @@ rightMetricsKey = Alpha;
 unicode = 1F0A;
 },
 {
+color = 10;
 glyphname = Alphadasiavaria;
 layers = (
 {
@@ -108366,6 +108367,7 @@ rightMetricsKey = Alpha;
 unicode = 1F0B;
 },
 {
+color = 10;
 glyphname = Alphapsilioxia;
 layers = (
 {
@@ -108422,6 +108424,7 @@ rightMetricsKey = Alpha;
 unicode = 1F0C;
 },
 {
+color = 10;
 glyphname = Alphadasiaoxia;
 layers = (
 {
@@ -108478,6 +108481,7 @@ rightMetricsKey = Alpha;
 unicode = 1F0D;
 },
 {
+color = 10;
 glyphname = Alphapsiliperispomeni;
 layers = (
 {
@@ -108534,6 +108538,7 @@ rightMetricsKey = Alpha;
 unicode = 1F0E;
 },
 {
+color = 10;
 glyphname = Alphadasiaperispomeni;
 layers = (
 {
@@ -108590,6 +108595,7 @@ rightMetricsKey = Alpha;
 unicode = 1F0F;
 },
 {
+color = 10;
 glyphname = Alphavaria;
 layers = (
 {
@@ -108646,6 +108652,7 @@ rightMetricsKey = A;
 unicode = 1FBA;
 },
 {
+color = 10;
 glyphname = Alphaoxia;
 layers = (
 {
@@ -108702,6 +108709,7 @@ rightMetricsKey = A;
 unicode = 1FBB;
 },
 {
+color = 10;
 glyphname = Alphavrachy;
 layers = (
 {
@@ -108753,6 +108761,7 @@ width = 627;
 unicode = 1FB8;
 },
 {
+color = 10;
 glyphname = Alphamacron;
 layers = (
 {
@@ -108804,6 +108813,7 @@ width = 627;
 unicode = 1FB9;
 },
 {
+color = 10;
 glyphname = Alphaprosgegrammeni;
 layers = (
 {
@@ -108856,6 +108866,7 @@ leftMetricsKey = "=Alphatonos";
 unicode = 1FBC;
 },
 {
+color = 10;
 glyphname = Alphapsiliprosgegrammeni;
 layers = (
 {
@@ -108922,6 +108933,7 @@ rightMetricsKey = "=Alphaprosgegrammeni";
 unicode = 1F88;
 },
 {
+color = 10;
 glyphname = Alphadasiaprosgegrammeni;
 layers = (
 {
@@ -108990,6 +109002,7 @@ rightMetricsKey = "=Alphaprosgegrammeni";
 unicode = 1F89;
 },
 {
+color = 10;
 glyphname = Alphapsilivariaprosgegrammeni;
 layers = (
 {
@@ -109058,6 +109071,7 @@ rightMetricsKey = "=Alphaprosgegrammeni";
 unicode = 1F8A;
 },
 {
+color = 10;
 glyphname = Alphadasiavariaprosgegrammeni;
 layers = (
 {
@@ -109126,6 +109140,7 @@ rightMetricsKey = "=Alphaprosgegrammeni";
 unicode = 1F8B;
 },
 {
+color = 10;
 glyphname = Alphapsilioxiaprosgegrammeni;
 layers = (
 {
@@ -109194,6 +109209,7 @@ rightMetricsKey = "=Alphaprosgegrammeni";
 unicode = 1F8C;
 },
 {
+color = 10;
 glyphname = Alphadasiaoxiaprosgegrammeni;
 layers = (
 {
@@ -109262,6 +109278,7 @@ rightMetricsKey = "=Alphaprosgegrammeni";
 unicode = 1F8D;
 },
 {
+color = 10;
 glyphname = Alphapsiliperispomeniprosgegrammeni;
 layers = (
 {
@@ -109330,6 +109347,7 @@ rightMetricsKey = "=Alphaprosgegrammeni";
 unicode = 1F8E;
 },
 {
+color = 10;
 glyphname = Alphadasiaperispomeniprosgegrammeni;
 layers = (
 {
@@ -109398,6 +109416,7 @@ rightMetricsKey = "=Alphaprosgegrammeni";
 unicode = 1F8F;
 },
 {
+color = 10;
 glyphname = Epsilonpsili;
 layers = (
 {
@@ -109454,6 +109473,7 @@ rightMetricsKey = Epsilon;
 unicode = 1F18;
 },
 {
+color = 10;
 glyphname = Epsilondasia;
 layers = (
 {
@@ -109510,6 +109530,7 @@ rightMetricsKey = Epsilon;
 unicode = 1F19;
 },
 {
+color = 10;
 glyphname = Epsilonpsilivaria;
 layers = (
 {
@@ -109566,6 +109587,7 @@ rightMetricsKey = E;
 unicode = 1F1A;
 },
 {
+color = 10;
 glyphname = Epsilondasiavaria;
 layers = (
 {
@@ -109622,6 +109644,7 @@ rightMetricsKey = E;
 unicode = 1F1B;
 },
 {
+color = 10;
 glyphname = Epsilonpsilioxia;
 layers = (
 {
@@ -109678,6 +109701,7 @@ rightMetricsKey = E;
 unicode = 1F1C;
 },
 {
+color = 10;
 glyphname = Epsilondasiaoxia;
 layers = (
 {
@@ -109734,6 +109758,7 @@ rightMetricsKey = E;
 unicode = 1F1D;
 },
 {
+color = 10;
 glyphname = Epsilonvaria;
 layers = (
 {
@@ -109790,6 +109815,7 @@ rightMetricsKey = E;
 unicode = 1FC8;
 },
 {
+color = 10;
 glyphname = Epsilonoxia;
 layers = (
 {
@@ -109846,6 +109872,7 @@ rightMetricsKey = E;
 unicode = 1FC9;
 },
 {
+color = 10;
 glyphname = Etapsili;
 layers = (
 {
@@ -109900,6 +109927,7 @@ rightMetricsKey = Eta;
 unicode = 1F28;
 },
 {
+color = 10;
 glyphname = Etadasia;
 layers = (
 {
@@ -109954,6 +109982,7 @@ rightMetricsKey = H;
 unicode = 1F29;
 },
 {
+color = 10;
 glyphname = Etapsilivaria;
 layers = (
 {
@@ -110008,6 +110037,7 @@ rightMetricsKey = H;
 unicode = 1F2A;
 },
 {
+color = 10;
 glyphname = Etadasiavaria;
 layers = (
 {
@@ -110062,6 +110092,7 @@ rightMetricsKey = H;
 unicode = 1F2B;
 },
 {
+color = 10;
 glyphname = Etapsilioxia;
 layers = (
 {
@@ -110116,6 +110147,7 @@ rightMetricsKey = H;
 unicode = 1F2C;
 },
 {
+color = 10;
 glyphname = Etadasiaoxia;
 layers = (
 {
@@ -110170,6 +110202,7 @@ rightMetricsKey = H;
 unicode = 1F2D;
 },
 {
+color = 10;
 glyphname = Etapsiliperispomeni;
 layers = (
 {
@@ -110224,6 +110257,7 @@ rightMetricsKey = H;
 unicode = 1F2E;
 },
 {
+color = 10;
 glyphname = Etadasiaperispomeni;
 layers = (
 {
@@ -110278,6 +110312,7 @@ rightMetricsKey = H;
 unicode = 1F2F;
 },
 {
+color = 10;
 glyphname = Etavaria;
 layers = (
 {
@@ -110340,6 +110375,7 @@ rightMetricsKey = H;
 unicode = 1FCA;
 },
 {
+color = 10;
 glyphname = Etaoxia;
 layers = (
 {
@@ -110394,6 +110430,7 @@ rightMetricsKey = H;
 unicode = 1FCB;
 },
 {
+color = 10;
 glyphname = Etaprosgegrammeni;
 layers = (
 {
@@ -110443,6 +110480,7 @@ leftMetricsKey = "=H";
 unicode = 1FCC;
 },
 {
+color = 10;
 glyphname = Etapsiliprosgegrammeni;
 layers = (
 {
@@ -110509,6 +110547,7 @@ rightMetricsKey = "=Etaprosgegrammeni";
 unicode = 1F98;
 },
 {
+color = 10;
 glyphname = Etadasiaprosgegrammeni;
 layers = (
 {
@@ -110575,6 +110614,7 @@ rightMetricsKey = "=Etaprosgegrammeni";
 unicode = 1F99;
 },
 {
+color = 10;
 glyphname = Etapsilivariaprosgegrammeni;
 layers = (
 {
@@ -110641,6 +110681,7 @@ rightMetricsKey = "=Etaprosgegrammeni";
 unicode = 1F9A;
 },
 {
+color = 10;
 glyphname = Etadasiavariaprosgegrammeni;
 layers = (
 {
@@ -110707,6 +110748,7 @@ rightMetricsKey = "=Etaprosgegrammeni";
 unicode = 1F9B;
 },
 {
+color = 10;
 glyphname = Etapsilioxiaprosgegrammeni;
 layers = (
 {
@@ -110773,6 +110815,7 @@ rightMetricsKey = "=Etaprosgegrammeni";
 unicode = 1F9C;
 },
 {
+color = 10;
 glyphname = Etadasiaoxiaprosgegrammeni;
 layers = (
 {
@@ -110839,6 +110882,7 @@ rightMetricsKey = "=Etaprosgegrammeni";
 unicode = 1F9D;
 },
 {
+color = 10;
 glyphname = Etapsiliperispomeniprosgegrammeni;
 layers = (
 {
@@ -110905,6 +110949,7 @@ rightMetricsKey = "=Etaprosgegrammeni";
 unicode = 1F9E;
 },
 {
+color = 10;
 glyphname = Etadasiaperispomeniprosgegrammeni;
 layers = (
 {
@@ -110971,6 +111016,7 @@ rightMetricsKey = "=Etaprosgegrammeni";
 unicode = 1F9F;
 },
 {
+color = 10;
 glyphname = Iotapsili;
 layers = (
 {
@@ -111027,6 +111073,7 @@ rightMetricsKey = Iota;
 unicode = 1F38;
 },
 {
+color = 10;
 glyphname = Iotadasia;
 layers = (
 {
@@ -111083,6 +111130,7 @@ rightMetricsKey = I;
 unicode = 1F39;
 },
 {
+color = 10;
 glyphname = Iotapsilivaria;
 layers = (
 {
@@ -111139,6 +111187,7 @@ rightMetricsKey = I;
 unicode = 1F3A;
 },
 {
+color = 10;
 glyphname = Iotadasiavaria;
 layers = (
 {
@@ -111195,6 +111244,7 @@ rightMetricsKey = I;
 unicode = 1F3B;
 },
 {
+color = 10;
 glyphname = Iotapsilioxia;
 layers = (
 {
@@ -111251,6 +111301,7 @@ rightMetricsKey = I;
 unicode = 1F3C;
 },
 {
+color = 10;
 glyphname = Iotadasiaoxia;
 layers = (
 {
@@ -111307,6 +111358,7 @@ rightMetricsKey = I;
 unicode = 1F3D;
 },
 {
+color = 10;
 glyphname = Iotapsiliperispomeni;
 layers = (
 {
@@ -111363,6 +111415,7 @@ rightMetricsKey = I;
 unicode = 1F3E;
 },
 {
+color = 10;
 glyphname = Iotadasiaperispomeni;
 layers = (
 {
@@ -111419,6 +111472,7 @@ rightMetricsKey = I;
 unicode = 1F3F;
 },
 {
+color = 10;
 glyphname = Iotavaria;
 layers = (
 {
@@ -111475,6 +111529,7 @@ rightMetricsKey = I;
 unicode = 1FDA;
 },
 {
+color = 10;
 glyphname = Iotaoxia;
 layers = (
 {
@@ -111531,6 +111586,7 @@ rightMetricsKey = I;
 unicode = 1FDB;
 },
 {
+color = 10;
 glyphname = Iotavrachy;
 layers = (
 {
@@ -111582,6 +111638,7 @@ width = 327;
 unicode = 1FD8;
 },
 {
+color = 10;
 glyphname = Iotamacron;
 layers = (
 {
@@ -111633,6 +111690,7 @@ width = 327;
 unicode = 1FD9;
 },
 {
+color = 10;
 glyphname = Omicronpsili;
 layers = (
 {
@@ -111689,6 +111747,7 @@ rightMetricsKey = Omicron;
 unicode = 1F48;
 },
 {
+color = 10;
 glyphname = Omicrondasia;
 layers = (
 {
@@ -111745,6 +111804,7 @@ rightMetricsKey = O;
 unicode = 1F49;
 },
 {
+color = 10;
 glyphname = Omicronpsilivaria;
 layers = (
 {
@@ -111801,6 +111861,7 @@ rightMetricsKey = O;
 unicode = 1F4A;
 },
 {
+color = 10;
 glyphname = Omicrondasiavaria;
 layers = (
 {
@@ -111857,6 +111918,7 @@ rightMetricsKey = O;
 unicode = 1F4B;
 },
 {
+color = 10;
 glyphname = Omicronpsilioxia;
 layers = (
 {
@@ -111913,6 +111975,7 @@ rightMetricsKey = O;
 unicode = 1F4C;
 },
 {
+color = 10;
 glyphname = Omicrondasiaoxia;
 layers = (
 {
@@ -111969,6 +112032,7 @@ rightMetricsKey = O;
 unicode = 1F4D;
 },
 {
+color = 10;
 glyphname = Omicronvaria;
 layers = (
 {
@@ -112025,6 +112089,7 @@ rightMetricsKey = O;
 unicode = 1FF8;
 },
 {
+color = 10;
 glyphname = Omicronoxia;
 layers = (
 {
@@ -112081,6 +112146,7 @@ rightMetricsKey = O;
 unicode = 1FF9;
 },
 {
+color = 10;
 glyphname = Rhodasia;
 layers = (
 {
@@ -112134,6 +112200,7 @@ rightMetricsKey = P;
 unicode = 1FEC;
 },
 {
+color = 10;
 glyphname = Upsilondasia;
 layers = (
 {
@@ -112190,6 +112257,7 @@ rightMetricsKey = Upsilon;
 unicode = 1F59;
 },
 {
+color = 10;
 glyphname = Upsilondasiavaria;
 layers = (
 {
@@ -112246,6 +112314,7 @@ rightMetricsKey = Upsilon;
 unicode = 1F5B;
 },
 {
+color = 10;
 glyphname = Upsilondasiaoxia;
 layers = (
 {
@@ -112302,6 +112371,7 @@ rightMetricsKey = Upsilon;
 unicode = 1F5D;
 },
 {
+color = 10;
 glyphname = Upsilondasiaperispomeni;
 layers = (
 {
@@ -112358,6 +112428,7 @@ rightMetricsKey = Upsilon;
 unicode = 1F5F;
 },
 {
+color = 10;
 glyphname = Upsilonvaria;
 layers = (
 {
@@ -112414,6 +112485,7 @@ rightMetricsKey = Upsilon;
 unicode = 1FEA;
 },
 {
+color = 10;
 glyphname = Upsilonoxia;
 layers = (
 {
@@ -112470,6 +112542,7 @@ rightMetricsKey = Upsilon;
 unicode = 1FEB;
 },
 {
+color = 10;
 glyphname = Upsilonvrachy;
 layers = (
 {
@@ -112521,6 +112594,7 @@ width = 594;
 unicode = 1FE8;
 },
 {
+color = 10;
 glyphname = Upsilonmacron;
 layers = (
 {
@@ -112572,6 +112646,7 @@ width = 594;
 unicode = 1FE9;
 },
 {
+color = 10;
 glyphname = Omegapsili;
 layers = (
 {
@@ -112628,6 +112703,7 @@ rightMetricsKey = Omega;
 unicode = 1F68;
 },
 {
+color = 10;
 glyphname = Omegadasia;
 layers = (
 {
@@ -112684,6 +112760,7 @@ rightMetricsKey = Omega;
 unicode = 1F69;
 },
 {
+color = 10;
 glyphname = Omegapsilivaria;
 layers = (
 {
@@ -112740,6 +112817,7 @@ rightMetricsKey = Omega;
 unicode = 1F6A;
 },
 {
+color = 10;
 glyphname = Omegadasiavaria;
 layers = (
 {
@@ -112796,6 +112874,7 @@ rightMetricsKey = Omega;
 unicode = 1F6B;
 },
 {
+color = 10;
 glyphname = Omegapsilioxia;
 layers = (
 {
@@ -112852,6 +112931,7 @@ rightMetricsKey = Omega;
 unicode = 1F6C;
 },
 {
+color = 10;
 glyphname = Omegadasiaoxia;
 layers = (
 {
@@ -112908,6 +112988,7 @@ rightMetricsKey = Omega;
 unicode = 1F6D;
 },
 {
+color = 10;
 glyphname = Omegapsiliperispomeni;
 layers = (
 {
@@ -112964,6 +113045,7 @@ rightMetricsKey = Omega;
 unicode = 1F6E;
 },
 {
+color = 10;
 glyphname = Omegadasiaperispomeni;
 layers = (
 {
@@ -113019,6 +113101,7 @@ leftMetricsKey = "=Omegatonos";
 unicode = 1F6F;
 },
 {
+color = 10;
 glyphname = Omegavaria;
 layers = (
 {
@@ -113075,6 +113158,7 @@ rightMetricsKey = Omega;
 unicode = 1FFA;
 },
 {
+color = 10;
 glyphname = Omegaoxia;
 layers = (
 {
@@ -113131,6 +113215,7 @@ rightMetricsKey = Omega;
 unicode = 1FFB;
 },
 {
+color = 10;
 glyphname = Omegaprosgegrammeni;
 layers = (
 {
@@ -113179,6 +113264,7 @@ width = 970;
 unicode = 1FFC;
 },
 {
+color = 10;
 glyphname = Omegapsiliprosgegrammeni;
 layers = (
 {
@@ -113244,6 +113330,7 @@ rightMetricsKey = "=Omegaprosgegrammeni";
 unicode = 1FA8;
 },
 {
+color = 10;
 glyphname = Omegadasiaprosgegrammeni;
 layers = (
 {
@@ -113300,6 +113387,7 @@ rightMetricsKey = "=Omegaprosgegrammeni";
 unicode = 1FA9;
 },
 {
+color = 10;
 glyphname = Omegapsilivariaprosgegrammeni;
 layers = (
 {
@@ -113356,6 +113444,7 @@ rightMetricsKey = "=Omegaprosgegrammeni";
 unicode = 1FAA;
 },
 {
+color = 10;
 glyphname = Omegadasiavariaprosgegrammeni;
 layers = (
 {
@@ -113412,6 +113501,7 @@ rightMetricsKey = "=Omegaprosgegrammeni";
 unicode = 1FAB;
 },
 {
+color = 10;
 glyphname = Omegapsilioxiaprosgegrammeni;
 layers = (
 {
@@ -113468,6 +113558,7 @@ rightMetricsKey = "=Omegaprosgegrammeni";
 unicode = 1FAC;
 },
 {
+color = 10;
 glyphname = Omegadasiaoxiaprosgegrammeni;
 layers = (
 {
@@ -113524,6 +113615,7 @@ rightMetricsKey = "=Omegaprosgegrammeni";
 unicode = 1FAD;
 },
 {
+color = 10;
 glyphname = Omegapsiliperispomeniprosgegrammeni;
 layers = (
 {
@@ -113580,6 +113672,7 @@ rightMetricsKey = "=Omegaprosgegrammeni";
 unicode = 1FAE;
 },
 {
+color = 10;
 glyphname = Omegadasiaperispomeniprosgegrammeni;
 layers = (
 {
@@ -113636,6 +113729,7 @@ rightMetricsKey = "=Omegaprosgegrammeni";
 unicode = 1FAF;
 },
 {
+color = 10;
 glyphname = Alphaprosgegrammeni.ss05;
 layers = (
 {
@@ -113716,6 +113810,7 @@ width = 627;
 );
 },
 {
+color = 10;
 glyphname = Alphapsiliprosgegrammeni.ss05;
 layers = (
 {
@@ -113780,6 +113875,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Alphadasiaprosgegrammeni.ss05;
 layers = (
 {
@@ -113835,6 +113931,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Alphapsilivariaprosgegrammeni.ss05;
 layers = (
 {
@@ -113890,6 +113987,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Alphadasiavariaprosgegrammeni.ss05;
 layers = (
 {
@@ -113945,6 +114043,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Alphapsilioxiaprosgegrammeni.ss05;
 layers = (
 {
@@ -114000,6 +114099,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Alphadasiaoxiaprosgegrammeni.ss05;
 layers = (
 {
@@ -114055,6 +114155,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Alphapsiliperispomeniprosgegrammeni.ss05;
 layers = (
 {
@@ -114110,6 +114211,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Alphadasiaperispomeniprosgegrammeni.ss05;
 layers = (
 {
@@ -114165,6 +114267,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Etaprosgegrammeni.ss05;
 layers = (
 {
@@ -114215,6 +114318,7 @@ width = 711;
 );
 },
 {
+color = 10;
 glyphname = Etapsiliprosgegrammeni.ss05;
 layers = (
 {
@@ -114282,6 +114386,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Etadasiaprosgegrammeni.ss05;
 layers = (
 {
@@ -114337,6 +114442,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Etapsilivariaprosgegrammeni.ss05;
 layers = (
 {
@@ -114392,6 +114498,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Etadasiavariaprosgegrammeni.ss05;
 layers = (
 {
@@ -114447,6 +114554,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Etapsilioxiaprosgegrammeni.ss05;
 layers = (
 {
@@ -114502,6 +114610,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Etadasiaoxiaprosgegrammeni.ss05;
 layers = (
 {
@@ -114557,6 +114666,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Etapsiliperispomeniprosgegrammeni.ss05;
 layers = (
 {
@@ -114612,6 +114722,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Etadasiaperispomeniprosgegrammeni.ss05;
 layers = (
 {
@@ -114667,6 +114778,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Omegaprosgegrammeni.ss05;
 layers = (
 {
@@ -114747,6 +114859,7 @@ width = 689;
 );
 },
 {
+color = 10;
 glyphname = Omegapsiliprosgegrammeni.ss05;
 layers = (
 {
@@ -114814,6 +114927,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Omegadasiaprosgegrammeni.ss05;
 layers = (
 {
@@ -114869,6 +114983,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Omegapsilivariaprosgegrammeni.ss05;
 layers = (
 {
@@ -114924,6 +115039,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Omegadasiavariaprosgegrammeni.ss05;
 layers = (
 {
@@ -114979,6 +115095,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Omegapsilioxiaprosgegrammeni.ss05;
 layers = (
 {
@@ -115034,6 +115151,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Omegadasiaoxiaprosgegrammeni.ss05;
 layers = (
 {
@@ -115089,6 +115207,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Omegapsiliperispomeniprosgegrammeni.ss05;
 layers = (
 {
@@ -115144,6 +115263,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Omegadasiaperispomeniprosgegrammeni.ss05;
 layers = (
 {
@@ -115199,6 +115319,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss05";
 },
 {
+color = 10;
 glyphname = Alphaprosgegrammeni.ss06;
 layers = (
 {
@@ -115246,6 +115367,7 @@ width = 930;
 );
 },
 {
+color = 10;
 glyphname = Alphapsiliprosgegrammeni.ss06;
 layers = (
 {
@@ -115310,6 +115432,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Alphadasiaprosgegrammeni.ss06;
 layers = (
 {
@@ -115365,6 +115488,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Alphapsilivariaprosgegrammeni.ss06;
 layers = (
 {
@@ -115420,6 +115544,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Alphadasiavariaprosgegrammeni.ss06;
 layers = (
 {
@@ -115475,6 +115600,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Alphapsilioxiaprosgegrammeni.ss06;
 layers = (
 {
@@ -115530,6 +115656,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Alphadasiaoxiaprosgegrammeni.ss06;
 layers = (
 {
@@ -115585,6 +115712,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Alphapsiliperispomeniprosgegrammeni.ss06;
 layers = (
 {
@@ -115640,6 +115768,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Alphadasiaperispomeniprosgegrammeni.ss06;
 layers = (
 {
@@ -115695,6 +115824,7 @@ leftMetricsKey = "=Alphatonos";
 rightMetricsKey = "=Alphaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Etaprosgegrammeni.ss06;
 layers = (
 {
@@ -115742,6 +115872,7 @@ width = 1014;
 );
 },
 {
+color = 10;
 glyphname = Etapsiliprosgegrammeni.ss06;
 layers = (
 {
@@ -115806,6 +115937,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etaprosgegrammeni";
 },
 {
+color = 10;
 glyphname = Etadasiaprosgegrammeni.ss06;
 layers = (
 {
@@ -115861,6 +115993,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etapsiliprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Etapsilivariaprosgegrammeni.ss06;
 layers = (
 {
@@ -115916,6 +116049,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etapsiliprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Etadasiavariaprosgegrammeni.ss06;
 layers = (
 {
@@ -115971,6 +116105,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etapsiliprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Etapsilioxiaprosgegrammeni.ss06;
 layers = (
 {
@@ -116026,6 +116161,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etapsiliprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Etadasiaoxiaprosgegrammeni.ss06;
 layers = (
 {
@@ -116081,6 +116217,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etapsiliprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Etapsiliperispomeniprosgegrammeni.ss06;
 layers = (
 {
@@ -116136,6 +116273,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etapsiliprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Etadasiaperispomeniprosgegrammeni.ss06;
 layers = (
 {
@@ -116191,6 +116329,7 @@ leftMetricsKey = "=Etatonos";
 rightMetricsKey = "=Etapsiliprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Omegaprosgegrammeni.ss06;
 layers = (
 {
@@ -116238,6 +116377,7 @@ width = 992;
 );
 },
 {
+color = 10;
 glyphname = Omegapsiliprosgegrammeni.ss06;
 layers = (
 {
@@ -116302,6 +116442,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Omegadasiaprosgegrammeni.ss06;
 layers = (
 {
@@ -116357,6 +116498,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Omegapsilivariaprosgegrammeni.ss06;
 layers = (
 {
@@ -116412,6 +116554,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Omegadasiavariaprosgegrammeni.ss06;
 layers = (
 {
@@ -116467,6 +116610,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Omegapsilioxiaprosgegrammeni.ss06;
 layers = (
 {
@@ -116522,6 +116666,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Omegadasiaoxiaprosgegrammeni.ss06;
 layers = (
 {
@@ -116577,6 +116722,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Omegapsiliperispomeniprosgegrammeni.ss06;
 layers = (
 {
@@ -116632,6 +116778,7 @@ leftMetricsKey = "=Omegatonos";
 rightMetricsKey = "=Omegaprosgegrammeni.ss06";
 },
 {
+color = 10;
 glyphname = Omegadasiaperispomeniprosgegrammeni.ss06;
 layers = (
 {
@@ -133277,6 +133424,7 @@ width = 547;
 unicode = 03AE;
 },
 {
+color = 10;
 glyphname = thetaSymbol;
 layers = (
 {
@@ -133310,6 +133458,7 @@ width = 516;
 unicode = 03D1;
 },
 {
+color = 10;
 glyphname = phiSymbol;
 layers = (
 {
@@ -133343,6 +133492,7 @@ width = 725;
 unicode = 03D5;
 },
 {
+color = 10;
 glyphname = piSymbol;
 layers = (
 {
@@ -133376,6 +133526,7 @@ width = 658;
 unicode = 03D6;
 },
 {
+color = 10;
 glyphname = kappaSymbol;
 layers = (
 {
@@ -133409,6 +133560,7 @@ width = 538;
 unicode = 03F0;
 },
 {
+color = 10;
 glyphname = alphapsili;
 layers = (
 {
@@ -133457,6 +133609,7 @@ width = 546;
 unicode = 1F00;
 },
 {
+color = 10;
 glyphname = alphadasia;
 layers = (
 {
@@ -133505,6 +133658,7 @@ width = 546;
 unicode = 1F01;
 },
 {
+color = 10;
 glyphname = alphapsilivaria;
 layers = (
 {
@@ -133553,6 +133707,7 @@ width = 546;
 unicode = 1F02;
 },
 {
+color = 10;
 glyphname = alphadasiavaria;
 layers = (
 {
@@ -133601,6 +133756,7 @@ width = 546;
 unicode = 1F03;
 },
 {
+color = 10;
 glyphname = alphapsilioxia;
 layers = (
 {
@@ -133649,6 +133805,7 @@ width = 546;
 unicode = 1F04;
 },
 {
+color = 10;
 glyphname = alphadasiaoxia;
 layers = (
 {
@@ -133697,6 +133854,7 @@ width = 546;
 unicode = 1F05;
 },
 {
+color = 10;
 glyphname = alphapsiliperispomeni;
 layers = (
 {
@@ -133745,6 +133903,7 @@ width = 546;
 unicode = 1F06;
 },
 {
+color = 10;
 glyphname = alphadasiaperispomeni;
 layers = (
 {
@@ -133793,6 +133952,7 @@ width = 546;
 unicode = 1F07;
 },
 {
+color = 10;
 glyphname = alphavaria;
 layers = (
 {
@@ -133841,6 +134001,7 @@ width = 546;
 unicode = 1F70;
 },
 {
+color = 10;
 glyphname = alphaoxia;
 layers = (
 {
@@ -133889,6 +134050,7 @@ width = 546;
 unicode = 1F71;
 },
 {
+color = 10;
 glyphname = alphaperispomeni;
 layers = (
 {
@@ -133937,6 +134099,7 @@ width = 546;
 unicode = 1FB6;
 },
 {
+color = 10;
 glyphname = alphavrachy;
 layers = (
 {
@@ -133985,6 +134148,7 @@ width = 546;
 unicode = 1FB0;
 },
 {
+color = 10;
 glyphname = alphamacron;
 layers = (
 {
@@ -134033,6 +134197,7 @@ width = 546;
 unicode = 1FB1;
 },
 {
+color = 10;
 glyphname = alphaypogegrammeni;
 layers = (
 {
@@ -134081,6 +134246,7 @@ width = 546;
 unicode = 1FB3;
 },
 {
+color = 10;
 glyphname = alphavariaypogegrammeni;
 layers = (
 {
@@ -134129,6 +134295,7 @@ width = 546;
 unicode = 1FB2;
 },
 {
+color = 10;
 glyphname = alphaoxiaypogegrammeni;
 layers = (
 {
@@ -134177,6 +134344,7 @@ width = 546;
 unicode = 1FB4;
 },
 {
+color = 10;
 glyphname = alphapsiliypogegrammeni;
 layers = (
 {
@@ -134225,6 +134393,7 @@ width = 546;
 unicode = 1F80;
 },
 {
+color = 10;
 glyphname = alphadasiaypogegrammeni;
 layers = (
 {
@@ -134273,6 +134442,7 @@ width = 546;
 unicode = 1F81;
 },
 {
+color = 10;
 glyphname = alphapsilivariaypogegrammeni;
 layers = (
 {
@@ -134321,6 +134491,7 @@ width = 546;
 unicode = 1F82;
 },
 {
+color = 10;
 glyphname = alphadasiavariaypogegrammeni;
 layers = (
 {
@@ -134369,6 +134540,7 @@ width = 546;
 unicode = 1F83;
 },
 {
+color = 10;
 glyphname = alphapsilioxiaypogegrammeni;
 layers = (
 {
@@ -134417,6 +134589,7 @@ width = 546;
 unicode = 1F84;
 },
 {
+color = 10;
 glyphname = alphadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -134465,6 +134638,7 @@ width = 546;
 unicode = 1F85;
 },
 {
+color = 10;
 glyphname = alphapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -134513,6 +134687,7 @@ width = 546;
 unicode = 1F86;
 },
 {
+color = 10;
 glyphname = alphadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -134561,6 +134736,7 @@ width = 546;
 unicode = 1F87;
 },
 {
+color = 10;
 glyphname = alphaperispomeniypogegrammeni;
 layers = (
 {
@@ -134609,6 +134785,7 @@ width = 546;
 unicode = 1FB7;
 },
 {
+color = 10;
 glyphname = epsilonpsili;
 layers = (
 {
@@ -134657,6 +134834,7 @@ width = 458;
 unicode = 1F10;
 },
 {
+color = 10;
 glyphname = epsilondasia;
 layers = (
 {
@@ -134705,6 +134883,7 @@ width = 458;
 unicode = 1F11;
 },
 {
+color = 10;
 glyphname = epsilonpsilivaria;
 layers = (
 {
@@ -134753,6 +134932,7 @@ width = 458;
 unicode = 1F12;
 },
 {
+color = 10;
 glyphname = epsilondasiavaria;
 layers = (
 {
@@ -134801,6 +134981,7 @@ width = 458;
 unicode = 1F13;
 },
 {
+color = 10;
 glyphname = epsilonpsilioxia;
 layers = (
 {
@@ -134849,6 +135030,7 @@ width = 458;
 unicode = 1F14;
 },
 {
+color = 10;
 glyphname = epsilondasiaoxia;
 layers = (
 {
@@ -134897,6 +135079,7 @@ width = 458;
 unicode = 1F15;
 },
 {
+color = 10;
 glyphname = epsilonvaria;
 layers = (
 {
@@ -134945,6 +135128,7 @@ width = 458;
 unicode = 1F72;
 },
 {
+color = 10;
 glyphname = epsilonoxia;
 layers = (
 {
@@ -134993,6 +135177,7 @@ width = 458;
 unicode = 1F73;
 },
 {
+color = 10;
 glyphname = etapsili;
 layers = (
 {
@@ -135041,6 +135226,7 @@ width = 547;
 unicode = 1F20;
 },
 {
+color = 10;
 glyphname = etadasia;
 layers = (
 {
@@ -135089,6 +135275,7 @@ width = 547;
 unicode = 1F21;
 },
 {
+color = 10;
 glyphname = etapsilivaria;
 layers = (
 {
@@ -135137,6 +135324,7 @@ width = 547;
 unicode = 1F22;
 },
 {
+color = 10;
 glyphname = etadasiavaria;
 layers = (
 {
@@ -135185,6 +135373,7 @@ width = 547;
 unicode = 1F23;
 },
 {
+color = 10;
 glyphname = etapsilioxia;
 layers = (
 {
@@ -135233,6 +135422,7 @@ width = 547;
 unicode = 1F24;
 },
 {
+color = 10;
 glyphname = etadasiaoxia;
 layers = (
 {
@@ -135281,6 +135471,7 @@ width = 547;
 unicode = 1F25;
 },
 {
+color = 10;
 glyphname = etapsiliperispomeni;
 layers = (
 {
@@ -135329,6 +135520,7 @@ width = 547;
 unicode = 1F26;
 },
 {
+color = 10;
 glyphname = etadasiaperispomeni;
 layers = (
 {
@@ -135377,6 +135569,7 @@ width = 547;
 unicode = 1F27;
 },
 {
+color = 10;
 glyphname = etavaria;
 layers = (
 {
@@ -135425,6 +135618,7 @@ width = 547;
 unicode = 1F74;
 },
 {
+color = 10;
 glyphname = etaoxia;
 layers = (
 {
@@ -135473,6 +135667,7 @@ width = 547;
 unicode = 1F75;
 },
 {
+color = 10;
 glyphname = etaperispomeni;
 layers = (
 {
@@ -135521,6 +135716,7 @@ width = 547;
 unicode = 1FC6;
 },
 {
+color = 10;
 glyphname = etaypogegrammeni;
 layers = (
 {
@@ -135569,6 +135765,7 @@ width = 547;
 unicode = 1FC3;
 },
 {
+color = 10;
 glyphname = etavariaypogegrammeni;
 layers = (
 {
@@ -135617,6 +135814,7 @@ width = 547;
 unicode = 1FC2;
 },
 {
+color = 10;
 glyphname = etaoxiaypogegrammeni;
 layers = (
 {
@@ -135665,6 +135863,7 @@ width = 547;
 unicode = 1FC4;
 },
 {
+color = 10;
 glyphname = etapsiliypogegrammeni;
 layers = (
 {
@@ -135713,6 +135912,7 @@ width = 547;
 unicode = 1F90;
 },
 {
+color = 10;
 glyphname = etadasiaypogegrammeni;
 layers = (
 {
@@ -135761,6 +135961,7 @@ width = 547;
 unicode = 1F91;
 },
 {
+color = 10;
 glyphname = etapsilivariaypogegrammeni;
 layers = (
 {
@@ -135809,6 +136010,7 @@ width = 547;
 unicode = 1F92;
 },
 {
+color = 10;
 glyphname = etadasiavariaypogegrammeni;
 layers = (
 {
@@ -135857,6 +136059,7 @@ width = 547;
 unicode = 1F93;
 },
 {
+color = 10;
 glyphname = etapsilioxiaypogegrammeni;
 layers = (
 {
@@ -135905,6 +136108,7 @@ width = 547;
 unicode = 1F94;
 },
 {
+color = 10;
 glyphname = etadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -135953,6 +136157,7 @@ width = 547;
 unicode = 1F95;
 },
 {
+color = 10;
 glyphname = etapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -136001,6 +136206,7 @@ width = 547;
 unicode = 1F96;
 },
 {
+color = 10;
 glyphname = etadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -136049,6 +136255,7 @@ width = 547;
 unicode = 1F97;
 },
 {
+color = 10;
 glyphname = etaperispomeniypogegrammeni;
 layers = (
 {
@@ -136097,6 +136304,7 @@ width = 547;
 unicode = 1FC7;
 },
 {
+color = 10;
 glyphname = iotapsili;
 layers = (
 {
@@ -136145,6 +136353,7 @@ width = 281;
 unicode = 1F30;
 },
 {
+color = 10;
 glyphname = iotadasia;
 layers = (
 {
@@ -136193,6 +136402,7 @@ width = 281;
 unicode = 1F31;
 },
 {
+color = 10;
 glyphname = iotapsilivaria;
 layers = (
 {
@@ -136241,6 +136451,7 @@ width = 281;
 unicode = 1F32;
 },
 {
+color = 10;
 glyphname = iotadasiavaria;
 layers = (
 {
@@ -136289,6 +136500,7 @@ width = 281;
 unicode = 1F33;
 },
 {
+color = 10;
 glyphname = iotapsilioxia;
 layers = (
 {
@@ -136337,6 +136549,7 @@ width = 281;
 unicode = 1F34;
 },
 {
+color = 10;
 glyphname = iotadasiaoxia;
 layers = (
 {
@@ -136385,6 +136598,7 @@ width = 281;
 unicode = 1F35;
 },
 {
+color = 10;
 glyphname = iotapsiliperispomeni;
 layers = (
 {
@@ -136433,6 +136647,7 @@ width = 281;
 unicode = 1F36;
 },
 {
+color = 10;
 glyphname = iotadasiaperispomeni;
 layers = (
 {
@@ -136481,6 +136696,7 @@ width = 281;
 unicode = 1F37;
 },
 {
+color = 10;
 glyphname = iotavaria;
 layers = (
 {
@@ -136529,6 +136745,7 @@ width = 281;
 unicode = 1F76;
 },
 {
+color = 10;
 glyphname = iotaoxia;
 layers = (
 {
@@ -136577,6 +136794,7 @@ width = 281;
 unicode = 1F77;
 },
 {
+color = 10;
 glyphname = iotaperispomeni;
 layers = (
 {
@@ -136625,6 +136843,7 @@ width = 281;
 unicode = 1FD6;
 },
 {
+color = 10;
 glyphname = iotavrachy;
 layers = (
 {
@@ -136673,6 +136892,7 @@ width = 281;
 unicode = 1FD0;
 },
 {
+color = 10;
 glyphname = iotamacron;
 layers = (
 {
@@ -136721,6 +136941,7 @@ width = 281;
 unicode = 1FD1;
 },
 {
+color = 10;
 glyphname = iotadialytikavaria;
 layers = (
 {
@@ -136769,6 +136990,7 @@ width = 281;
 unicode = 1FD2;
 },
 {
+color = 10;
 glyphname = iotadialytikaoxia;
 layers = (
 {
@@ -136817,6 +137039,7 @@ width = 281;
 unicode = 1FD3;
 },
 {
+color = 10;
 glyphname = iotadialytikaperispomeni;
 layers = (
 {
@@ -136865,6 +137088,7 @@ width = 281;
 unicode = 1FD7;
 },
 {
+color = 10;
 glyphname = omicronpsili;
 layers = (
 {
@@ -136913,6 +137137,7 @@ width = 499;
 unicode = 1F40;
 },
 {
+color = 10;
 glyphname = omicrondasia;
 layers = (
 {
@@ -136961,6 +137186,7 @@ width = 499;
 unicode = 1F41;
 },
 {
+color = 10;
 glyphname = omicronpsilivaria;
 layers = (
 {
@@ -137009,6 +137235,7 @@ width = 499;
 unicode = 1F42;
 },
 {
+color = 10;
 glyphname = omicrondasiavaria;
 layers = (
 {
@@ -137057,6 +137284,7 @@ width = 499;
 unicode = 1F43;
 },
 {
+color = 10;
 glyphname = omicronpsilioxia;
 layers = (
 {
@@ -137105,6 +137333,7 @@ width = 499;
 unicode = 1F44;
 },
 {
+color = 10;
 glyphname = omicrondasiaoxia;
 layers = (
 {
@@ -137153,6 +137382,7 @@ width = 499;
 unicode = 1F45;
 },
 {
+color = 10;
 glyphname = omicronvaria;
 layers = (
 {
@@ -137201,6 +137431,7 @@ width = 499;
 unicode = 1F78;
 },
 {
+color = 10;
 glyphname = omicronoxia;
 layers = (
 {
@@ -137249,6 +137480,7 @@ width = 499;
 unicode = 1F79;
 },
 {
+color = 10;
 glyphname = rhopsili;
 layers = (
 {
@@ -137295,6 +137527,7 @@ width = 520;
 unicode = 1FE4;
 },
 {
+color = 10;
 glyphname = rhodasia;
 layers = (
 {
@@ -137341,6 +137574,7 @@ width = 520;
 unicode = 1FE5;
 },
 {
+color = 10;
 glyphname = upsilonpsili;
 layers = (
 {
@@ -137389,6 +137623,7 @@ width = 512;
 unicode = 1F50;
 },
 {
+color = 10;
 glyphname = upsilondasia;
 layers = (
 {
@@ -137437,6 +137672,7 @@ width = 512;
 unicode = 1F51;
 },
 {
+color = 10;
 glyphname = upsilonpsilivaria;
 layers = (
 {
@@ -137485,6 +137721,7 @@ width = 512;
 unicode = 1F52;
 },
 {
+color = 10;
 glyphname = upsilondasiavaria;
 layers = (
 {
@@ -137533,6 +137770,7 @@ width = 512;
 unicode = 1F53;
 },
 {
+color = 10;
 glyphname = upsilonpsilioxia;
 layers = (
 {
@@ -137581,6 +137819,7 @@ width = 512;
 unicode = 1F54;
 },
 {
+color = 10;
 glyphname = upsilondasiaoxia;
 layers = (
 {
@@ -137629,6 +137868,7 @@ width = 512;
 unicode = 1F55;
 },
 {
+color = 10;
 glyphname = upsilonpsiliperispomeni;
 layers = (
 {
@@ -137677,6 +137917,7 @@ width = 512;
 unicode = 1F56;
 },
 {
+color = 10;
 glyphname = upsilondasiaperispomeni;
 layers = (
 {
@@ -137725,6 +137966,7 @@ width = 512;
 unicode = 1F57;
 },
 {
+color = 10;
 glyphname = upsilonvaria;
 layers = (
 {
@@ -137773,6 +138015,7 @@ width = 512;
 unicode = 1F7A;
 },
 {
+color = 10;
 glyphname = upsilonoxia;
 layers = (
 {
@@ -137821,6 +138064,7 @@ width = 512;
 unicode = 1F7B;
 },
 {
+color = 10;
 glyphname = upsilonperispomeni;
 layers = (
 {
@@ -137869,6 +138113,7 @@ width = 512;
 unicode = 1FE6;
 },
 {
+color = 10;
 glyphname = upsilonvrachy;
 layers = (
 {
@@ -137917,6 +138162,7 @@ width = 512;
 unicode = 1FE0;
 },
 {
+color = 10;
 glyphname = upsilonmacron;
 layers = (
 {
@@ -137965,6 +138211,7 @@ width = 512;
 unicode = 1FE1;
 },
 {
+color = 10;
 glyphname = upsilondialytikavaria;
 layers = (
 {
@@ -138013,6 +138260,7 @@ width = 512;
 unicode = 1FE2;
 },
 {
+color = 10;
 glyphname = upsilondialytikaoxia;
 layers = (
 {
@@ -138061,6 +138309,7 @@ width = 512;
 unicode = 1FE3;
 },
 {
+color = 10;
 glyphname = upsilondialytikaperispomeni;
 layers = (
 {
@@ -138109,6 +138358,7 @@ width = 512;
 unicode = 1FE7;
 },
 {
+color = 10;
 glyphname = omegapsili;
 layers = (
 {
@@ -138157,6 +138407,7 @@ width = 728;
 unicode = 1F60;
 },
 {
+color = 10;
 glyphname = omegadasia;
 layers = (
 {
@@ -138205,6 +138456,7 @@ width = 728;
 unicode = 1F61;
 },
 {
+color = 10;
 glyphname = omegapsilivaria;
 layers = (
 {
@@ -138253,6 +138505,7 @@ width = 728;
 unicode = 1F62;
 },
 {
+color = 10;
 glyphname = omegadasiavaria;
 layers = (
 {
@@ -138301,6 +138554,7 @@ width = 728;
 unicode = 1F63;
 },
 {
+color = 10;
 glyphname = omegapsilioxia;
 layers = (
 {
@@ -138349,6 +138603,7 @@ width = 728;
 unicode = 1F64;
 },
 {
+color = 10;
 glyphname = omegadasiaoxia;
 layers = (
 {
@@ -138397,6 +138652,7 @@ width = 728;
 unicode = 1F65;
 },
 {
+color = 10;
 glyphname = omegapsiliperispomeni;
 layers = (
 {
@@ -138445,6 +138701,7 @@ width = 728;
 unicode = 1F66;
 },
 {
+color = 10;
 glyphname = omegadasiaperispomeni;
 layers = (
 {
@@ -138493,6 +138750,7 @@ width = 728;
 unicode = 1F67;
 },
 {
+color = 10;
 glyphname = omegavaria;
 layers = (
 {
@@ -138541,6 +138799,7 @@ width = 728;
 unicode = 1F7C;
 },
 {
+color = 10;
 glyphname = omegaoxia;
 layers = (
 {
@@ -138589,6 +138848,7 @@ width = 728;
 unicode = 1F7D;
 },
 {
+color = 10;
 glyphname = omegaperispomeni;
 layers = (
 {
@@ -138637,6 +138897,7 @@ width = 728;
 unicode = 1FF6;
 },
 {
+color = 10;
 glyphname = omegaypogegrammeni;
 layers = (
 {
@@ -138685,6 +138946,7 @@ width = 728;
 unicode = 1FF3;
 },
 {
+color = 10;
 glyphname = omegavariaypogegrammeni;
 layers = (
 {
@@ -138733,6 +138995,7 @@ width = 728;
 unicode = 1FF2;
 },
 {
+color = 10;
 glyphname = omegaoxiaypogegrammeni;
 layers = (
 {
@@ -138781,6 +139044,7 @@ width = 728;
 unicode = 1FF4;
 },
 {
+color = 10;
 glyphname = omegapsiliypogegrammeni;
 layers = (
 {
@@ -138829,6 +139093,7 @@ width = 728;
 unicode = 1FA0;
 },
 {
+color = 10;
 glyphname = omegadasiaypogegrammeni;
 layers = (
 {
@@ -138877,6 +139142,7 @@ width = 728;
 unicode = 1FA1;
 },
 {
+color = 10;
 glyphname = omegapsilivariaypogegrammeni;
 layers = (
 {
@@ -138925,6 +139191,7 @@ width = 728;
 unicode = 1FA2;
 },
 {
+color = 10;
 glyphname = omegadasiavariaypogegrammeni;
 layers = (
 {
@@ -138973,6 +139240,7 @@ width = 728;
 unicode = 1FA3;
 },
 {
+color = 10;
 glyphname = omegapsilioxiaypogegrammeni;
 layers = (
 {
@@ -139021,6 +139289,7 @@ width = 728;
 unicode = 1FA4;
 },
 {
+color = 10;
 glyphname = omegadasiaoxiaypogegrammeni;
 layers = (
 {
@@ -139069,6 +139338,7 @@ width = 728;
 unicode = 1FA5;
 },
 {
+color = 10;
 glyphname = omegapsiliperispomeniypogegrammeni;
 layers = (
 {
@@ -139117,6 +139387,7 @@ width = 728;
 unicode = 1FA6;
 },
 {
+color = 10;
 glyphname = omegadasiaperispomeniypogegrammeni;
 layers = (
 {
@@ -139165,6 +139436,7 @@ width = 728;
 unicode = 1FA7;
 },
 {
+color = 10;
 glyphname = omegaperispomeniypogegrammeni;
 layers = (
 {
@@ -139315,6 +139587,7 @@ width = 237;
 unicode = 1FBE;
 },
 {
+color = 10;
 glyphname = alpha.sc;
 layers = (
 {
@@ -139347,6 +139620,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = beta.sc;
 layers = (
 {
@@ -139869,6 +140143,7 @@ source = Delta;
 };
 },
 {
+color = 10;
 glyphname = epsilon.sc;
 layers = (
 {
@@ -139901,6 +140176,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = zeta.sc;
 layers = (
 {
@@ -139933,6 +140209,7 @@ width = 499;
 );
 },
 {
+color = 10;
 glyphname = eta.sc;
 layers = (
 {
@@ -140250,6 +140527,7 @@ source = Theta;
 };
 },
 {
+color = 10;
 glyphname = iota.sc;
 layers = (
 {
@@ -140282,6 +140560,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = kappa.sc;
 layers = (
 {
@@ -140488,6 +140767,7 @@ source = Lambda;
 };
 },
 {
+color = 10;
 glyphname = mu.sc;
 layers = (
 {
@@ -140522,6 +140802,7 @@ leftMetricsKey = "=M";
 rightMetricsKey = "=M";
 },
 {
+color = 10;
 glyphname = nu.sc;
 layers = (
 {
@@ -140839,6 +141120,7 @@ source = Xi;
 };
 },
 {
+color = 10;
 glyphname = omicron.sc;
 layers = (
 {
@@ -141179,6 +141461,7 @@ source = Pi;
 };
 },
 {
+color = 10;
 glyphname = rho.sc;
 layers = (
 {
@@ -141211,6 +141494,7 @@ width = 526;
 );
 },
 {
+color = 10;
 glyphname = sigmafinal.sc;
 layers = (
 {
@@ -141493,6 +141777,7 @@ source = Sigma;
 };
 },
 {
+color = 10;
 glyphname = tau.sc;
 layers = (
 {
@@ -142107,6 +142392,7 @@ source = Phi;
 };
 },
 {
+color = 10;
 glyphname = chi.sc;
 layers = (
 {
@@ -142800,6 +143086,7 @@ source = Omega;
 };
 },
 {
+color = 10;
 glyphname = iotatonos.sc;
 layers = (
 {
@@ -142832,6 +143119,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadieresis.sc;
 layers = (
 {
@@ -142879,6 +143167,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadieresistonos.sc;
 layers = (
 {
@@ -142926,6 +143215,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = upsilontonos.sc;
 layers = (
 {
@@ -142958,6 +143248,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondieresis.sc;
 layers = (
 {
@@ -143005,6 +143296,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondieresistonos.sc;
 layers = (
 {
@@ -143052,6 +143344,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = omicrontonos.sc;
 layers = (
 {
@@ -143084,6 +143377,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omegatonos.sc;
 layers = (
 {
@@ -143116,6 +143410,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = alphatonos.sc;
 layers = (
 {
@@ -143148,6 +143443,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = epsilontonos.sc;
 layers = (
 {
@@ -143180,6 +143476,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = etatonos.sc;
 layers = (
 {
@@ -143212,6 +143509,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = alphapsili.sc;
 layers = (
 {
@@ -143244,6 +143542,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasia.sc;
 layers = (
 {
@@ -143276,6 +143575,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsilivaria.sc;
 layers = (
 {
@@ -143308,6 +143608,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiavaria.sc;
 layers = (
 {
@@ -143340,6 +143641,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsilioxia.sc;
 layers = (
 {
@@ -143372,6 +143674,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaoxia.sc;
 layers = (
 {
@@ -143404,6 +143707,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsiliperispomeni.sc;
 layers = (
 {
@@ -143436,6 +143740,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaperispomeni.sc;
 layers = (
 {
@@ -143468,6 +143773,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphavaria.sc;
 layers = (
 {
@@ -143500,6 +143806,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphaoxia.sc;
 layers = (
 {
@@ -143532,6 +143839,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphaperispomeni.sc;
 layers = (
 {
@@ -143564,6 +143872,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphavrachy.sc;
 layers = (
 {
@@ -143596,6 +143905,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphamacron.sc;
 layers = (
 {
@@ -143628,6 +143938,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphaypogegrammeni.sc;
 layers = (
 {
@@ -143672,6 +143983,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphavariaypogegrammeni.sc;
 layers = (
 {
@@ -143704,6 +144016,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphaoxiaypogegrammeni.sc;
 layers = (
 {
@@ -143736,6 +144049,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphapsiliypogegrammeni.sc;
 layers = (
 {
@@ -143768,6 +144082,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaypogegrammeni.sc;
 layers = (
 {
@@ -143800,6 +144115,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphapsilivariaypogegrammeni.sc;
 layers = (
 {
@@ -143832,6 +144148,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphadasiavariaypogegrammeni.sc;
 layers = (
 {
@@ -143864,6 +144181,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphapsilioxiaypogegrammeni.sc;
 layers = (
 {
@@ -143896,6 +144214,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaoxiaypogegrammeni.sc;
 layers = (
 {
@@ -143928,6 +144247,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphapsiliperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -143960,6 +144280,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -143992,6 +144313,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = alphaperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -144024,6 +144346,7 @@ width = 830;
 );
 },
 {
+color = 10;
 glyphname = epsilonpsili.sc;
 layers = (
 {
@@ -144056,6 +144379,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilondasia.sc;
 layers = (
 {
@@ -144088,6 +144412,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilonpsilivaria.sc;
 layers = (
 {
@@ -144120,6 +144445,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilondasiavaria.sc;
 layers = (
 {
@@ -144152,6 +144478,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilonpsilioxia.sc;
 layers = (
 {
@@ -144184,6 +144511,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilondasiaoxia.sc;
 layers = (
 {
@@ -144216,6 +144544,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilonvaria.sc;
 layers = (
 {
@@ -144248,6 +144577,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilonoxia.sc;
 layers = (
 {
@@ -144280,6 +144610,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = etapsili.sc;
 layers = (
 {
@@ -144312,6 +144643,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasia.sc;
 layers = (
 {
@@ -144344,6 +144676,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsilivaria.sc;
 layers = (
 {
@@ -144376,6 +144709,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiavaria.sc;
 layers = (
 {
@@ -144408,6 +144742,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsilioxia.sc;
 layers = (
 {
@@ -144440,6 +144775,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiaoxia.sc;
 layers = (
 {
@@ -144472,6 +144808,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsiliperispomeni.sc;
 layers = (
 {
@@ -144504,6 +144841,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiaperispomeni.sc;
 layers = (
 {
@@ -144536,6 +144874,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etavaria.sc;
 layers = (
 {
@@ -144568,6 +144907,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etaoxia.sc;
 layers = (
 {
@@ -144600,6 +144940,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etaperispomeni.sc;
 layers = (
 {
@@ -144632,6 +144973,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etaypogegrammeni.sc;
 layers = (
 {
@@ -144676,6 +145018,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etavariaypogegrammeni.sc;
 layers = (
 {
@@ -144708,6 +145051,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etaoxiaypogegrammeni.sc;
 layers = (
 {
@@ -144740,6 +145084,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etapsiliypogegrammeni.sc;
 layers = (
 {
@@ -144772,6 +145117,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etadasiaypogegrammeni.sc;
 layers = (
 {
@@ -144804,6 +145150,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etapsilivariaypogegrammeni.sc;
 layers = (
 {
@@ -144836,6 +145183,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etadasiavariaypogegrammeni.sc;
 layers = (
 {
@@ -144868,6 +145216,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etapsilioxiaypogegrammeni.sc;
 layers = (
 {
@@ -144900,6 +145249,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etadasiaoxiaypogegrammeni.sc;
 layers = (
 {
@@ -144932,6 +145282,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etapsiliperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -144964,6 +145315,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etadasiaperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -144996,6 +145348,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = etaperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -145028,6 +145381,7 @@ width = 895;
 );
 },
 {
+color = 10;
 glyphname = iotapsili.sc;
 layers = (
 {
@@ -145060,6 +145414,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadasia.sc;
 layers = (
 {
@@ -145092,6 +145447,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotapsilivaria.sc;
 layers = (
 {
@@ -145124,6 +145480,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadasiavaria.sc;
 layers = (
 {
@@ -145156,6 +145513,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotapsilioxia.sc;
 layers = (
 {
@@ -145188,6 +145546,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadasiaoxia.sc;
 layers = (
 {
@@ -145220,6 +145579,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotapsiliperispomeni.sc;
 layers = (
 {
@@ -145252,6 +145612,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadasiaperispomeni.sc;
 layers = (
 {
@@ -145284,6 +145645,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotavaria.sc;
 layers = (
 {
@@ -145316,6 +145678,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotaoxia.sc;
 layers = (
 {
@@ -145348,6 +145711,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotaperispomeni.sc;
 layers = (
 {
@@ -145380,6 +145744,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotavrachy.sc;
 layers = (
 {
@@ -145412,6 +145777,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotamacron.sc;
 layers = (
 {
@@ -145444,6 +145810,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadialytikavaria.sc;
 layers = (
 {
@@ -145491,6 +145858,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadialytikaoxia.sc;
 layers = (
 {
@@ -145523,6 +145891,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadialytikaperispomeni.sc;
 layers = (
 {
@@ -145570,6 +145939,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = omicronpsili.sc;
 layers = (
 {
@@ -145602,6 +145972,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicrondasia.sc;
 layers = (
 {
@@ -145634,6 +146005,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicronpsilivaria.sc;
 layers = (
 {
@@ -145666,6 +146038,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicrondasiavaria.sc;
 layers = (
 {
@@ -145698,6 +146071,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicronpsilioxia.sc;
 layers = (
 {
@@ -145730,6 +146104,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicrondasiaoxia.sc;
 layers = (
 {
@@ -145762,6 +146137,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicronvaria.sc;
 layers = (
 {
@@ -145794,6 +146170,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicronoxia.sc;
 layers = (
 {
@@ -145826,6 +146203,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = rhopsili.sc;
 layers = (
 {
@@ -145858,6 +146236,7 @@ width = 526;
 );
 },
 {
+color = 10;
 glyphname = rhodasia.sc;
 layers = (
 {
@@ -145890,6 +146269,7 @@ width = 526;
 );
 },
 {
+color = 10;
 glyphname = upsilonpsili.sc;
 layers = (
 {
@@ -145922,6 +146302,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondasia.sc;
 layers = (
 {
@@ -145954,6 +146335,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonpsilivaria.sc;
 layers = (
 {
@@ -145986,6 +146368,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondasiavaria.sc;
 layers = (
 {
@@ -146018,6 +146401,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonpsilioxia.sc;
 layers = (
 {
@@ -146050,6 +146434,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondasiaoxia.sc;
 layers = (
 {
@@ -146082,6 +146467,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonpsiliperispomeni.sc;
 layers = (
 {
@@ -146114,6 +146500,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondasiaperispomeni.sc;
 layers = (
 {
@@ -146146,6 +146533,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonvaria.sc;
 layers = (
 {
@@ -146178,6 +146566,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonoxia.sc;
 layers = (
 {
@@ -146210,6 +146599,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonperispomeni.sc;
 layers = (
 {
@@ -146242,6 +146632,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonvrachy.sc;
 layers = (
 {
@@ -146274,6 +146665,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonmacron.sc;
 layers = (
 {
@@ -146306,6 +146698,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondialytikavaria.sc;
 layers = (
 {
@@ -146353,6 +146746,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondialytikaoxia.sc;
 layers = (
 {
@@ -146385,6 +146779,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondialytikaperispomeni.sc;
 layers = (
 {
@@ -146432,6 +146827,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = omegapsili.sc;
 layers = (
 {
@@ -146464,6 +146860,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasia.sc;
 layers = (
 {
@@ -146496,6 +146893,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsilivaria.sc;
 layers = (
 {
@@ -146528,6 +146926,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiavaria.sc;
 layers = (
 {
@@ -146560,6 +146959,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsilioxia.sc;
 layers = (
 {
@@ -146592,6 +146992,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaoxia.sc;
 layers = (
 {
@@ -146624,6 +147025,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsiliperispomeni.sc;
 layers = (
 {
@@ -146656,6 +147058,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaperispomeni.sc;
 layers = (
 {
@@ -146688,6 +147091,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegavaria.sc;
 layers = (
 {
@@ -146720,6 +147124,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegaoxia.sc;
 layers = (
 {
@@ -146752,6 +147157,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegaperispomeni.sc;
 layers = (
 {
@@ -146784,6 +147190,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegaypogegrammeni.sc;
 layers = (
 {
@@ -146828,6 +147235,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegavariaypogegrammeni.sc;
 layers = (
 {
@@ -146860,6 +147268,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegaoxiaypogegrammeni.sc;
 layers = (
 {
@@ -146892,6 +147301,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegapsiliypogegrammeni.sc;
 layers = (
 {
@@ -146924,6 +147334,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaypogegrammeni.sc;
 layers = (
 {
@@ -146956,6 +147367,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegapsilivariaypogegrammeni.sc;
 layers = (
 {
@@ -146988,6 +147400,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegadasiavariaypogegrammeni.sc;
 layers = (
 {
@@ -147020,6 +147433,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegapsilioxiaypogegrammeni.sc;
 layers = (
 {
@@ -147052,6 +147466,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaoxiaypogegrammeni.sc;
 layers = (
 {
@@ -147084,6 +147499,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegapsiliperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -147116,6 +147532,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -147148,6 +147565,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = omegaperispomeniypogegrammeni.sc;
 layers = (
 {
@@ -147180,6 +147598,7 @@ width = 879;
 );
 },
 {
+color = 10;
 glyphname = iotatonos.sc.ss05;
 layers = (
 {
@@ -147227,6 +147646,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadieresistonos.sc.ss05;
 layers = (
 {
@@ -147274,6 +147694,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = upsilontonos.sc.ss05;
 layers = (
 {
@@ -147321,6 +147742,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondieresistonos.sc.ss05;
 layers = (
 {
@@ -147368,6 +147790,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = omicrontonos.sc.ss05;
 layers = (
 {
@@ -147415,6 +147838,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omegatonos.sc.ss05;
 layers = (
 {
@@ -147462,6 +147886,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = alphatonos.sc.ss05;
 layers = (
 {
@@ -147509,6 +147934,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = epsilontonos.sc.ss05;
 layers = (
 {
@@ -147556,6 +147982,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = etatonos.sc.ss05;
 layers = (
 {
@@ -147603,6 +148030,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = alphapsili.sc.ss05;
 layers = (
 {
@@ -147650,6 +148078,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasia.sc.ss05;
 layers = (
 {
@@ -147697,6 +148126,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsilivaria.sc.ss05;
 layers = (
 {
@@ -147744,6 +148174,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiavaria.sc.ss05;
 layers = (
 {
@@ -147791,6 +148222,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsilioxia.sc.ss05;
 layers = (
 {
@@ -147838,6 +148270,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaoxia.sc.ss05;
 layers = (
 {
@@ -147885,6 +148318,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsiliperispomeni.sc.ss05;
 layers = (
 {
@@ -147932,6 +148366,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaperispomeni.sc.ss05;
 layers = (
 {
@@ -147979,6 +148414,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphavaria.sc.ss05;
 layers = (
 {
@@ -148026,6 +148462,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphaoxia.sc.ss05;
 layers = (
 {
@@ -148073,6 +148510,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphaperispomeni.sc.ss05;
 layers = (
 {
@@ -148120,6 +148558,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphavrachy.sc.ss05;
 layers = (
 {
@@ -148167,6 +148606,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphamacron.sc.ss05;
 layers = (
 {
@@ -148214,6 +148654,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148261,6 +148702,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphavariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148308,6 +148750,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphaoxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148355,6 +148798,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsiliypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148402,6 +148846,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148449,6 +148894,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsilivariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148496,6 +148942,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiavariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148543,6 +148990,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsilioxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148590,6 +149038,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaoxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148637,6 +149086,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphapsiliperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148684,6 +149134,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphadasiaperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148731,6 +149182,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = alphaperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -148778,6 +149230,7 @@ width = 549;
 );
 },
 {
+color = 10;
 glyphname = epsilonpsili.sc.ss05;
 layers = (
 {
@@ -148825,6 +149278,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilondasia.sc.ss05;
 layers = (
 {
@@ -148872,6 +149326,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilonpsilivaria.sc.ss05;
 layers = (
 {
@@ -148919,6 +149374,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilondasiavaria.sc.ss05;
 layers = (
 {
@@ -148966,6 +149422,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilonpsilioxia.sc.ss05;
 layers = (
 {
@@ -149013,6 +149470,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilondasiaoxia.sc.ss05;
 layers = (
 {
@@ -149060,6 +149518,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilonvaria.sc.ss05;
 layers = (
 {
@@ -149107,6 +149566,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = epsilonoxia.sc.ss05;
 layers = (
 {
@@ -149154,6 +149614,7 @@ width = 480;
 );
 },
 {
+color = 10;
 glyphname = etapsili.sc.ss05;
 layers = (
 {
@@ -149201,6 +149662,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasia.sc.ss05;
 layers = (
 {
@@ -149248,6 +149710,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsilivaria.sc.ss05;
 layers = (
 {
@@ -149295,6 +149758,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiavaria.sc.ss05;
 layers = (
 {
@@ -149342,6 +149806,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsilioxia.sc.ss05;
 layers = (
 {
@@ -149389,6 +149854,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiaoxia.sc.ss05;
 layers = (
 {
@@ -149436,6 +149902,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsiliperispomeni.sc.ss05;
 layers = (
 {
@@ -149483,6 +149950,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiaperispomeni.sc.ss05;
 layers = (
 {
@@ -149530,6 +149998,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etavaria.sc.ss05;
 layers = (
 {
@@ -149577,6 +150046,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etaoxia.sc.ss05;
 layers = (
 {
@@ -149624,6 +150094,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etaperispomeni.sc.ss05;
 layers = (
 {
@@ -149671,6 +150142,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -149718,6 +150190,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etavariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -149765,6 +150238,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etaoxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -149812,6 +150286,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsiliypogegrammeni.sc.ss05;
 layers = (
 {
@@ -149859,6 +150334,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -149906,6 +150382,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsilivariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -149953,6 +150430,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiavariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -150000,6 +150478,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsilioxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -150047,6 +150526,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiaoxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -150094,6 +150574,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etapsiliperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -150141,6 +150622,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etadasiaperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -150188,6 +150670,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = etaperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -150235,6 +150718,7 @@ width = 614;
 );
 },
 {
+color = 10;
 glyphname = iotapsili.sc.ss05;
 layers = (
 {
@@ -150282,6 +150766,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadasia.sc.ss05;
 layers = (
 {
@@ -150329,6 +150814,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotapsilivaria.sc.ss05;
 layers = (
 {
@@ -150376,6 +150862,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadasiavaria.sc.ss05;
 layers = (
 {
@@ -150423,6 +150910,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotapsilioxia.sc.ss05;
 layers = (
 {
@@ -150470,6 +150958,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadasiaoxia.sc.ss05;
 layers = (
 {
@@ -150517,6 +151006,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotapsiliperispomeni.sc.ss05;
 layers = (
 {
@@ -150564,6 +151054,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadasiaperispomeni.sc.ss05;
 layers = (
 {
@@ -150611,6 +151102,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotavaria.sc.ss05;
 layers = (
 {
@@ -150658,6 +151150,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotaoxia.sc.ss05;
 layers = (
 {
@@ -150705,6 +151198,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotaperispomeni.sc.ss05;
 layers = (
 {
@@ -150752,6 +151246,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotavrachy.sc.ss05;
 layers = (
 {
@@ -150799,6 +151294,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotamacron.sc.ss05;
 layers = (
 {
@@ -150846,6 +151342,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadialytikavaria.sc.ss05;
 layers = (
 {
@@ -150893,6 +151390,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadialytikaoxia.sc.ss05;
 layers = (
 {
@@ -150940,6 +151438,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = iotadialytikaperispomeni.sc.ss05;
 layers = (
 {
@@ -150987,6 +151486,7 @@ width = 303;
 );
 },
 {
+color = 10;
 glyphname = omicronpsili.sc.ss05;
 layers = (
 {
@@ -151034,6 +151534,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicrondasia.sc.ss05;
 layers = (
 {
@@ -151081,6 +151582,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicronpsilivaria.sc.ss05;
 layers = (
 {
@@ -151128,6 +151630,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicrondasiavaria.sc.ss05;
 layers = (
 {
@@ -151175,6 +151678,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicronpsilioxia.sc.ss05;
 layers = (
 {
@@ -151222,6 +151726,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicrondasiaoxia.sc.ss05;
 layers = (
 {
@@ -151269,6 +151774,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicronvaria.sc.ss05;
 layers = (
 {
@@ -151316,6 +151822,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = omicronoxia.sc.ss05;
 layers = (
 {
@@ -151363,6 +151870,7 @@ width = 565;
 );
 },
 {
+color = 10;
 glyphname = rhopsili.sc.ss05;
 layers = (
 {
@@ -151410,6 +151918,7 @@ width = 526;
 );
 },
 {
+color = 10;
 glyphname = rhodasia.sc.ss05;
 layers = (
 {
@@ -151457,6 +151966,7 @@ width = 526;
 );
 },
 {
+color = 10;
 glyphname = upsilonpsili.sc.ss05;
 layers = (
 {
@@ -151504,6 +152014,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondasia.sc.ss05;
 layers = (
 {
@@ -151551,6 +152062,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonpsilivaria.sc.ss05;
 layers = (
 {
@@ -151598,6 +152110,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondasiavaria.sc.ss05;
 layers = (
 {
@@ -151645,6 +152158,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonpsilioxia.sc.ss05;
 layers = (
 {
@@ -151692,6 +152206,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondasiaoxia.sc.ss05;
 layers = (
 {
@@ -151739,6 +152254,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonpsiliperispomeni.sc.ss05;
 layers = (
 {
@@ -151786,6 +152302,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondasiaperispomeni.sc.ss05;
 layers = (
 {
@@ -151833,6 +152350,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonvaria.sc.ss05;
 layers = (
 {
@@ -151880,6 +152398,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonoxia.sc.ss05;
 layers = (
 {
@@ -151927,6 +152446,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonperispomeni.sc.ss05;
 layers = (
 {
@@ -151974,6 +152494,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonvrachy.sc.ss05;
 layers = (
 {
@@ -152021,6 +152542,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilonmacron.sc.ss05;
 layers = (
 {
@@ -152068,6 +152590,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondialytikavaria.sc.ss05;
 layers = (
 {
@@ -152115,6 +152638,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondialytikaoxia.sc.ss05;
 layers = (
 {
@@ -152162,6 +152686,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = upsilondialytikaperispomeni.sc.ss05;
 layers = (
 {
@@ -152209,6 +152734,7 @@ width = 525;
 );
 },
 {
+color = 10;
 glyphname = omegapsili.sc.ss05;
 layers = (
 {
@@ -152256,6 +152782,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasia.sc.ss05;
 layers = (
 {
@@ -152303,6 +152830,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsilivaria.sc.ss05;
 layers = (
 {
@@ -152350,6 +152878,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiavaria.sc.ss05;
 layers = (
 {
@@ -152397,6 +152926,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsilioxia.sc.ss05;
 layers = (
 {
@@ -152444,6 +152974,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaoxia.sc.ss05;
 layers = (
 {
@@ -152491,6 +153022,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsiliperispomeni.sc.ss05;
 layers = (
 {
@@ -152538,6 +153070,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaperispomeni.sc.ss05;
 layers = (
 {
@@ -152585,6 +153118,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegavaria.sc.ss05;
 layers = (
 {
@@ -152632,6 +153166,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegaoxia.sc.ss05;
 layers = (
 {
@@ -152679,6 +153214,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegaperispomeni.sc.ss05;
 layers = (
 {
@@ -152726,6 +153262,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -152773,6 +153310,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegavariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -152820,6 +153358,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegaoxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -152867,6 +153406,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsiliypogegrammeni.sc.ss05;
 layers = (
 {
@@ -152914,6 +153454,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -152961,6 +153502,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsilivariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -153008,6 +153550,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiavariaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -153055,6 +153598,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsilioxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -153102,6 +153646,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaoxiaypogegrammeni.sc.ss05;
 layers = (
 {
@@ -153149,6 +153694,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegapsiliperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -153196,6 +153742,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegadasiaperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -153243,6 +153790,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = omegaperispomeniypogegrammeni.sc.ss05;
 layers = (
 {
@@ -153290,6 +153838,7 @@ width = 598;
 );
 },
 {
+color = 10;
 glyphname = ypogegrammeni;
 layers = (
 {
@@ -223768,6 +224317,7 @@ width = 207;
 unicode = 1FBF;
 },
 {
+color = 10;
 glyphname = koronis;
 layers = (
 {
@@ -226297,6 +226847,7 @@ width = 206;
 unicode = 1FEF;
 },
 {
+color = 10;
 glyphname = oxia;
 layers = (
 {
@@ -227127,6 +227678,7 @@ width = 282;
 );
 },
 {
+color = 10;
 glyphname = perispomeni.case;
 layers = (
 {
