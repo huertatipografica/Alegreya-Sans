@@ -1,12 +1,12 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-"Cyrillic shape groups\012/Ve-cy/Ze-cy C/Ia-cy R/Zhe-cy/Ka-cy/Ha-cy/U-cy  N/Ii-cy/Pi/Pe-cy/Pi I/Tse-cy/Sha-cy/Shcha-cy  /De-cy/El-cy/U-cy/Zhe-cy/Ka-cy  /Che-cy/Er-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Ge-cy/Be-cy  /Iu-cy/Ef-cy C/E-cy E/Ereversed-cy/Es-cy"
+"Cyrillic shape groups\012/Ve-cy/Ze-cy C/Ia-cy R/Zhe-cy/Ka-cy/Ha-cy/U-cy  N/Ii-cy/Pi/Pe-cy/Pi I/Tse-cy/Sha-cy/Shcha-cy  /De-cy/El-cy/U-cy/Zhe-cy/Ka-cy  /Che-cy/Er-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Ge-cy/Be-cy  O/O.001 H/Iu-cy/Ef-cy C/E-cy E/Ereversed-cy/Es-cy"
 );
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Germandbls.alt Q.corta C.ss01 D.ss01 I.ss01 L.ss01 M.ss01 V.ss01 X.ss01 A-cy Be-cy Ve-cy Ge-cy De-cy Ie-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Softsign-cy Hardsign-cy Yeru-cy E-cy Ereversed-cy Iu-cy Ia-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni Alphaprosgegrammeni.ss05 Alphapsiliprosgegrammeni.ss05 Alphadasiaprosgegrammeni.ss05 Alphapsilivariaprosgegrammeni.ss05 Alphadasiavariaprosgegrammeni.ss05 Alphapsilioxiaprosgegrammeni.ss05 Alphadasiaoxiaprosgegrammeni.ss05 Alphapsiliperispomeniprosgegrammeni.ss05 Alphadasiaperispomeniprosgegrammeni.ss05 Etaprosgegrammeni.ss05 Etapsiliprosgegrammeni.ss05 Etadasiaprosgegrammeni.ss05 Etapsilivariaprosgegrammeni.ss05 Etadasiavariaprosgegrammeni.ss05 Etapsilioxiaprosgegrammeni.ss05 Etadasiaoxiaprosgegrammeni.ss05 Etapsiliperispomeniprosgegrammeni.ss05 Etadasiaperispomeniprosgegrammeni.ss05 Omegaprosgegrammeni.ss05 Omegapsiliprosgegrammeni.ss05 Omegadasiaprosgegrammeni.ss05 Omegapsilivariaprosgegrammeni.ss05 Omegadasiavariaprosgegrammeni.ss05 Omegapsilioxiaprosgegrammeni.ss05 Omegadasiaoxiaprosgegrammeni.ss05 Omegapsiliperispomeniprosgegrammeni.ss05 Omegadasiaperispomeniprosgegrammeni.ss05 Alphaprosgegrammeni.ss06 Alphapsiliprosgegrammeni.ss06 Alphadasiaprosgegrammeni.ss06 Alphapsilivariaprosgegrammeni.ss06 Alphadasiavariaprosgegrammeni.ss06 Alphapsilioxiaprosgegrammeni.ss06 Alphadasiaoxiaprosgegrammeni.ss06 Alphapsiliperispomeniprosgegrammeni.ss06 Alphadasiaperispomeniprosgegrammeni.ss06 Etaprosgegrammeni.ss06 Etapsiliprosgegrammeni.ss06 Etadasiaprosgegrammeni.ss06 Etapsilivariaprosgegrammeni.ss06 Etadasiavariaprosgegrammeni.ss06 Etapsilioxiaprosgegrammeni.ss06 Etadasiaoxiaprosgegrammeni.ss06 Etapsiliperispomeniprosgegrammeni.ss06 Etadasiaperispomeniprosgegrammeni.ss06 Omegaprosgegrammeni.ss06 Omegapsiliprosgegrammeni.ss06 Omegadasiaprosgegrammeni.ss06 Omegapsilivariaprosgegrammeni.ss06 Omegadasiavariaprosgegrammeni.ss06 Omegapsilioxiaprosgegrammeni.ss06 Omegadasiaoxiaprosgegrammeni.ss06 Omegapsiliperispomeniprosgegrammeni.ss06 Omegadasiaperispomeniprosgegrammeni.ss06";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD O.001 Germandbls.alt Q.corta C.ss01 D.ss01 I.ss01 L.ss01 M.ss01 V.ss01 X.ss01 A-cy Be-cy Ve-cy Ge-cy De-cy Ie-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Softsign-cy Hardsign-cy Yeru-cy E-cy Ereversed-cy Iu-cy Ia-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni Alphaprosgegrammeni.ss05 Alphapsiliprosgegrammeni.ss05 Alphadasiaprosgegrammeni.ss05 Alphapsilivariaprosgegrammeni.ss05 Alphadasiavariaprosgegrammeni.ss05 Alphapsilioxiaprosgegrammeni.ss05 Alphadasiaoxiaprosgegrammeni.ss05 Alphapsiliperispomeniprosgegrammeni.ss05 Alphadasiaperispomeniprosgegrammeni.ss05 Etaprosgegrammeni.ss05 Etapsiliprosgegrammeni.ss05 Etadasiaprosgegrammeni.ss05 Etapsilivariaprosgegrammeni.ss05 Etadasiavariaprosgegrammeni.ss05 Etapsilioxiaprosgegrammeni.ss05 Etadasiaoxiaprosgegrammeni.ss05 Etapsiliperispomeniprosgegrammeni.ss05 Etadasiaperispomeniprosgegrammeni.ss05 Omegaprosgegrammeni.ss05 Omegapsiliprosgegrammeni.ss05 Omegadasiaprosgegrammeni.ss05 Omegapsilivariaprosgegrammeni.ss05 Omegadasiavariaprosgegrammeni.ss05 Omegapsilioxiaprosgegrammeni.ss05 Omegadasiaoxiaprosgegrammeni.ss05 Omegapsiliperispomeniprosgegrammeni.ss05 Omegadasiaperispomeniprosgegrammeni.ss05 Alphaprosgegrammeni.ss06 Alphapsiliprosgegrammeni.ss06 Alphadasiaprosgegrammeni.ss06 Alphapsilivariaprosgegrammeni.ss06 Alphadasiavariaprosgegrammeni.ss06 Alphapsilioxiaprosgegrammeni.ss06 Alphadasiaoxiaprosgegrammeni.ss06 Alphapsiliperispomeniprosgegrammeni.ss06 Alphadasiaperispomeniprosgegrammeni.ss06 Etaprosgegrammeni.ss06 Etapsiliprosgegrammeni.ss06 Etadasiaprosgegrammeni.ss06 Etapsilivariaprosgegrammeni.ss06 Etadasiavariaprosgegrammeni.ss06 Etapsilioxiaprosgegrammeni.ss06 Etadasiaoxiaprosgegrammeni.ss06 Etapsiliperispomeniprosgegrammeni.ss06 Etadasiaperispomeniprosgegrammeni.ss06 Omegaprosgegrammeni.ss06 Omegapsiliprosgegrammeni.ss06 Omegadasiaprosgegrammeni.ss06 Omegapsilivariaprosgegrammeni.ss06 Omegadasiavariaprosgegrammeni.ss06 Omegapsilioxiaprosgegrammeni.ss06 Omegadasiaoxiaprosgegrammeni.ss06 Omegapsiliperispomeniprosgegrammeni.ss06 Omegadasiaperispomeniprosgegrammeni.ss06";
 name = Uppercase;
 },
 {
@@ -29102,6 +29102,326 @@ layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
 width = 689;
 }
 );
+},
+{
+color = 1;
+glyphname = O.001;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{295, 0}";
+},
+{
+name = center;
+position = "{295, 319}";
+},
+{
+name = ogonek;
+position = "{399, 20}";
+},
+{
+name = top;
+position = "{295, 637}";
+},
+{
+name = topleft;
+position = "{22, 637}";
+},
+{
+name = topright;
+position = "{567, 637}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"144 642 OFFCURVE",
+"48 526 OFFCURVE",
+"48 317 CURVE SMOOTH",
+"48 110 OFFCURVE",
+"141 -5 OFFCURVE",
+"308 -5 CURVE SMOOTH",
+"482 -5 OFFCURVE",
+"579 114 OFFCURVE",
+"579 329 CURVE SMOOTH",
+"579 530 OFFCURVE",
+"486 642 OFFCURVE",
+"318 642 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"473 622 OFFCURVE",
+"559 517 OFFCURVE",
+"559 329 CURVE SMOOTH",
+"559 127 OFFCURVE",
+"469 15 OFFCURVE",
+"308 15 CURVE SMOOTH",
+"154 15 OFFCURVE",
+"68 123 OFFCURVE",
+"68 317 CURVE SMOOTH",
+"68 513 OFFCURVE",
+"157 622 OFFCURVE",
+"318 622 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"138 642 OFFCURVE",
+"48 526 OFFCURVE",
+"48 317 CURVE SMOOTH",
+"48 110 OFFCURVE",
+"135 -5 OFFCURVE",
+"290 -5 CURVE SMOOTH",
+"451 -5 OFFCURVE",
+"541 114 OFFCURVE",
+"541 329 CURVE SMOOTH",
+"541 530 OFFCURVE",
+"454 642 OFFCURVE",
+"298 642 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"441 622 OFFCURVE",
+"521 517 OFFCURVE",
+"521 329 CURVE SMOOTH",
+"521 127 OFFCURVE",
+"438 15 OFFCURVE",
+"290 15 CURVE SMOOTH",
+"148 15 OFFCURVE",
+"68 123 OFFCURVE",
+"68 317 CURVE SMOOTH",
+"68 513 OFFCURVE",
+"151 622 OFFCURVE",
+"298 622 CURVE SMOOTH"
+);
+}
+);
+width = 589;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{308, 0}";
+},
+{
+name = center;
+position = "{308, 321}";
+},
+{
+name = ogonek;
+position = "{437, 29}";
+},
+{
+name = top;
+position = "{308, 641}";
+},
+{
+name = topleft;
+position = "{22, 641}";
+},
+{
+name = topright;
+position = "{594, 641}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"141 648 OFFCURVE",
+"37 529 OFFCURVE",
+"37 315 CURVE SMOOTH",
+"37 109 OFFCURVE",
+"135 -8 OFFCURVE",
+"309 -8 CURVE SMOOTH",
+"495 -8 OFFCURVE",
+"600 115 OFFCURVE",
+"600 333 CURVE SMOOTH",
+"600 535 OFFCURVE",
+"502 648 OFFCURVE",
+"326 648 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"448 578 OFFCURVE",
+"511 496 OFFCURVE",
+"511 317 CURVE SMOOTH",
+"511 142 OFFCURVE",
+"446 59 OFFCURVE",
+"316 59 CURVE SMOOTH",
+"188 59 OFFCURVE",
+"125 143 OFFCURVE",
+"125 325 CURVE SMOOTH",
+"125 496 OFFCURVE",
+"190 578 OFFCURVE",
+"320 578 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
+paths = (
+{
+closed = 1;
+nodes = (
+"137 648 OFFCURVE",
+"37 529 OFFCURVE",
+"37 315 CURVE SMOOTH",
+"37 109 OFFCURVE",
+"132 -8 OFFCURVE",
+"299 -8 CURVE SMOOTH",
+"478 -8 OFFCURVE",
+"579 115 OFFCURVE",
+"579 333 CURVE SMOOTH",
+"579 535 OFFCURVE",
+"484 648 OFFCURVE",
+"315 648 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"430 578 OFFCURVE",
+"490 496 OFFCURVE",
+"490 317 CURVE SMOOTH",
+"490 142 OFFCURVE",
+"429 59 OFFCURVE",
+"306 59 CURVE SMOOTH",
+"185 59 OFFCURVE",
+"125 143 OFFCURVE",
+"125 325 CURVE SMOOTH",
+"125 496 OFFCURVE",
+"186 578 OFFCURVE",
+"309 578 CURVE SMOOTH"
+);
+}
+);
+width = 615;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = center;
+position = "{305, 324}";
+},
+{
+name = ogonek;
+position = "{467, 46}";
+},
+{
+name = top;
+position = "{305, 647}";
+},
+{
+name = topleft;
+position = "{22, 647}";
+},
+{
+name = topright;
+position = "{587, 647}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"135 659 OFFCURVE",
+"17 533 OFFCURVE",
+"17 312 CURVE SMOOTH",
+"17 106 OFFCURVE",
+"124 -12 OFFCURVE",
+"312 -12 CURVE SMOOTH",
+"518 -12 OFFCURVE",
+"636 116 OFFCURVE",
+"636 340 CURVE SMOOTH",
+"636 543 OFFCURVE",
+"529 659 OFFCURVE",
+"341 659 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"404 499 OFFCURVE",
+"426 458 OFFCURVE",
+"426 297 CURVE SMOOTH",
+"426 169 OFFCURVE",
+"405 136 OFFCURVE",
+"330 136 CURVE SMOOTH",
+"249 136 OFFCURVE",
+"227 177 OFFCURVE",
+"227 339 CURVE SMOOTH",
+"227 466 OFFCURVE",
+"248 499 OFFCURVE",
+"323 499 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
+paths = (
+{
+closed = 1;
+nodes = (
+"127 659 OFFCURVE",
+"17 532 OFFCURVE",
+"17 312 CURVE SMOOTH",
+"17 107 OFFCURVE",
+"117 -12 OFFCURVE",
+"290 -12 CURVE SMOOTH",
+"482 -12 OFFCURVE",
+"592 116 OFFCURVE",
+"592 340 CURVE SMOOTH",
+"592 542 OFFCURVE",
+"492 659 OFFCURVE",
+"319 659 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"366 499 OFFCURVE",
+"382 459 OFFCURVE",
+"382 297 CURVE SMOOTH",
+"382 167 OFFCURVE",
+"368 136 OFFCURVE",
+"308 136 CURVE SMOOTH",
+"243 136 OFFCURVE",
+"227 177 OFFCURVE",
+"227 339 CURVE SMOOTH",
+"227 467 OFFCURVE",
+"242 499 OFFCURVE",
+"301 499 CURVE SMOOTH"
+);
+}
+);
+width = 609;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
 },
 {
 color = 5;
@@ -104138,7 +104458,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"180 0 LINE",
+"179 0 LINE",
 "502 506 LINE",
 "509 506 LINE",
 "509 193 LINE",
@@ -104147,12 +104467,12 @@ nodes = (
 "588 200 LINE",
 "592 641 LINE",
 "502 641 LINE",
-"181 135 LINE",
-"173 135 LINE",
-"178 643 LINE",
-"92 638 LINE",
-"96 193 LINE",
-"92 0 LINE"
+"180 135 LINE",
+"172 135 LINE",
+"177 643 LINE",
+"91 638 LINE",
+"95 193 LINE",
+"91 0 LINE"
 );
 }
 );
@@ -104209,14 +104529,14 @@ paths = (
 closed = 1;
 nodes = (
 "270 0 LINE",
-"450 350 LINE",
-"462 350 LINE",
-"461 190 LINE",
-"451 0 LINE",
-"652 0 LINE",
-"644 210 LINE",
-"655 647 LINE",
-"441 647 LINE",
+"453 350 LINE",
+"465 350 LINE",
+"464 190 LINE",
+"454 0 LINE",
+"655 0 LINE",
+"647 210 LINE",
+"658 647 LINE",
+"444 647 LINE",
 "262 299 LINE",
 "250 299 LINE",
 "264 652 LINE",
@@ -104226,7 +104546,7 @@ nodes = (
 );
 }
 );
-width = 715;
+width = 721;
 }
 );
 leftMetricsKey = "=I";
@@ -104853,7 +105173,7 @@ layers = (
 anchors = (
 {
 name = bottomright;
-position = "{816, 0}";
+position = "{810, 0}";
 }
 );
 layerId = UUID0;
@@ -104861,8 +105181,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"826 0 LINE",
-"826 20 LINE",
+"820 0 LINE",
+"820 20 LINE",
 "120 20 LINE",
 "120 0 LINE"
 );
@@ -104881,33 +105201,33 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"483 0 LINE",
-"483 195 LINE",
-"483 637 LINE",
-"463 637 LINE",
-"463 195 LINE",
-"463 0 LINE"
+"480 0 LINE",
+"480 195 LINE",
+"480 637 LINE",
+"460 637 LINE",
+"460 195 LINE",
+"460 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"836 0 LINE",
-"836 195 LINE",
-"836 637 LINE",
-"816 637 LINE",
-"816 195 LINE",
-"816 0 LINE"
+"830 0 LINE",
+"830 195 LINE",
+"830 637 LINE",
+"810 637 LINE",
+"810 195 LINE",
+"810 0 LINE"
 );
 }
 );
-width = 946;
+width = 940;
 },
 {
 anchors = (
 {
 name = bottomright;
-position = "{804, 0}";
+position = "{800, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -104915,47 +105235,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"846 0 LINE",
-"846 71 LINE",
-"135 71 LINE",
-"135 0 LINE"
+"841 0 LINE",
+"841 71 LINE",
+"134 71 LINE",
+"134 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"177 0 LINE",
-"174 200 LINE",
-"178 641 LINE",
-"92 641 LINE",
-"96 193 LINE",
-"92 0 LINE"
+"176 0 LINE",
+"173 200 LINE",
+"177 641 LINE",
+"91 641 LINE",
+"95 193 LINE",
+"91 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"534 0 LINE",
-"531 200 LINE",
-"535 641 LINE",
-"448 641 LINE",
-"452 193 LINE",
-"448 0 LINE"
+"531 0 LINE",
+"528 200 LINE",
+"532 641 LINE",
+"445 641 LINE",
+"449 193 LINE",
+"445 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"890 0 LINE",
-"887 200 LINE",
-"891 641 LINE",
-"804 641 LINE",
-"808 193 LINE",
-"804 0 LINE"
+"885 0 LINE",
+"882 200 LINE",
+"886 641 LINE",
+"800 641 LINE",
+"803 193 LINE",
+"800 0 LINE"
 );
 }
 );
-width = 984;
+width = 978;
 },
 {
 anchors = (
@@ -105083,11 +105403,11 @@ name = "Sha-cy";
 },
 {
 name = "descender-cy.case";
-transform = "{1, 0, 0, 1, 775, 0}";
+transform = "{1, 0, 0, 1, 769, 0}";
 }
 );
 layerId = UUID0;
-width = 946;
+width = 940;
 },
 {
 components = (
@@ -105096,11 +105416,11 @@ name = "Sha-cy";
 },
 {
 name = "descender-cy.case";
-transform = "{1, 0, 0, 1, 772, 0}";
+transform = "{1, 0, 0, 1, 768, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 984;
+width = 978;
 },
 {
 components = (
@@ -106235,18 +106555,351 @@ unicode = 042D;
 glyphname = "Iu-cy";
 layers = (
 {
-layerId = UUID0;
-width = 600;
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"110 637 LINE",
+"110 195 LINE",
+"110 0 LINE",
+"130 0 LINE",
+"130 195 LINE",
+"130 637 LINE"
+);
 },
 {
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 600;
+closed = 1;
+nodes = (
+"121 314 LINE",
+"214 314 LINE",
+"308 314 LINE",
+"308 334 LINE",
+"216 334 LINE",
+"121 334 LINE"
+);
 },
 {
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 600;
+closed = 1;
+nodes = (
+"389 642 OFFCURVE",
+"298 526 OFFCURVE",
+"298 317 CURVE SMOOTH",
+"298 110 OFFCURVE",
+"386 -5 OFFCURVE",
+"543 -5 CURVE SMOOTH",
+"706 -5 OFFCURVE",
+"797 114 OFFCURVE",
+"797 329 CURVE SMOOTH",
+"797 530 OFFCURVE",
+"709 642 OFFCURVE",
+"551 642 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"696 622 OFFCURVE",
+"777 517 OFFCURVE",
+"777 329 CURVE SMOOTH",
+"777 127 OFFCURVE",
+"693 15 OFFCURVE",
+"543 15 CURVE SMOOTH",
+"399 15 OFFCURVE",
+"318 123 OFFCURVE",
+"318 317 CURVE SMOOTH",
+"318 513 OFFCURVE",
+"402 622 OFFCURVE",
+"551 622 CURVE SMOOTH"
+);
 }
 );
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"110 637 LINE",
+"110 195 LINE",
+"110 0 LINE",
+"130 0 LINE",
+"130 195 LINE",
+"130 637 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 314 LINE",
+"214 314 LINE",
+"307 314 LINE",
+"307 334 LINE",
+"216 334 LINE",
+"121 334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"390 642 OFFCURVE",
+"300 526 OFFCURVE",
+"300 317 CURVE SMOOTH",
+"300 110 OFFCURVE",
+"387 -5 OFFCURVE",
+"542 -5 CURVE SMOOTH",
+"703 -5 OFFCURVE",
+"793 114 OFFCURVE",
+"793 329 CURVE SMOOTH",
+"793 530 OFFCURVE",
+"706 642 OFFCURVE",
+"550 642 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"693 622 OFFCURVE",
+"773 517 OFFCURVE",
+"773 329 CURVE SMOOTH",
+"773 127 OFFCURVE",
+"690 15 OFFCURVE",
+"542 15 CURVE SMOOTH",
+"400 15 OFFCURVE",
+"320 123 OFFCURVE",
+"320 317 CURVE SMOOTH",
+"320 513 OFFCURVE",
+"403 622 OFFCURVE",
+"550 622 CURVE SMOOTH"
+);
+}
+);
+width = 841;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"546 641 LINE",
+"550 193 LINE",
+"546 0 LINE",
+"631 0 LINE",
+"629 200 LINE",
+"633 641 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 641 LINE",
+"136 193 LINE",
+"132 0 LINE",
+"217 0 LINE",
+"214 200 LINE",
+"218 641 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"203 287 LINE",
+"375 288 LINE",
+"560 287 LINE",
+"560 359 LINE",
+"382 358 LINE",
+"203 359 LINE"
+);
+}
+);
+};
+layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
+paths = (
+{
+closed = 1;
+nodes = (
+"92 641 LINE",
+"96 193 LINE",
+"92 0 LINE",
+"177 0 LINE",
+"174 200 LINE",
+"178 641 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"152 287 LINE",
+"240 288 LINE",
+"337 287 LINE",
+"337 359 LINE",
+"245 358 LINE",
+"152 359 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"414 648 OFFCURVE",
+"317 528 OFFCURVE",
+"317 315 CURVE SMOOTH",
+"317 109 OFFCURVE",
+"409 -8 OFFCURVE",
+"570 -8 CURVE SMOOTH",
+"742 -8 OFFCURVE",
+"840 115 OFFCURVE",
+"840 333 CURVE SMOOTH",
+"840 534 OFFCURVE",
+"748 648 OFFCURVE",
+"586 648 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"694 578 OFFCURVE",
+"751 496 OFFCURVE",
+"751 317 CURVE SMOOTH",
+"751 141 OFFCURVE",
+"693 59 OFFCURVE",
+"577 59 CURVE SMOOTH",
+"463 59 OFFCURVE",
+"406 143 OFFCURVE",
+"406 325 CURVE SMOOTH",
+"406 496 OFFCURVE",
+"464 578 OFFCURVE",
+"579 578 CURVE SMOOTH"
+);
+}
+);
+width = 876;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"60 647 LINE",
+"70 190 LINE",
+"60 0 LINE",
+"261 0 LINE",
+"253 210 LINE",
+"264 647 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"206 238 LINE",
+"286 242 LINE",
+"389 240 LINE",
+"389 402 LINE",
+"295 400 LINE",
+"206 403 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"453 659 OFFCURVE",
+"340 533 OFFCURVE",
+"340 312 CURVE SMOOTH",
+"340 106 OFFCURVE",
+"443 -12 OFFCURVE",
+"620 -12 CURVE SMOOTH",
+"816 -12 OFFCURVE",
+"929 116 OFFCURVE",
+"929 340 CURVE SMOOTH",
+"929 543 OFFCURVE",
+"826 659 OFFCURVE",
+"649 659 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"701 499 OFFCURVE",
+"719 458 OFFCURVE",
+"719 297 CURVE SMOOTH",
+"719 169 OFFCURVE",
+"703 136 OFFCURVE",
+"638 136 CURVE SMOOTH",
+"568 136 OFFCURVE",
+"550 177 OFFCURVE",
+"550 339 CURVE SMOOTH",
+"550 466 OFFCURVE",
+"566 499 OFFCURVE",
+"631 499 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 647 LINE",
+"70 190 LINE",
+"60 0 LINE",
+"261 0 LINE",
+"253 210 LINE",
+"264 647 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"206 238 LINE",
+"286 242 LINE",
+"389 240 LINE",
+"389 402 LINE",
+"295 400 LINE",
+"206 403 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"457 659 OFFCURVE",
+"347 532 OFFCURVE",
+"347 312 CURVE SMOOTH",
+"347 107 OFFCURVE",
+"447 -12 OFFCURVE",
+"620 -12 CURVE SMOOTH",
+"812 -12 OFFCURVE",
+"922 116 OFFCURVE",
+"922 340 CURVE SMOOTH",
+"922 542 OFFCURVE",
+"822 659 OFFCURVE",
+"649 659 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"696 499 OFFCURVE",
+"712 459 OFFCURVE",
+"712 297 CURVE SMOOTH",
+"712 167 OFFCURVE",
+"698 136 OFFCURVE",
+"638 136 CURVE SMOOTH",
+"573 136 OFFCURVE",
+"557 177 OFFCURVE",
+"557 339 CURVE SMOOTH",
+"557 467 OFFCURVE",
+"572 499 OFFCURVE",
+"631 499 CURVE SMOOTH"
+);
+}
+);
+width = 939;
+}
+);
+leftMetricsKey = "=H";
+rightMetricsKey = "=O";
 unicode = 042E;
 },
 {
@@ -106371,61 +107024,6 @@ paths = (
 closed = 1;
 nodes = (
 "435 236 LINE",
-"435 309 LINE",
-"266 305 LINE",
-"195 326 OFFCURVE",
-"157 374 OFFCURVE",
-"157 451 CURVE SMOOTH",
-"157 532 OFFCURVE",
-"202 569 OFFCURVE",
-"287 572 CURVE",
-"421 568 LINE",
-"467 641 LINE",
-"266 642 LINE",
-"140 642 OFFCURVE",
-"68 577 OFFCURVE",
-"68 458 CURVE SMOOTH",
-"68 349 OFFCURVE",
-"141 265 OFFCURVE",
-"262 236 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"126 -2 LINE",
-"186 90 OFFCURVE",
-"244 185 OFFCURVE",
-"294 281 CURVE",
-"213 282 LINE",
-"159 193 OFFCURVE",
-"99 106 OFFCURVE",
-"34 20 CURVE",
-"35 10 LINE",
-"61 0 OFFCURVE",
-"87 -6 OFFCURVE",
-"115 -9 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"468 0 LINE",
-"462 193 LINE",
-"468 641 LINE",
-"380 641 LINE",
-"385 200 LINE",
-"381 0 LINE"
-);
-}
-);
-};
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-paths = (
-{
-closed = 1;
-nodes = (
-"435 236 LINE",
 "433 310 LINE",
 "267 305 LINE",
 "195 322 OFFCURVE",
@@ -106474,6 +107072,61 @@ nodes = (
 );
 }
 );
+};
+layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
+paths = (
+{
+closed = 1;
+nodes = (
+"435 236 LINE",
+"435 310 LINE",
+"270 305 LINE",
+"196 323 OFFCURVE",
+"159 368 OFFCURVE",
+"159 442 CURVE SMOOTH",
+"159 526 OFFCURVE",
+"209 571 OFFCURVE",
+"290 572 CURVE",
+"420 568 LINE",
+"467 641 LINE",
+"287 643 LINE",
+"157 643 OFFCURVE",
+"70 562 OFFCURVE",
+"70 441 CURVE SMOOTH",
+"70 334 OFFCURVE",
+"140 257 OFFCURVE",
+"263 236 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"126 -2 LINE",
+"190 95 OFFCURVE",
+"246 188 OFFCURVE",
+"294 281 CURVE",
+"221 282 LINE",
+"165 194 OFFCURVE",
+"105 110 OFFCURVE",
+"34 20 CURVE",
+"35 10 LINE",
+"59 0 OFFCURVE",
+"85 -6 OFFCURVE",
+"115 -9 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"467 0 LINE",
+"463 193 LINE",
+"467 641 LINE",
+"380 637 LINE",
+"384 200 LINE",
+"381 0 LINE"
+);
+}
+);
 width = 558;
 },
 {
@@ -106482,78 +107135,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"119 648 OFFCURVE",
-"37 577 OFFCURVE",
-"37 448 CURVE SMOOTH",
-"37 327 OFFCURVE",
-"138 225 OFFCURVE",
-"290 193 CURVE",
-"500 193 LINE",
-"500 346 LINE",
-"302 335 LINE",
-"264 352 OFFCURVE",
-"248 380 OFFCURVE",
-"248 428 CURVE SMOOTH",
-"248 482 OFFCURVE",
-"274 506 OFFCURVE",
-"335 509 CURVE",
-"453 500 LINE",
-"571 647 LINE",
-"264 648 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"378 210 LINE",
-"370 0 LINE",
-"571 0 LINE",
-"561 190 LINE",
-"571 647 LINE",
-"367 647 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"116 209 OFFCURVE",
-"61 127 OFFCURVE",
-"1 47 CURVE",
-"4 25 LINE",
-"69 5 OFFCURVE",
-"136 -8 OFFCURVE",
-"205 -12 CURVE",
-"224 4 LINE",
-"267 96 OFFCURVE",
-"312 191 OFFCURVE",
-"349 289 CURVE",
-"168 291 LINE"
-);
-}
-);
-};
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-paths = (
-{
-closed = 1;
-nodes = (
 "500 193 LINE",
 "500 349 LINE",
-"309 335 LINE",
-"269 353 OFFCURVE",
-"250 383 OFFCURVE",
-"250 429 CURVE SMOOTH",
-"250 487 OFFCURVE",
-"268 506 OFFCURVE",
+"312 335 LINE",
+"270 354 OFFCURVE",
+"250 380 OFFCURVE",
+"250 424 CURVE SMOOTH",
+"250 484 OFFCURVE",
+"270 506 OFFCURVE",
 "324 509 CURVE",
 "453 500 LINE",
 "571 647 LINE",
 "304 649 LINE",
-"147 649 OFFCURVE",
-"39 559 OFFCURVE",
-"39 430 CURVE SMOOTH",
-"39 313 OFFCURVE",
-"130 228 OFFCURVE",
+"149 649 OFFCURVE",
+"39 556 OFFCURVE",
+"39 425 CURVE SMOOTH",
+"39 310 OFFCURVE",
+"128 229 OFFCURVE",
 "292 193 CURVE"
 );
 },
@@ -106569,8 +107167,63 @@ nodes = (
 "57 113 OFFCURVE",
 "1 47 CURVE",
 "4 25 LINE",
-"69 4 OFFCURVE",
-"136 -8 OFFCURVE",
+"67 4 OFFCURVE",
+"134 -8 OFFCURVE",
+"205 -12 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"571 0 LINE",
+"561 190 LINE",
+"571 647 LINE",
+"367 637 LINE",
+"378 210 LINE",
+"370 0 LINE"
+);
+}
+);
+};
+layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
+paths = (
+{
+closed = 1;
+nodes = (
+"500 193 LINE",
+"500 349 LINE",
+"312 335 LINE",
+"266 356 OFFCURVE",
+"250 381 OFFCURVE",
+"250 428 CURVE SMOOTH",
+"250 483 OFFCURVE",
+"272 507 OFFCURVE",
+"324 509 CURVE",
+"453 500 LINE",
+"571 647 LINE",
+"304 649 LINE",
+"150 649 OFFCURVE",
+"39 556 OFFCURVE",
+"39 426 CURVE SMOOTH",
+"39 305 OFFCURVE",
+"134 218 OFFCURVE",
+"292 193 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"224 4 LINE",
+"267 96 OFFCURVE",
+"312 191 OFFCURVE",
+"349 289 CURVE",
+"188 291 LINE",
+"116 190 OFFCURVE",
+"57 113 OFFCURVE",
+"1 47 CURVE",
+"4 25 LINE",
+"63 4 OFFCURVE",
+"130 -8 OFFCURVE",
 "205 -12 CURVE"
 );
 },
