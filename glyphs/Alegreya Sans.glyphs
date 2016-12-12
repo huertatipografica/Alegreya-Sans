@@ -2,7 +2,7 @@
 .appVersion = "939";
 DisplayStrings = (
 "Cyrillic shape groups\012/Ve-cy/Ze-cy/Ia-cy R/Zhe-cy/Ka-cy/Ha-cy/U-cy  /Iishort-cy/Ii-cy/Pe-cy/Tse-cy/Sha-cy/Shcha-cy  /De-cy/El-cy/U-cy/Zhe-cy/Ka-cy  /Che-cy/Er-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Ge-cy/Be-cy  /Iu-cy/Ef-cy/Ereversed-cy/Es-cy \012/be-cy/de-cy/ve-cy/ge-cy/ze-cy/ereversed-cy  /ef-cy/iu-cy/ereversed-cy  /zhe-cy/ka-cy k/ia-cy/el-cy/em-cy  /ii-cy/iishort-cy/en-cy  /softsign-cy/hardsign-cy/yeru-cy/che-cy  /pe-cy/te-cy/tse-cy/sha-cy/shcha-cy/che-cy/be-cy/de-cy/hardsign-cy",
-"/Iishort-cy/iishort-cy/Ii-cy/ii-cy/Pe-cy/pe-cy/Tse-cy/tse-cy/Sha-cy/sha-cy/descender-cy.case/descender-cy/Shcha-cy/descender-cy/shcha-cy"
+"/ve-cy/ge-cy/gamma.sc/de-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/ka-cy/el-cy/em-cy/en-cy/pe-cy/te-cy/che-cy/tse-cy/sha-cy/shcha-cy/softsign-cy/hardsign-cy/yeru-cy/ereversed-cy/iu-cy/ia-cy"
 );
 classes = (
 {
@@ -112506,28 +112506,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"101 452 LINE",
-"101 138 LINE",
-"101 0 LINE",
-"122 0 LINE",
-"122 139 LINE",
-"122 452 LINE"
+"90 452 LINE",
+"90 138 LINE",
+"90 0 LINE",
+"111 0 LINE",
+"111 139 LINE",
+"111 452 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"115 452 LINE",
-"112 436 LINE",
-"115 433 LINE",
-"220 433 LINE",
-"323 433 LINE",
-"327 449 LINE",
-"324 452 LINE"
+"104 452 LINE",
+"101 436 LINE",
+"104 433 LINE",
+"209 433 LINE",
+"312 433 LINE",
+"316 449 LINE",
+"313 452 LINE"
 );
 }
 );
-width = 321;
+width = 327;
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 70.9000;
+width = 73.5;
+};
+};
 },
 {
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -112535,31 +112542,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"80 458 LINE",
-"84 137 LINE",
-"80 0 LINE",
-"158 0 LINE",
-"156 144 LINE",
-"159 458 LINE"
+"72 458 LINE",
+"76 137 LINE",
+"72 0 LINE",
+"150 0 LINE",
+"148 144 LINE",
+"151 458 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"137 458 LINE",
-"135 402 LINE",
-"137 397 LINE",
-"235 397 LINE",
-"341 395 LINE",
-"346 452 LINE",
-"342 458 LINE"
+"129 458 LINE",
+"127 402 LINE",
+"129 397 LINE",
+"227 397 LINE",
+"333 395 LINE",
+"338 452 LINE",
+"334 458 LINE"
 );
 }
 );
-width = 343;
+width = 345;
+userData = {
+RMXScaler = {
+adjustSpace = 7.3000;
+height = 71.4000;
+weight = -7;
+width = 73.5;
+};
+};
 },
 {
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
+background = {
 paths = (
 {
 closed = 1;
@@ -112585,10 +112600,50 @@ nodes = (
 );
 }
 );
-width = 380;
+};
+layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
+paths = (
+{
+closed = 1;
+nodes = (
+"47 471 LINE",
+"56 137 LINE",
+"47 0 LINE",
+"221 0 LINE",
+"214 155 LINE",
+"223 471 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 471 LINE",
+"177 348 LINE",
+"176 339 LINE",
+"264 339 LINE",
+"372 333 LINE",
+"382 460 LINE",
+"374 471 LINE"
+);
+}
+);
+width = 383;
+userData = {
+RMXScaler = {
+adjustSpace = 1;
+height = 72.6000;
+weight = -24;
+width = 74;
+};
+};
 }
 );
 unicode = 0433;
+userData = {
+RMXScaler = {
+source = "Ge-cy";
+};
+};
 },
 {
 glyphname = "de-cy";
@@ -115137,7 +115192,7 @@ width = 73.5;
 anchors = (
 {
 name = bottomright;
-position = "{541, 0}";
+position = "{543, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -115146,46 +115201,46 @@ paths = (
 closed = 1;
 nodes = (
 "607 0 LINE",
-"607 64 LINE",
-"109 64 LINE",
-"109 0 LINE"
+"607 63 LINE",
+"110 63 LINE",
+"110 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "148 0 LINE",
-"145 144 LINE",
-"149 458 LINE",
-"70 458 LINE",
-"74 137 LINE",
-"70 0 LINE"
+"145 145 LINE",
+"149 459 LINE",
+"72 459 LINE",
+"75 138 LINE",
+"72 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"384 0 LINE",
-"381 144 LINE",
-"385 458 LINE",
-"306 458 LINE",
-"309 137 LINE",
-"306 0 LINE"
+"383 0 LINE",
+"381 145 LINE",
+"385 459 LINE",
+"308 459 LINE",
+"311 138 LINE",
+"308 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "619 0 LINE",
-"616 144 LINE",
-"620 458 LINE",
-"541 458 LINE",
-"544 137 LINE",
-"541 0 LINE"
+"617 145 LINE",
+"620 459 LINE",
+"543 459 LINE",
+"546 138 LINE",
+"543 0 LINE"
 );
 }
 );
-width = 691;
+width = 693;
 userData = {
 RMXScaler = {
 adjustSpace = 7.3000;
@@ -115416,11 +115471,11 @@ name = "sha-cy";
 },
 {
 name = "descender-cy";
-transform = "{1, 0, 0, 1, 504, 0}";
+transform = "{1, 0, 0, 1, 506, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 691;
+width = 693;
 },
 {
 background = {
@@ -153006,9 +153061,7 @@ width = 82;
 };
 }
 );
-leftKerningGroup = h.sc;
 leftMetricsKey = "=h.sc";
-rightKerningGroup = gamma.sc;
 userData = {
 RMXScaler = {
 source = Gamma;
