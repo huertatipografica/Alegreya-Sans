@@ -1,7 +1,7 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-"/A-cy/Be-cy/Ve-cy/Gamma/Ge-cy/De-cy/Ie-cy/Io-cy/Zhe-cy/Ze-cy 8/Ii-cy/brevecomb-cy.case/Abreve/Iishort-cy/Ka-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy \012/Er-cy/Es-cy/Te-cy V/U-cy/Phi/Ef-cy/Ha-cy/Che-cy/Tse-cy/descender-cy.case/De-cy/Phi/Ef-cy/Sha-cy/Shcha-cy/Softsign-cy/Hardsign-cy/Yeru-cy E/E-cy/Ereversed-cy \012/Iu-cy/Ia-cy"
+"/A-cy/Be-cy/Ve-cy/Gamma/Ge-cy/De-cy/Ie-cy/Io-cy/Zhe-cy/Ze-cy 8/Ii-cy/brevecomb-cy.case/Abreve/Iishort-cy/Ka-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy \012/Er-cy/Es-cy/Te-cy V/U-cy/Phi/Ef-cy/Ha-cy/Che-cy/Tse-cy/descender-cy.case/De-cy/Phi/Ef-cy/Sha-cy/descender-cy.case/Shcha-cy/Softsign-cy/Hardsign-cy/Yeru-cy E/E-cy/Ereversed-cy \012/Iu-cy/Ia-cy"
 );
 classes = (
 {
@@ -107264,7 +107264,7 @@ layers = (
 components = (
 {
 name = "descender-cy.case";
-transform = "{1, 0, 0, 1, 481, 0}";
+transform = "{1, 0, 0, 1, 466, 0}";
 }
 );
 layerId = UUID0;
@@ -107310,33 +107310,33 @@ paths = (
 {
 closed = 1;
 nodes = (
-"564 0 LINE",
-"561 200 LINE",
-"565 641 LINE",
-"478 641 LINE",
-"482 193 LINE",
-"478 0 LINE"
+"563 0 LINE",
+"560 200 LINE",
+"564 641 LINE",
+"477 641 LINE",
+"481 193 LINE",
+"477 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"173 0 LINE",
-"170 200 LINE",
-"174 641 LINE",
-"88 641 LINE",
-"92 193 LINE",
-"88 0 LINE"
+"172 0 LINE",
+"169 200 LINE",
+"173 641 LINE",
+"87 641 LINE",
+"91 193 LINE",
+"87 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"156 0 LINE",
-"493 0 LINE",
-"493 71 LINE",
-"312 70 LINE",
-"156 72 LINE"
+"155 0 LINE",
+"492 0 LINE",
+"492 71 LINE",
+"311 70 LINE",
+"155 72 LINE"
 );
 }
 );
@@ -107344,7 +107344,7 @@ nodes = (
 components = (
 {
 name = "descender-cy.case";
-transform = "{1, 0, 0, 1, 462, 0}";
+transform = "{1, 0, 0, 1, 445, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -107382,7 +107382,7 @@ nodes = (
 );
 }
 );
-width = 693;
+width = 696;
 },
 {
 background = {
@@ -107424,7 +107424,7 @@ nodes = (
 components = (
 {
 name = "descender-cy.case";
-transform = "{1, 0, 0, 1, 430, 0}";
+transform = "{1, 0, 0, 1, 411, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -107475,10 +107475,10 @@ layers = (
 anchors = (
 {
 name = bottomright;
-position = "{810, 0}";
+position = "{730, 0}";
 }
 );
-layerId = UUID0;
+background = {
 paths = (
 {
 closed = 1;
@@ -107523,7 +107523,53 @@ nodes = (
 );
 }
 );
-width = 940;
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"740 0 LINE",
+"740 20 LINE",
+"120 20 LINE",
+"120 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"130 0 LINE",
+"130 195 LINE",
+"130 637 LINE",
+"110 637 LINE",
+"110 195 LINE",
+"110 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"440 0 LINE",
+"440 195 LINE",
+"440 637 LINE",
+"420 637 LINE",
+"420 195 LINE",
+"420 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"750 0 LINE",
+"750 195 LINE",
+"750 637 LINE",
+"730 637 LINE",
+"730 195 LINE",
+"730 0 LINE"
+);
+}
+);
+width = 860;
 },
 {
 anchors = (
@@ -107705,11 +107751,11 @@ name = "Sha-cy";
 },
 {
 name = "descender-cy.case";
-transform = "{1, 0, 0, 1, 769, 0}";
+transform = "{1, 0, 0, 1, 689, 0}";
 }
 );
 layerId = UUID0;
-width = 940;
+width = 860;
 },
 {
 components = (
@@ -236789,19 +236835,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"301 -169 LINE",
-"301 20 LINE",
-"121 20 LINE",
-"161 -169 LINE"
+"302 -163 LINE",
+"302 162 LINE",
+"104 162 LINE",
+"157 -171 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"301 0 LINE",
-"301 20 LINE",
-"27 20 LINE",
-"27 0 LINE"
+"292 0 LINE",
+"302 162 LINE",
+"17 162 LINE",
+"17 0 LINE"
 );
 }
 );
@@ -236822,7 +236868,7 @@ closed = 1;
 nodes = (
 "292 0 LINE",
 "302 162 LINE",
-"17 162 LINE",
+"67 162 LINE",
 "17 0 LINE"
 );
 }
@@ -236841,23 +236887,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"211 -150 LINE",
-"211 71 LINE",
-"127 71 LINE",
-"146 -154 LINE"
+"202 -137 LINE",
+"202 71 LINE",
+"117 71 LINE",
+"137 -141 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"208 0 LINE",
-"211 71 LINE",
-"32 71 LINE",
+"198 0 LINE",
+"202 71 LINE",
+"50 71 LINE",
 "32 0 LINE"
 );
 }
 );
-width = 288;
+width = 277;
 }
 );
 },
