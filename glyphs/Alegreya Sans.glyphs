@@ -3,7 +3,8 @@
 DisplayStrings = (
 "Cyrillic shape groups\012/Ve-cy/Ze-cy/Ia-cy R/Zhe-cy/Ka-cy/Ha-cy/U-cy  /Iishort-cy/Ii-cy/Pe-cy/Tse-cy/Sha-cy/Shcha-cy  /De-cy/El-cy/U-cy/Zhe-cy/Ka-cy  /Che-cy/Er-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Ge-cy/Be-cy  /Iu-cy/Ef-cy/Ereversed-cy/Es-cy \012/be-cy/de-cy/ve-cy/ge-cy/ze-cy/ereversed-cy  /ef-cy/iu-cy/ereversed-cy  /zhe-cy/ka-cy k/ia-cy/el-cy/em-cy  /ii-cy/iishort-cy/en-cy  /softsign-cy/hardsign-cy/yeru-cy/che-cy  /pe-cy/te-cy/tse-cy/sha-cy/shcha-cy/che-cy/be-cy/de-cy/hardsign-cy",
 "Cyrillic shape groups\012/Ve-cy/Ze-cy/Ia-cy R/Zhe-cy/Ka-cy/Ha-cy/U-cy  /Iishort-cy/Ii-cy/Pe-cy/Tse-cy/Sha-cy/Shcha-cy/De-cy/El-cy/U-cy/Zhe-cy/Ka-cy  /Che-cy/Er-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Ge-cy/Be-cy  /Iu-cy/Ef-cy/Ereversed-cy/Es-cy \012/be-cy/be-cy/ef-cy/de-cy/ve-cy/ge-cy/ze-cy/ereversed-cy  /iu-cy/ereversed-cy  /zhe-cy/ka-cy k/ia-cy/el-cy/em-cy  /ii-cy/iishort-cy/en-cy  /softsign-cy/hardsign-cy/yeru-cy/che-cy  /pe-cy/te-cy/tse-cy/sha-cy/shcha-cy/che-cy/de-cy/hardsign-cy",
-"n/phi/ef-cy no"
+"/ve-cy/ge-cy/de-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/ka-cy/el-cy/em-cy/en-cy/pe-cy/te-cy/che-cy/tse-cy/sha-cy/shcha-cy/softsign-cy/hardsign-cy/yeru-cy/ereversed-cy/iu-cy/ia-cy",
+"/Ve-cy/ve-cy/Ge-cy/ge-cy/De-cy/de-cy/Zhe-cy/zhe-cy/Ze-cy/ze-cy/Ii-cy/ii-cy/Iishort-cy/iishort-cy/Ka-cy/ka-cy/El-cy/el-cy/Em-cy m/em-cy m/En-cy/en-cy/Pe-cy/pe-cy/Te-cy/te-cy t/Che-cy/che-cy/Tse-cy/tse-cy t/Sha-cy/sha-cy/Shcha-cy/shcha-cy/Softsign-cy/softsign-cy/Hardsign-cy/hardsign-cy/Yeru-cy/yeru-cy/Ereversed-cy/ereversed-cy/Iu-cy/iu-cy/Ia-cy/ia-cy"
 );
 classes = (
 {
@@ -114054,127 +114055,97 @@ source = "El-cy";
 glyphname = "em-cy";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{310, 0}";
-},
-{
-name = top;
-position = "{310, 452}";
-}
-);
 layerId = UUID0;
 paths = (
 {
 closed = 1;
 nodes = (
-"469 452 LINE",
-"442 389 LINE",
-"309 86 LINE",
-"306 86 LINE",
-"180 382 LINE",
-"151 452 LINE",
-"127 452 LINE",
+"477 452 LINE",
+"449 389 LINE",
+"313 86 LINE",
+"310 86 LINE",
+"182 382 LINE",
+"152 452 LINE",
+"128 452 LINE",
 "76 0 LINE",
 "96 0 LINE",
 "111 139 LINE",
-"142 409 LINE",
-"146 409 LINE",
-"296 57 LINE",
-"319 57 LINE",
-"472 409 LINE",
-"476 409 LINE",
-"508 138 LINE",
-"522 0 LINE",
-"542 0 LINE",
-"493 452 LINE"
+"143 409 LINE",
+"147 409 LINE",
+"300 57 LINE",
+"324 57 LINE",
+"480 409 LINE",
+"484 409 LINE",
+"517 138 LINE",
+"531 0 LINE",
+"551 0 LINE",
+"501 452 LINE"
 );
 }
 );
-width = 619;
+width = 628;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{310, 0}";
-},
-{
-name = top;
-position = "{310, 458}";
-}
-);
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
 paths = (
 {
 closed = 1;
 nodes = (
-"428 458 LINE",
-"406 392 LINE",
-"312 152 LINE",
-"306 152 LINE",
-"217 390 LINE",
-"196 458 LINE",
-"106 458 LINE",
-"57 0 LINE",
+"446 459 LINE",
+"421 393 LINE",
+"320 151 LINE",
+"315 151 LINE",
+"221 391 LINE",
+"197 459 LINE",
+"109 459 LINE",
+"58 0 LINE",
 "123 0 LINE",
 "135 146 LINE",
-"156 340 LINE",
-"163 340 LINE",
-"274 50 LINE",
-"336 50 LINE",
-"455 340 LINE",
-"461 340 LINE",
-"482 139 LINE",
-"491 0 LINE",
-"561 0 LINE",
-"517 458 LINE"
+"158 343 LINE",
+"165 343 LINE",
+"283 51 LINE",
+"345 51 LINE",
+"471 343 LINE",
+"477 343 LINE",
+"501 140 LINE",
+"510 0 LINE",
+"578 0 LINE",
+"532 459 LINE"
 );
 }
 );
-width = 621;
+width = 638;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{314, 0}";
-},
-{
-name = top;
-position = "{314, 471}";
-}
-);
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
 paths = (
 {
 closed = 1;
 nodes = (
-"363 471 LINE",
-"347 398 LINE",
-"318 265 LINE",
-"308 265 LINE",
-"283 406 LINE",
-"272 471 LINE",
-"72 471 LINE",
+"390 472 LINE",
+"371 399 LINE",
+"333 265 LINE",
+"323 265 LINE",
+"289 407 LINE",
+"276 472 LINE",
+"75 472 LINE",
 "26 0 LINE",
 "170 0 LINE",
-"176 159 LINE",
-"182 225 LINE",
-"192 225 LINE",
-"238 41 LINE",
-"368 41 LINE",
-"429 225 LINE",
-"439 225 LINE",
-"443 143 LINE",
-"444 0 LINE",
-"596 0 LINE",
-"560 471 LINE"
+"178 159 LINE",
+"185 226 LINE",
+"196 226 LINE",
+"253 41 LINE",
+"383 41 LINE",
+"455 226 LINE",
+"466 226 LINE",
+"472 143 LINE",
+"474 0 LINE",
+"626 0 LINE",
+"587 472 LINE"
 );
 }
 );
-width = 627;
+width = 657;
 }
 );
 unicode = 043C;
