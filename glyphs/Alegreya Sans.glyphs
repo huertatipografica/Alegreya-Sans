@@ -1,12 +1,9 @@
 {
 .appVersion = "939";
-DisplayStrings = (
-"oxo-o/yusbig-cy o"
-);
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Germandbls.alt Q.corta C.ss01 D.ss01 I.ss01 L.ss01 M.ss01 V.ss01 X.ss01 A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Ghemiddlehook-cy.001 Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kabashkir-cy Endescender-cy Enghe-cy Esdescender-cy Ustrait-cy Ustraitstroke-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy Softsign-cy.cond Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni Alphaprosgegrammeni.ss05 Alphapsiliprosgegrammeni.ss05 Alphadasiaprosgegrammeni.ss05 Alphapsilivariaprosgegrammeni.ss05 Alphadasiavariaprosgegrammeni.ss05 Alphapsilioxiaprosgegrammeni.ss05 Alphadasiaoxiaprosgegrammeni.ss05 Alphapsiliperispomeniprosgegrammeni.ss05 Alphadasiaperispomeniprosgegrammeni.ss05 Etaprosgegrammeni.ss05 Etapsiliprosgegrammeni.ss05 Etadasiaprosgegrammeni.ss05 Etapsilivariaprosgegrammeni.ss05 Etadasiavariaprosgegrammeni.ss05 Etapsilioxiaprosgegrammeni.ss05 Etadasiaoxiaprosgegrammeni.ss05 Etapsiliperispomeniprosgegrammeni.ss05 Etadasiaperispomeniprosgegrammeni.ss05 Omegaprosgegrammeni.ss05 Omegapsiliprosgegrammeni.ss05 Omegadasiaprosgegrammeni.ss05 Omegapsilivariaprosgegrammeni.ss05 Omegadasiavariaprosgegrammeni.ss05 Omegapsilioxiaprosgegrammeni.ss05 Omegadasiaoxiaprosgegrammeni.ss05 Omegapsiliperispomeniprosgegrammeni.ss05 Omegadasiaperispomeniprosgegrammeni.ss05 Alphaprosgegrammeni.ss06 Alphapsiliprosgegrammeni.ss06 Alphadasiaprosgegrammeni.ss06 Alphapsilivariaprosgegrammeni.ss06 Alphadasiavariaprosgegrammeni.ss06 Alphapsilioxiaprosgegrammeni.ss06 Alphadasiaoxiaprosgegrammeni.ss06 Alphapsiliperispomeniprosgegrammeni.ss06 Alphadasiaperispomeniprosgegrammeni.ss06 Etaprosgegrammeni.ss06 Etapsiliprosgegrammeni.ss06 Etadasiaprosgegrammeni.ss06 Etapsilivariaprosgegrammeni.ss06 Etadasiavariaprosgegrammeni.ss06 Etapsilioxiaprosgegrammeni.ss06 Etadasiaoxiaprosgegrammeni.ss06 Etapsiliperispomeniprosgegrammeni.ss06 Etadasiaperispomeniprosgegrammeni.ss06 Omegaprosgegrammeni.ss06 Omegapsiliprosgegrammeni.ss06 Omegadasiaprosgegrammeni.ss06 Omegapsilivariaprosgegrammeni.ss06 Omegadasiavariaprosgegrammeni.ss06 Omegapsilioxiaprosgegrammeni.ss06 Omegadasiaoxiaprosgegrammeni.ss06 Omegapsiliperispomeniprosgegrammeni.ss06 Omegadasiaperispomeniprosgegrammeni.ss06";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Ddotbelow Dlinebelow Dzcaron E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Lj Llinebelow Lslash M Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Saltillo Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Iacute_J.loclNLD Germandbls.alt Q.corta C.ss01 D.ss01 I.ss01 L.ss01 M.ss01 V.ss01 X.ss01 A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kabashkir-cy Endescender-cy Enghe-cy Esdescender-cy Ustrait-cy Ustraitstroke-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy Softsign-cy.cond Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni Alphaprosgegrammeni.ss05 Alphapsiliprosgegrammeni.ss05 Alphadasiaprosgegrammeni.ss05 Alphapsilivariaprosgegrammeni.ss05 Alphadasiavariaprosgegrammeni.ss05 Alphapsilioxiaprosgegrammeni.ss05 Alphadasiaoxiaprosgegrammeni.ss05 Alphapsiliperispomeniprosgegrammeni.ss05 Alphadasiaperispomeniprosgegrammeni.ss05 Etaprosgegrammeni.ss05 Etapsiliprosgegrammeni.ss05 Etadasiaprosgegrammeni.ss05 Etapsilivariaprosgegrammeni.ss05 Etadasiavariaprosgegrammeni.ss05 Etapsilioxiaprosgegrammeni.ss05 Etadasiaoxiaprosgegrammeni.ss05 Etapsiliperispomeniprosgegrammeni.ss05 Etadasiaperispomeniprosgegrammeni.ss05 Omegaprosgegrammeni.ss05 Omegapsiliprosgegrammeni.ss05 Omegadasiaprosgegrammeni.ss05 Omegapsilivariaprosgegrammeni.ss05 Omegadasiavariaprosgegrammeni.ss05 Omegapsilioxiaprosgegrammeni.ss05 Omegadasiaoxiaprosgegrammeni.ss05 Omegapsiliperispomeniprosgegrammeni.ss05 Omegadasiaperispomeniprosgegrammeni.ss05 Alphaprosgegrammeni.ss06 Alphapsiliprosgegrammeni.ss06 Alphadasiaprosgegrammeni.ss06 Alphapsilivariaprosgegrammeni.ss06 Alphadasiavariaprosgegrammeni.ss06 Alphapsilioxiaprosgegrammeni.ss06 Alphadasiaoxiaprosgegrammeni.ss06 Alphapsiliperispomeniprosgegrammeni.ss06 Alphadasiaperispomeniprosgegrammeni.ss06 Etaprosgegrammeni.ss06 Etapsiliprosgegrammeni.ss06 Etadasiaprosgegrammeni.ss06 Etapsilivariaprosgegrammeni.ss06 Etadasiavariaprosgegrammeni.ss06 Etapsilioxiaprosgegrammeni.ss06 Etadasiaoxiaprosgegrammeni.ss06 Etapsiliperispomeniprosgegrammeni.ss06 Etadasiaperispomeniprosgegrammeni.ss06 Omegaprosgegrammeni.ss06 Omegapsiliprosgegrammeni.ss06 Omegadasiaprosgegrammeni.ss06 Omegapsilivariaprosgegrammeni.ss06 Omegadasiavariaprosgegrammeni.ss06 Omegapsilioxiaprosgegrammeni.ss06 Omegadasiaoxiaprosgegrammeni.ss06 Omegapsiliperispomeniprosgegrammeni.ss06 Omegadasiaperispomeniprosgegrammeni.ss06";
 name = Uppercase;
 },
 {
@@ -95488,6 +95485,446 @@ leftKerningGroup = S;
 rightKerningGroup = S;
 },
 {
+color = 1;
+glyphname = s.sc.001;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{183, 0}";
+},
+{
+name = top;
+position = "{190, 491}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"149 493 OFFCURVE",
+"112 488 OFFCURVE",
+"73 471 CURVE",
+"77 453 LINE",
+"83 452 LINE",
+"116 468 OFFCURVE",
+"151 474 OFFCURVE",
+"177 474 CURVE SMOOTH",
+"259 474 OFFCURVE",
+"304 418 OFFCURVE",
+"304 369 CURVE SMOOTH",
+"304 252 OFFCURVE",
+"56 269 OFFCURVE",
+"56 126 CURVE SMOOTH",
+"56 57 OFFCURVE",
+"119 -3 OFFCURVE",
+"210 -3 CURVE SMOOTH",
+"251 -3 OFFCURVE",
+"300 9 OFFCURVE",
+"336 33 CURVE",
+"335 52 LINE",
+"330 53 LINE",
+"295 28 OFFCURVE",
+"248 16 OFFCURVE",
+"210 16 CURVE SMOOTH",
+"127 16 OFFCURVE",
+"76 71 OFFCURVE",
+"76 125 CURVE SMOOTH",
+"76 250 OFFCURVE",
+"324 231 OFFCURVE",
+"324 371 CURVE SMOOTH",
+"324 438 OFFCURVE",
+"264 493 OFFCURVE",
+"175 493 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"248 -3 OFFCURVE",
+"301 11 OFFCURVE",
+"336 33 CURVE",
+"335 52 LINE",
+"330 53 LINE",
+"297 31 OFFCURVE",
+"245 16 OFFCURVE",
+"199 16 CURVE SMOOTH",
+"125 16 OFFCURVE",
+"76 56 OFFCURVE",
+"76 115 CURVE SMOOTH",
+"76 240 OFFCURVE",
+"324 238 OFFCURVE",
+"324 374 CURVE SMOOTH",
+"324 446 OFFCURVE",
+"271 493 OFFCURVE",
+"187 493 CURVE SMOOTH",
+"150 493 OFFCURVE",
+"105 484 OFFCURVE",
+"73 471 CURVE",
+"77 453 LINE",
+"83 452 LINE",
+"112 464 OFFCURVE",
+"155 474 OFFCURVE",
+"189 474 CURVE SMOOTH",
+"258 474 OFFCURVE",
+"304 432 OFFCURVE",
+"304 372 CURVE SMOOTH",
+"304 255 OFFCURVE",
+"56 257 OFFCURVE",
+"56 116 CURVE SMOOTH",
+"56 45 OFFCURVE",
+"113 -3 OFFCURVE",
+"200 -3 CURVE SMOOTH"
+);
+}
+);
+width = 395;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{192, 0}";
+},
+{
+name = top;
+position = "{210, 499}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"315 -9 OFFCURVE",
+"400 54 OFFCURVE",
+"400 144 CURVE SMOOTH",
+"400 218 OFFCURVE",
+"320 254 OFFCURVE",
+"250 287 CURVE SMOOTH",
+"192 315 OFFCURVE",
+"139 342 OFFCURVE",
+"139 386 CURVE SMOOTH",
+"139 426 OFFCURVE",
+"180 455 OFFCURVE",
+"236 455 CURVE SMOOTH",
+"306 455 OFFCURVE",
+"329 437 OFFCURVE",
+"329 385 CURVE SMOOTH",
+"329 364 OFFCURVE",
+"327 349 OFFCURVE",
+"327 349 CURVE",
+"333 345 LINE",
+"372 349 LINE",
+"377 420 OFFCURVE",
+"391 481 OFFCURVE",
+"391 481 CURVE",
+"387 488 LINE",
+"387 488 OFFCURVE",
+"333 507 OFFCURVE",
+"258 507 CURVE SMOOTH",
+"146 507 OFFCURVE",
+"62 444 OFFCURVE",
+"62 359 CURVE SMOOTH",
+"62 289 OFFCURVE",
+"129 253 OFFCURVE",
+"195 221 CURVE SMOOTH",
+"257 191 OFFCURVE",
+"318 165 OFFCURVE",
+"318 116 CURVE SMOOTH",
+"318 69 OFFCURVE",
+"275 39 OFFCURVE",
+"211 39 CURVE SMOOTH",
+"128 39 OFFCURVE",
+"109 62 OFFCURVE",
+"109 166 CURVE",
+"64 162 LINE",
+"64 90 OFFCURVE",
+"53 27 OFFCURVE",
+"53 27 CURVE",
+"58 18 LINE",
+"58 18 OFFCURVE",
+"112 -9 OFFCURVE",
+"191 -9 CURVE SMOOTH"
+);
+}
+);
+};
+guideLines = (
+{
+angle = -41;
+position = "{263, 195}";
+}
+);
+layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
+paths = (
+{
+closed = 1;
+nodes = (
+"265 -6 OFFCURVE",
+"323 8 OFFCURVE",
+"368 32 CURVE",
+"359 91 LINE",
+"350 97 LINE",
+"313 72 OFFCURVE",
+"253 53 OFFCURVE",
+"210 53 CURVE SMOOTH",
+"156 53 OFFCURVE",
+"120 81 OFFCURVE",
+"120 124 CURVE SMOOTH",
+"120 224 OFFCURVE",
+"358 227 OFFCURVE",
+"358 375 CURVE SMOOTH",
+"358 455 OFFCURVE",
+"300 504 OFFCURVE",
+"200 504 CURVE SMOOTH",
+"153 504 OFFCURVE",
+"101 493 OFFCURVE",
+"60 475 CURVE",
+"70 419 LINE",
+"84 415 LINE",
+"117 430 OFFCURVE",
+"165 442 OFFCURVE",
+"198 442 CURVE SMOOTH",
+"248 442 OFFCURVE",
+"280 414 OFFCURVE",
+"280 371 CURVE SMOOTH",
+"280 276 OFFCURVE",
+"43 271 OFFCURVE",
+"43 123 CURVE SMOOTH",
+"43 43 OFFCURVE",
+"106 -6 OFFCURVE",
+"209 -6 CURVE SMOOTH"
+);
+}
+);
+width = 415;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{209, 0}";
+},
+{
+name = top;
+position = "{246, 513}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"294 -12 OFFCURVE",
+"360 1 OFFCURVE",
+"424 29 CURVE",
+"402 161 LINE",
+"385 174 LINE",
+"336 143 OFFCURVE",
+"267 119 OFFCURVE",
+"226 119 CURVE SMOOTH",
+"207 119 OFFCURVE",
+"199 129 OFFCURVE",
+"199 139 CURVE SMOOTH",
+"201 193 OFFCURVE",
+"421 212 OFFCURVE",
+"421 371 CURVE SMOOTH",
+"421 468 OFFCURVE",
+"351 523 OFFCURVE",
+"219 523 CURVE SMOOTH",
+"153 523 OFFCURVE",
+"89 509 OFFCURVE",
+"37 483 CURVE",
+"59 358 LINE",
+"85 350 LINE",
+"128 371 OFFCURVE",
+"183 386 OFFCURVE",
+"215 386 CURVE SMOOTH",
+"231 386 OFFCURVE",
+"238 379 OFFCURVE",
+"238 369 CURVE SMOOTH",
+"236 316 OFFCURVE",
+"16 292 OFFCURVE",
+"16 140 CURVE SMOOTH",
+"16 42 OFFCURVE",
+"91 -12 OFFCURVE",
+"228 -12 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
+paths = (
+{
+closed = 1;
+nodes = (
+"295 -12 OFFCURVE",
+"362 2 OFFCURVE",
+"424 29 CURVE",
+"402 161 LINE",
+"385 174 LINE",
+"340 145 OFFCURVE",
+"267 119 OFFCURVE",
+"229 119 CURVE SMOOTH",
+"210 119 OFFCURVE",
+"199 126 OFFCURVE",
+"199 139 CURVE SMOOTH",
+"199 196 OFFCURVE",
+"418 208 OFFCURVE",
+"418 377 CURVE SMOOTH",
+"418 472 OFFCURVE",
+"350 523 OFFCURVE",
+"223 523 CURVE SMOOTH",
+"158 523 OFFCURVE",
+"93 509 OFFCURVE",
+"37 483 CURVE",
+"59 358 LINE",
+"85 350 LINE",
+"126 370 OFFCURVE",
+"183 386 OFFCURVE",
+"213 386 CURVE SMOOTH",
+"230 386 OFFCURVE",
+"238 381 OFFCURVE",
+"238 370 CURVE SMOOTH",
+"238 314 OFFCURVE",
+"19 296 OFFCURVE",
+"19 134 CURVE SMOOTH",
+"19 40 OFFCURVE",
+"93 -12 OFFCURVE",
+"226 -12 CURVE SMOOTH"
+);
+}
+);
+width = 449;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{213, 0}";
+},
+{
+name = top;
+position = "{250, 513}";
+}
+);
+associatedMasterId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"358 -9 OFFCURVE",
+"458 52 OFFCURVE",
+"458 155 CURVE SMOOTH",
+"458 244 OFFCURVE",
+"384 279 OFFCURVE",
+"318 304 CURVE SMOOTH",
+"264 324 OFFCURVE",
+"214 337 OFFCURVE",
+"214 367 CURVE SMOOTH",
+"214 384 OFFCURVE",
+"233 395 OFFCURVE",
+"260 395 CURVE SMOOTH",
+"294 395 OFFCURVE",
+"316 377 OFFCURVE",
+"316 344 CURVE SMOOTH",
+"316 343 OFFCURVE",
+"316 336 OFFCURVE",
+"316 336 CURVE",
+"327 329 LINE",
+"431 336 LINE",
+"438 406 OFFCURVE",
+"454 472 OFFCURVE",
+"454 472 CURVE",
+"443 491 LINE",
+"443 491 OFFCURVE",
+"374 513 OFFCURVE",
+"281 513 CURVE SMOOTH",
+"121 513 OFFCURVE",
+"17 447 OFFCURVE",
+"17 343 CURVE SMOOTH",
+"17 260 OFFCURVE",
+"80 223 OFFCURVE",
+"143 197 CURVE SMOOTH",
+"202 173 OFFCURVE",
+"260 159 OFFCURVE",
+"260 128 CURVE SMOOTH",
+"260 114 OFFCURVE",
+"243 105 OFFCURVE",
+"213 105 CURVE SMOOTH",
+"171 105 OFFCURVE",
+"145 129 OFFCURVE",
+"145 175 CURVE",
+"32 167 LINE",
+"29 120 OFFCURVE",
+"13 40 OFFCURVE",
+"13 40 CURVE",
+"24 25 LINE",
+"24 25 OFFCURVE",
+"92 -9 OFFCURVE",
+"192 -9 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "76482C30-977F-42B4-BBA2-0936FE5915AD";
+name = "Feb 7 17, 16:45";
+paths = (
+{
+closed = 1;
+nodes = (
+"302 -12 OFFCURVE",
+"368 -5 OFFCURVE",
+"436 16 CURVE",
+"409 177 LINE",
+"392 190 LINE",
+"339 148 OFFCURVE",
+"271 119 OFFCURVE",
+"231 119 CURVE SMOOTH",
+"215 119 OFFCURVE",
+"207 124 OFFCURVE",
+"207 135 CURVE SMOOTH",
+"207 185 OFFCURVE",
+"421 172 OFFCURVE",
+"421 340 CURVE SMOOTH",
+"421 443 OFFCURVE",
+"339 523 OFFCURVE",
+"191 523 CURVE SMOOTH",
+"133 523 OFFCURVE",
+"76 511 OFFCURVE",
+"33 496 CURVE",
+"60 342 LINE",
+"86 335 LINE",
+"136 368 OFFCURVE",
+"191 386 OFFCURVE",
+"217 386 CURVE SMOOTH",
+"231 386 OFFCURVE",
+"238 382 OFFCURVE",
+"238 373 CURVE SMOOTH",
+"238 321 OFFCURVE",
+"24 335 OFFCURVE",
+"24 170 CURVE SMOOTH",
+"24 81 OFFCURVE",
+"86 -12 OFFCURVE",
+"255 -12 CURVE SMOOTH"
+);
+}
+);
+width = 469;
+}
+);
+leftKerningGroup = S;
+rightKerningGroup = S;
+},
+{
 color = 10;
 glyphname = sacute.sc;
 layers = (
@@ -115346,275 +115783,6 @@ unicode = 0494;
 },
 {
 color = 1;
-glyphname = "Ghemiddlehook-cy.001";
-layers = (
-{
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"335 -80 OFFCURVE",
-"363 -3 OFFCURVE",
-"363 122 CURVE SMOOTH",
-"363 250 OFFCURVE",
-"334 295 OFFCURVE",
-"248 295 CURVE SMOOTH",
-"199 295 OFFCURVE",
-"156 276 OFFCURVE",
-"114 239 CURVE",
-"103 239 LINE",
-"103 207 LINE",
-"149 253 OFFCURVE",
-"196 275 OFFCURVE",
-"248 275 CURVE SMOOTH",
-"319 275 OFFCURVE",
-"343 234 OFFCURVE",
-"343 120 CURVE SMOOTH",
-"343 4 OFFCURVE",
-"318 -68 OFFCURVE",
-"260 -122 CURVE",
-"260 -127 LINE",
-"270 -134 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"111 0 LINE",
-"111 139 LINE",
-"111 452 LINE",
-"90 452 LINE",
-"90 138 LINE",
-"90 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"224 433 LINE",
-"342 433 LINE",
-"345 449 LINE",
-"343 452 LINE",
-"104 452 LINE",
-"101 436 LINE",
-"104 433 LINE"
-);
-}
-);
-width = 441;
-userData = {
-RMXScaler = {
-adjustSpace = 11;
-height = 70.9000;
-width = 73.5;
-};
-};
-},
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"92 641 LINE",
-"96 193 LINE",
-"92 0 LINE",
-"178 0 LINE",
-"175 200 LINE",
-"179 641 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"154 641 LINE",
-"151 579 LINE",
-"154 572 LINE",
-"314 572 LINE",
-"473 570 LINE",
-"479 633 LINE",
-"474 641 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"178 0 LINE",
-"175 200 LINE",
-"179 641 LINE",
-"92 641 LINE",
-"96 193 LINE",
-"92 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"283 415 OFFCURVE",
-"231 390 OFFCURVE",
-"182 344 CURVE",
-"164 344 LINE",
-"165 274 LINE",
-"219 324 OFFCURVE",
-"271 347 OFFCURVE",
-"328 347 CURVE SMOOTH",
-"409 347 OFFCURVE",
-"436 301 OFFCURVE",
-"436 164 CURVE SMOOTH",
-"436 15 OFFCURVE",
-"404 -81 OFFCURVE",
-"331 -149 CURVE",
-"331 -159 LINE",
-"365 -192 LINE",
-"470 -111 OFFCURVE",
-"515 -2 OFFCURVE",
-"515 176 CURVE SMOOTH",
-"515 357 OFFCURVE",
-"470 421 OFFCURVE",
-"344 421 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-paths = (
-{
-closed = 1;
-nodes = (
-"362 -74 OFFCURVE",
-"397 7 OFFCURVE",
-"397 133 CURVE SMOOTH",
-"397 261 OFFCURVE",
-"361 304 OFFCURVE",
-"258 304 CURVE",
-"219 296 OFFCURVE",
-"185 278 OFFCURVE",
-"154 250 CURVE",
-"138 250 LINE",
-"139 181 LINE",
-"176 218 OFFCURVE",
-"214 236 OFFCURVE",
-"254 236 CURVE SMOOTH",
-"306 236 OFFCURVE",
-"325 205 OFFCURVE",
-"325 118 CURVE SMOOTH",
-"325 21 OFFCURVE",
-"301 -49 OFFCURVE",
-"249 -99 CURVE",
-"249 -107 LINE",
-"279 -138 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"150 0 LINE",
-"148 144 LINE",
-"151 458 LINE",
-"72 458 LINE",
-"76 137 LINE",
-"72 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"246 397 LINE",
-"362 395 LINE",
-"367 452 LINE",
-"363 458 LINE",
-"129 458 LINE",
-"127 402 LINE",
-"129 397 LINE"
-);
-}
-);
-width = 451;
-userData = {
-RMXScaler = {
-adjustSpace = 7.3000;
-height = 71.4000;
-weight = -7;
-width = 73.5;
-};
-};
-},
-{
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-paths = (
-{
-closed = 1;
-nodes = (
-"414 -77 OFFCURVE",
-"460 3 OFFCURVE",
-"460 137 CURVE SMOOTH",
-"460 267 OFFCURVE",
-"416 317 OFFCURVE",
-"304 317 CURVE",
-"272 304 OFFCURVE",
-"245 286 OFFCURVE",
-"225 264 CURVE",
-"204 264 LINE",
-"207 162 LINE",
-"231 169 OFFCURVE",
-"247 172 OFFCURVE",
-"262 172 CURVE SMOOTH",
-"292 172 OFFCURVE",
-"301 158 OFFCURVE",
-"301 107 CURVE SMOOTH",
-"301 30 OFFCURVE",
-"280 -29 OFFCURVE",
-"238 -63 CURVE",
-"238 -76 LINE",
-"302 -144 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"221 0 LINE",
-"214 155 LINE",
-"223 471 LINE",
-"47 471 LINE",
-"56 137 LINE",
-"47 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"288 339 LINE",
-"402 333 LINE",
-"412 460 LINE",
-"403 471 LINE",
-"176 471 LINE",
-"177 348 LINE",
-"176 339 LINE"
-);
-}
-);
-width = 473;
-userData = {
-RMXScaler = {
-adjustSpace = 1;
-height = 72.6000;
-weight = -24;
-width = 74;
-};
-};
-}
-);
-leftKerningGroup = H.001;
-rightKerningGroup = "Ghemiddlehook-cy.001";
-userData = {
-RMXScaler = {
-source = "Ghemiddlehook-cy";
-};
-};
-},
-{
-color = 1;
 glyphname = "Zhedescender-cy";
 layers = (
 {
@@ -117088,7 +117256,7 @@ transform = "{1, 0, 0, 1, 13, 0}";
 },
 {
 name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 11, -70}";
+transform = "{0.85, 0, 0, 1, 47, -70}";
 }
 );
 layerId = UUID0;
@@ -117099,14 +117267,15 @@ components = (
 {
 alignment = -1;
 name = Y;
+transform = "{1, 0, 0, 1, 8, 0}";
 },
 {
 name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 10, -75}";
+transform = "{0.9042, 0, 0, 1, 42, -75}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 531;
+width = 542;
 },
 {
 components = (
@@ -131030,45 +131199,45 @@ components = (
 {
 alignment = -1;
 name = "ge-cy";
-transform = "{1, 0, 0, 1, 19, 0}";
+transform = "{1, 0, 0, 1, 12, 0}";
 },
 {
 name = strokeshortcomb;
-transform = "{0.8563, 0, 0, 1, -44, -29}";
+transform = "{0.73, 0, 0, 1, -20, -29}";
 }
 );
 layerId = UUID0;
-width = 361;
+width = 347;
 },
 {
 components = (
 {
 alignment = -1;
 name = "ge-cy";
-transform = "{1, 0, 0, 1, 21, 0}";
+transform = "{1, 0, 0, 1, 15, 0}";
 },
 {
 name = strokeshortcomb;
-transform = "{0.8563, 0, 0, 1, -38, -35}";
+transform = "{0.7553, 0, 0, 1, -19, -35}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 386;
+width = 375;
 },
 {
 components = (
 {
 alignment = -1;
 name = "ge-cy";
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 15, 0}";
 },
 {
 name = strokeshortcomb;
-transform = "{0.8563, 0, 0, 1, -30, -43}";
+transform = "{0.8, 0, 0, 1, -21, -43}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 423;
+width = 415;
 }
 );
 leftKerningGroup = "ghestroke-cy";
@@ -131194,24 +131363,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"377 -96 OFFCURVE",
-"411 -14 OFFCURVE",
-"411 120 CURVE SMOOTH",
-"411 249 OFFCURVE",
+"377 -95 OFFCURVE",
+"415 -13 OFFCURVE",
+"415 124 CURVE SMOOTH",
+"415 250 OFFCURVE",
 "377 296 OFFCURVE",
 "282 296 CURVE SMOOTH",
 "239 291 OFFCURVE",
 "202 272 OFFCURVE",
 "168 241 CURVE",
 "153 241 LINE",
-"154 166 LINE",
-"196 213 OFFCURVE",
-"235 234 OFFCURVE",
-"271 234 CURVE SMOOTH",
-"327 234 OFFCURVE",
-"341 203 OFFCURVE",
-"341 112 CURVE SMOOTH",
-"341 3 OFFCURVE",
+"154 185 LINE",
+"192 219 OFFCURVE",
+"228 234 OFFCURVE",
+"267 234 CURVE SMOOTH",
+"323 234 OFFCURVE",
+"339 203 OFFCURVE",
+"339 112 CURVE SMOOTH",
+"339 4 OFFCURVE",
 "317 -72 OFFCURVE",
 "264 -132 CURVE",
 "264 -140 LINE",
@@ -131247,25 +131416,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"377 -96 OFFCURVE",
-"411 -13 OFFCURVE",
-"411 118 CURVE SMOOTH",
-"411 253 OFFCURVE",
-"375 298 OFFCURVE",
+"381 -92 OFFCURVE",
+"415 -11 OFFCURVE",
+"415 118 CURVE SMOOTH",
+"415 253 OFFCURVE",
+"378 298 OFFCURVE",
 "267 298 CURVE",
-"227 283 OFFCURVE",
-"194 265 OFFCURVE",
+"224 282 OFFCURVE",
+"192 263 OFFCURVE",
 "168 241 CURVE",
 "153 241 LINE",
 "154 166 LINE",
 "196 213 OFFCURVE",
 "233 234 OFFCURVE",
 "274 234 CURVE SMOOTH",
-"325 234 OFFCURVE",
-"341 205 OFFCURVE",
-"341 114 CURVE SMOOTH",
-"341 3 OFFCURVE",
-"318 -71 OFFCURVE",
+"323 234 OFFCURVE",
+"339 205 OFFCURVE",
+"339 114 CURVE SMOOTH",
+"339 2 OFFCURVE",
+"317 -71 OFFCURVE",
 "264 -132 CURVE",
 "264 -140 LINE",
 "295 -168 LINE"
@@ -131302,51 +131471,24 @@ paths = (
 {
 closed = 1;
 nodes = (
-"427 -77 OFFCURVE",
-"473 3 OFFCURVE",
-"473 137 CURVE SMOOTH",
-"473 267 OFFCURVE",
-"429 317 OFFCURVE",
-"317 317 CURVE",
-"285 304 OFFCURVE",
-"258 286 OFFCURVE",
-"238 264 CURVE",
-"217 264 LINE",
-"220 162 LINE",
-"244 169 OFFCURVE",
-"260 172 OFFCURVE",
-"275 172 CURVE SMOOTH",
-"305 172 OFFCURVE",
-"314 158 OFFCURVE",
-"314 107 CURVE SMOOTH",
-"314 30 OFFCURVE",
-"293 -29 OFFCURVE",
-"251 -63 CURVE",
-"251 -76 LINE",
-"315 -144 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"234 0 LINE",
-"227 155 LINE",
-"236 471 LINE",
-"60 471 LINE",
-"69 137 LINE",
-"60 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"301 339 LINE",
-"415 333 LINE",
-"425 460 LINE",
-"416 471 LINE",
-"189 471 LINE",
-"190 348 LINE",
-"189 339 LINE"
+"310 467 LINE",
+"239 467 LINE",
+"231 365 LINE",
+"241 354 LINE",
+"305 354 LINE",
+"309 190 LINE",
+"309 31 LINE SMOOTH",
+"309 -30 OFFCURVE",
+"287 -70 OFFCURVE",
+"240 -95 CURVE",
+"240 -111 LINE",
+"305 -197 LINE",
+"435 -145 OFFCURVE",
+"494 -72 OFFCURVE",
+"494 35 CURVE",
+"487 210 LINE",
+"496 472 LINE",
+"491 476 LINE"
 );
 }
 );
@@ -131356,10 +131498,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"430 -97 OFFCURVE",
-"476 -17 OFFCURVE",
-"476 117 CURVE SMOOTH",
-"476 247 OFFCURVE",
+"430 -94 OFFCURVE",
+"486 -12 OFFCURVE",
+"486 127 CURVE SMOOTH",
+"486 250 OFFCURVE",
 "432 297 OFFCURVE",
 "320 297 CURVE",
 "288 284 OFFCURVE",
@@ -131371,9 +131513,9 @@ nodes = (
 "263 162 OFFCURVE",
 "278 162 CURVE SMOOTH",
 "308 162 OFFCURVE",
-"317 148 OFFCURVE",
-"317 97 CURVE SMOOTH",
-"317 20 OFFCURVE",
+"312 149 OFFCURVE",
+"312 98 CURVE SMOOTH",
+"312 21 OFFCURVE",
 "293 -52 OFFCURVE",
 "251 -96 CURVE",
 "251 -109 LINE",
@@ -133366,7 +133508,7 @@ transform = "{1, 0, 0, 1, 22, 0}";
 {
 alignment = 1;
 name = strokeshortcomb;
-transform = "{0.8826, 0, 0, 1, 6, -267}";
+transform = "{0.84, 0, 0, 1, 16, -267}";
 }
 );
 layerId = UUID0;
@@ -133377,12 +133519,12 @@ components = (
 {
 alignment = -1;
 name = "ustrait-cy";
-transform = "{1, 0, 0, 1, 21, 0}";
+transform = "{1, 0, 0, 1, 19, 0}";
 },
 {
 alignment = 1;
 name = strokeshortcomb;
-transform = "{0.9046, 0, 0, 1, 1, -269}";
+transform = "{0.8761, 0, 0, 1, 6, -269}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -133398,7 +133540,7 @@ transform = "{1, 0, 0, 1, 13, 0}";
 {
 alignment = 1;
 name = strokeshortcomb;
-transform = "{0.9434, 0, 0, 1, -9, -269}";
+transform = "{0.94, 0, 0, 1, -8, -269}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -133539,12 +133681,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"207 93 LINE",
-"207 321 LINE",
-"205 323 LINE",
-"187 322 LINE",
-"187 93 LINE",
-"189 91 LINE"
+"207 102 LINE",
+"207 330 LINE",
+"205 332 LINE",
+"187 331 LINE",
+"187 102 LINE",
+"189 100 LINE"
 );
 },
 {
@@ -133596,23 +133738,23 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"248 84 LINE",
-"248 344 LINE",
-"244 348 LINE",
-"204 345 LINE",
-"204 86 LINE",
-"210 82 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "409 0 LINE",
 "407 201 LINE",
 "410 459 LINE",
 "328 459 LINE",
 "330 194 LINE",
 "327 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"246 83 LINE",
+"246 341 LINE",
+"242 345 LINE",
+"203 342 LINE",
+"203 84 LINE",
+"207 81 LINE"
 );
 }
 );
@@ -133655,12 +133797,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"246 83 LINE",
-"246 341 LINE",
-"242 345 LINE",
-"203 342 LINE",
-"203 84 LINE",
-"207 81 LINE"
+"247 89 LINE",
+"247 347 LINE",
+"243 350 LINE",
+"204 348 LINE",
+"204 90 LINE",
+"208 86 LINE"
 );
 }
 );
@@ -207404,14 +207546,15 @@ background = {
 components = (
 {
 name = one.numr;
+transform = "{1, 0, 0, 1, 42, 0}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 256, 0}";
+transform = "{1, 0, 0, 1, 298, 0}";
 },
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 324, 0}";
+transform = "{1, 0, 0, 1, 366, 0}";
 }
 );
 };
@@ -207421,15 +207564,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 275, 0}";
+transform = "{1, 0, 0, 1, 240, 0}";
 },
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 321, 0}";
+transform = "{1, 0, 0, 1, 286, 0}";
 }
 );
 layerId = UUID0;
-width = 657;
+width = 622;
 },
 {
 background = {
@@ -207453,15 +207596,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 286, 0}";
+transform = "{1, 0, 0, 1, 260, 0}";
 },
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 372, 0}";
+transform = "{1, 0, 0, 1, 339, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 722;
+width = 752;
 },
 {
 background = {
@@ -207485,15 +207628,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 306, 0}";
+transform = "{1, 0, 0, 1, 296, 0}";
 },
 {
 name = two.dnom;
-transform = "{1, 0, 0, 1, 463, 0}";
+transform = "{1, 0, 0, 1, 433, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 838;
+width = 844;
 }
 );
 leftMetricsKey = one.numr;
@@ -207511,15 +207654,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 275, 0}";
+transform = "{1, 0, 0, 1, 240, 0}";
 },
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 361, 0}";
+transform = "{1, 0, 0, 1, 286, 0}";
 }
 );
 layerId = UUID0;
-width = 654;
+width = 579;
 },
 {
 components = (
@@ -207528,15 +207671,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 286, 0}";
+transform = "{1, 0, 0, 1, 260, 0}";
 },
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 409, 0}";
+transform = "{1, 0, 0, 1, 339, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 718;
+width = 648;
 },
 {
 components = (
@@ -207545,15 +207688,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 306, 0}";
+transform = "{1, 0, 0, 1, 296, 0}";
 },
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 493, 0}";
+transform = "{1, 0, 0, 1, 433, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 830;
+width = 770;
 }
 );
 unicode = 2153;
@@ -207569,15 +207712,15 @@ name = two.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 381, 0}";
+transform = "{1, 0, 0, 1, 336, 0}";
 },
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 467, 0}";
+transform = "{1, 0, 0, 1, 382, 0}";
 }
 );
 layerId = UUID0;
-width = 760;
+width = 675;
 },
 {
 components = (
@@ -207586,15 +207729,15 @@ name = two.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 390, 0}";
+transform = "{1, 0, 0, 1, 350, 0}";
 },
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 513, 0}";
+transform = "{1, 0, 0, 1, 429, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 822;
+width = 738;
 },
 {
 components = (
@@ -207603,15 +207746,15 @@ name = two.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 405, 0}";
+transform = "{1, 0, 0, 1, 375, 0}";
 },
 {
 name = three.dnom;
-transform = "{1, 0, 0, 1, 592, 0}";
+transform = "{1, 0, 0, 1, 512, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 929;
+width = 849;
 }
 );
 unicode = 2154;
@@ -207625,14 +207768,15 @@ background = {
 components = (
 {
 name = one.numr;
+transform = "{1, 0, 0, 1, 42, 0}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 256, 0}";
+transform = "{1, 0, 0, 1, 298, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 319, 0}";
+transform = "{1, 0, 0, 1, 361, 0}";
 }
 );
 };
@@ -207642,15 +207786,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 275, 0}";
+transform = "{1, 0, 0, 1, 240, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 321, 0}";
+transform = "{1, 0, 0, 1, 286, 0}";
 }
 );
 layerId = UUID0;
-width = 656;
+width = 621;
 },
 {
 background = {
@@ -207674,15 +207818,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 286, 0}";
+transform = "{1, 0, 0, 1, 260, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 354, 0}";
+transform = "{1, 0, 0, 1, 339, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 707;
+width = 746;
 },
 {
 background = {
@@ -207706,15 +207850,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 306, 0}";
+transform = "{1, 0, 0, 1, 296, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 413, 0}";
+transform = "{1, 0, 0, 1, 433, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 798;
+width = 858;
 }
 );
 leftMetricsKey = one.numr;
@@ -207747,15 +207891,15 @@ name = three.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 308, 0}";
+transform = "{1, 0, 0, 1, 293, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 354, 0}";
+transform = "{1, 0, 0, 1, 339, 0}";
 }
 );
 layerId = UUID0;
-width = 689;
+width = 674;
 },
 {
 background = {
@@ -207779,15 +207923,15 @@ name = three.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 323, 0}";
+transform = "{1, 0, 0, 1, 309, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 391, 0}";
+transform = "{1, 0, 0, 1, 388, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 744;
+width = 750;
 },
 {
 background = {
@@ -207811,15 +207955,15 @@ name = three.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 347, 0}";
+transform = "{1, 0, 0, 1, 337, 0}";
 },
 {
 name = four.dnom;
-transform = "{1, 0, 0, 1, 454, 0}";
+transform = "{1, 0, 0, 1, 474, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 839;
+width = 862;
 }
 );
 leftMetricsKey = three.numr;
@@ -207837,15 +207981,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 275, 0}";
+transform = "{1, 0, 0, 1, 240, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 321, 0}";
+transform = "{1, 0, 0, 1, 286, 0}";
 }
 );
 layerId = UUID0;
-width = 641;
+width = 606;
 },
 {
 components = (
@@ -207854,15 +207998,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 286, 0}";
+transform = "{1, 0, 0, 1, 260, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 365, 0}";
+transform = "{1, 0, 0, 1, 339, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 708;
+width = 726;
 },
 {
 components = (
@@ -207871,15 +208015,15 @@ name = one.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 306, 0}";
+transform = "{1, 0, 0, 1, 296, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 443, 0}";
+transform = "{1, 0, 0, 1, 433, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 826;
+width = 844;
 }
 );
 leftMetricsKey = one.numr;
@@ -207897,15 +208041,15 @@ name = three.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 308, 0}";
+transform = "{1, 0, 0, 1, 293, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 354, 0}";
+transform = "{1, 0, 0, 1, 339, 0}";
 }
 );
 layerId = UUID0;
-width = 674;
+width = 659;
 },
 {
 components = (
@@ -207914,15 +208058,15 @@ name = three.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 323, 0}";
+transform = "{1, 0, 0, 1, 309, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 402, 0}";
+transform = "{1, 0, 0, 1, 388, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 745;
+width = 730;
 },
 {
 components = (
@@ -207931,15 +208075,15 @@ name = three.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 347, 0}";
+transform = "{1, 0, 0, 1, 337, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 484, 0}";
+transform = "{1, 0, 0, 1, 474, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 867;
+width = 848;
 }
 );
 leftMetricsKey = three.numr;
@@ -207957,15 +208101,15 @@ name = five.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 293, 0}";
+transform = "{1, 0, 0, 1, 288, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 339, 0}";
+transform = "{1, 0, 0, 1, 334, 0}";
 }
 );
 layerId = UUID0;
-width = 659;
+width = 654;
 },
 {
 components = (
@@ -207974,15 +208118,15 @@ name = five.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 305, 0}";
+transform = "{1, 0, 0, 1, 306, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 384, 0}";
+transform = "{1, 0, 0, 1, 385, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 727;
+width = 722;
 },
 {
 components = (
@@ -207991,15 +208135,15 @@ name = five.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 329, 0}";
+transform = "{1, 0, 0, 1, 339, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 466, 0}";
+transform = "{1, 0, 0, 1, 476, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 849;
+width = 853;
 }
 );
 leftMetricsKey = five.numr;
@@ -208017,15 +208161,15 @@ name = seven.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 273, 0}";
+transform = "{1, 0, 0, 1, 288, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 319, 0}";
+transform = "{1, 0, 0, 1, 334, 0}";
 }
 );
 layerId = UUID0;
-width = 639;
+width = 654;
 },
 {
 components = (
@@ -208034,11 +208178,11 @@ name = seven.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 284, 0}";
+transform = "{1, 0, 0, 1, 301, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 363, 0}";
+transform = "{1, 0, 0, 1, 380, 0}";
 }
 );
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -208051,15 +208195,15 @@ name = seven.numr;
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 304, 0}";
+transform = "{1, 0, 0, 1, 324, 0}";
 },
 {
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 441, 0}";
+transform = "{1, 0, 0, 1, 461, 0}";
 }
 );
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 824;
+width = 833;
 }
 );
 leftMetricsKey = seven.numr;
@@ -213932,23 +214076,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"47 48 LINE",
-"126 130 OFFCURVE",
-"227 220 OFFCURVE",
-"227 220 CURVE",
-"227 228 LINE",
-"227 228 OFFCURVE",
-"126 314 OFFCURVE",
-"47 389 CURVE",
-"46 384 LINE",
-"48 381 LINE",
-"88 327 OFFCURVE",
-"128 277 OFFCURVE",
-"174 214 CURVE",
-"128 153 OFFCURVE",
-"88 109 OFFCURVE",
-"48 56 CURVE",
-"46 53 LINE"
+"43 48 LINE",
+"122 130 OFFCURVE",
+"223 220 OFFCURVE",
+"223 220 CURVE",
+"223 228 LINE",
+"223 228 OFFCURVE",
+"122 314 OFFCURVE",
+"43 389 CURVE",
+"42 384 LINE",
+"44 381 LINE",
+"84 327 OFFCURVE",
+"124 277 OFFCURVE",
+"170 214 CURVE",
+"124 153 OFFCURVE",
+"84 109 OFFCURVE",
+"44 56 CURVE",
+"42 53 LINE"
 );
 }
 );
@@ -213958,15 +214102,15 @@ paths = (
 {
 closed = 1;
 nodes = (
-"17 387 LINE",
-"17 381 LINE",
-"162 223 LINE",
-"17 65 LINE",
-"17 59 LINE",
-"29 50 LINE",
-"184 218 LINE",
-"184 229 LINE",
-"29 396 LINE"
+"13 387 LINE",
+"13 381 LINE",
+"158 223 LINE",
+"13 65 LINE",
+"13 59 LINE",
+"25 50 LINE",
+"180 218 LINE",
+"180 229 LINE",
+"25 396 LINE"
 );
 }
 );
@@ -213978,23 +214122,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"65 46 LINE",
-"141 128 OFFCURVE",
-"237 219 OFFCURVE",
-"237 219 CURVE",
-"237 234 LINE",
-"237 234 OFFCURVE",
-"141 322 OFFCURVE",
-"65 400 CURVE",
-"43 385 LINE",
-"42 375 LINE",
-"78 323 OFFCURVE",
-"113 272 OFFCURVE",
-"149 220 CURVE",
-"113 170 OFFCURVE",
-"78 121 OFFCURVE",
-"42 71 CURVE",
-"43 61 LINE"
+"61 46 LINE",
+"137 128 OFFCURVE",
+"233 219 OFFCURVE",
+"233 219 CURVE",
+"233 234 LINE",
+"233 234 OFFCURVE",
+"137 322 OFFCURVE",
+"61 400 CURVE",
+"39 385 LINE",
+"38 375 LINE",
+"74 323 OFFCURVE",
+"109 272 OFFCURVE",
+"145 220 CURVE",
+"109 170 OFFCURVE",
+"74 121 OFFCURVE",
+"38 71 CURVE",
+"39 61 LINE"
 );
 }
 );
@@ -214004,15 +214148,15 @@ paths = (
 {
 closed = 1;
 nodes = (
-"24 385 LINE",
-"23 375 LINE",
-"145 227 LINE",
-"23 79 LINE",
-"24 69 LINE",
-"65 46 LINE",
-"209 220 LINE",
-"209 237 LINE",
-"65 408 LINE"
+"20 385 LINE",
+"19 375 LINE",
+"141 227 LINE",
+"19 79 LINE",
+"20 69 LINE",
+"61 46 LINE",
+"205 220 LINE",
+"205 237 LINE",
+"61 408 LINE"
 );
 }
 );
@@ -214024,23 +214168,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"99 42 LINE",
-"168 125 OFFCURVE",
-"255 218 OFFCURVE",
-"255 218 CURVE",
-"255 245 LINE",
-"255 245 OFFCURVE",
-"168 338 OFFCURVE",
-"99 422 CURVE",
-"37 386 LINE",
-"30 363 LINE",
-"57 316 OFFCURVE",
-"84 262 OFFCURVE",
-"99 232 CURVE",
-"84 202 OFFCURVE",
-"57 145 OFFCURVE",
-"30 100 CURVE",
-"37 77 LINE"
+"94 42 LINE",
+"163 125 OFFCURVE",
+"250 218 OFFCURVE",
+"250 218 CURVE",
+"250 245 LINE",
+"250 245 OFFCURVE",
+"163 338 OFFCURVE",
+"94 422 CURVE",
+"32 386 LINE",
+"25 363 LINE",
+"52 316 OFFCURVE",
+"79 262 OFFCURVE",
+"94 232 CURVE",
+"79 202 OFFCURVE",
+"52 145 OFFCURVE",
+"25 100 CURVE",
+"32 77 LINE"
 );
 }
 );
@@ -214050,15 +214194,15 @@ paths = (
 {
 closed = 1;
 nodes = (
-"21 381 LINE",
-"17 364 LINE",
-"97 234 LINE",
-"17 103 LINE",
-"21 86 LINE",
-"112 39 LINE",
-"237 223 LINE",
-"237 250 LINE",
-"112 428 LINE"
+"16 381 LINE",
+"12 364 LINE",
+"92 234 LINE",
+"12 103 LINE",
+"16 86 LINE",
+"107 39 LINE",
+"232 223 LINE",
+"232 250 LINE",
+"107 428 LINE"
 );
 }
 );
@@ -222540,15 +222684,269 @@ glyphname = hryvnia;
 layers = (
 {
 layerId = UUID0;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"341 -3 OFFCURVE",
+"394 11 OFFCURVE",
+"429 33 CURVE",
+"428 52 LINE",
+"423 53 LINE",
+"390 31 OFFCURVE",
+"338 16 OFFCURVE",
+"292 16 CURVE SMOOTH",
+"218 16 OFFCURVE",
+"169 56 OFFCURVE",
+"169 115 CURVE SMOOTH",
+"169 240 OFFCURVE",
+"417 238 OFFCURVE",
+"417 374 CURVE SMOOTH",
+"417 446 OFFCURVE",
+"364 493 OFFCURVE",
+"280 493 CURVE SMOOTH",
+"243 493 OFFCURVE",
+"198 484 OFFCURVE",
+"166 471 CURVE",
+"170 453 LINE",
+"176 452 LINE",
+"205 464 OFFCURVE",
+"248 474 OFFCURVE",
+"282 474 CURVE SMOOTH",
+"351 474 OFFCURVE",
+"397 432 OFFCURVE",
+"397 372 CURVE SMOOTH",
+"397 255 OFFCURVE",
+"149 257 OFFCURVE",
+"149 116 CURVE SMOOTH",
+"149 45 OFFCURVE",
+"206 -3 OFFCURVE",
+"293 -3 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"444 178 LINE",
+"446 195 LINE",
+"443 198 LINE",
+"109 198 LINE",
+"107 181 LINE",
+"110 178 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"458 297 LINE",
+"460 314 LINE",
+"457 317 LINE",
+"123 317 LINE",
+"121 300 LINE",
+"124 297 LINE"
+);
+}
+);
+width = 574;
 },
 {
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"348 -6 OFFCURVE",
+"405 8 OFFCURVE",
+"449 32 CURVE",
+"444 84 LINE",
+"434 89 LINE",
+"397 69 OFFCURVE",
+"337 53 OFFCURVE",
+"294 53 CURVE SMOOTH",
+"240 53 OFFCURVE",
+"205 81 OFFCURVE",
+"205 124 CURVE SMOOTH",
+"205 224 OFFCURVE",
+"442 227 OFFCURVE",
+"442 375 CURVE SMOOTH",
+"442 455 OFFCURVE",
+"384 504 OFFCURVE",
+"284 504 CURVE SMOOTH",
+"237 504 OFFCURVE",
+"185 494 OFFCURVE",
+"144 479 CURVE",
+"155 422 LINE",
+"168 419 LINE",
+"201 431 OFFCURVE",
+"249 442 OFFCURVE",
+"282 442 CURVE SMOOTH",
+"332 442 OFFCURVE",
+"364 414 OFFCURVE",
+"364 371 CURVE SMOOTH",
+"364 276 OFFCURVE",
+"127 271 OFFCURVE",
+"127 123 CURVE SMOOTH",
+"127 43 OFFCURVE",
+"190 -6 OFFCURVE",
+"294 -6 CURVE SMOOTH"
+);
 },
 {
+closed = 1;
+nodes = (
+"474 175 LINE",
+"477 209 LINE",
+"474 214 LINE",
+"84 214 LINE",
+"80 180 LINE",
+"84 175 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"487 288 LINE",
+"490 322 LINE",
+"486 326 LINE",
+"96 326 LINE",
+"93 292 LINE",
+"97 288 LINE"
+);
+}
+);
+width = 576;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"364 -12 OFFCURVE",
+"431 2 OFFCURVE",
+"493 29 CURVE",
+"471 161 LINE",
+"454 174 LINE",
+"409 145 OFFCURVE",
+"336 119 OFFCURVE",
+"298 119 CURVE SMOOTH",
+"279 119 OFFCURVE",
+"268 126 OFFCURVE",
+"268 139 CURVE SMOOTH",
+"268 196 OFFCURVE",
+"487 208 OFFCURVE",
+"487 377 CURVE SMOOTH",
+"487 472 OFFCURVE",
+"419 523 OFFCURVE",
+"292 523 CURVE SMOOTH",
+"227 523 OFFCURVE",
+"162 509 OFFCURVE",
+"106 483 CURVE",
+"128 358 LINE",
+"154 350 LINE",
+"195 370 OFFCURVE",
+"252 386 OFFCURVE",
+"282 386 CURVE SMOOTH",
+"299 386 OFFCURVE",
+"307 381 OFFCURVE",
+"307 370 CURVE SMOOTH",
+"307 314 OFFCURVE",
+"88 296 OFFCURVE",
+"88 134 CURVE SMOOTH",
+"88 40 OFFCURVE",
+"162 -12 OFFCURVE",
+"295 -12 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"551 270 LINE",
+"556 339 LINE",
+"551 347 LINE",
+"32 347 LINE",
+"26 278 LINE",
+"32 270 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"540 162 LINE",
+"545 231 LINE",
+"540 239 LINE",
+"21 239 LINE",
+"15 170 LINE",
+"21 162 LINE"
+);
+}
+);
+};
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"361 -12 OFFCURVE",
+"424 2 OFFCURVE",
+"483 29 CURVE",
+"471 141 LINE",
+"454 154 LINE",
+"409 136 OFFCURVE",
+"336 119 OFFCURVE",
+"298 119 CURVE SMOOTH",
+"279 119 OFFCURVE",
+"268 126 OFFCURVE",
+"268 139 CURVE SMOOTH",
+"268 196 OFFCURVE",
+"487 208 OFFCURVE",
+"487 377 CURVE SMOOTH",
+"487 472 OFFCURVE",
+"419 523 OFFCURVE",
+"292 523 CURVE SMOOTH",
+"227 523 OFFCURVE",
+"162 513 OFFCURVE",
+"106 493 CURVE",
+"128 368 LINE",
+"154 360 LINE",
+"195 374 OFFCURVE",
+"252 386 OFFCURVE",
+"282 386 CURVE SMOOTH",
+"299 386 OFFCURVE",
+"307 381 OFFCURVE",
+"307 370 CURVE SMOOTH",
+"307 314 OFFCURVE",
+"88 296 OFFCURVE",
+"88 134 CURVE SMOOTH",
+"88 40 OFFCURVE",
+"162 -12 OFFCURVE",
+"295 -12 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"528 171 LINE",
+"533 235 LINE",
+"528 242 LINE",
+"39 242 LINE",
+"33 178 LINE",
+"39 171 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"538 271 LINE",
+"543 335 LINE",
+"538 342 LINE",
+"49 342 LINE",
+"43 278 LINE",
+"49 271 LINE"
+);
+}
+);
+width = 579;
 }
 );
 unicode = 20B4;
@@ -228087,16 +228485,166 @@ unicode = 00A3;
 glyphname = tenge;
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"96 491 LINE",
+"93 475 LINE",
+"96 471 LINE",
+"182 472 LINE",
+"352 472 LINE",
+"435 471 LINE",
+"438 487 LINE",
+"436 491 LINE"
+);
+}
+);
+};
 layerId = UUID0;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"276 0 LINE",
+"276 151 LINE",
+"276 371 LINE",
+"256 371 LINE",
+"256 150 LINE",
+"256 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"442 470 LINE",
+"447 486 LINE",
+"443 491 LINE",
+"88 491 LINE",
+"83 475 LINE",
+"87 470 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"442 364 LINE",
+"447 380 LINE",
+"443 385 LINE",
+"88 385 LINE",
+"83 369 LINE",
+"87 364 LINE"
+);
+}
+);
+width = 530;
 },
 {
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"310 0 LINE",
+"308 157 LINE",
+"309 348 LINE",
+"233 348 LINE",
+"234 150 LINE",
+"231 0 LINE"
+);
 },
 {
+closed = 1;
+nodes = (
+"460 448 LINE",
+"469 491 LINE",
+"464 499 LINE",
+"77 499 LINE",
+"69 456 LINE",
+"73 448 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"460 326 LINE",
+"469 370 LINE",
+"464 378 LINE",
+"77 378 LINE",
+"69 335 LINE",
+"73 326 LINE"
+);
+}
+);
+width = 538;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"189 495 LINE",
+"195 149 LINE",
+"186 0 LINE",
+"371 0 LINE",
+"364 168 LINE",
+"371 495 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"72 513 LINE",
+"62 378 LINE",
+"73 365 LINE",
+"187 371 LINE",
+"371 371 LINE",
+"484 365 LINE",
+"494 500 LINE",
+"484 513 LINE"
+);
+}
+);
+};
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"371 0 LINE",
+"364 168 LINE",
+"367 307 LINE",
+"192 307 LINE",
+"195 149 LINE",
+"186 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"493 408 LINE",
+"508 501 LINE",
+"500 513 LINE",
+"58 513 LINE",
+"43 423 LINE",
+"49 408 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"493 260 LINE",
+"508 353 LINE",
+"500 365 LINE",
+"58 365 LINE",
+"43 275 LINE",
+"49 260 LINE"
+);
+}
+);
+width = 551;
 }
 );
 unicode = 20B8;
@@ -228105,16 +228653,345 @@ unicode = 20B8;
 glyphname = tugrik;
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"258 285 LINE",
+"269 289 LINE",
+"397 352 LINE",
+"393 366 LINE",
+"388 369 LINE",
+"269 312 LINE",
+"258 308 LINE",
+"138 250 LINE",
+"142 236 LINE",
+"147 232 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 173 LINE",
+"269 177 LINE",
+"397 243 LINE",
+"393 257 LINE",
+"388 260 LINE",
+"269 200 LINE",
+"258 196 LINE",
+"138 138 LINE",
+"142 124 LINE",
+"147 120 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"274 0 LINE",
+"274 151 LINE",
+"274 483 LINE",
+"254 483 LINE",
+"254 150 LINE",
+"254 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"180 472 LINE",
+"350 472 LINE",
+"433 471 LINE",
+"436 487 LINE",
+"434 491 LINE",
+"94 491 LINE",
+"91 475 LINE",
+"94 471 LINE"
+);
+}
+);
+};
 layerId = UUID0;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"258 285 LINE",
+"269 289 LINE",
+"397 352 LINE",
+"393 366 LINE",
+"388 369 LINE",
+"269 312 LINE",
+"258 308 LINE",
+"138 250 LINE",
+"142 236 LINE",
+"147 232 LINE"
+);
 },
 {
+closed = 1;
+nodes = (
+"258 173 LINE",
+"269 177 LINE",
+"397 240 LINE",
+"393 254 LINE",
+"388 257 LINE",
+"269 200 LINE",
+"258 196 LINE",
+"138 138 LINE",
+"142 124 LINE",
+"147 120 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"274 0 LINE",
+"274 151 LINE",
+"274 483 LINE",
+"254 483 LINE",
+"254 150 LINE",
+"254 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"180 472 LINE",
+"350 472 LINE",
+"433 471 LINE",
+"436 487 LINE",
+"434 491 LINE",
+"94 491 LINE",
+"91 475 LINE",
+"94 471 LINE"
+);
+}
+);
+width = 523;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"250 262 LINE",
+"255 259 LINE",
+"413 310 LINE",
+"409 349 LINE",
+"404 352 LINE",
+"264 306 LINE",
+"259 309 LINE",
+"119 263 LINE",
+"122 225 LINE",
+"128 220 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"250 143 LINE",
+"255 140 LINE",
+"413 192 LINE",
+"409 231 LINE",
+"404 234 LINE",
+"264 188 LINE",
+"259 191 LINE",
+"119 145 LINE",
+"122 106 LINE",
+"128 102 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"303 0 LINE",
+"300 157 LINE",
+"303 487 LINE",
+"224 487 LINE",
+"227 150 LINE",
+"223 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 436 LINE",
+"351 436 LINE",
+"445 433 LINE",
+"451 492 LINE",
+"446 499 LINE",
+"80 499 LINE",
+"74 440 LINE",
+"80 433 LINE"
+);
+}
+);
+};
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"250 262 LINE",
+"255 259 LINE",
+"413 310 LINE",
+"409 349 LINE",
+"404 352 LINE",
+"264 306 LINE",
+"259 309 LINE",
+"119 263 LINE",
+"122 225 LINE",
+"128 220 LINE"
+);
 },
 {
+closed = 1;
+nodes = (
+"250 143 LINE",
+"255 140 LINE",
+"413 192 LINE",
+"409 231 LINE",
+"404 234 LINE",
+"264 188 LINE",
+"259 191 LINE",
+"119 145 LINE",
+"122 106 LINE",
+"128 102 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"303 0 LINE",
+"300 157 LINE",
+"303 487 LINE",
+"224 487 LINE",
+"227 150 LINE",
+"223 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 432 LINE",
+"351 432 LINE",
+"445 425 LINE",
+"450 492 LINE",
+"446 499 LINE",
+"80 499 LINE",
+"74 432 LINE",
+"80 425 LINE"
+);
+}
+);
+width = 523;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"172 495 LINE",
+"178 149 LINE",
+"169 0 LINE",
+"354 0 LINE",
+"347 168 LINE",
+"354 495 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"235 223 LINE",
+"229 208 LINE",
+"440 238 LINE",
+"437 315 LINE",
+"432 319 LINE",
+"256 294 LINE",
+"262 308 LINE",
+"86 285 LINE",
+"87 208 LINE",
+"94 203 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"235 89 LINE",
+"229 74 LINE",
+"440 104 LINE",
+"437 181 LINE",
+"432 185 LINE",
+"256 160 LINE",
+"262 174 LINE",
+"86 151 LINE",
+"87 74 LINE",
+"94 69 LINE"
+);
+}
+);
+};
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"235 221 LINE",
+"229 205 LINE",
+"440 236 LINE",
+"437 318 LINE",
+"432 322 LINE",
+"256 296 LINE",
+"262 311 LINE",
+"86 286 LINE",
+"87 205 LINE",
+"94 199 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"235 91 LINE",
+"229 74 LINE",
+"440 106 LINE",
+"437 189 LINE",
+"432 193 LINE",
+"256 166 LINE",
+"262 181 LINE",
+"86 157 LINE",
+"87 74 LINE",
+"94 69 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"354 0 LINE",
+"347 168 LINE",
+"354 495 LINE",
+"172 495 LINE",
+"178 149 LINE",
+"169 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"170 371 LINE",
+"354 371 LINE",
+"467 365 LINE",
+"477 500 LINE",
+"467 513 LINE",
+"55 513 LINE",
+"45 378 LINE",
+"56 365 LINE"
+);
+}
+);
+width = 523;
 }
 );
 unicode = 20AE;
@@ -265143,53 +266020,6 @@ width = 461;
 {
 color = 10;
 export = 0;
-glyphname = _temp.interpol;
-layers = (
-{
-layerId = UUID0;
-width = 100;
-},
-{
-layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-width = 200;
-},
-{
-layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
-width = 136;
-},
-{
-associatedMasterId = UUID0;
-layerId = "8B357FFE-85F0-411D-8817-ACCCBF32FEB2";
-name = letterspacer;
-paths = (
-{
-closed = 0;
-nodes = (
-"34 15 LINE"
-);
-}
-);
-width = 493;
-},
-{
-associatedMasterId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
-layerId = "8555CEB2-6C45-4E18-BE63-466F6E2144F1";
-name = letterspacer;
-paths = (
-{
-closed = 0;
-nodes = (
-"17 10 LINE"
-);
-}
-);
-width = 250;
-}
-);
-},
-{
-color = 10;
-export = 0;
 glyphname = areas;
 layers = (
 {
@@ -265198,257 +266028,271 @@ paths = (
 {
 closed = 1;
 nodes = (
-"74.011 -69.8 LINE",
-"74.011 -69.8 LINE",
-"194.647 -65 LINE",
-"189.647 -60 LINE",
-"184.647 -55 LINE",
-"179.647 -50 LINE",
-"174.647 -45 LINE",
-"169.647 -40 LINE",
-"164.647 -35 LINE",
-"159.647 -30 LINE",
-"154.647 -25 LINE",
-"149.647 -20 LINE",
-"144.647 -15 LINE",
-"139.647 -10 LINE",
-"134.647 -5 LINE",
-"129.647 0 LINE",
-"124.647 5 LINE",
-"119.647 10 LINE",
-"114.647 15 LINE",
-"108.241 20 LINE",
-"102.877 25 LINE",
-"98.313 30 LINE",
-"94.39 35 LINE",
-"90.997 40 LINE",
-"88.053 45 LINE",
-"85.497 50 LINE",
-"83.282 55 LINE",
-"81.37 60 LINE",
-"79.729 65 LINE",
-"78.334 70 LINE",
-"77.165 75 LINE",
-"76.202 80 LINE",
-"75.43 85 LINE",
-"74.836 90 LINE",
-"74.408 95 LINE",
-"74.136 100 LINE",
-"74.011 105 LINE",
-"74.039 110 LINE",
-"74.283 115 LINE",
-"74.762 120 LINE",
-"75.49 125 LINE",
-"76.483 130 LINE",
-"77.761 135 LINE",
-"79.347 140 LINE",
-"81.267 145 LINE",
-"83.554 150 LINE",
-"86.247 155 LINE",
-"89.397 160 LINE",
-"93.065 165 LINE",
-"97.334 170 LINE",
-"102.315 175 LINE",
-"107.315 180 LINE",
-"112.315 185 LINE",
-"117.315 190 LINE",
-"122.315 195 LINE",
-"127.315 200 LINE",
-"132.315 205 LINE",
-"137.315 210 LINE",
-"142.315 215 LINE",
-"147.315 220 LINE",
-"152.315 225 LINE",
-"157.315 230 LINE",
-"162.315 235 LINE",
-"167.315 240 LINE",
-"172.315 245 LINE",
-"177.315 250 LINE",
-"182.315 255 LINE",
-"187.315 260 LINE",
-"192.315 265 LINE",
-"193.667 270 LINE",
-"188.667 275 LINE",
-"183.667 280 LINE",
-"178.667 285 LINE",
-"173.667 290 LINE",
-"168.667 295 LINE",
-"163.667 300 LINE",
-"158.667 305 LINE",
-"153.667 310 LINE",
-"148.667 315 LINE",
-"143.667 320 LINE",
-"138.667 325 LINE",
-"133.667 330 LINE",
-"128.667 335 LINE",
-"123.667 340 LINE",
-"118.667 345 LINE",
-"113.667 350 LINE",
-"108.667 355 LINE",
-"103.667 360 LINE",
-"98.667 365 LINE",
-"93.667 370 LINE",
-"88.667 375 LINE",
-"87 380 LINE",
-"85.333 385 LINE",
-"85.141 390 LINE",
-"90.141 395 LINE",
-"95.141 400 LINE",
-"100.141 405 LINE",
-"105.141 410 LINE",
-"110.141 415 LINE",
-"115.141 420 LINE",
-"120.141 425 LINE",
-"125.141 430 LINE",
-"130.141 435 LINE",
-"135.141 440 LINE",
-"140.141 445 LINE",
-"145.141 450 LINE",
-"150.141 455 LINE",
-"155.141 460 LINE",
-"160.141 465 LINE",
-"165.141 470 LINE",
-"170.141 475 LINE",
-"175.141 480 LINE",
-"180.141 485 LINE",
-"185.141 490 LINE",
-"190.141 495 LINE",
-"195.141 500 LINE",
-"200.141 505 LINE",
-"205.141 510 LINE",
-"210.141 515 LINE",
-"215.141 520 LINE",
-"74.011 521.8 LINE"
+"91 -67.8 LINE",
+"91 -67.8 LINE",
+"244.68 -65 LINE",
+"244.68 -60 LINE",
+"244.68 -55 LINE",
+"244.68 -50 LINE",
+"244.68 -45 LINE",
+"244.68 -40 LINE",
+"244.68 -35 LINE",
+"244.68 -30 LINE",
+"244.68 -25 LINE",
+"244.68 -20 LINE",
+"244.68 -15 LINE",
+"244.68 -10 LINE",
+"244.68 -5 LINE",
+"244.68 0 LINE",
+"244.68 5 LINE",
+"244.68 10 LINE",
+"244.68 15 LINE",
+"244.68 20 LINE",
+"242 25 LINE",
+"237 30 LINE",
+"232 35 LINE",
+"227 40 LINE",
+"222 45 LINE",
+"217 50 LINE",
+"212 55 LINE",
+"207 60 LINE",
+"202 65 LINE",
+"197 70 LINE",
+"192 75 LINE",
+"187 80 LINE",
+"182 85 LINE",
+"177 90 LINE",
+"172 95 LINE",
+"167 100 LINE",
+"162 105 LINE",
+"157 110 LINE",
+"152 115 LINE",
+"147 120 LINE",
+"141.714 125 LINE",
+"140.286 130 LINE",
+"138.857 135 LINE",
+"142.138 140 LINE",
+"147.138 145 LINE",
+"152.138 150 LINE",
+"157.138 155 LINE",
+"162.138 160 LINE",
+"167.138 165 LINE",
+"172.138 170 LINE",
+"177.138 175 LINE",
+"182.138 180 LINE",
+"187.138 185 LINE",
+"188.25 190 LINE",
+"183.25 195 LINE",
+"178.25 200 LINE",
+"173.25 205 LINE",
+"168.25 210 LINE",
+"163.25 215 LINE",
+"158.25 220 LINE",
+"153.25 225 LINE",
+"148.25 230 LINE",
+"143.25 235 LINE",
+"140.857 240 LINE",
+"139.429 245 LINE",
+"138 250 LINE",
+"143 255 LINE",
+"148 260 LINE",
+"153 265 LINE",
+"158 270 LINE",
+"163 275 LINE",
+"168 280 LINE",
+"173 285 LINE",
+"178 290 LINE",
+"183 295 LINE",
+"188 300 LINE",
+"193 305 LINE",
+"198 310 LINE",
+"203 315 LINE",
+"208 320 LINE",
+"213 325 LINE",
+"218 330 LINE",
+"223 335 LINE",
+"226 340 LINE",
+"221 345 LINE",
+"216 350 LINE",
+"211 355 LINE",
+"206 360 LINE",
+"201 365 LINE",
+"196 370 LINE",
+"191 375 LINE",
+"186 380 LINE",
+"181 385 LINE",
+"176 390 LINE",
+"171 395 LINE",
+"166 400 LINE",
+"161 405 LINE",
+"156 410 LINE",
+"151 415 LINE",
+"146 420 LINE",
+"141 425 LINE",
+"136 430 LINE",
+"131 435 LINE",
+"126 440 LINE",
+"121 445 LINE",
+"116 450 LINE",
+"111 455 LINE",
+"106 460 LINE",
+"101 465 LINE",
+"96 470 LINE",
+"91 475 LINE",
+"91.938 480 LINE",
+"92.875 485 LINE",
+"93.812 490 LINE",
+"98.812 495 LINE",
+"103.812 500 LINE",
+"108.812 505 LINE",
+"113.812 510 LINE",
+"118.812 515 LINE",
+"123.812 520 LINE",
+"128.812 525 LINE",
+"133.812 530 LINE",
+"138.812 535 LINE",
+"143.812 540 LINE",
+"148.812 545 LINE",
+"153.812 550 LINE",
+"158.812 555 LINE",
+"91 558.8 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"424.111 -69.8 LINE",
-"424.111 -69.8 LINE",
-"344.522 -65 LINE",
-"349.522 -60 LINE",
-"354.522 -55 LINE",
-"359.522 -50 LINE",
-"364.522 -45 LINE",
-"369.522 -40 LINE",
-"374.522 -35 LINE",
-"379.522 -30 LINE",
-"384.522 -25 LINE",
-"389.522 -20 LINE",
-"394.522 -15 LINE",
-"399.522 -10 LINE",
-"404.522 -5 LINE",
-"409.522 0 LINE",
-"414.522 5 LINE",
-"419.522 10 LINE",
-"421.889 15 LINE",
-"423 20 LINE",
-"424.111 25 LINE",
-"423 30 LINE",
-"418 35 LINE",
-"413 40 LINE",
-"408 45 LINE",
-"403 50 LINE",
-"398 55 LINE",
-"393 60 LINE",
-"388 65 LINE",
-"383 70 LINE",
-"378 75 LINE",
-"373 80 LINE",
-"368 85 LINE",
-"363 90 LINE",
-"358 95 LINE",
-"353 100 LINE",
-"348 105 LINE",
-"343 110 LINE",
-"342.269 115 LINE",
-"342.457 120 LINE",
-"342.646 125 LINE",
-"342.838 130 LINE",
-"343.032 135 LINE",
-"343.227 140 LINE",
-"343.424 145 LINE",
-"343.622 150 LINE",
-"343.821 155 LINE",
-"344.021 160 LINE",
-"344.221 165 LINE",
-"344.422 170 LINE",
-"344.624 175 LINE",
-"344.826 180 LINE",
-"345.029 185 LINE",
-"345.232 190 LINE",
-"345.435 195 LINE",
-"345.639 200 LINE",
-"345.842 205 LINE",
-"346.046 210 LINE",
-"346.249 215 LINE",
-"346.453 220 LINE",
-"346.657 225 LINE",
-"346.86 230 LINE",
-"347.063 235 LINE",
-"347.266 240 LINE",
-"347.468 245 LINE",
-"347.67 250 LINE",
-"347.871 255 LINE",
-"348.072 260 LINE",
-"348.272 265 LINE",
-"348.471 270 LINE",
-"348.669 275 LINE",
-"348.865 280 LINE",
-"349.061 285 LINE",
-"349.255 290 LINE",
-"349.446 295 LINE",
-"349.636 300 LINE",
-"349.823 305 LINE",
-"350.007 310 LINE",
-"350.187 315 LINE",
-"350.362 320 LINE",
-"350.53 325 LINE",
-"350.689 330 LINE",
-"350.833 335 LINE",
-"350.952 340 LINE",
-"350.997 345 LINE",
-"350.901 350 LINE",
-"350.659 355 LINE",
-"350.264 360 LINE",
-"349.705 365 LINE",
-"348.97 370 LINE",
-"348.045 375 LINE",
-"346.917 380 LINE",
-"345.566 385 LINE",
-"343.973 390 LINE",
-"342.111 395 LINE",
-"339.95 400 LINE",
-"337.456 405 LINE",
-"334.58 410 LINE",
-"331.267 415 LINE",
-"327.439 420 LINE",
-"322.996 425 LINE",
-"317.996 430 LINE",
-"312.996 435 LINE",
-"307.996 440 LINE",
-"302.996 445 LINE",
-"297.996 450 LINE",
-"292.996 455 LINE",
-"287.996 460 LINE",
-"282.996 465 LINE",
-"277.996 470 LINE",
-"272.996 475 LINE",
-"270.431 480 LINE",
-"270.431 485 LINE",
-"270.431 490 LINE",
-"270.431 495 LINE",
-"270.431 500 LINE",
-"270.431 505 LINE",
-"270.431 510 LINE",
-"270.431 515 LINE",
-"270.431 520 LINE",
-"424.111 521.8 LINE"
+"435.625 -67.8 LINE",
+"435.625 -67.8 LINE",
+"281.945 -65 LINE",
+"281.945 -60 LINE",
+"281.945 -55 LINE",
+"281.945 -50 LINE",
+"281.945 -45 LINE",
+"281.945 -40 LINE",
+"281.945 -35 LINE",
+"281.945 -30 LINE",
+"281.945 -25 LINE",
+"281.945 -20 LINE",
+"281.945 -15 LINE",
+"281.945 -10 LINE",
+"281.945 -5 LINE",
+"281.945 0 LINE",
+"281.945 5 LINE",
+"281.945 10 LINE",
+"281.945 15 LINE",
+"281.945 20 LINE",
+"281.945 25 LINE",
+"281.945 30 LINE",
+"281.945 35 LINE",
+"281.945 40 LINE",
+"281.945 45 LINE",
+"281.945 50 LINE",
+"281.945 55 LINE",
+"281.945 60 LINE",
+"281.945 65 LINE",
+"281.945 70 LINE",
+"281.945 75 LINE",
+"281.945 80 LINE",
+"281.945 85 LINE",
+"281.945 90 LINE",
+"281.945 95 LINE",
+"281.945 100 LINE",
+"281.945 105 LINE",
+"281.945 110 LINE",
+"281.945 115 LINE",
+"281.945 120 LINE",
+"282 125 LINE",
+"287 130 LINE",
+"292 135 LINE",
+"297 140 LINE",
+"302 145 LINE",
+"307 150 LINE",
+"312 155 LINE",
+"317 160 LINE",
+"322 165 LINE",
+"327 170 LINE",
+"332 175 LINE",
+"337 180 LINE",
+"342 185 LINE",
+"347 190 LINE",
+"352 195 LINE",
+"357 200 LINE",
+"362 205 LINE",
+"367 210 LINE",
+"372 215 LINE",
+"377 220 LINE",
+"382 225 LINE",
+"387 230 LINE",
+"392 235 LINE",
+"397 240 LINE",
+"395.571 245 LINE",
+"394.143 250 LINE",
+"391.333 255 LINE",
+"386.333 260 LINE",
+"381.333 265 LINE",
+"376.333 270 LINE",
+"371.333 275 LINE",
+"366.333 280 LINE",
+"361.333 285 LINE",
+"356.333 290 LINE",
+"351.333 295 LINE",
+"346.333 300 LINE",
+"347.937 305 LINE",
+"352.937 310 LINE",
+"357.937 315 LINE",
+"362.937 320 LINE",
+"367.937 325 LINE",
+"372.937 330 LINE",
+"377.937 335 LINE",
+"382.937 340 LINE",
+"387.937 345 LINE",
+"392.937 350 LINE",
+"396.143 355 LINE",
+"394.714 360 LINE",
+"393.286 365 LINE",
+"388.286 370 LINE",
+"383.286 375 LINE",
+"378.286 380 LINE",
+"373.286 385 LINE",
+"368.286 390 LINE",
+"363.286 395 LINE",
+"358.75 400 LINE",
+"363.75 405 LINE",
+"368.75 410 LINE",
+"373.75 415 LINE",
+"378.75 420 LINE",
+"383.75 425 LINE",
+"388.75 430 LINE",
+"393.75 435 LINE",
+"398.75 440 LINE",
+"403.75 445 LINE",
+"408.75 450 LINE",
+"413.75 455 LINE",
+"418.75 460 LINE",
+"423.75 465 LINE",
+"428.75 470 LINE",
+"433.75 475 LINE",
+"434.688 480 LINE",
+"435.625 485 LINE",
+"434.5 490 LINE",
+"429.5 495 LINE",
+"424.5 500 LINE",
+"419.5 505 LINE",
+"414.5 510 LINE",
+"409.5 515 LINE",
+"404.5 520 LINE",
+"399.5 525 LINE",
+"394.5 530 LINE",
+"389.5 535 LINE",
+"384.5 540 LINE",
+"379.5 545 LINE",
+"374.5 550 LINE",
+"369.5 555 LINE",
+"435.625 558.8 LINE"
 );
 }
 );
-width = 439;
+width = 523;
 },
 {
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
@@ -265456,253 +266300,265 @@ paths = (
 {
 closed = 1;
 nodes = (
-"5 -55.2 LINE",
-"5 -55.2 LINE",
-"5 -54 LINE",
-"5 -49 LINE",
-"5 -44 LINE",
-"5 -39 LINE",
-"5 -34 LINE",
-"5 -29 LINE",
-"5 -24 LINE",
-"5 -19 LINE",
-"5 -14 LINE",
-"5 -9 LINE",
-"5 -4 LINE",
-"5 1 LINE",
-"5 6 LINE",
-"5 11 LINE",
-"5 16 LINE",
-"5 21 LINE",
-"5 26 LINE",
-"5 31 LINE",
-"5 36 LINE",
-"5 41 LINE",
-"5 46 LINE",
-"5 51 LINE",
-"5 56 LINE",
-"5 61 LINE",
-"5 66 LINE",
-"5 71 LINE",
-"5 76 LINE",
-"5 81 LINE",
-"5 86 LINE",
-"5 91 LINE",
-"5 96 LINE",
-"5 101 LINE",
-"5 106 LINE",
-"5 111 LINE",
-"5 116 LINE",
-"5 121 LINE",
-"5 126 LINE",
-"5 131 LINE",
-"5 136 LINE",
-"10 141 LINE",
-"15 146 LINE",
-"20 151 LINE",
-"25 156 LINE",
-"30 161 LINE",
-"35 166 LINE",
-"40 171 LINE",
-"45 176 LINE",
-"50 181 LINE",
-"55 186 LINE",
-"60 191 LINE",
-"65 196 LINE",
-"70 201 LINE",
-"75 206 LINE",
-"80 211 LINE",
-"85 216 LINE",
-"85.24 221 LINE",
-"85.24 226 LINE",
-"85.24 231 LINE",
-"85.24 236 LINE",
-"85.24 241 LINE",
-"85.24 246 LINE",
-"85.24 251 LINE",
-"85.24 256 LINE",
-"85.24 261 LINE",
-"85.24 266 LINE",
-"85.24 271 LINE",
-"85.24 276 LINE",
-"85.24 281 LINE",
-"85.24 286 LINE",
-"85.24 291 LINE",
-"85.24 296 LINE",
-"85.24 301 LINE",
-"85.24 306 LINE",
-"85.24 311 LINE",
-"85.24 316 LINE",
-"85.24 321 LINE",
-"85.24 326 LINE",
-"85.24 331 LINE",
-"85.24 336 LINE",
-"85.24 341 LINE",
-"85.24 346 LINE",
-"85.24 351 LINE",
-"85.24 356 LINE",
-"85.24 361 LINE",
-"85.24 366 LINE",
-"85.24 371 LINE",
-"85.24 376 LINE",
-"85.24 381 LINE",
-"85.24 386 LINE",
-"85.24 391 LINE",
-"85.24 396 LINE",
-"85.24 401 LINE",
-"85.24 406 LINE",
-"85.24 411 LINE",
-"85.24 416 LINE",
-"85.24 421 LINE",
-"85.24 426 LINE",
-"85.24 431 LINE",
-"85.24 436 LINE",
-"85.24 441 LINE",
-"85.24 446 LINE",
-"85.24 451 LINE",
-"85.24 456 LINE",
-"85.24 461 LINE",
-"85.24 466 LINE",
-"85.24 471 LINE",
-"85.24 476 LINE",
-"85.24 481 LINE",
-"85.24 486 LINE",
-"85.24 491 LINE",
-"85.24 496 LINE",
-"85.24 501 LINE",
-"85.24 506 LINE",
-"85.24 511 LINE",
-"85.24 516 LINE",
-"85.24 521 LINE",
-"5 522.2 LINE"
+"45.148 -47.2 LINE",
+"45.148 -47.2 LINE",
+"125.388 -45 LINE",
+"125.388 -40 LINE",
+"125.388 -35 LINE",
+"125.388 -30 LINE",
+"125.388 -25 LINE",
+"125.388 -20 LINE",
+"125.388 -15 LINE",
+"125.388 -10 LINE",
+"125.388 -5 LINE",
+"125.388 0 LINE",
+"125.388 5 LINE",
+"125.388 10 LINE",
+"125.388 15 LINE",
+"125.388 20 LINE",
+"125.388 25 LINE",
+"125.388 30 LINE",
+"125.388 35 LINE",
+"119 40 LINE",
+"114 45 LINE",
+"109 50 LINE",
+"104 55 LINE",
+"99 60 LINE",
+"94 65 LINE",
+"87 70 LINE",
+"86.938 75 LINE",
+"86.875 80 LINE",
+"86.812 85 LINE",
+"86.75 90 LINE",
+"86.688 95 LINE",
+"86.625 100 LINE",
+"86.562 105 LINE",
+"86.5 110 LINE",
+"86.438 115 LINE",
+"86.375 120 LINE",
+"86.312 125 LINE",
+"86.25 130 LINE",
+"86.188 135 LINE",
+"86.125 140 LINE",
+"86.062 145 LINE",
+"86 150 LINE",
+"91 155 LINE",
+"96 160 LINE",
+"101 165 LINE",
+"106 170 LINE",
+"111 175 LINE",
+"116 180 LINE",
+"111.2 185 LINE",
+"106.2 190 LINE",
+"101.2 195 LINE",
+"96.2 200 LINE",
+"91.2 205 LINE",
+"86.975 210 LINE",
+"86.912 215 LINE",
+"86.85 220 LINE",
+"86.787 225 LINE",
+"86.725 230 LINE",
+"86.662 235 LINE",
+"86.6 240 LINE",
+"86.537 245 LINE",
+"86.475 250 LINE",
+"86.412 255 LINE",
+"86.35 260 LINE",
+"86.287 265 LINE",
+"86.225 270 LINE",
+"86.162 275 LINE",
+"86.1 280 LINE",
+"86.037 285 LINE",
+"91.037 290 LINE",
+"96.037 295 LINE",
+"101.037 300 LINE",
+"106.037 305 LINE",
+"111 310 LINE",
+"106 315 LINE",
+"101 320 LINE",
+"96 325 LINE",
+"91 330 LINE",
+"86 335 LINE",
+"81 340 LINE",
+"76 345 LINE",
+"71 350 LINE",
+"66 355 LINE",
+"61 360 LINE",
+"56 365 LINE",
+"51.769 370 LINE",
+"47.538 375 LINE",
+"45.148 380 LINE",
+"45.519 385 LINE",
+"45.889 390 LINE",
+"46.259 395 LINE",
+"46.63 400 LINE",
+"47 405 LINE",
+"47.37 410 LINE",
+"47.741 415 LINE",
+"48.111 420 LINE",
+"48.481 425 LINE",
+"48.852 430 LINE",
+"49.222 435 LINE",
+"49.593 440 LINE",
+"49.963 445 LINE",
+"50.333 450 LINE",
+"50.704 455 LINE",
+"51.074 460 LINE",
+"51.444 465 LINE",
+"51.815 470 LINE",
+"52.185 475 LINE",
+"52.556 480 LINE",
+"52.926 485 LINE",
+"53.296 490 LINE",
+"53.667 495 LINE",
+"54.037 500 LINE",
+"54.407 505 LINE",
+"54.778 510 LINE",
+"59.778 515 LINE",
+"64.778 520 LINE",
+"69.778 525 LINE",
+"74.778 530 LINE",
+"79.778 535 LINE",
+"84.778 540 LINE",
+"89.778 545 LINE",
+"94.778 550 LINE",
+"99.778 555 LINE",
+"104.778 560 LINE",
+"45.148 560.2 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"575 -55.2 LINE",
-"575 -55.2 LINE",
-"575 -54 LINE",
-"575 -49 LINE",
-"575 -44 LINE",
-"575 -39 LINE",
-"575 -34 LINE",
-"575 -29 LINE",
-"575 -24 LINE",
-"575 -19 LINE",
-"575 -14 LINE",
-"575 -9 LINE",
-"575 -4 LINE",
-"575 1 LINE",
-"575 6 LINE",
-"575 11 LINE",
-"575 16 LINE",
-"575 21 LINE",
-"575 26 LINE",
-"575 31 LINE",
-"575 36 LINE",
-"575 41 LINE",
-"575 46 LINE",
-"575 51 LINE",
-"575 56 LINE",
-"575 61 LINE",
-"575 66 LINE",
-"575 71 LINE",
-"575 76 LINE",
-"575 81 LINE",
-"575 86 LINE",
-"575 91 LINE",
-"575 96 LINE",
-"575 101 LINE",
-"575 106 LINE",
-"575 111 LINE",
-"575 116 LINE",
-"575 121 LINE",
-"575 126 LINE",
-"575 131 LINE",
-"575 136 LINE",
-"570 141 LINE",
-"565 146 LINE",
-"560 151 LINE",
-"555 156 LINE",
-"550 161 LINE",
-"545 166 LINE",
-"540 171 LINE",
-"535 176 LINE",
-"530 181 LINE",
-"525 186 LINE",
-"522.724 191 LINE",
-"522.533 196 LINE",
-"522.343 201 LINE",
-"522.152 206 LINE",
-"522.034 211 LINE",
-"522.206 216 LINE",
-"522.378 221 LINE",
-"522.55 226 LINE",
-"522.721 231 LINE",
-"522.893 236 LINE",
-"523.065 241 LINE",
-"523.237 246 LINE",
-"523.408 251 LINE",
-"523.58 256 LINE",
-"523.752 261 LINE",
-"523.924 266 LINE",
-"524.095 271 LINE",
-"524.267 276 LINE",
-"524.439 281 LINE",
-"524.611 286 LINE",
-"524.782 291 LINE",
-"524.954 296 LINE",
-"525.126 301 LINE",
-"525.298 306 LINE",
-"525.469 311 LINE",
-"525.641 316 LINE",
-"525.813 321 LINE",
-"525.985 326 LINE",
-"526.156 331 LINE",
-"526.328 336 LINE",
-"526.5 341 LINE",
-"526.672 346 LINE",
-"526.844 351 LINE",
-"527.015 356 LINE",
-"527.187 361 LINE",
-"527.359 366 LINE",
-"527.531 371 LINE",
-"527.702 376 LINE",
-"527.874 381 LINE",
-"528.046 386 LINE",
-"528.218 391 LINE",
-"528.389 396 LINE",
-"528.561 401 LINE",
-"528.733 406 LINE",
-"528.905 411 LINE",
-"529.076 416 LINE",
-"529.248 421 LINE",
-"529.42 426 LINE",
-"529.592 431 LINE",
-"529.763 436 LINE",
-"529.935 441 LINE",
-"530.107 446 LINE",
-"530.279 451 LINE",
-"530.45 456 LINE",
-"530.622 461 LINE",
-"530.794 466 LINE",
-"530.966 471 LINE",
-"525.966 476 LINE",
-"520.966 481 LINE",
-"515.966 486 LINE",
-"510.966 491 LINE",
-"505.966 496 LINE",
-"500.966 501 LINE",
-"495.966 506 LINE",
-"494.76 511 LINE",
-"494.76 516 LINE",
-"494.76 521 LINE",
-"575 522.2 LINE"
+"477 -47.2 LINE",
+"477 -47.2 LINE",
+"396.76 -45 LINE",
+"396.76 -40 LINE",
+"396.76 -35 LINE",
+"396.76 -30 LINE",
+"396.76 -25 LINE",
+"396.76 -20 LINE",
+"396.76 -15 LINE",
+"396.76 -10 LINE",
+"396.76 -5 LINE",
+"396.76 0 LINE",
+"396.76 5 LINE",
+"396.76 10 LINE",
+"396.76 15 LINE",
+"396.76 20 LINE",
+"396.76 25 LINE",
+"396.76 30 LINE",
+"396.76 35 LINE",
+"396.76 40 LINE",
+"396.76 45 LINE",
+"396.76 50 LINE",
+"396.76 55 LINE",
+"396.76 60 LINE",
+"399.85 65 LINE",
+"404.85 70 LINE",
+"409.85 75 LINE",
+"414.85 80 LINE",
+"419.85 85 LINE",
+"424.85 90 LINE",
+"429.85 95 LINE",
+"434.85 100 LINE",
+"439.85 105 LINE",
+"439.663 110 LINE",
+"439.475 115 LINE",
+"439.288 120 LINE",
+"439.1 125 LINE",
+"438.913 130 LINE",
+"438.725 135 LINE",
+"438.538 140 LINE",
+"438.35 145 LINE",
+"438.163 150 LINE",
+"437.975 155 LINE",
+"437.788 160 LINE",
+"437.6 165 LINE",
+"437.413 170 LINE",
+"437.225 175 LINE",
+"437.038 180 LINE",
+"432.038 185 LINE",
+"427.038 190 LINE",
+"422.038 195 LINE",
+"417.038 200 LINE",
+"412.038 205 LINE",
+"409.962 210 LINE",
+"414.962 215 LINE",
+"419.962 220 LINE",
+"424.962 225 LINE",
+"429.962 230 LINE",
+"434.962 235 LINE",
+"439.962 240 LINE",
+"439.775 245 LINE",
+"439.587 250 LINE",
+"439.4 255 LINE",
+"439.212 260 LINE",
+"439.025 265 LINE",
+"438.837 270 LINE",
+"438.65 275 LINE",
+"438.462 280 LINE",
+"438.275 285 LINE",
+"438.087 290 LINE",
+"437.9 295 LINE",
+"437.712 300 LINE",
+"437.525 305 LINE",
+"437.337 310 LINE",
+"437.15 315 LINE",
+"435.75 320 LINE",
+"430.75 325 LINE",
+"432 330 LINE",
+"437 335 LINE",
+"442 340 LINE",
+"447 345 LINE",
+"452 350 LINE",
+"457 355 LINE",
+"462 360 LINE",
+"467 365 LINE",
+"467.37 370 LINE",
+"467.741 375 LINE",
+"468.111 380 LINE",
+"468.481 385 LINE",
+"468.852 390 LINE",
+"469.222 395 LINE",
+"469.593 400 LINE",
+"469.963 405 LINE",
+"470.333 410 LINE",
+"470.704 415 LINE",
+"471.074 420 LINE",
+"471.444 425 LINE",
+"471.815 430 LINE",
+"472.185 435 LINE",
+"472.556 440 LINE",
+"472.926 445 LINE",
+"473.296 450 LINE",
+"473.667 455 LINE",
+"474.037 460 LINE",
+"474.407 465 LINE",
+"474.778 470 LINE",
+"475.148 475 LINE",
+"475.519 480 LINE",
+"475.889 485 LINE",
+"476.259 490 LINE",
+"476.63 495 LINE",
+"477 500 LINE",
+"473.154 505 LINE",
+"469.308 510 LINE",
+"464.308 515 LINE",
+"459.308 520 LINE",
+"454.308 525 LINE",
+"449.308 530 LINE",
+"444.308 535 LINE",
+"439.308 540 LINE",
+"434.308 545 LINE",
+"429.308 550 LINE",
+"424.308 555 LINE",
+"419.308 560 LINE",
+"477 560.2 LINE"
 );
 }
 );
-width = 596;
+width = 523;
 },
 {
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -265710,255 +266566,267 @@ paths = (
 {
 closed = 1;
 nodes = (
-"15 -63.67 LINE",
-"15 -63.67 LINE",
-"78 -60 LINE",
-"73 -55 LINE",
-"68 -50 LINE",
-"63 -45 LINE",
-"58 -40 LINE",
-"53 -35 LINE",
-"48 -30 LINE",
-"43 -25 LINE",
-"38 -20 LINE",
-"33 -15 LINE",
-"28 -10 LINE",
-"27 -5 LINE",
-"26 0 LINE",
-"25 5 LINE",
-"24 10 LINE",
-"23 15 LINE",
-"22 20 LINE",
-"21 25 LINE",
-"20 30 LINE",
-"19 35 LINE",
-"18 40 LINE",
-"17 45 LINE",
-"16 50 LINE",
-"15 55 LINE",
-"20 60 LINE",
-"25 65 LINE",
-"30 70 LINE",
-"35 75 LINE",
-"40 80 LINE",
-"45 85 LINE",
-"50 90 LINE",
-"55 95 LINE",
-"60 100 LINE",
-"65 105 LINE",
-"70 110 LINE",
-"75 115 LINE",
-"79.703 120 LINE",
-"81.775 125 LINE",
-"83.705 130 LINE",
-"85.511 135 LINE",
-"87.206 140 LINE",
-"88.801 145 LINE",
-"90.308 150 LINE",
-"91.734 155 LINE",
-"93.088 160 LINE",
-"94.375 165 LINE",
-"95.602 170 LINE",
-"96.774 175 LINE",
-"97.896 180 LINE",
-"98.971 185 LINE",
-"100.003 190 LINE",
-"100.995 195 LINE",
-"101.951 200 LINE",
-"102.873 205 LINE",
-"103.762 210 LINE",
-"104.623 215 LINE",
-"105.456 220 LINE",
-"106.263 225 LINE",
-"107.046 230 LINE",
-"107.807 235 LINE",
-"108.546 240 LINE",
-"109.266 245 LINE",
-"109.967 250 LINE",
-"110.65 255 LINE",
-"111.317 260 LINE",
-"111.968 265 LINE",
-"112.605 270 LINE",
-"113.227 275 LINE",
-"113.837 280 LINE",
-"114.434 285 LINE",
-"115.019 290 LINE",
-"115.593 295 LINE",
-"116.156 300 LINE",
-"116.709 305 LINE",
-"117.253 310 LINE",
-"117.788 315 LINE",
-"118.314 320 LINE",
-"118.832 325 LINE",
-"119.342 330 LINE",
-"119.845 335 LINE",
-"120.341 340 LINE",
-"120.83 345 LINE",
-"121.312 350 LINE",
-"121.789 355 LINE",
-"122.259 360 LINE",
-"122.725 365 LINE",
-"123.185 370 LINE",
-"123.64 375 LINE",
-"124.1 380 LINE",
-"124.6 385 LINE",
-"125.1 390 LINE",
-"125.6 395 LINE",
-"126.1 400 LINE",
-"126.6 405 LINE",
-"127.1 410 LINE",
-"127.6 415 LINE",
-"128.1 420 LINE",
-"128.6 425 LINE",
-"129.1 430 LINE",
-"129.6 435 LINE",
-"130.1 440 LINE",
-"130.6 445 LINE",
-"131.1 450 LINE",
-"131.6 455 LINE",
-"136.6 460 LINE",
-"141.6 465 LINE",
-"143.52 470 LINE",
-"143.52 475 LINE",
-"143.52 480 LINE",
-"143.52 485 LINE",
-"143.52 490 LINE",
-"143.52 495 LINE",
-"143.52 500 LINE",
-"143.52 505 LINE",
-"143.52 510 LINE",
-"143.52 515 LINE",
-"143.52 520 LINE",
-"15 521.67 LINE"
+"74 -59.67 LINE",
+"74 -59.67 LINE",
+"202.52 -55 LINE",
+"202.52 -50 LINE",
+"202.52 -45 LINE",
+"202.52 -40 LINE",
+"202.52 -35 LINE",
+"202.52 -30 LINE",
+"202.52 -25 LINE",
+"202.52 -20 LINE",
+"202.52 -15 LINE",
+"202.52 -10 LINE",
+"202.52 -5 LINE",
+"202.52 0 LINE",
+"202.52 5 LINE",
+"202.52 10 LINE",
+"202.52 15 LINE",
+"202.52 20 LINE",
+"202.52 25 LINE",
+"198 30 LINE",
+"193 35 LINE",
+"188 40 LINE",
+"183 45 LINE",
+"178 50 LINE",
+"173 55 LINE",
+"168 60 LINE",
+"163 65 LINE",
+"158 70 LINE",
+"153 75 LINE",
+"148 80 LINE",
+"143 85 LINE",
+"138 90 LINE",
+"133 95 LINE",
+"128 100 LINE",
+"121.921 105 LINE",
+"121.526 110 LINE",
+"121.132 115 LINE",
+"120.737 120 LINE",
+"120.342 125 LINE",
+"119.947 130 LINE",
+"119.553 135 LINE",
+"119.158 140 LINE",
+"124.158 145 LINE",
+"129.158 150 LINE",
+"134.158 155 LINE",
+"139.158 160 LINE",
+"144.158 165 LINE",
+"149.158 170 LINE",
+"154.158 175 LINE",
+"159.158 180 LINE",
+"164.158 185 LINE",
+"158.5 190 LINE",
+"153.5 195 LINE",
+"148.5 200 LINE",
+"143.5 205 LINE",
+"138.5 210 LINE",
+"133.5 215 LINE",
+"128.5 220 LINE",
+"123.5 225 LINE",
+"121.684 230 LINE",
+"121.289 235 LINE",
+"120.895 240 LINE",
+"120.5 245 LINE",
+"120.105 250 LINE",
+"119.711 255 LINE",
+"119.316 260 LINE",
+"122.167 265 LINE",
+"127.167 270 LINE",
+"132.167 275 LINE",
+"137.167 280 LINE",
+"142.167 285 LINE",
+"147.167 290 LINE",
+"152.167 295 LINE",
+"157.167 300 LINE",
+"162.167 305 LINE",
+"167.167 310 LINE",
+"172.167 315 LINE",
+"177.167 320 LINE",
+"182.167 325 LINE",
+"183.286 330 LINE",
+"178.286 335 LINE",
+"173.286 340 LINE",
+"168.286 345 LINE",
+"163.286 350 LINE",
+"158.286 355 LINE",
+"153.286 360 LINE",
+"148.286 365 LINE",
+"143.286 370 LINE",
+"138.286 375 LINE",
+"133.286 380 LINE",
+"128.286 385 LINE",
+"123.286 390 LINE",
+"118.286 395 LINE",
+"113.286 400 LINE",
+"108.286 405 LINE",
+"103.286 410 LINE",
+"98.286 415 LINE",
+"93.286 420 LINE",
+"88.286 425 LINE",
+"83.286 430 LINE",
+"78.286 435 LINE",
+"74 440 LINE",
+"74.508 445 LINE",
+"75.017 450 LINE",
+"75.525 455 LINE",
+"76.034 460 LINE",
+"76.542 465 LINE",
+"77.051 470 LINE",
+"77.559 475 LINE",
+"78.068 480 LINE",
+"78.576 485 LINE",
+"79.085 490 LINE",
+"79.593 495 LINE",
+"84.593 500 LINE",
+"89.593 505 LINE",
+"94.593 510 LINE",
+"99.593 515 LINE",
+"104.593 520 LINE",
+"109.593 525 LINE",
+"114.593 530 LINE",
+"119.593 535 LINE",
+"124.593 540 LINE",
+"129.593 545 LINE",
+"134.593 550 LINE",
+"139.593 555 LINE",
+"74 558.67 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"651.864 -63.67 LINE",
-"651.864 -63.67 LINE",
-"523.344 -60 LINE",
-"523.344 -55 LINE",
-"523.344 -50 LINE",
-"523.344 -45 LINE",
-"523.344 -40 LINE",
-"526.082 -35 LINE",
-"531.082 -30 LINE",
-"536.082 -25 LINE",
-"541.082 -20 LINE",
-"546.082 -15 LINE",
-"551.082 -10 LINE",
-"556.082 -5 LINE",
-"561.082 0 LINE",
-"566.082 5 LINE",
-"571.082 10 LINE",
-"576.082 15 LINE",
-"581.082 20 LINE",
-"586.082 25 LINE",
-"591.082 30 LINE",
-"596.082 35 LINE",
-"601.082 40 LINE",
-"606.082 45 LINE",
-"611.082 50 LINE",
-"616.051 55 LINE",
-"620.521 60 LINE",
-"624.549 65 LINE",
-"628.18 70 LINE",
-"631.455 75 LINE",
-"634.404 80 LINE",
-"637.055 85 LINE",
-"639.432 90 LINE",
-"641.555 95 LINE",
-"643.441 100 LINE",
-"645.106 105 LINE",
-"646.563 110 LINE",
-"647.825 115 LINE",
-"648.902 120 LINE",
-"649.804 125 LINE",
-"650.541 130 LINE",
-"651.119 135 LINE",
-"651.547 140 LINE",
-"651.831 145 LINE",
-"646.831 150 LINE",
-"646.864 155 LINE",
-"651.864 160 LINE",
-"651.592 165 LINE",
-"651.164 170 LINE",
-"650.569 175 LINE",
-"649.797 180 LINE",
-"648.834 185 LINE",
-"647.666 190 LINE",
-"646.275 195 LINE",
-"644.642 200 LINE",
-"642.744 205 LINE",
-"640.554 210 LINE",
-"638.04 215 LINE",
-"635.164 220 LINE",
-"631.877 225 LINE",
-"628.12 230 LINE",
-"623.817 235 LINE",
-"618.868 240 LINE",
-"613.868 245 LINE",
-"608.868 250 LINE",
-"603.868 255 LINE",
-"598.868 260 LINE",
-"593.868 265 LINE",
-"588.868 270 LINE",
-"583.868 275 LINE",
-"578.868 280 LINE",
-"573.868 285 LINE",
-"568.868 290 LINE",
-"563.868 295 LINE",
-"558.868 300 LINE",
-"553.868 305 LINE",
-"548.868 310 LINE",
-"543.868 315 LINE",
-"538.868 320 LINE",
-"533.868 325 LINE",
-"528.868 330 LINE",
-"523.868 335 LINE",
-"523.344 340 LINE",
-"523.344 345 LINE",
-"523.344 350 LINE",
-"523.344 355 LINE",
-"523.344 360 LINE",
-"523.344 365 LINE",
-"523.344 370 LINE",
-"523.344 375 LINE",
-"523.344 380 LINE",
-"523.344 385 LINE",
-"523.344 390 LINE",
-"523.344 395 LINE",
-"523.344 400 LINE",
-"523.344 405 LINE",
-"523.344 410 LINE",
-"523.344 415 LINE",
-"523.344 420 LINE",
-"523.344 425 LINE",
-"523.344 430 LINE",
-"523.344 435 LINE",
-"523.344 440 LINE",
-"523.344 445 LINE",
-"523.344 450 LINE",
-"523.344 455 LINE",
-"523.344 460 LINE",
-"523.344 465 LINE",
-"523.344 470 LINE",
-"523.344 475 LINE",
-"523.344 480 LINE",
-"523.344 485 LINE",
-"523.344 490 LINE",
-"523.344 495 LINE",
-"523.344 500 LINE",
-"523.344 505 LINE",
-"523.344 510 LINE",
-"523.344 515 LINE",
-"523.344 520 LINE",
-"651.864 521.67 LINE"
+"450.797 -59.67 LINE",
+"450.797 -59.67 LINE",
+"322.277 -55 LINE",
+"322.277 -50 LINE",
+"322.277 -45 LINE",
+"322.277 -40 LINE",
+"322.277 -35 LINE",
+"322.277 -30 LINE",
+"322.277 -25 LINE",
+"322.277 -20 LINE",
+"322.277 -15 LINE",
+"322.277 -10 LINE",
+"322.277 -5 LINE",
+"322.277 0 LINE",
+"322.277 5 LINE",
+"322.277 10 LINE",
+"322.277 15 LINE",
+"322.277 20 LINE",
+"322.277 25 LINE",
+"322.277 30 LINE",
+"322.277 35 LINE",
+"322.277 40 LINE",
+"322.277 45 LINE",
+"322.277 50 LINE",
+"322.277 55 LINE",
+"322.277 60 LINE",
+"322.277 65 LINE",
+"322.277 70 LINE",
+"322.277 75 LINE",
+"322.277 80 LINE",
+"322.277 85 LINE",
+"322.277 90 LINE",
+"322.277 95 LINE",
+"322.277 100 LINE",
+"322.684 105 LINE",
+"327.684 110 LINE",
+"332.684 115 LINE",
+"337.684 120 LINE",
+"342.684 125 LINE",
+"347.684 130 LINE",
+"352.684 135 LINE",
+"357.684 140 LINE",
+"362.684 145 LINE",
+"367.684 150 LINE",
+"372.684 155 LINE",
+"377.684 160 LINE",
+"382.684 165 LINE",
+"387.684 170 LINE",
+"392.684 175 LINE",
+"397.684 180 LINE",
+"402.684 185 LINE",
+"407.684 190 LINE",
+"412.684 195 LINE",
+"412.158 200 LINE",
+"411.632 205 LINE",
+"411.105 210 LINE",
+"410.579 215 LINE",
+"410.053 220 LINE",
+"409.526 225 LINE",
+"409 230 LINE",
+"404 235 LINE",
+"399 240 LINE",
+"394 245 LINE",
+"389 250 LINE",
+"384 255 LINE",
+"379 260 LINE",
+"374 265 LINE",
+"369 270 LINE",
+"372.789 275 LINE",
+"377.789 280 LINE",
+"382.789 285 LINE",
+"387.789 290 LINE",
+"392.789 295 LINE",
+"397.789 300 LINE",
+"402.789 305 LINE",
+"407.789 310 LINE",
+"412.789 315 LINE",
+"412.263 320 LINE",
+"411.737 325 LINE",
+"411.211 330 LINE",
+"410.684 335 LINE",
+"410.158 340 LINE",
+"409.632 345 LINE",
+"409.105 350 LINE",
+"404.105 355 LINE",
+"399.105 360 LINE",
+"394.105 365 LINE",
+"389.105 370 LINE",
+"385.203 375 LINE",
+"390.203 380 LINE",
+"395.203 385 LINE",
+"400.203 390 LINE",
+"405.203 395 LINE",
+"410.203 400 LINE",
+"415.203 405 LINE",
+"420.203 410 LINE",
+"425.203 415 LINE",
+"430.203 420 LINE",
+"435.203 425 LINE",
+"440.203 430 LINE",
+"445.203 435 LINE",
+"445.712 440 LINE",
+"446.22 445 LINE",
+"446.729 450 LINE",
+"447.237 455 LINE",
+"447.746 460 LINE",
+"448.254 465 LINE",
+"448.763 470 LINE",
+"449.271 475 LINE",
+"449.78 480 LINE",
+"450.288 485 LINE",
+"450.797 490 LINE",
+"448.857 495 LINE",
+"443.857 500 LINE",
+"438.857 505 LINE",
+"433.857 510 LINE",
+"428.857 515 LINE",
+"423.857 520 LINE",
+"418.857 525 LINE",
+"413.857 530 LINE",
+"408.857 535 LINE",
+"403.857 540 LINE",
+"398.857 545 LINE",
+"393.857 550 LINE",
+"388.857 555 LINE",
+"450.797 558.67 LINE"
 );
 }
 );
-width = 661;
+width = 527;
 }
 );
 },
@@ -266696,6 +267564,9 @@ UUID0 = {
 "@MMK_R_V" = -61;
 "@MMK_R_Y" = -30;
 "@MMK_R_o" = -20;
+};
+"@MMK_L_Softsign-cy" = {
+"@MMK_R_T" = -103;
 };
 };
 "083C0576-DCB5-487A-B9F4-85809F200F55" = {
@@ -267912,6 +268783,9 @@ UUID0 = {
 "@MMK_R_X" = -10;
 "@MMK_R_Y" = -50;
 "@MMK_R_g" = 0;
+};
+"@MMK_L_Softsign-cy" = {
+"@MMK_R_T" = -80;
 };
 };
 };
