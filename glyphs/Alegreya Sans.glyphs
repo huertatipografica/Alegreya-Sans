@@ -1,8 +1,7 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-"/Pi/Pe-cy/Tse-cy",
-"/be-cy  /ve-cy  /ge-cy  /gheupturn-cy  /de-cy  /zhe-cy  /ze-cy  /ii-cy  /el-cy  /em-cy  /en-cy  /pe-cy  /te-cy  /ef-cy  /che-cy  /tse-cy  /sha-cy  /dzhe-cy  /softsign-cy  /hardsign-cy  /lje-cy  /nje-cy  /e-cy  /ereversed-cy  /iu-cy  /ia-cy  /dje-cy  /yat-cy  /yusbig-cy  /izhitsa-cy  /ghemiddlehook-cy  /zhedescender-cy  /kadescender-cy  /kaverticalstroke-cy  /kabashkir-cy  /enghe-cy  /ustrait-cy  /cheverticalstroke-cy  /palochka-cy  /chekhakassian-cy  /obarred-cy  "
+"/Pi/Pe-cy/Tse-cy"
 );
 classes = (
 {
@@ -108236,7 +108235,7 @@ name = "U-cy";
 },
 {
 name = "brevecomb-cy.case";
-transform = "{1, 0, 0, 1, 73, 185}";
+transform = "{1, 0, 0, 1, 69, 185}";
 }
 );
 layerId = UUID0;
