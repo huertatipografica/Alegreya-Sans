@@ -1,5 +1,10 @@
 {
 .appVersion = "939";
+DisplayStrings = (
+"/Zhedescender-cy/Zedescender-cy/Kadescender-cy/Endescender-cy/Esdescender-cy/Chedescender-cy/Gedescender-cy",
+"/Zhedescender-cy  /Zedescender-cy  /Kadescender-cy  /Endescender-cy  /descender-cy.case.alt/Esdescender-cy  /Chedescender-cy  /Gedescender-cy  /zhedescender-cy  /zedescender-cy  /kadescender-cy  /endescender-cy  /esdescender-cy  /chedescender-cy  /gedescender-cy  /descender-cy  /descender-cy.case.alt  /descender-cy.alt  /descender-cy.case  ",
+"/Zhedescender-cy/zhedescender-cy/Zedescender-cy/zedescender-cy/Kadescender-cy/kadescender-cy/Endescender-cy/endescender-cy/Esdescender-cy/esdescender-cy/Chedescender-cy/chedescender-cy/Gedescender-cy/gedescender-cy \012/descender-cy/endescender-cy/chedescender-cy/gedescender-cy"
+);
 classes = (
 {
 automatic = 1;
@@ -249658,6 +249663,7 @@ rightMetricsKey = "=macroncomb";
 unicode = 0331;
 },
 {
+color = 10;
 glyphname = strokeshortcomb;
 layers = (
 {
@@ -260092,6 +260098,7 @@ width = 255;
 );
 },
 {
+color = 10;
 glyphname = "descender-cy.case.alt";
 layers = (
 {
@@ -260160,6 +260167,7 @@ width = 265;
 );
 },
 {
+color = 10;
 glyphname = "descender-cy.alt";
 layers = (
 {
