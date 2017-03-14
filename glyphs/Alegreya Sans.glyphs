@@ -1,8 +1,7 @@
 {
-.appVersion = "939";
+.appVersion = "983";
 DisplayStrings = (
-"/Yusbig-cy",
-"/Yusbig-cy/yusbig-cy"
+"/gheupturn-cy/hardsign-cy/tshe-cy/dje-cy/yat-cy/ghemiddlehook-cy/kabashkir-cy/enghe-cy/ge-cy/te-cy"
 );
 classes = (
 {
@@ -117765,6 +117764,33 @@ color = 1;
 glyphname = "Enghe-cy";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"540 637 LINE",
+"540 195 LINE",
+"540 0 LINE",
+"560 0 LINE",
+"560 195 LINE",
+"560 637 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"552 637 LINE",
+"548 621 LINE",
+"552 617 LINE",
+"696 617 LINE",
+"837 617 LINE",
+"841 633 LINE",
+"838 637 LINE"
+);
+}
+);
+};
 layerId = UUID0;
 paths = (
 {
@@ -117804,15 +117830,15 @@ nodes = (
 closed = 1;
 nodes = (
 "547 617 LINE",
-"654 617 LINE",
-"755 617 LINE",
-"759 633 LINE",
-"756 637 LINE",
+"734 617 LINE",
+"835 617 LINE",
+"839 633 LINE",
+"836 637 LINE",
 "547 637 LINE"
 );
 }
 );
-width = 759;
+width = 839;
 },
 {
 layerId = "083C0576-DCB5-487A-B9F4-85809F200F55";
@@ -117853,18 +117879,45 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"537 572 LINE",
-"655 572 LINE",
-"767 570 LINE",
-"773 633 LINE",
-"767 641 LINE",
-"537 641 LINE"
+"549 572 LINE",
+"733 572 LINE",
+"845 570 LINE",
+"852 633 LINE",
+"846 641 LINE",
+"549 641 LINE"
 );
 }
 );
-width = 773;
+width = 852;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"455 647 LINE",
+"465 190 LINE",
+"455 0 LINE",
+"656 0 LINE",
+"648 210 LINE",
+"659 647 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"604 647 LINE",
+"604 504 LINE",
+"604 493 LINE",
+"727 493 LINE",
+"872 487 LINE",
+"884 633 LINE",
+"874 647 LINE"
+);
+}
+);
+};
 layerId = "6DC2006A-28B6-4A13-A5DF-3641E0854074";
 paths = (
 {
@@ -117903,16 +117956,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"527 493 LINE",
-"664 493 LINE",
-"796 487 LINE",
-"807 633 LINE",
-"796 647 LINE",
-"527 647 LINE"
+"560 493 LINE",
+"740 493 LINE",
+"872 487 LINE",
+"883 633 LINE",
+"872 647 LINE",
+"560 647 LINE"
 );
 }
 );
-width = 807;
+width = 883;
 }
 );
 leftKerningGroup = H;
