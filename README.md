@@ -20,30 +20,6 @@ Alegreya Sans provides for advanced typography with OpenType Features such as sm
 
 The Alegreya type system is a "super family", originally intended for literature, and includes sans and serif sister families.
 
-### ChangeLog
-
-02 Dec 2013 (Juan Pablo del Peral) Alegreya Sans v1.000
-
-- First release
-
-
-08 Jan 2014 (Juan Pablo del Peral) Alegreya Sans v1.001
-
-- Fixed Dcroat in all the fonts
-
-- Removed aphostrophe Opentype replacement
-
-- Added some kerning pairs
-
-28 Jul 2014 (Juan Pablo del Peral)
-
-- Fixed dotbellow character
-
-- Fixed copyright
-
-- Added .glyphs files
-
-
 
 
 ### Acknowledgements
