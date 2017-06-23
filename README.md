@@ -19,20 +19,3 @@ The italics bring a strong emphasis to the roman styles, and each have seven wei
 Alegreya Sans provides for advanced typography with OpenType Features such as small caps, ligatures, fractions, four set of figures, super and subscript characters, ordinals, localized accent forms for Catalan, Guaraní, Romanian, Turkish, and others.
 
 The Alegreya type system is a "super family", originally intended for literature, and includes sans and serif sister families.
-
-
-
-### Acknowledgements
-
-If you make modifications be sure to add your name (N), 
-email (E), web-address (if you have one) (W) and 
-description (D). This list is in alphabetical order.
-
-N: Juan Pablo del Peral
-
-E: juan@huertatipografica.com
-
-W: http://www.huertatipografica.com
-
-D: Original Type Designer
-
