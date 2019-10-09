@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy" format="2">
+  <advance width="679"/>
+  <unicode hex="0448"/>
+  <anchor x="558" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="111" y="0" type="line"/>
+      <point x="571" y="0" type="line"/>
+      <point x="571" y="19" type="line"/>
+      <point x="111" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="121" y="196" type="line"/>
+      <point x="121" y="452" type="line"/>
+      <point x="101" y="452" type="line"/>
+      <point x="101" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="196" type="line"/>
+      <point x="350" y="452" type="line"/>
+      <point x="330" y="452" type="line"/>
+      <point x="330" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="578" y="196" type="line"/>
+      <point x="578" y="452" type="line"/>
+      <point x="558" y="452" type="line"/>
+      <point x="558" y="196" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>11</integer>
+        <key>height</key>
+        <real>70.9</real>
+        <key>width</key>
+        <real>73.5</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

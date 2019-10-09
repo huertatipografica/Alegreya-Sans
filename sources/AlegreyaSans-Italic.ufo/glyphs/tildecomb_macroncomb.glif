@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_macroncomb" format="2">
+  <anchor x="214" y="459" name="_top"/>
+  <anchor x="253" y="774" name="top"/>
+  <outline>
+    <component base="tildecomb.i" xOffset="-3"/>
+    <component base="macroncomb.i" xOffset="20" yOffset="137"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>383</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

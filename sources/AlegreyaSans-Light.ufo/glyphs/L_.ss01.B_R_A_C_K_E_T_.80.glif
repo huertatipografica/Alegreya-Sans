@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.ss01.BRACKET.80" format="2">
+  <advance width="456"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="228" y="319" name="center"/>
+  <anchor x="228" y="637" name="top"/>
+  <anchor x="436" y="637" name="topright"/>
+  <outline>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="421" y="130" type="line"/>
+      <point x="401" y="130" type="line"/>
+      <point x="401" y="20" type="line"/>
+      <point x="142" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="-40" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="20" type="line"/>
+      <point x="-40" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="151" y="195" type="line"/>
+      <point x="151" y="637" type="line"/>
+      <point x="131" y="637" type="line"/>
+      <point x="131" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="-40" y="617" type="line"/>
+      <point x="496" y="617" type="line"/>
+      <point x="496" y="637" type="line"/>
+      <point x="-40" y="637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

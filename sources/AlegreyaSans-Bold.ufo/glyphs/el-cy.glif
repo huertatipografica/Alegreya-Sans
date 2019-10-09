@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <advance width="531"/>
+  <unicode hex="043B"/>
+  <outline>
+    <contour>
+      <point x="25" y="-13" type="line"/>
+      <point x="66" y="-14" type="line" smooth="yes"/>
+      <point x="173" y="-17"/>
+      <point x="209" y="49"/>
+      <point x="250" y="332" type="curve" smooth="yes"/>
+      <point x="270" y="472" type="line"/>
+      <point x="118" y="472" type="line"/>
+      <point x="105" y="365" type="line" smooth="yes"/>
+      <point x="84" y="194"/>
+      <point x="63" y="155"/>
+      <point x="-2" y="139" type="curve"/>
+    </contour>
+    <contour>
+      <point x="186" y="345" type="line"/>
+      <point x="390" y="345" type="line"/>
+      <point x="390" y="472" type="line"/>
+      <point x="117" y="472" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="477" y="210" type="line"/>
+      <point x="486" y="472" type="line"/>
+      <point x="292" y="472" type="line"/>
+      <point x="299" y="190" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>1</integer>
+        <key>height</key>
+        <real>72.8</real>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

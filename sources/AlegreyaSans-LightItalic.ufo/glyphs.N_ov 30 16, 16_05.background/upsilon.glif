@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon" format="2">
+  <outline>
+    <contour>
+      <point x="130" y="455" type="line"/>
+      <point x="105" y="451" type="line"/>
+      <point x="93" y="350" type="line"/>
+      <point x="50" y="87" type="line"/>
+      <point x="49" y="74" type="line"/>
+      <point x="47" y="32"/>
+      <point x="69" y="-2"/>
+      <point x="100" y="-11" type="curve"/>
+      <point x="111" y="-11" type="line"/>
+      <point x="181" y="35"/>
+      <point x="246" y="132"/>
+      <point x="324" y="267" type="curve"/>
+      <point x="337" y="267" type="line"/>
+      <point x="349" y="353" type="line"/>
+      <point x="235" y="137"/>
+      <point x="138" y="15"/>
+      <point x="104" y="15" type="curve" smooth="yes"/>
+      <point x="87" y="15"/>
+      <point x="69" y="41"/>
+      <point x="70" y="75" type="curve"/>
+      <point x="71" y="90" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="456" type="line"/>
+      <point x="348" y="452" type="line"/>
+      <point x="341" y="362" type="line"/>
+      <point x="293" y="-4" type="line"/>
+      <point x="318" y="0" type="line"/>
+      <point x="327" y="106" type="line"/>
+    </contour>
+  </outline>
+</glyph>

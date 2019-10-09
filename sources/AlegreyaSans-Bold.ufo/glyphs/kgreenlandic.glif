@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="538"/>
+  <unicode hex="0138"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="247" y="10" name="ogonek"/>
+  <anchor x="270" y="472" name="top"/>
+  <outline>
+    <contour>
+      <point x="525" y="472" type="line"/>
+      <point x="326" y="472" type="line"/>
+      <point x="305" y="416" type="line"/>
+      <point x="220" y="257" type="line"/>
+      <point x="220" y="245" type="line"/>
+      <point x="248" y="160"/>
+      <point x="284" y="79"/>
+      <point x="328" y="-2" type="curve"/>
+      <point x="348" y="-12" type="line"/>
+      <point x="410" y="-6"/>
+      <point x="469" y="0"/>
+      <point x="531" y="12" type="curve"/>
+      <point x="532" y="32" type="line"/>
+      <point x="486" y="110"/>
+      <point x="443" y="186"/>
+      <point x="405" y="263" type="curve"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="227" y="210" type="line"/>
+      <point x="236" y="474" type="line"/>
+      <point x="42" y="461" type="line"/>
+      <point x="49" y="190" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=idotless</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>k</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

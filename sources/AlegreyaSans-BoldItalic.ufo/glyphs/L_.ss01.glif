@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.ss01" format="2">
+  <advance width="514"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="257" y="324" name="center"/>
+  <anchor x="297" y="647" name="top"/>
+  <anchor x="534" y="647" name="topright"/>
+  <outline>
+    <contour>
+      <point x="134" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="485" y="253" type="line"/>
+      <point x="356" y="245" type="line"/>
+      <point x="330" y="162" type="line"/>
+      <point x="154" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="-80" y="0" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="522" y="65" type="line"/>
+      <point x="-72" y="65" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="238" y="210" type="line"/>
+      <point x="303" y="647" type="line"/>
+      <point x="99" y="647" type="line"/>
+      <point x="53" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="-8" y="582" type="line"/>
+      <point x="586" y="582" type="line"/>
+      <point x="594" y="647" type="line"/>
+      <point x="0" y="647" type="line"/>
+    </contour>
+  </outline>
+</glyph>

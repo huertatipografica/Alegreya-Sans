@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy.sc" format="2">
+  <advance width="617"/>
+  <anchor x="321" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="319" y="0" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="518" y="168" type="line"/>
+      <point x="571" y="513" type="line"/>
+      <point x="383" y="513" type="line"/>
+      <point x="347" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="433" y="149" type="line"/>
+      <point x="129" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="216" y="168" type="line"/>
+      <point x="269" y="513" type="line"/>
+      <point x="81" y="513" type="line"/>
+      <point x="45" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="-118" type="line"/>
+      <point x="562" y="-109" type="line"/>
+      <point x="595" y="149" type="line"/>
+      <point x="418" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="0" type="line"/>
+      <point x="569" y="0" type="line"/>
+      <point x="595" y="149" type="line"/>
+      <point x="383" y="149" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>7</integer>
+        <key>height</key>
+        <real>79.1</real>
+        <key>weight</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

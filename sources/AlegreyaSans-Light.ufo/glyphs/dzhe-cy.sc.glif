@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzhe-cy.sc" format="2">
+  <advance width="595"/>
+  <outline>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="469" y="151" type="line"/>
+      <point x="470" y="491" type="line"/>
+      <point x="449" y="491" type="line"/>
+      <point x="449" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="145" y="151" type="line"/>
+      <point x="146" y="491" type="line"/>
+      <point x="125" y="491" type="line"/>
+      <point x="125" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="457" y="19" type="line"/>
+      <point x="140" y="19" type="line"/>
+    </contour>
+    <component base="descender-cy.alt" xOffset="193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>19</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

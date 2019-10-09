@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaiSymbol.sc" format="2">
+  <advance width="492"/>
+  <outline>
+    <contour>
+      <point x="425" y="-2" type="line"/>
+      <point x="447" y="1" type="line"/>
+      <point x="447" y="5" type="line"/>
+      <point x="359" y="84"/>
+      <point x="270" y="174"/>
+      <point x="193" y="262" type="curve"/>
+      <point x="434" y="491" type="line"/>
+      <point x="404" y="491" type="line"/>
+      <point x="369" y="454" type="line"/>
+      <point x="167" y="263" type="line"/>
+      <point x="167" y="260" type="line"/>
+      <point x="246" y="170"/>
+      <point x="333" y="82"/>
+      <point x="421" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="244" y="-154" type="curve"/>
+      <point x="343" y="-175"/>
+      <point x="397" y="-133"/>
+      <point x="447" y="1" type="curve"/>
+      <point x="425" y="-2" type="line"/>
+      <point x="377" y="-122"/>
+      <point x="331" y="-155"/>
+      <point x="240" y="-132" type="curve"/>
+      <point x="238" y="-134" type="line"/>
+      <point x="239" y="-142"/>
+      <point x="241" y="-149"/>
+    </contour>
+    <contour>
+      <point x="124" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="144" y="151" type="line"/>
+      <point x="145" y="491" type="line"/>
+      <point x="124" y="491" type="line"/>
+      <point x="124" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>19</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeta.sups" format="2">
+  <advance width="230"/>
+  <outline>
+    <contour>
+      <point x="136" y="246" type="line"/>
+      <point x="206" y="272"/>
+      <point x="233" y="295"/>
+      <point x="233" y="330" type="curve" smooth="yes"/>
+      <point x="233" y="352"/>
+      <point x="220" y="369"/>
+      <point x="187" y="376" type="curve" smooth="yes"/>
+      <point x="121" y="390" type="line" smooth="yes"/>
+      <point x="66" y="402"/>
+      <point x="46" y="425"/>
+      <point x="46" y="468" type="curve" smooth="yes"/>
+      <point x="46" y="526"/>
+      <point x="101" y="609"/>
+      <point x="248" y="780" type="curve"/>
+      <point x="248" y="797" type="line"/>
+      <point x="220" y="796" type="line"/>
+      <point x="99" y="796" type="line"/>
+      <point x="50" y="797" type="line"/>
+      <point x="47" y="780" type="line"/>
+      <point x="49" y="777" type="line"/>
+      <point x="94" y="778" type="line"/>
+      <point x="222" y="778" type="line"/>
+      <point x="80" y="616"/>
+      <point x="26" y="529"/>
+      <point x="26" y="466" type="curve" smooth="yes"/>
+      <point x="26" y="414"/>
+      <point x="50" y="385"/>
+      <point x="112" y="372" type="curve" smooth="yes"/>
+      <point x="183" y="357" type="line" smooth="yes"/>
+      <point x="203" y="353"/>
+      <point x="214" y="342"/>
+      <point x="214" y="329" type="curve" smooth="yes"/>
+      <point x="214" y="304"/>
+      <point x="190" y="286"/>
+      <point x="129" y="265" type="curve"/>
+      <point x="128" y="261" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>348</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

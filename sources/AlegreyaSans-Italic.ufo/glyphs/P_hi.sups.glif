@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Phi.sups" format="2">
+  <advance width="489"/>
+  <outline>
+    <contour>
+      <point x="255" y="366" type="curve" smooth="yes"/>
+      <point x="419" y="366"/>
+      <point x="513" y="435"/>
+      <point x="513" y="579" type="curve" smooth="yes"/>
+      <point x="513" y="684"/>
+      <point x="446" y="733"/>
+      <point x="312" y="733" type="curve" smooth="yes"/>
+      <point x="147" y="733"/>
+      <point x="55" y="667"/>
+      <point x="55" y="523" type="curve" smooth="yes"/>
+      <point x="55" y="418"/>
+      <point x="123" y="366"/>
+    </contour>
+    <contour>
+      <point x="269" y="422" type="curve" smooth="yes"/>
+      <point x="175" y="422"/>
+      <point x="130" y="455"/>
+      <point x="130" y="533" type="curve" smooth="yes"/>
+      <point x="130" y="630"/>
+      <point x="184" y="678"/>
+      <point x="299" y="678" type="curve" smooth="yes"/>
+      <point x="395" y="678"/>
+      <point x="437" y="645"/>
+      <point x="437" y="569" type="curve" smooth="yes"/>
+      <point x="437" y="469"/>
+      <point x="382" y="422"/>
+    </contour>
+    <contour>
+      <point x="220" y="320" type="line"/>
+      <point x="291" y="320" type="line"/>
+      <point x="307" y="472" type="line"/>
+      <point x="348" y="778" type="line"/>
+      <point x="276" y="778" type="line"/>
+      <point x="241" y="465" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>66</integer>
+        <key>verticalShift</key>
+        <integer>338</integer>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

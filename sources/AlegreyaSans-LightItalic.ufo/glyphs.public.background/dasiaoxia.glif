@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaoxia" format="2">
+  <anchor x="224" y="442" name="_top"/>
+  <anchor x="214" y="677" name="top"/>
+  <outline>
+    <contour>
+      <point x="238" y="491" type="line"/>
+      <point x="241" y="491" type="line"/>
+      <point x="309" y="657" type="line"/>
+      <point x="309" y="665" type="line"/>
+      <point x="279" y="677" type="line"/>
+      <point x="273" y="678" type="line"/>
+      <point x="259" y="613"/>
+      <point x="246" y="556"/>
+      <point x="226" y="491" type="curve"/>
+    </contour>
+    <component base="dasia" xOffset="-43" yOffset="-10"/>
+  </outline>
+</glyph>

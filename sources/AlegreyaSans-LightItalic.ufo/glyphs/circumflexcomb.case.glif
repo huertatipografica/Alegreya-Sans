@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="223" y="452" name="_top"/>
+  <anchor x="317" y="621" name="custom1"/>
+  <anchor x="237" y="559" name="top"/>
+  <outline>
+    <component base="caroncomb.case" xScale="-1" yScale="-1" xOffset="478" yOffset="1178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>389</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

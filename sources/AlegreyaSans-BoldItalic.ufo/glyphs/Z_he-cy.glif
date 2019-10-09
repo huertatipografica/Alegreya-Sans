@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy" format="2">
+  <advance width="937"/>
+  <unicode hex="0416"/>
+  <anchor x="888" y="0" name="bottomright"/>
+  <anchor x="520" y="647" name="top"/>
+  <outline>
+    <contour>
+      <point x="705" y="-12" type="line"/>
+      <point x="770" y="-6"/>
+      <point x="837" y="4"/>
+      <point x="904" y="19" type="curve"/>
+      <point x="905" y="37" type="line"/>
+      <point x="850" y="134"/>
+      <point x="797" y="235"/>
+      <point x="749" y="337" type="curve"/>
+      <point x="965" y="647" type="line"/>
+      <point x="754" y="647" type="line"/>
+      <point x="713" y="577" type="line"/>
+      <point x="555" y="344" type="line"/>
+      <point x="557" y="336" type="line"/>
+      <point x="596" y="222"/>
+      <point x="637" y="113"/>
+      <point x="683" y="4" type="curve"/>
+    </contour>
+    <contour>
+      <point x="179" y="-12" type="curve"/>
+      <point x="201" y="-4" type="line"/>
+      <point x="271" y="105"/>
+      <point x="342" y="214"/>
+      <point x="408" y="328" type="curve"/>
+      <point x="407" y="344" type="line"/>
+      <point x="306" y="577" type="line"/>
+      <point x="283" y="647" type="line"/>
+      <point x="78" y="647" type="line"/>
+      <point x="213" y="345" type="line"/>
+      <point x="139" y="243"/>
+      <point x="61" y="142"/>
+      <point x="-18" y="45" type="curve"/>
+      <point x="-13" y="21" type="line"/>
+      <point x="51" y="6"/>
+      <point x="114" y="-6"/>
+    </contour>
+    <contour>
+      <point x="341" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="556" y="210" type="line"/>
+      <point x="621" y="647" type="line"/>
+      <point x="421" y="647" type="line"/>
+      <point x="373" y="190" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb_acutecomb" format="2">
+  <anchor x="195" y="439" name="_top"/>
+  <anchor x="217" y="812" name="top"/>
+  <outline>
+    <component base="ringcomb" yOffset="-20"/>
+    <component base="acutecomb.case" xScale="0.987" xyScale="-0.161" yxScale="0.161" yScale="0.987" xOffset="-73" yOffset="181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>389</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

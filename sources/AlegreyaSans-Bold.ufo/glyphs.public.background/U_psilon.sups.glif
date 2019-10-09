@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilon.sups" format="2">
+  <outline>
+    <contour>
+      <point x="466" y="178" type="line"/>
+      <point x="466" y="364"/>
+      <point x="553" y="500"/>
+      <point x="673" y="494" type="curve"/>
+      <point x="684" y="515" type="line"/>
+      <point x="665" y="607" type="line"/>
+      <point x="550" y="747"/>
+      <point x="375" y="576"/>
+      <point x="370" y="318" type="curve"/>
+    </contour>
+    <contour>
+      <point x="155" y="-9" type="line"/>
+      <point x="234" y="-4"/>
+      <point x="323" y="0"/>
+      <point x="359" y="0" type="curve" smooth="yes"/>
+      <point x="391" y="0"/>
+      <point x="489" y="-3"/>
+      <point x="563" y="-6" type="curve"/>
+      <point x="572" y="88" type="line"/>
+      <point x="567" y="94" type="line"/>
+      <point x="555" y="93"/>
+      <point x="534" y="91"/>
+      <point x="517" y="91" type="curve" smooth="yes"/>
+      <point x="476" y="91"/>
+      <point x="466" y="103"/>
+      <point x="466" y="149" type="curve"/>
+      <point x="466" y="426" type="line"/>
+      <point x="266" y="426" type="line"/>
+      <point x="266" y="171" type="line" smooth="yes"/>
+      <point x="266" y="104"/>
+      <point x="249" y="89"/>
+      <point x="163" y="83" type="curve"/>
+    </contour>
+    <contour>
+      <point x="266" y="187" type="curve"/>
+      <point x="384" y="304" type="line"/>
+      <point x="372" y="580"/>
+      <point x="210" y="734"/>
+      <point x="66" y="607" type="curve"/>
+      <point x="47" y="515" type="line"/>
+      <point x="57" y="494" type="line"/>
+      <point x="184" y="496"/>
+      <point x="266" y="375"/>
+    </contour>
+  </outline>
+</glyph>

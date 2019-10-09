@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="875"/>
+  <unicode hex="2116"/>
+  <anchor x="296" y="0" name="bottom"/>
+  <anchor x="717" y="170" name="top"/>
+  <outline>
+    <contour>
+      <point x="509" y="501" type="line"/>
+      <point x="435" y="496" type="line"/>
+      <point x="437" y="126" type="line"/>
+      <point x="430" y="126" type="line"/>
+      <point x="174" y="499" type="line"/>
+      <point x="89" y="499" type="line"/>
+      <point x="91" y="147" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="159" y="167" type="line"/>
+      <point x="160" y="373" type="line"/>
+      <point x="165" y="373" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="505" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="709" y="516" type="curve" smooth="yes"/>
+      <point x="616" y="516"/>
+      <point x="565" y="458"/>
+      <point x="565" y="352" type="curve" smooth="yes"/>
+      <point x="565" y="252"/>
+      <point x="613" y="197"/>
+      <point x="701" y="197" type="curve" smooth="yes"/>
+      <point x="794" y="197"/>
+      <point x="845" y="256"/>
+      <point x="845" y="361" type="curve" smooth="yes"/>
+      <point x="845" y="461"/>
+      <point x="798" y="516"/>
+    </contour>
+    <contour>
+      <point x="706" y="462" type="curve" smooth="yes"/>
+      <point x="752" y="462"/>
+      <point x="775" y="429"/>
+      <point x="775" y="353" type="curve" smooth="yes"/>
+      <point x="775" y="281"/>
+      <point x="752" y="250"/>
+      <point x="706" y="250" type="curve" smooth="yes"/>
+      <point x="660" y="250"/>
+      <point x="638" y="283"/>
+      <point x="638" y="360" type="curve" smooth="yes"/>
+      <point x="638" y="431"/>
+      <point x="660" y="462"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=n.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o.sups</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

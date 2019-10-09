@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance width="523"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="94" y="199" type="line"/>
+      <point x="235" y="221" type="line"/>
+      <point x="229" y="205" type="line"/>
+      <point x="440" y="236" type="line"/>
+      <point x="437" y="318" type="line"/>
+      <point x="432" y="322" type="line"/>
+      <point x="256" y="296" type="line"/>
+      <point x="262" y="311" type="line"/>
+      <point x="86" y="286" type="line"/>
+      <point x="87" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="69" type="line"/>
+      <point x="235" y="91" type="line"/>
+      <point x="229" y="74" type="line"/>
+      <point x="440" y="106" type="line"/>
+      <point x="437" y="189" type="line"/>
+      <point x="432" y="193" type="line"/>
+      <point x="256" y="166" type="line"/>
+      <point x="262" y="181" type="line"/>
+      <point x="86" y="157" type="line"/>
+      <point x="87" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="347" y="168" type="line"/>
+      <point x="354" y="495" type="line"/>
+      <point x="172" y="495" type="line"/>
+      <point x="178" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="365" type="line"/>
+      <point x="170" y="371" type="line"/>
+      <point x="354" y="371" type="line"/>
+      <point x="467" y="365" type="line"/>
+      <point x="477" y="500" type="line"/>
+      <point x="467" y="513" type="line"/>
+      <point x="55" y="513" type="line"/>
+      <point x="45" y="378" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

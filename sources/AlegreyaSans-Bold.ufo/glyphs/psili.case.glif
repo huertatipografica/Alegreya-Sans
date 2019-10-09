@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psili.case" format="2">
+  <advance width="195"/>
+  <anchor x="103" y="472" name="_top"/>
+  <anchor x="122" y="732" name="_topleft"/>
+  <anchor x="102" y="708" name="top"/>
+  <outline>
+    <component base="psili"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

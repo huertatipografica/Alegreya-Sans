@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yusbig-cy" format="2">
+  <advance width="545"/>
+  <unicode hex="046B"/>
+  <outline>
+    <contour>
+      <point x="37" y="-5" type="curve"/>
+      <point x="40" y="-4" type="line"/>
+      <point x="93" y="52"/>
+      <point x="136" y="101"/>
+      <point x="190" y="168" type="curve" smooth="yes"/>
+      <point x="219" y="203"/>
+      <point x="231" y="209"/>
+      <point x="272" y="209" type="curve" smooth="yes"/>
+      <point x="314" y="209"/>
+      <point x="325" y="203"/>
+      <point x="353" y="168" type="curve" smooth="yes"/>
+      <point x="400" y="108"/>
+      <point x="446" y="56"/>
+      <point x="504" y="-4" type="curve"/>
+      <point x="508" y="-5" type="line"/>
+      <point x="517" y="-2"/>
+      <point x="521" y="-1"/>
+      <point x="524" y="1" type="curve"/>
+      <point x="525" y="5" type="line"/>
+      <point x="475" y="57"/>
+      <point x="432" y="105"/>
+      <point x="379" y="169" type="curve" smooth="yes"/>
+      <point x="338" y="219"/>
+      <point x="322" y="228"/>
+      <point x="272" y="228" type="curve" smooth="yes"/>
+      <point x="220" y="228"/>
+      <point x="205" y="220"/>
+      <point x="165" y="169" type="curve" smooth="yes"/>
+      <point x="111" y="102"/>
+      <point x="67" y="52"/>
+      <point x="20" y="5" type="curve"/>
+      <point x="20" y="1" type="line"/>
+      <point x="28" y="-2"/>
+      <point x="32" y="-4"/>
+    </contour>
+    <contour>
+      <point x="262" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="282" y="139" type="line"/>
+      <point x="282" y="220" type="line"/>
+      <point x="262" y="220" type="line"/>
+      <point x="262" y="138" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="209" type="line"/>
+      <point x="282" y="209" type="line"/>
+      <point x="492" y="436" type="line"/>
+      <point x="492" y="452" type="line"/>
+      <point x="52" y="452" type="line"/>
+      <point x="52" y="436" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="226" type="line"/>
+      <point x="80" y="433" type="line"/>
+      <point x="464" y="433" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>11</integer>
+        <key>height</key>
+        <real>70.9</real>
+        <key>width</key>
+        <real>73.5</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

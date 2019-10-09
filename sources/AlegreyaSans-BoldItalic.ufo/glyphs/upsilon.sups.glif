@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon.sups" format="2">
+  <advance width="346"/>
+  <guideline x="428" y="232" angle="0"/>
+  <anchor x="224" y="648" name="top"/>
+  <outline>
+    <contour>
+      <point x="177" y="313" type="curve" smooth="yes"/>
+      <point x="262" y="313"/>
+      <point x="330" y="369"/>
+      <point x="340" y="447" type="curve" smooth="yes"/>
+      <point x="367" y="651" type="line"/>
+      <point x="259" y="644" type="line"/>
+      <point x="256" y="567" type="line"/>
+      <point x="241" y="451" type="line" smooth="yes"/>
+      <point x="235" y="406"/>
+      <point x="224" y="395"/>
+      <point x="193" y="395" type="curve" smooth="yes"/>
+      <point x="163" y="395"/>
+      <point x="153" y="409"/>
+      <point x="159" y="452" type="curve" smooth="yes"/>
+      <point x="187" y="651" type="line"/>
+      <point x="78" y="644" type="line"/>
+      <point x="76" y="568" type="line"/>
+      <point x="58" y="436" type="line" smooth="yes"/>
+      <point x="48" y="362"/>
+      <point x="96" y="313"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-70</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

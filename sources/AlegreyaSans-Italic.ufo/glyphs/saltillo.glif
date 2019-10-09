@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="saltillo" format="2">
+  <advance width="103.428"/>
+  <unicode hex="A78C"/>
+  <outline>
+    <contour>
+      <point x="119" y="529" type="line"/>
+      <point x="53" y="523" type="line"/>
+      <point x="26" y="271" type="line"/>
+      <point x="32" y="262" type="line"/>
+      <point x="76" y="270" type="line"/>
+      <point x="124" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="386" type="move"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

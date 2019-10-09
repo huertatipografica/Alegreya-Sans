@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucaron.sc" format="2">
+  <outline>
+    <contour>
+      <point x="524" y="513" type="line"/>
+      <point x="336" y="513" type="line"/>
+      <point x="344" y="194" type="line" smooth="yes"/>
+      <point x="345" y="151"/>
+      <point x="327" y="135"/>
+      <point x="281" y="135" type="curve" smooth="yes"/>
+      <point x="235" y="135"/>
+      <point x="218" y="151"/>
+      <point x="219" y="194" type="curve" smooth="yes"/>
+      <point x="227" y="513" type="line"/>
+      <point x="42" y="513" type="line"/>
+      <point x="47" y="252" type="line"/>
+      <point x="45" y="169" type="line" smooth="yes"/>
+      <point x="41" y="53"/>
+      <point x="123" y="-11"/>
+      <point x="273" y="-11" type="curve" smooth="yes"/>
+      <point x="429" y="-11"/>
+      <point x="516" y="53"/>
+      <point x="517" y="169" type="curve" smooth="yes"/>
+      <point x="518" y="253" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="789" type="line"/>
+      <point x="398" y="789" type="line"/>
+      <point x="354" y="761"/>
+      <point x="312" y="733"/>
+      <point x="283" y="711" type="curve"/>
+      <point x="254" y="733"/>
+      <point x="212" y="761"/>
+      <point x="168" y="789" type="curve"/>
+      <point x="150" y="789" type="line"/>
+      <point x="103" y="717" type="line"/>
+      <point x="160" y="668"/>
+      <point x="219" y="614"/>
+      <point x="266" y="567" type="curve"/>
+      <point x="300" y="567" type="line"/>
+      <point x="356" y="622"/>
+      <point x="414" y="676"/>
+      <point x="463" y="717" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

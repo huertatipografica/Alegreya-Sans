@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="umacrondieresis.sc" format="2">
+  <advance width="541"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="macroncomb.i" xOffset="79" yOffset="39"/>
+    <component base="dieresiscomb" xOffset="80" yOffset="184"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

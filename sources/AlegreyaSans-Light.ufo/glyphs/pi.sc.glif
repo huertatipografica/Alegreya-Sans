@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi.sc" format="2">
+  <advance width="541"/>
+  <anchor x="411" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="411" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="151" type="line"/>
+      <point x="432" y="491" type="line"/>
+      <point x="411" y="491" type="line"/>
+      <point x="411" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="128" y="151" type="line"/>
+      <point x="129" y="491" type="line"/>
+      <point x="108" y="491" type="line"/>
+      <point x="108" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="471" type="line"/>
+      <point x="419" y="471" type="line"/>
+      <point x="419" y="491" type="line"/>
+      <point x="123" y="491" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>19</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=i.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=i.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

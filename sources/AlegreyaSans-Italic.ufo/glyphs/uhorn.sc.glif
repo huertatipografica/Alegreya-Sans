@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorn.sc" format="2">
+  <advance width="535"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="291" y="501" name="top"/>
+  <outline>
+    <contour>
+      <point x="511" y="610" type="curve" smooth="yes"/>
+      <point x="499" y="610"/>
+      <point x="486" y="603"/>
+      <point x="473" y="594" type="curve"/>
+      <point x="470" y="587" type="line"/>
+      <point x="488" y="571"/>
+      <point x="495" y="556"/>
+      <point x="495" y="540" type="curve" smooth="yes"/>
+      <point x="495" y="514"/>
+      <point x="479" y="501"/>
+      <point x="445" y="501" type="curve"/>
+      <point x="455" y="459" type="line"/>
+      <point x="518" y="464"/>
+      <point x="559" y="500"/>
+      <point x="559" y="546" type="curve" smooth="yes"/>
+      <point x="559" y="583"/>
+      <point x="534" y="610"/>
+    </contour>
+    <contour>
+      <point x="497" y="501" type="line"/>
+      <point x="415" y="501" type="line"/>
+      <point x="379" y="184" type="line" smooth="yes"/>
+      <point x="369" y="103"/>
+      <point x="324" y="63"/>
+      <point x="245" y="63" type="curve" smooth="yes"/>
+      <point x="176" y="63"/>
+      <point x="141" y="95"/>
+      <point x="141" y="159" type="curve" smooth="yes"/>
+      <point x="141" y="169"/>
+      <point x="142" y="179"/>
+      <point x="144" y="190" type="curve" smooth="yes"/>
+      <point x="186" y="501" type="line"/>
+      <point x="104" y="501" type="line"/>
+      <point x="75" y="251" type="line"/>
+      <point x="65" y="180" type="line" smooth="yes"/>
+      <point x="63" y="167"/>
+      <point x="62" y="153"/>
+      <point x="62" y="141" type="curve" smooth="yes"/>
+      <point x="62" y="46"/>
+      <point x="130" y="-6"/>
+      <point x="239" y="-6" type="curve" smooth="yes"/>
+      <point x="368" y="-6"/>
+      <point x="442" y="63"/>
+      <point x="455" y="185" type="curve"/>
+      <point x="463" y="246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>13</integer>
+        <key>height</key>
+        <integer>78</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=u.sc</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

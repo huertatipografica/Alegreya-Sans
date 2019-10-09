@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.sc" format="2">
+  <advance width="385"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="113" y="246" name="center"/>
+  <anchor x="113" y="491" name="top"/>
+  <anchor x="345" y="491" name="topright"/>
+  <outline>
+    <contour>
+      <point x="214" y="204" type="move"/>
+    </contour>
+    <contour>
+      <point x="127" y="491" type="line"/>
+      <point x="107" y="491" type="line"/>
+      <point x="107" y="150" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="19" type="line"/>
+      <point x="119" y="19" type="line"/>
+      <point x="115" y="3" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="342" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="464" type="line"/>
+      <point x="299" y="462" type="line"/>
+      <point x="287" y="318" type="line"/>
+      <point x="290" y="314" type="line"/>
+      <point x="307" y="316" type="line"/>
+      <point x="319" y="460" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=l.sc</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticalbar-cy" format="2">
+  <advance width="218"/>
+  <outline>
+    <contour>
+      <point x="102" y="173" type="line"/>
+      <point x="119" y="175" type="line"/>
+      <point x="119" y="492" type="line"/>
+      <point x="116" y="495" type="line"/>
+      <point x="99" y="493" type="line"/>
+      <point x="99" y="176" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

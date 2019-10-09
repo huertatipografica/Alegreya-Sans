@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow" format="2">
+  <advance width="500"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="63" y="318" type="line"/>
+      <point x="69" y="318" type="line"/>
+      <point x="249" y="495" type="line"/>
+      <point x="429" y="318" type="line"/>
+      <point x="435" y="318" type="line"/>
+      <point x="443" y="332" type="line"/>
+      <point x="251" y="522" type="line"/>
+      <point x="247" y="522" type="line"/>
+      <point x="55" y="332" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="-80" type="line"/>
+      <point x="251" y="-80" type="line"/>
+      <point x="443" y="110" type="line"/>
+      <point x="435" y="124" type="line"/>
+      <point x="429" y="124" type="line"/>
+      <point x="249" y="-53" type="line"/>
+      <point x="69" y="124" type="line"/>
+      <point x="63" y="124" type="line"/>
+      <point x="55" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="-63" type="line"/>
+      <point x="259" y="-63" type="line"/>
+      <point x="259" y="505" type="line"/>
+      <point x="239" y="505" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=downArrow</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=downArrow</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

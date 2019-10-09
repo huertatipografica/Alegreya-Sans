@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="872"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="561" y="0" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="581" y="195" type="line"/>
+      <point x="581" y="637" type="line"/>
+      <point x="561" y="637" type="line"/>
+      <point x="561" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="151" y="195" type="line"/>
+      <point x="151" y="637" type="line"/>
+      <point x="131" y="637" type="line"/>
+      <point x="131" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="314" type="line"/>
+      <point x="349" y="314" type="line"/>
+      <point x="570" y="314" type="line"/>
+      <point x="570" y="334" type="line"/>
+      <point x="353" y="334" type="line"/>
+      <point x="145" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="637" type="line"/>
+      <point x="568" y="617" type="line"/>
+      <point x="755" y="617" type="line"/>
+      <point x="856" y="617" type="line"/>
+      <point x="860" y="633" type="line"/>
+      <point x="857" y="637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ia-cy.sc" format="2">
+  <advance width="495"/>
+  <outline>
+    <contour>
+      <point x="228" y="178" type="curve"/>
+      <point x="375" y="178" type="line"/>
+      <point x="375" y="247" type="line"/>
+      <point x="235" y="242" type="line"/>
+      <point x="177" y="256"/>
+      <point x="148" y="289"/>
+      <point x="148" y="343" type="curve" smooth="yes"/>
+      <point x="148" y="404"/>
+      <point x="187" y="437"/>
+      <point x="251" y="438" type="curve"/>
+      <point x="359" y="434" type="line"/>
+      <point x="405" y="501" type="line"/>
+      <point x="247" y="502" type="line"/>
+      <point x="137" y="502"/>
+      <point x="62" y="438"/>
+      <point x="62" y="342" type="curve" smooth="yes"/>
+      <point x="62" y="258"/>
+      <point x="120" y="202"/>
+    </contour>
+    <contour>
+      <point x="112" y="-7" type="curve"/>
+      <point x="121" y="-1" type="line"/>
+      <point x="173" y="74"/>
+      <point x="218" y="147"/>
+      <point x="257" y="220" type="curve"/>
+      <point x="187" y="221" type="line"/>
+      <point x="139" y="151"/>
+      <point x="89" y="86"/>
+      <point x="32" y="19" type="curve"/>
+      <point x="33" y="10" type="line"/>
+      <point x="56" y="1"/>
+      <point x="82" y="-5"/>
+    </contour>
+    <contour>
+      <point x="322" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="401" y="150" type="line"/>
+      <point x="405" y="501" type="line"/>
+      <point x="321" y="497" type="line"/>
+      <point x="325" y="157" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>13</integer>
+        <key>height</key>
+        <integer>78</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

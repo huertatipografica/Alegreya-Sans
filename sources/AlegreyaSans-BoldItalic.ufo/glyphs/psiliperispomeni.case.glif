@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psiliperispomeni.case" format="2">
+  <advance width="276"/>
+  <anchor x="170" y="472" name="_top"/>
+  <anchor x="257" y="782" name="_topleft"/>
+  <anchor x="222" y="895" name="top"/>
+  <outline>
+    <component base="psiliperispomeni"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

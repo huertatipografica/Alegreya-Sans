@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e-cy" format="2">
+  <advance width="455"/>
+  <unicode hex="0454"/>
+  <outline>
+    <contour>
+      <point x="246" y="467" type="curve" smooth="yes"/>
+      <point x="115" y="467"/>
+      <point x="33" y="374"/>
+      <point x="33" y="224" type="curve" smooth="yes"/>
+      <point x="33" y="81"/>
+      <point x="110" y="-8"/>
+      <point x="234" y="-8" type="curve" smooth="yes"/>
+      <point x="283" y="-8"/>
+      <point x="334" y="5"/>
+      <point x="372" y="25" type="curve"/>
+      <point x="381" y="88" type="line"/>
+      <point x="372" y="93" type="line"/>
+      <point x="335" y="73"/>
+      <point x="291" y="60"/>
+      <point x="251" y="60" type="curve" smooth="yes"/>
+      <point x="165" y="60"/>
+      <point x="113" y="124"/>
+      <point x="113" y="232" type="curve" smooth="yes"/>
+      <point x="113" y="335"/>
+      <point x="164" y="397"/>
+      <point x="246" y="397" type="curve" smooth="yes"/>
+      <point x="285" y="397"/>
+      <point x="325" y="383"/>
+      <point x="356" y="364" type="curve"/>
+      <point x="365" y="367" type="line"/>
+      <point x="382" y="431" type="line"/>
+      <point x="346" y="453"/>
+      <point x="295" y="467"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <real>7.3</real>
+        <key>height</key>
+        <real>71.4</real>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <real>73.5</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

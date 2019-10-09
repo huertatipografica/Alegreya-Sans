@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilon.sups" format="2">
+  <advance width="380"/>
+  <anchor x="234" y="320" name="bottom"/>
+  <anchor x="340" y="327" name="ogonek"/>
+  <anchor x="248" y="772" name="top"/>
+  <anchor x="26" y="772" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="231" y="772" type="line"/>
+      <point x="109" y="772" type="line"/>
+      <point x="76" y="454" type="line"/>
+      <point x="53" y="320" type="line"/>
+      <point x="173" y="320" type="line"/>
+      <point x="186" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="417" type="line"/>
+      <point x="256" y="413" type="line"/>
+      <point x="145" y="413" type="line"/>
+      <point x="133" y="327" type="line"/>
+      <point x="133" y="320" type="line"/>
+      <point x="359" y="320" type="line"/>
+      <point x="377" y="408" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="596" type="line"/>
+      <point x="279" y="594" type="line"/>
+      <point x="173" y="595" type="line"/>
+      <point x="162" y="508" type="line"/>
+      <point x="162" y="501" type="line"/>
+      <point x="260" y="502" type="line"/>
+      <point x="341" y="500" type="line"/>
+      <point x="360" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="772" type="line"/>
+      <point x="190" y="772" type="line"/>
+      <point x="178" y="685" type="line"/>
+      <point x="178" y="678" type="line"/>
+      <point x="295" y="679" type="line"/>
+      <point x="406" y="675" type="line"/>
+      <point x="425" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-70</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

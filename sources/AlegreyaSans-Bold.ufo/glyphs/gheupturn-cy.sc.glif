@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gheupturn-cy.sc" format="2">
+  <advance width="429"/>
+  <outline>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="229" y="168" type="line"/>
+      <point x="239" y="513" type="line"/>
+      <point x="51" y="513" type="line"/>
+      <point x="60" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="372" type="line"/>
+      <point x="290" y="372" type="line"/>
+      <point x="412" y="366" type="line"/>
+      <point x="414" y="513" type="line"/>
+      <point x="189" y="513" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="366" type="line"/>
+      <point x="426" y="606" type="line"/>
+      <point x="308" y="613" type="line"/>
+      <point x="250" y="393" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>7</integer>
+        <key>height</key>
+        <real>79.1</real>
+        <key>weight</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

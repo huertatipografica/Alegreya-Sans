@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <outline>
+    <contour>
+      <point x="0" y="-10" type="line"/>
+      <point x="11" y="-5" type="line" smooth="yes"/>
+      <point x="79" y="26"/>
+      <point x="119" y="112"/>
+      <point x="171" y="384" type="curve" smooth="yes"/>
+      <point x="184" y="452" type="line"/>
+      <point x="165" y="452" type="line"/>
+      <point x="153" y="387" type="line" smooth="yes"/>
+      <point x="103" y="118"/>
+      <point x="66" y="39"/>
+      <point x="-4" y="8" type="curve"/>
+    </contour>
+    <contour>
+      <point x="278" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="314" y="139" type="line"/>
+      <point x="353" y="452" type="line"/>
+      <point x="333" y="452" type="line"/>
+      <point x="295" y="138" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="433" type="line"/>
+      <point x="340" y="433" type="line"/>
+      <point x="343" y="452" type="line"/>
+      <point x="165" y="452" type="line"/>
+    </contour>
+  </outline>
+</glyph>

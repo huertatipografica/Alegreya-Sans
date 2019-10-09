@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shha-cy" format="2">
+  <advance width="602"/>
+  <unicode hex="04BA"/>
+  <outline>
+    <contour>
+      <point x="351" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="568" y="240" type="line"/>
+      <point x="587" y="397"/>
+      <point x="533" y="470"/>
+      <point x="391" y="472" type="curve"/>
+      <point x="348" y="455"/>
+      <point x="308" y="431"/>
+      <point x="275" y="399" type="curve"/>
+      <point x="250" y="396" type="line"/>
+      <point x="240" y="265" type="line"/>
+      <point x="276" y="288"/>
+      <point x="309" y="301"/>
+      <point x="340" y="301" type="curve" smooth="yes"/>
+      <point x="382" y="301"/>
+      <point x="395" y="278"/>
+      <point x="387" y="214" type="curve"/>
+    </contour>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="239" y="210" type="line"/>
+      <point x="304" y="647" type="line"/>
+      <point x="106" y="647" type="line"/>
+      <point x="59" y="190" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

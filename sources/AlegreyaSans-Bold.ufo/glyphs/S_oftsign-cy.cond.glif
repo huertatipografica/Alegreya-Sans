@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Softsign-cy.cond" format="2">
+  <advance width="546"/>
+  <outline>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="266" y="0" type="line"/>
+      <point x="446" y="0"/>
+      <point x="555" y="93"/>
+      <point x="555" y="241" type="curve" smooth="yes"/>
+      <point x="555" y="358"/>
+      <point x="486" y="422"/>
+      <point x="357" y="422" type="curve" smooth="yes"/>
+      <point x="106" y="422" type="line"/>
+      <point x="106" y="278" type="line"/>
+      <point x="289" y="284" type="line" smooth="yes"/>
+      <point x="324" y="285"/>
+      <point x="347" y="257"/>
+      <point x="347" y="214" type="curve" smooth="yes"/>
+      <point x="347" y="177"/>
+      <point x="330" y="148"/>
+      <point x="306" y="136" type="curve"/>
+      <point x="115" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="238" y="209" type="line"/>
+      <point x="249" y="648" type="line"/>
+      <point x="46" y="648" type="line"/>
+      <point x="57" y="189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

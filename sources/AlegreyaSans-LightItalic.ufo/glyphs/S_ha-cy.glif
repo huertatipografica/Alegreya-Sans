@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha-cy" format="2">
+  <advance width="837"/>
+  <unicode hex="0428"/>
+  <anchor x="684" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="695" y="0" type="line"/>
+      <point x="698" y="20" type="line"/>
+      <point x="93" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="124" y="195" type="line"/>
+      <point x="178" y="637" type="line"/>
+      <point x="158" y="637" type="line"/>
+      <point x="104" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="0" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="426" y="195" type="line"/>
+      <point x="480" y="637" type="line"/>
+      <point x="460" y="637" type="line"/>
+      <point x="406" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="684" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="728" y="195" type="line"/>
+      <point x="782" y="637" type="line"/>
+      <point x="762" y="637" type="line"/>
+      <point x="708" y="195" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

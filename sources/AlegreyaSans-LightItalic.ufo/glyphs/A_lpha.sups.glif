@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alpha.sups" format="2">
+  <advance width="358"/>
+  <anchor x="204" y="348" name="bottom"/>
+  <anchor x="371" y="348" name="ogonek"/>
+  <anchor x="254" y="756" name="top"/>
+  <anchor x="145" y="756" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="262" y="756" type="line"/>
+      <point x="239" y="756" type="line"/>
+      <point x="32" y="348" type="line"/>
+      <point x="55" y="348" type="line"/>
+      <point x="69" y="379" type="line"/>
+      <point x="245" y="728" type="line"/>
+      <point x="248" y="728" type="line"/>
+      <point x="326" y="378" type="line"/>
+      <point x="330" y="348" type="line"/>
+      <point x="353" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="499" type="line"/>
+      <point x="212" y="498" type="line"/>
+      <point x="116" y="499" type="line"/>
+      <point x="111" y="479" type="line"/>
+      <point x="207" y="479" type="line"/>
+      <point x="311" y="479" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>348</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h.sups" format="2">
+  <outline>
+    <contour>
+      <point x="214" y="643" type="curve" smooth="yes"/>
+      <point x="181" y="643"/>
+      <point x="145" y="624"/>
+      <point x="113" y="591" type="curve"/>
+      <point x="108" y="591" type="line"/>
+      <point x="108" y="565" type="line"/>
+      <point x="140" y="602"/>
+      <point x="178" y="624"/>
+      <point x="210" y="624" type="curve" smooth="yes"/>
+      <point x="255" y="624"/>
+      <point x="281" y="598"/>
+      <point x="281" y="552" type="curve" smooth="yes"/>
+      <point x="279" y="350" type="line"/>
+      <point x="301" y="350" type="line"/>
+      <point x="301" y="475" type="line"/>
+      <point x="302" y="557" type="line" smooth="yes"/>
+      <point x="302" y="612"/>
+      <point x="270" y="643"/>
+    </contour>
+    <contour>
+      <point x="192" y="504" type="move"/>
+    </contour>
+    <contour>
+      <point x="111" y="799" type="line"/>
+      <point x="89" y="796" type="line"/>
+      <point x="89" y="475" type="line"/>
+      <point x="89" y="350" type="line"/>
+      <point x="111" y="350" type="line"/>
+      <point x="110" y="476" type="line"/>
+    </contour>
+  </outline>
+</glyph>

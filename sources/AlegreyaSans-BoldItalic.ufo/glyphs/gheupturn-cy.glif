@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gheupturn-cy" format="2">
+  <advance width="372"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="69" y="472" type="line"/>
+      <point x="65" y="352" type="line"/>
+      <point x="22" y="26" type="line" smooth="yes"/>
+      <point x="14" y="-35"/>
+      <point x="-16" y="-74"/>
+      <point x="-69" y="-99" type="curve"/>
+      <point x="-71" y="-115" type="line"/>
+      <point x="-15" y="-195" type="line"/>
+      <point x="115" y="-143"/>
+      <point x="182" y="-71"/>
+      <point x="192" y="36" type="curve" smooth="yes"/>
+      <point x="200" y="118" type="line"/>
+      <point x="246" y="472" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="334" type="line"/>
+      <point x="369" y="472" type="line"/>
+      <point x="160" y="472" type="line"/>
+      <point x="145" y="340" type="line"/>
+      <point x="271" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="334" type="line"/>
+      <point x="415" y="590" type="line"/>
+      <point x="299" y="598" type="line"/>
+      <point x="214" y="361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

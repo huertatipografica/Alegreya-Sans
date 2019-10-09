@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <anchor x="239" y="0" name="bottom"/>
+  <anchor x="254" y="637" name="top"/>
+  <outline>
+    <contour>
+      <point x="199.657" y="5.49" type="line"/>
+      <point x="215.941" y="11.206" type="line"/>
+      <point x="204.618" y="-141" type="line"/>
+      <point x="208.059" y="-149" type="line"/>
+      <point x="188.333" y="-151" type="line"/>
+    </contour>
+    <contour>
+      <point x="215.941" y="11.206" type="line"/>
+      <point x="199.657" y="5.49" type="line"/>
+      <point x="237.941" y="484" type="line"/>
+      <point x="252.706" y="489.196" type="line"/>
+    </contour>
+    <contour>
+      <point x="252.706" y="489.196" type="line"/>
+      <point x="237.941" y="484" type="line"/>
+      <point x="251.343" y="649" type="line"/>
+      <point x="245.343" y="658" type="line"/>
+      <point x="266.108" y="659.196" type="line"/>
+    </contour>
+    <component base="s.sc"/>
+  </outline>
+</glyph>

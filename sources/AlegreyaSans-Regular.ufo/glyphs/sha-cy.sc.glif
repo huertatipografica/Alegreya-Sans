@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy.sc" format="2">
+  <advance width="803"/>
+  <anchor x="625" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="693" y="68" type="line"/>
+      <point x="138" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="175" y="157" type="line"/>
+      <point x="179" y="501" type="line"/>
+      <point x="96" y="501" type="line"/>
+      <point x="100" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="440" y="157" type="line"/>
+      <point x="444" y="501" type="line"/>
+      <point x="360" y="501" type="line"/>
+      <point x="364" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="625" y="0" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="704" y="157" type="line"/>
+      <point x="708" y="501" type="line"/>
+      <point x="625" y="501" type="line"/>
+      <point x="628" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>13</integer>
+        <key>height</key>
+        <integer>78</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

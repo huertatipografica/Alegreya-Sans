@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sups" format="2">
+  <advance width="303"/>
+  <anchor x="176" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="294" y="644" type="line"/>
+      <point x="215" y="644" type="line"/>
+      <point x="200" y="612" type="line"/>
+      <point x="124" y="502" type="line"/>
+      <point x="124" y="497" type="line"/>
+      <point x="153" y="441"/>
+      <point x="187" y="386"/>
+      <point x="222" y="334" type="curve"/>
+      <point x="231" y="331" type="line"/>
+      <point x="255" y="334"/>
+      <point x="278" y="336"/>
+      <point x="301" y="341" type="curve"/>
+      <point x="301" y="350" type="line"/>
+      <point x="266" y="401"/>
+      <point x="229" y="452"/>
+      <point x="198" y="504" type="curve"/>
+    </contour>
+    <contour>
+      <point x="124" y="801" type="line"/>
+      <point x="48" y="796" type="line"/>
+      <point x="51" y="464" type="line"/>
+      <point x="47" y="337" type="line"/>
+      <point x="124" y="337" type="line"/>
+      <point x="120" y="471" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n.sups</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>
