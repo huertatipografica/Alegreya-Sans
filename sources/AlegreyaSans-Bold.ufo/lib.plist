@@ -1126,6 +1126,8 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -3272,7 +3274,6 @@
       <string>gdieresis.sc</string>
       <string>gtilde.sc</string>
       <string>spacingGlyph</string>
-      <string>areas</string>
       <string>verticalbar-cy</string>
       <string>prime</string>
       <string>Oslash.BRACKET.100</string>
