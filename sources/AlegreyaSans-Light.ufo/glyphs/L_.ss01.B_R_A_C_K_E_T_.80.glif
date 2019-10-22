@@ -7,26 +7,10 @@
   <anchor x="436" y="637" name="topright"/>
   <outline>
     <contour>
-      <point x="142" y="0" type="line"/>
-      <point x="421" y="0" type="line"/>
-      <point x="421" y="130" type="line"/>
-      <point x="401" y="130" type="line"/>
-      <point x="401" y="20" type="line"/>
-      <point x="142" y="20" type="line"/>
-    </contour>
-    <contour>
       <point x="-40" y="0" type="line"/>
       <point x="496" y="0" type="line"/>
       <point x="496" y="20" type="line"/>
       <point x="-40" y="20" type="line"/>
-    </contour>
-    <contour>
-      <point x="131" y="0" type="line"/>
-      <point x="151" y="0" type="line"/>
-      <point x="151" y="195" type="line"/>
-      <point x="151" y="637" type="line"/>
-      <point x="131" y="637" type="line"/>
-      <point x="131" y="195" type="line"/>
     </contour>
     <contour>
       <point x="-40" y="617" type="line"/>
@@ -34,11 +18,29 @@
       <point x="496" y="637" type="line"/>
       <point x="-40" y="637" type="line"/>
     </contour>
+    <contour>
+      <point x="151" y="637" type="line"/>
+      <point x="131" y="637" type="line"/>
+      <point x="131" y="195" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="151" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="401" y="130" type="line"/>
+      <point x="401" y="20" type="line"/>
+      <point x="142" y="20" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="421" y="130" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
       <string></string>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
     </dict>
   </lib>
 </glyph>

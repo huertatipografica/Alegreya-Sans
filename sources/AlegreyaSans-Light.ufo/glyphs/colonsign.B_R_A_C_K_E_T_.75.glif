@@ -5,12 +5,6 @@
   <anchor x="257" y="491" name="top"/>
   <outline>
     <contour>
-      <point x="240" y="482" type="line"/>
-      <point x="219" y="481" type="line"/>
-      <point x="187" y="6" type="line"/>
-      <point x="207" y="6" type="line"/>
-    </contour>
-    <contour>
       <point x="207" y="6" type="line"/>
       <point x="187" y="6" type="line"/>
       <point x="179" y="-122" type="line"/>
@@ -20,15 +14,9 @@
     <contour>
       <point x="246" y="640" type="line"/>
       <point x="230" y="639" type="line"/>
-      <point x="219" y="481" type="line"/>
-      <point x="240" y="482" type="line"/>
+      <point x="187" y="16" type="line"/>
+      <point x="207" y="16" type="line"/>
       <point x="250" y="635" type="line"/>
-    </contour>
-    <contour>
-      <point x="336" y="483" type="line"/>
-      <point x="315" y="483" type="line"/>
-      <point x="283" y="7" type="line"/>
-      <point x="303" y="8" type="line"/>
     </contour>
     <contour>
       <point x="303" y="8" type="line"/>
@@ -40,8 +28,8 @@
     <contour>
       <point x="342" y="641" type="line"/>
       <point x="326" y="641" type="line"/>
-      <point x="315" y="483" type="line"/>
-      <point x="336" y="483" type="line"/>
+      <point x="283" y="17" type="line"/>
+      <point x="303" y="18" type="line"/>
       <point x="346" y="637" type="line"/>
     </contour>
     <contour>
@@ -80,7 +68,7 @@
       <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
       <string></string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>1,0,1,1</string>
     </dict>
   </lib>
 </glyph>
