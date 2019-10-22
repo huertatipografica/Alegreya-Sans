@@ -31,20 +31,32 @@
       <point x="140" y="151" type="line"/>
     </contour>
     <contour>
-      <point x="73" y="370" type="line"/>
+      <point x="291" y="390" type="line"/>
+      <point x="289" y="370" type="line"/>
       <point x="477" y="370" type="line"/>
       <point x="481" y="387" type="line"/>
       <point x="478" y="390" type="line"/>
-      <point x="74" y="390" type="line"/>
-      <point x="70" y="373" type="line"/>
     </contour>
     <contour>
-      <point x="59" y="256" type="line"/>
+      <point x="273" y="276" type="line"/>
+      <point x="271" y="256" type="line"/>
       <point x="463" y="256" type="line"/>
       <point x="467" y="273" type="line"/>
       <point x="464" y="276" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="256" type="line"/>
+      <point x="273" y="276" type="line"/>
       <point x="60" y="276" type="line"/>
       <point x="56" y="259" type="line"/>
+      <point x="59" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="370" type="line"/>
+      <point x="291" y="390" type="line"/>
+      <point x="74" y="390" type="line"/>
+      <point x="70" y="373" type="line"/>
+      <point x="73" y="370" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +64,7 @@
       <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
       <string></string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>1,0,1,1</string>
     </dict>
   </lib>
 </glyph>
