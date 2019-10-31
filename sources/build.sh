@@ -2,36 +2,36 @@
 set -e
 
 
-echo "Generating Static fonts"
-mkdir -p ../fonts
-fontmake -m Alegreya_Sans.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Alegreya_Sans-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+# echo "Generating Static fonts"
+# mkdir -p ../fonts
+# fontmake -m Alegreya_Sans.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Alegreya_Sans-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
 
 
-fontmake -m Alegreya_Sans.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m Alegreya_Sans-Italic.designspace -i -o otf --output-dir ../fonts/otf/
+# fontmake -m Alegreya_Sans.designspace -i -o otf --output-dir ../fonts/otf/
+# fontmake -m Alegreya_Sans-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -m Alegreya_Sans.designspace -o variable --output-path ../fonts/ttf/AlegreyaSans[wght].ttf
-fontmake -m Alegreya_Sans-Italic.designspace -o variable --output-path ../fonts/ttf/AlegreyaSans-Italic[wght].ttf
+fontmake -m Alegreya_Sans.designspace -o variable --output-path ../fonts/vf/AlegreyaSans[wght].ttf
+fontmake -m Alegreya_Sans-Italic.designspace -o variable --output-path ../fonts/vf/AlegreyaSans-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
 
-echo "Post processing"
-ttfs=$(ls ../fonts/ttf/*.ttf)
-for ttf in $ttfs
-do
-	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
-done
+# echo "Post processing"
+# ttfs=$(ls ../fonts/ttf/*.ttf)
+# for ttf in $ttfs
+# do
+# 	gftools fix-dsig -f $ttf;
+# 	ttfautohint $ttf "$ttf.fix";
+# 	mv "$ttf.fix" $ttf;
+# done
 
-for ttf in $ttfs
-do
-	gftools fix-hinting $ttf;
-	mv "$ttf.fix" $ttf;
-done
+# for ttf in $ttfs
+# do
+# 	gftools fix-hinting $ttf;
+# 	mv "$ttf.fix" $ttf;
+# done
 
 
 vfs=$(ls ../fonts/ttf/*\[wght\].ttf)
