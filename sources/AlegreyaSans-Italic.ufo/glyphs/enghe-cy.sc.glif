@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enghe-cy.sc" format="2">
+  <advance width="708"/>
+  <outline>
+    <contour>
+      <point x="381" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="477" y="157" type="line"/>
+      <point x="523" y="501" type="line"/>
+      <point x="442" y="501" type="line"/>
+      <point x="402" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="148" y="157" type="line"/>
+      <point x="194" y="501" type="line"/>
+      <point x="113" y="501" type="line"/>
+      <point x="73" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="217" type="line"/>
+      <point x="282" y="218" type="line"/>
+      <point x="419" y="217" type="line"/>
+      <point x="427" y="286" type="line"/>
+      <point x="295" y="285" type="line"/>
+      <point x="154" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="501" type="line"/>
+      <point x="475" y="435" type="line"/>
+      <point x="623" y="435" type="line"/>
+      <point x="715" y="433" type="line"/>
+      <point x="727" y="494" type="line"/>
+      <point x="722" y="501" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>13</integer>
+        <key>height</key>
+        <integer>78</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

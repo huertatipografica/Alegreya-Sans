@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy" format="2">
+  <advance width="723"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="391" y="0" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="610" y="210" type="line"/>
+      <point x="675" y="647" type="line"/>
+      <point x="471" y="647" type="line"/>
+      <point x="424" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="516" y="162" type="line"/>
+      <point x="153" y="162" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="0" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="250" y="210" type="line"/>
+      <point x="315" y="647" type="line"/>
+      <point x="111" y="647" type="line"/>
+      <point x="64" y="190" type="line"/>
+    </contour>
+    <component base="descender-cy.case" xOffset="418"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

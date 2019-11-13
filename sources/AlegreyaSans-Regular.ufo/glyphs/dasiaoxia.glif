@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaoxia" format="2">
+  <advance width="328"/>
+  <unicode hex="1FDE"/>
+  <anchor x="165" y="459" name="_top"/>
+  <anchor x="243" y="685" name="_topleft"/>
+  <anchor x="165" y="718" name="top"/>
+  <outline>
+    <component base="dasia" xOffset="-1" yOffset="-5"/>
+    <component base="tonos" xScale="0.9945" xyScale="0.029" yxScale="-0.029" yScale="0.9945" xOffset="128" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

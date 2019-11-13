@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <outline>
+    <contour>
+      <point x="243" y="881" type="line"/>
+      <point x="230" y="877" type="line"/>
+      <point x="199" y="827"/>
+      <point x="166" y="779"/>
+      <point x="133" y="731" type="curve"/>
+      <point x="191" y="686" type="line"/>
+      <point x="206" y="691" type="line"/>
+      <point x="250" y="729"/>
+      <point x="293" y="769"/>
+      <point x="335" y="810" type="curve"/>
+      <point x="332" y="824" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="705" type="line"/>
+      <point x="304" y="705" type="line"/>
+      <point x="283" y="673"/>
+      <point x="244" y="655"/>
+      <point x="197" y="655" type="curve" smooth="yes"/>
+      <point x="145" y="655"/>
+      <point x="104" y="673"/>
+      <point x="82" y="705" type="curve"/>
+      <point x="55" y="705" type="line"/>
+      <point x="15" y="645" type="line"/>
+      <point x="43" y="565"/>
+      <point x="105" y="521"/>
+      <point x="190" y="521" type="curve" smooth="yes"/>
+      <point x="277" y="521"/>
+      <point x="341" y="565"/>
+      <point x="371" y="645" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

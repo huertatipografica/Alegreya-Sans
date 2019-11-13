@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sigma.sups" format="2">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="29" y="318" type="line"/>
+      <point x="96" y="320" type="line"/>
+      <point x="242" y="320" type="line"/>
+      <point x="342" y="319" type="line"/>
+      <point x="362" y="410" type="line"/>
+      <point x="356" y="420" type="line"/>
+      <point x="272" y="414" type="line"/>
+      <point x="174" y="414" type="line"/>
+      <point x="291" y="550" type="line"/>
+      <point x="293" y="565" type="line"/>
+      <point x="224" y="680" type="line"/>
+      <point x="321" y="680" type="line"/>
+      <point x="391" y="676" type="line"/>
+      <point x="410" y="764" type="line"/>
+      <point x="403" y="773" type="line"/>
+      <point x="321" y="772" type="line"/>
+      <point x="153" y="772" type="line"/>
+      <point x="92" y="773" type="line"/>
+      <point x="81" y="686" type="line"/>
+      <point x="165" y="549" type="line"/>
+      <point x="39" y="401" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-70</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

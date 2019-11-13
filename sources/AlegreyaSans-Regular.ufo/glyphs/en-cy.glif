@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="en-cy" format="2">
+  <advance width="537"/>
+  <unicode hex="043D"/>
+  <anchor x="274" y="0" name="bottom"/>
+  <anchor x="373" y="0" name="bottomright"/>
+  <anchor x="274" y="230" name="center"/>
+  <anchor x="274" y="459" name="top"/>
+  <anchor x="35" y="459" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="147" y="263" type="line"/>
+      <point x="147" y="198" type="line"/>
+      <point x="266" y="199" type="line"/>
+      <point x="390" y="199" type="line"/>
+      <point x="390" y="262" type="line"/>
+      <point x="269" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="161" y="201" type="line"/>
+      <point x="164" y="459" type="line"/>
+      <point x="81" y="459" type="line"/>
+      <point x="84" y="194" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="453" y="201" type="line"/>
+      <point x="456" y="459" type="line"/>
+      <point x="374" y="459" type="line"/>
+      <point x="376" y="194" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

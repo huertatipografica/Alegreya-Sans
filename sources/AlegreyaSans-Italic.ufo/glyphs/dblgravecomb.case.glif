@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <anchor x="247" y="459" name="_top"/>
+  <anchor x="192" y="702" name="top"/>
+  <outline>
+    <contour>
+      <point x="363" y="541" type="line"/>
+      <point x="388" y="567" type="line"/>
+      <point x="350" y="607"/>
+      <point x="313" y="648"/>
+      <point x="278" y="690" type="curve"/>
+      <point x="270" y="690" type="line"/>
+      <point x="237" y="660" type="line"/>
+      <point x="237" y="653" type="line"/>
+      <point x="275" y="615"/>
+      <point x="315" y="578"/>
+      <point x="355" y="542" type="curve"/>
+    </contour>
+    <contour>
+      <point x="225" y="541" type="line"/>
+      <point x="250" y="567" type="line"/>
+      <point x="212" y="607"/>
+      <point x="177" y="646"/>
+      <point x="140" y="690" type="curve"/>
+      <point x="132" y="690" type="line"/>
+      <point x="98" y="660" type="line"/>
+      <point x="98" y="653" type="line"/>
+      <point x="137" y="615"/>
+      <point x="177" y="578"/>
+      <point x="217" y="542" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>394</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

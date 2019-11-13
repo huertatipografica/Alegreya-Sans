@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eta" format="2">
+  <outline>
+    <contour>
+      <point x="441" y="300" type="curve"/>
+      <point x="436" y="-185" type="line"/>
+      <point x="521" y="-185" type="line"/>
+      <point x="518" y="200" type="line"/>
+      <point x="520" y="330" type="line" smooth="yes"/>
+      <point x="521" y="416"/>
+      <point x="461" y="465"/>
+      <point x="371" y="465" type="curve"/>
+      <point x="326" y="456"/>
+      <point x="282" y="431"/>
+      <point x="238" y="385" type="curve"/>
+      <point x="225" y="385" type="line"/>
+      <point x="225" y="304" type="line"/>
+      <point x="267" y="357"/>
+      <point x="321" y="394"/>
+      <point x="361" y="394" type="curve" smooth="yes"/>
+      <point x="424" y="394"/>
+      <point x="441" y="362"/>
+    </contour>
+    <contour>
+      <point x="120" y="395" type="curve" smooth="yes"/>
+      <point x="120" y="395" type="line" smooth="yes"/>
+      <point x="145" y="395"/>
+      <point x="156" y="381"/>
+      <point x="156" y="344" type="curve" smooth="yes"/>
+      <point x="157" y="194" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="232" y="201" type="line"/>
+      <point x="234" y="372" type="line" smooth="yes"/>
+      <point x="234" y="434"/>
+      <point x="203" y="464"/>
+      <point x="144" y="464" type="curve"/>
+      <point x="124" y="462"/>
+      <point x="104" y="455"/>
+      <point x="87" y="445" type="curve"/>
+      <point x="79" y="397" type="line"/>
+      <point x="87" y="390" type="line"/>
+      <point x="103" y="394"/>
+      <point x="111" y="395"/>
+    </contour>
+  </outline>
+</glyph>

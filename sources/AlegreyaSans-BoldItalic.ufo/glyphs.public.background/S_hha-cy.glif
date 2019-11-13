@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shha-cy" format="2">
+  <outline>
+    <contour>
+      <point x="412" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="605" y="243" type="line"/>
+      <point x="605" y="405"/>
+      <point x="544" y="469"/>
+      <point x="388" y="469" type="curve"/>
+      <point x="340" y="452"/>
+      <point x="298" y="427"/>
+      <point x="265" y="395" type="curve"/>
+      <point x="237" y="395" type="line"/>
+      <point x="240" y="266" type="line"/>
+      <point x="283" y="289"/>
+      <point x="319" y="300"/>
+      <point x="348" y="300" type="curve" smooth="yes"/>
+      <point x="396" y="300"/>
+      <point x="422" y="269"/>
+      <point x="422" y="209" type="curve"/>
+    </contour>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="250" y="210" type="line"/>
+      <point x="261" y="647" type="line"/>
+      <point x="57" y="647" type="line"/>
+      <point x="67" y="190" type="line"/>
+    </contour>
+  </outline>
+</glyph>

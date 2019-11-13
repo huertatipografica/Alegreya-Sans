@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xi.sups" format="2">
+  <advance width="393"/>
+  <outline>
+    <contour>
+      <point x="70" y="338" type="line"/>
+      <point x="350" y="338" type="line"/>
+      <point x="365" y="401" type="line"/>
+      <point x="360" y="408" type="line"/>
+      <point x="216" y="405" type="line"/>
+      <point x="79" y="408" type="line"/>
+      <point x="73" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="519" type="line"/>
+      <point x="231" y="520" type="line"/>
+      <point x="340" y="519" type="line"/>
+      <point x="354" y="582" type="line"/>
+      <point x="350" y="589" type="line"/>
+      <point x="244" y="587" type="line"/>
+      <point x="131" y="589" type="line"/>
+      <point x="116" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="692" type="line"/>
+      <point x="256" y="695" type="line"/>
+      <point x="393" y="692" type="line"/>
+      <point x="408" y="756" type="line"/>
+      <point x="404" y="762" type="line"/>
+      <point x="124" y="762" type="line"/>
+      <point x="109" y="699" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>66</integer>
+        <key>verticalShift</key>
+        <integer>338</integer>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zeta.sups" format="2">
+  <advance width="420"/>
+  <anchor x="210" y="320" name="bottom"/>
+  <anchor x="210" y="773" name="top"/>
+  <outline>
+    <contour>
+      <point x="391" y="774" type="line"/>
+      <point x="337" y="773" type="line"/>
+      <point x="140" y="773" type="line"/>
+      <point x="33" y="775" type="line"/>
+      <point x="23" y="668" type="line"/>
+      <point x="28" y="662" type="line"/>
+      <point x="114" y="669" type="line"/>
+      <point x="229" y="669" type="line"/>
+      <point x="25" y="416" type="line"/>
+      <point x="25" y="316" type="line"/>
+      <point x="97" y="320" type="line"/>
+      <point x="264" y="320" type="line"/>
+      <point x="390" y="316" type="line"/>
+      <point x="402" y="424" type="line"/>
+      <point x="397" y="430" type="line"/>
+      <point x="310" y="424" type="line"/>
+      <point x="191" y="424" type="line"/>
+      <point x="391" y="672" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>5</integer>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-52</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

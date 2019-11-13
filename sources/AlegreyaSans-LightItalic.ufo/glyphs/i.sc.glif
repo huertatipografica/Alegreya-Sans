@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.sc" format="2">
+  <advance width="233"/>
+  <anchor x="87" y="0" name="bottom"/>
+  <anchor x="98" y="0" name="ogonek"/>
+  <anchor x="147" y="491" name="top"/>
+  <outline>
+    <contour>
+      <point x="160" y="491" type="line"/>
+      <point x="140" y="491" type="line"/>
+      <point x="98" y="150" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="118" y="151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

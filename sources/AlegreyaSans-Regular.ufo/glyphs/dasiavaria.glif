@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiavaria" format="2">
+  <advance width="329"/>
+  <unicode hex="1FDD"/>
+  <anchor x="164" y="459" name="_top"/>
+  <anchor x="221" y="694" name="_topleft"/>
+  <anchor x="164" y="717" name="top"/>
+  <outline>
+    <component base="dasia" xOffset="-1" yOffset="-5"/>
+    <component base="varia" xScale="0.998" xyScale="-0.0378" yxScale="0.0378" yScale="0.998" xOffset="95" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

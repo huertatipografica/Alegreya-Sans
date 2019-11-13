@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="che-cy" format="2">
+  <advance width="521"/>
+  <unicode hex="0447"/>
+  <anchor x="280" y="0" name="bottomright"/>
+  <anchor x="247" y="472" name="top"/>
+  <outline>
+    <contour>
+      <point x="301" y="286" type="line"/>
+      <point x="280" y="273"/>
+      <point x="261" y="267"/>
+      <point x="246" y="267" type="curve" smooth="yes"/>
+      <point x="222" y="267"/>
+      <point x="207" y="283"/>
+      <point x="207" y="314" type="curve"/>
+      <point x="211" y="472" type="line"/>
+      <point x="18" y="472" type="line"/>
+      <point x="23" y="275" type="line" smooth="yes"/>
+      <point x="26" y="171"/>
+      <point x="78" y="124"/>
+      <point x="193" y="124" type="curve"/>
+      <point x="226" y="137"/>
+      <point x="254" y="155"/>
+      <point x="278" y="177" type="curve"/>
+      <point x="300" y="177" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="467" y="210" type="line"/>
+      <point x="476" y="472" type="line"/>
+      <point x="282" y="472" type="line"/>
+      <point x="289" y="190" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>1</integer>
+        <key>height</key>
+        <real>72.6</real>
+        <key>weight</key>
+        <integer>-24</integer>
+        <key>width</key>
+        <integer>74</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

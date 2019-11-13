@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palochka-cy" format="2">
+  <advance width="288"/>
+  <unicode hex="04CF"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="242" y="0" name="ogonek"/>
+  <anchor x="145" y="472" name="top"/>
+  <outline>
+    <component base="l" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

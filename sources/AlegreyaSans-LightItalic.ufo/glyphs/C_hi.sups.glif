@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chi.sups" format="2">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="390" y="756" type="line"/>
+      <point x="364" y="756" type="line"/>
+      <point x="346" y="729" type="line"/>
+      <point x="223" y="575" type="line"/>
+      <point x="138" y="732" type="line"/>
+      <point x="127" y="756" type="line"/>
+      <point x="101" y="756" type="line"/>
+      <point x="207" y="559" type="line"/>
+      <point x="40" y="348" type="line"/>
+      <point x="65" y="348" type="line"/>
+      <point x="83" y="373" type="line"/>
+      <point x="218" y="543" type="line"/>
+      <point x="311" y="374" type="line"/>
+      <point x="323" y="348" type="line"/>
+      <point x="348" y="348" type="line"/>
+      <point x="235" y="559" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>348</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

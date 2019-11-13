@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilivaria" format="2">
+  <advance width="325"/>
+  <unicode hex="1FCD"/>
+  <guideline x="272" y="714" angle="0"/>
+  <guideline x="269" y="502" angle="0"/>
+  <anchor x="206" y="459" name="_top"/>
+  <anchor x="317" y="689" name="_topleft"/>
+  <anchor x="238" y="717" name="top"/>
+  <outline>
+    <component base="psili"/>
+    <component base="varia" xScale="0.9982" xyScale="-0.0586" yxScale="0.0586" yScale="0.9982" xOffset="96" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

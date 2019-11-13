@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonos" format="2">
+  <advance width="223"/>
+  <unicode hex="0384"/>
+  <anchor x="82" y="459" name="_top"/>
+  <anchor x="138" y="687" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="109" y="708" type="line"/>
+      <point x="90" y="647"/>
+      <point x="71" y="593"/>
+      <point x="50" y="540" type="curve"/>
+      <point x="93" y="522" type="line"/>
+      <point x="102" y="526" type="line"/>
+      <point x="126" y="578"/>
+      <point x="149" y="627"/>
+      <point x="174" y="682" type="curve"/>
+      <point x="171" y="692" type="line"/>
+      <point x="118" y="712" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

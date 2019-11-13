@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psiliperispomeni" format="2">
+  <advance width="284"/>
+  <unicode hex="1FCF"/>
+  <anchor x="145" y="459" name="_top"/>
+  <anchor x="145" y="727" name="top"/>
+  <outline>
+    <contour>
+      <point x="127" y="501" type="line"/>
+      <point x="200" y="543"/>
+      <point x="206" y="608"/>
+      <point x="139" y="623" type="curve"/>
+      <point x="126" y="617"/>
+      <point x="114" y="609"/>
+      <point x="100" y="599" type="curve"/>
+      <point x="101" y="593" type="line"/>
+      <point x="141" y="579"/>
+      <point x="140" y="555"/>
+      <point x="99" y="519" type="curve"/>
+      <point x="100" y="514" type="line"/>
+    </contour>
+    <contour>
+      <point x="241.907" y="721.423" type="line"/>
+      <point x="235.132" y="721.423" type="line"/>
+      <point x="217.347" y="699.404"/>
+      <point x="205.49" y="681.619"/>
+      <point x="192.787" y="681.619" type="curve"/>
+      <point x="174.155" y="681.619"/>
+      <point x="113.178" y="707.873"/>
+      <point x="81.843" y="712.954" type="curve"/>
+      <point x="74.221" y="709.566" type="line"/>
+      <point x="27.641" y="650.283" type="line"/>
+      <point x="27.641" y="643.508" type="line"/>
+      <point x="49.661" y="620.642" type="line"/>
+      <point x="55.589" y="620.642" type="line"/>
+      <point x="74.221" y="641.814"/>
+      <point x="85.231" y="660.446"/>
+      <point x="98.781" y="660.446" type="curve"/>
+      <point x="116.566" y="660.446"/>
+      <point x="177.543" y="633.345"/>
+      <point x="209.725" y="629.111" type="curve"/>
+      <point x="216.5" y="632.498" type="line"/>
+      <point x="263.08" y="692.628" type="line"/>
+      <point x="263.08" y="699.404" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

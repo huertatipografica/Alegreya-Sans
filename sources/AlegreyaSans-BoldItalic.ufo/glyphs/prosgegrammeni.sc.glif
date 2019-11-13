@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prosgegrammeni.sc" format="2">
+  <advance width="258"/>
+  <anchor x="100" y="0" name="bottom"/>
+  <anchor x="192" y="7" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="243" y="476" type="line"/>
+      <point x="65" y="465" type="line"/>
+      <point x="61" y="352" type="line"/>
+      <point x="14" y="-4" type="line"/>
+      <point x="192" y="7" type="line"/>
+      <point x="197" y="116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

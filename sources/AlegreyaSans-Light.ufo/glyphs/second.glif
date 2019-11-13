@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second" format="2">
+  <advance width="213"/>
+  <unicode hex="2033"/>
+  <outline>
+    <contour>
+      <point x="164" y="635" type="line"/>
+      <point x="147" y="633" type="line"/>
+      <point x="135" y="489" type="line"/>
+      <point x="138" y="485" type="line"/>
+      <point x="155" y="487" type="line"/>
+      <point x="167" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="635" type="line"/>
+      <point x="59" y="633" type="line"/>
+      <point x="47" y="489" type="line"/>
+      <point x="50" y="485" type="line"/>
+      <point x="67" y="487" type="line"/>
+      <point x="79" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

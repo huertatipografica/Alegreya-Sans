@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="530"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="276" y="151" type="line"/>
+      <point x="276" y="371" type="line"/>
+      <point x="256" y="371" type="line"/>
+      <point x="256" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="470" type="line"/>
+      <point x="442" y="470" type="line"/>
+      <point x="447" y="486" type="line"/>
+      <point x="443" y="491" type="line"/>
+      <point x="88" y="491" type="line"/>
+      <point x="83" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="364" type="line"/>
+      <point x="442" y="364" type="line"/>
+      <point x="447" y="380" type="line"/>
+      <point x="443" y="385" type="line"/>
+      <point x="88" y="385" type="line"/>
+      <point x="83" y="369" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

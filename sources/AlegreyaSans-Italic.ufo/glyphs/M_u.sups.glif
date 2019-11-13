@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mu.sups" format="2">
+  <advance width="546"/>
+  <anchor x="285" y="338" name="bottom"/>
+  <anchor x="337" y="762" name="top"/>
+  <outline>
+    <contour>
+      <point x="527" y="762" type="line"/>
+      <point x="438" y="762" type="line"/>
+      <point x="411" y="700" type="line"/>
+      <point x="305" y="486" type="line"/>
+      <point x="299" y="486" type="line"/>
+      <point x="253" y="699" type="line"/>
+      <point x="242" y="762" type="line"/>
+      <point x="152" y="762" type="line"/>
+      <point x="56" y="338" type="line"/>
+      <point x="122" y="338" type="line"/>
+      <point x="149" y="474" type="line"/>
+      <point x="188" y="645" type="line"/>
+      <point x="194" y="645" type="line"/>
+      <point x="255" y="384" type="line"/>
+      <point x="317" y="384" type="line"/>
+      <point x="451" y="645" type="line"/>
+      <point x="457" y="645" type="line"/>
+      <point x="452" y="467" type="line"/>
+      <point x="443" y="338" type="line"/>
+      <point x="513" y="338" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>66</integer>
+        <key>verticalShift</key>
+        <integer>338</integer>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

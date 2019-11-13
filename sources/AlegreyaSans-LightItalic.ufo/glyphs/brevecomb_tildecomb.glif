@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="235" y="452" name="_top"/>
+  <anchor x="279" y="807" name="top"/>
+  <outline>
+    <component base="brevecomb.case" xOffset="-4" yOffset="-20"/>
+    <component base="tildecomb.case" xOffset="6" yOffset="88"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>375</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

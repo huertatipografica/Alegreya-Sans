@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iu-cy.sc" format="2">
+  <advance width="792"/>
+  <outline>
+    <contour>
+      <point x="239" y="513" type="line"/>
+      <point x="51" y="513" type="line"/>
+      <point x="60" y="150" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="229" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="329" type="line"/>
+      <point x="186" y="177" type="line"/>
+      <point x="253" y="181" type="line"/>
+      <point x="342" y="179" type="line"/>
+      <point x="342" y="328" type="line"/>
+      <point x="261" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="541" y="524" type="curve" smooth="yes"/>
+      <point x="376" y="524"/>
+      <point x="282" y="422"/>
+      <point x="282" y="246" type="curve" smooth="yes"/>
+      <point x="282" y="84"/>
+      <point x="367" y="-10"/>
+      <point x="514" y="-10" type="curve" smooth="yes"/>
+      <point x="678" y="-10"/>
+      <point x="773" y="92"/>
+      <point x="773" y="271" type="curve" smooth="yes"/>
+      <point x="773" y="431"/>
+      <point x="687" y="524"/>
+    </contour>
+    <contour>
+      <point x="524" y="377" type="curve" smooth="yes"/>
+      <point x="571" y="377"/>
+      <point x="579" y="355"/>
+      <point x="579" y="230" type="curve" smooth="yes"/>
+      <point x="579" y="138"/>
+      <point x="574" y="125"/>
+      <point x="531" y="125" type="curve" smooth="yes"/>
+      <point x="483" y="125"/>
+      <point x="476" y="148"/>
+      <point x="476" y="271" type="curve" smooth="yes"/>
+      <point x="476" y="363"/>
+      <point x="482" y="377"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>7</integer>
+        <key>height</key>
+        <real>79.1</real>
+        <key>weight</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

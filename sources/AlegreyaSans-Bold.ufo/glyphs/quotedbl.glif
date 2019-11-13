@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="443"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="204" y="646" type="line"/>
+      <point x="53" y="637" type="line"/>
+      <point x="63" y="369" type="line"/>
+      <point x="78" y="358" type="line"/>
+      <point x="166" y="372" type="line"/>
+      <point x="214" y="634" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="646" type="line"/>
+      <point x="246" y="637" type="line"/>
+      <point x="256" y="369" type="line"/>
+      <point x="271" y="358" type="line"/>
+      <point x="359" y="372" type="line"/>
+      <point x="407" y="634" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

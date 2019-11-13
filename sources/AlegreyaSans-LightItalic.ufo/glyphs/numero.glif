@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="830"/>
+  <unicode hex="2116"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="314" y="491" name="top"/>
+  <outline>
+    <contour>
+      <point x="494" y="492" type="line"/>
+      <point x="474" y="490" type="line"/>
+      <point x="417" y="40" type="line"/>
+      <point x="413" y="40" type="line"/>
+      <point x="161" y="491" type="line"/>
+      <point x="141" y="491" type="line"/>
+      <point x="97" y="146" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="117" y="154" type="line"/>
+      <point x="156" y="451" type="line"/>
+      <point x="158" y="451" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="449" y="137" type="line"/>
+    </contour>
+    <contour>
+      <point x="739" y="511" type="line"/>
+      <point x="739" y="511" type="line"/>
+      <point x="654" y="509"/>
+      <point x="603" y="422"/>
+      <point x="603" y="306" type="curve" smooth="yes"/>
+      <point x="603" y="245"/>
+      <point x="624" y="216"/>
+      <point x="670" y="213" type="curve"/>
+      <point x="674" y="213" type="line"/>
+      <point x="758" y="218"/>
+      <point x="808" y="303"/>
+      <point x="808" y="420" type="curve" smooth="yes"/>
+      <point x="808" y="479"/>
+      <point x="788" y="507"/>
+      <point x="742" y="511" type="curve"/>
+    </contour>
+    <contour>
+      <point x="737" y="493" type="curve" smooth="yes"/>
+      <point x="773" y="493"/>
+      <point x="788" y="469"/>
+      <point x="788" y="417" type="curve" smooth="yes"/>
+      <point x="788" y="310"/>
+      <point x="743" y="231"/>
+      <point x="675" y="231" type="curve" smooth="yes"/>
+      <point x="639" y="231"/>
+      <point x="623" y="255"/>
+      <point x="623" y="308" type="curve" smooth="yes"/>
+      <point x="623" y="414"/>
+      <point x="668" y="493"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=n.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o.sups</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

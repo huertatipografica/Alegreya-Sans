@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e-cy.sc" format="2">
+  <advance width="486"/>
+  <outline>
+    <contour>
+      <point x="373" y="183" type="line"/>
+      <point x="398" y="317" type="line"/>
+      <point x="391" y="329" type="line"/>
+      <point x="295" y="327" type="line"/>
+      <point x="156" y="327" type="line"/>
+      <point x="141" y="196" type="line"/>
+      <point x="140" y="186" type="line"/>
+      <point x="267" y="186" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="523" type="curve" smooth="yes"/>
+      <point x="154" y="523"/>
+      <point x="42" y="432"/>
+      <point x="19" y="252" type="curve" smooth="yes"/>
+      <point x="-3" y="75"/>
+      <point x="81" y="-9"/>
+      <point x="278" y="-10" type="curve" smooth="yes"/>
+      <point x="319" y="-10"/>
+      <point x="365" y="-8"/>
+      <point x="413" y="-2" type="curve"/>
+      <point x="441" y="142" type="line"/>
+      <point x="424" y="151" type="line"/>
+      <point x="368" y="146"/>
+      <point x="330" y="144"/>
+      <point x="298" y="144" type="curve" smooth="yes"/>
+      <point x="217" y="144"/>
+      <point x="202" y="164"/>
+      <point x="214" y="257" type="curve" smooth="yes"/>
+      <point x="226" y="347"/>
+      <point x="252" y="373"/>
+      <point x="329" y="373" type="curve" smooth="yes"/>
+      <point x="363" y="373"/>
+      <point x="412" y="368"/>
+      <point x="444" y="356" type="curve"/>
+      <point x="456" y="362" type="line"/>
+      <point x="501" y="505" type="line"/>
+      <point x="455" y="517"/>
+      <point x="405" y="523"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>7</integer>
+        <key>height</key>
+        <real>79.1</real>
+        <key>weight</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

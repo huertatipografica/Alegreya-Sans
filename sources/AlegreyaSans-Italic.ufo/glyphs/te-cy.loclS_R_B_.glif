@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy.loclSRB" format="2">
+  <advance width="707"/>
+  <anchor x="613" y="3" name="bottomright"/>
+  <outline>
+    <component base="sha-cy"/>
+    <component base="macroncomb" xScale="1.3942" yxScale="-0.0707" xOffset="113"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

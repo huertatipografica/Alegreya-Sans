@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gamma" format="2">
+  <advance width="425"/>
+  <unicode hex="0393"/>
+  <anchor x="62" y="0" name="bottomright"/>
+  <anchor x="167" y="312" name="center"/>
+  <outline>
+    <contour>
+      <point x="227" y="641" type="line"/>
+      <point x="141" y="641" type="line"/>
+      <point x="90" y="193" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="170" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="466" y="641" type="line"/>
+      <point x="199" y="641" type="line"/>
+      <point x="189" y="579" type="line"/>
+      <point x="191" y="572" type="line"/>
+      <point x="321" y="572" type="line"/>
+      <point x="456" y="570" type="line"/>
+      <point x="471" y="633" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

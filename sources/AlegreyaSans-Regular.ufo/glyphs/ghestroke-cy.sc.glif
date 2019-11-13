@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy.sc" format="2">
+  <advance width="423"/>
+  <outline>
+    <component base="ge-cy.sc" xOffset="23"/>
+    <component base="strokeshortcomb" xScale="0.8563" xOffset="-33" yOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>13</integer>
+        <key>height</key>
+        <integer>78</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

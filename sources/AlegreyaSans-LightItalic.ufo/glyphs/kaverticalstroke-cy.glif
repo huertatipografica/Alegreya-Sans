@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="413"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="345" y="-7" type="line"/>
+      <point x="351" y="-5"/>
+      <point x="356" y="-2"/>
+      <point x="360" y="2" type="curve"/>
+      <point x="360" y="5" type="line"/>
+      <point x="311" y="78"/>
+      <point x="263" y="158"/>
+      <point x="219" y="240" type="curve"/>
+      <point x="402" y="452" type="line"/>
+      <point x="373" y="452" type="line"/>
+      <point x="342" y="418" type="line"/>
+      <point x="195" y="244" type="line"/>
+      <point x="194" y="238" type="line"/>
+      <point x="242" y="154"/>
+      <point x="290" y="72"/>
+      <point x="342" y="-6" type="curve"/>
+    </contour>
+    <contour>
+      <point x="57" y="-4" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="91" y="106" type="line"/>
+      <point x="137" y="456" type="line"/>
+      <point x="112" y="452" type="line"/>
+      <point x="106" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="230" type="line"/>
+      <point x="206" y="230" type="line"/>
+      <point x="209" y="250" type="line"/>
+      <point x="100" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="137" y="117" type="line"/>
+      <point x="155" y="118" type="line"/>
+      <point x="183" y="353" type="line"/>
+      <point x="181" y="355" type="line"/>
+      <point x="164" y="354" type="line"/>
+      <point x="135" y="119" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

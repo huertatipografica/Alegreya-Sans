@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance width="644"/>
+  <unicode hex="03A0"/>
+  <anchor x="442" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="442" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="549" y="200" type="line"/>
+      <point x="607" y="641" type="line"/>
+      <point x="520" y="641" type="line"/>
+      <point x="469" y="193" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="168" y="200" type="line"/>
+      <point x="225" y="641" type="line"/>
+      <point x="139" y="641" type="line"/>
+      <point x="88" y="193" type="line"/>
+    </contour>
+    <contour>
+      <point x="202" y="568" type="line"/>
+      <point x="355" y="571" type="line"/>
+      <point x="526" y="569" type="line"/>
+      <point x="534" y="641" type="line"/>
+      <point x="210" y="641" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=I</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

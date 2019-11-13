@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sups" format="2">
+  <advance width="392"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="382" y="646" type="line"/>
+      <point x="241" y="646" type="line"/>
+      <point x="225" y="608" type="line"/>
+      <point x="161" y="499" type="line"/>
+      <point x="161" y="491" type="line"/>
+      <point x="182" y="432"/>
+      <point x="210" y="377"/>
+      <point x="243" y="321" type="curve"/>
+      <point x="257" y="313" type="line"/>
+      <point x="301" y="318"/>
+      <point x="343" y="322"/>
+      <point x="387" y="331" type="curve"/>
+      <point x="388" y="345" type="line"/>
+      <point x="354" y="398"/>
+      <point x="321" y="450"/>
+      <point x="293" y="503" type="curve"/>
+    </contour>
+    <contour>
+      <point x="172" y="804" type="line"/>
+      <point x="35" y="795" type="line"/>
+      <point x="39" y="453" type="line"/>
+      <point x="33" y="322" type="line"/>
+      <point x="172" y="322" type="line"/>
+      <point x="166" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n.sups</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=n.sups</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

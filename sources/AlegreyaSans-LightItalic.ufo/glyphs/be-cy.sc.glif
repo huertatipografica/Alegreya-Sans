@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="be-cy.sc" format="2">
+  <advance width="435"/>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="302" y="0"/>
+      <point x="378" y="58"/>
+      <point x="378" y="162" type="curve" smooth="yes"/>
+      <point x="378" y="232"/>
+      <point x="331" y="272"/>
+      <point x="241" y="272" type="curve" smooth="yes"/>
+      <point x="112" y="272" type="line"/>
+      <point x="110" y="253" type="line"/>
+      <point x="235" y="253" type="line" smooth="yes"/>
+      <point x="316" y="253"/>
+      <point x="356" y="219"/>
+      <point x="356" y="158" type="curve" smooth="yes"/>
+      <point x="356" y="75"/>
+      <point x="299" y="27"/>
+      <point x="192" y="19" type="curve"/>
+      <point x="80" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="0" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="108" y="151" type="line"/>
+      <point x="150" y="491" type="line"/>
+      <point x="129" y="491" type="line"/>
+      <point x="88" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="471" type="line"/>
+      <point x="271" y="471" type="line"/>
+      <point x="395" y="471" type="line"/>
+      <point x="400" y="487" type="line"/>
+      <point x="397" y="491" type="line"/>
+      <point x="142" y="491" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>19</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

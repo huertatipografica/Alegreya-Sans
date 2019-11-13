@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="495"/>
+  <unicode hex="0127"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="244" y="226" name="center"/>
+  <anchor x="104" y="640" name="top"/>
+  <anchor x="199" y="452" name="topright"/>
+  <outline>
+    <contour>
+      <point x="383" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="404" y="194" type="line"/>
+      <point x="405" y="321" type="line" smooth="yes"/>
+      <point x="406" y="407"/>
+      <point x="358" y="457"/>
+      <point x="274" y="457" type="curve" smooth="yes"/>
+      <point x="224" y="457"/>
+      <point x="167" y="427"/>
+      <point x="118" y="374" type="curve"/>
+      <point x="112" y="374" type="line"/>
+      <point x="113" y="340" type="line"/>
+      <point x="163" y="401"/>
+      <point x="222" y="437"/>
+      <point x="274" y="437" type="curve" smooth="yes"/>
+      <point x="344" y="437"/>
+      <point x="385" y="394"/>
+      <point x="385" y="320" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="114" y="195" type="line"/>
+      <point x="114" y="702" type="line"/>
+      <point x="94" y="698" type="line"/>
+      <point x="94" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="556" type="line"/>
+      <point x="276" y="556" type="line"/>
+      <point x="278" y="573" type="line"/>
+      <point x="275" y="576" type="line"/>
+      <point x="21" y="576" type="line"/>
+      <point x="19" y="559" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

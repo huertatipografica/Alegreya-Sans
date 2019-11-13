@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis-cy.sc" format="2">
+  <advance width="529"/>
+  <outline>
+    <component base="a-cy.sc"/>
+    <component base="dieresiscomb" xOffset="80" yOffset="41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

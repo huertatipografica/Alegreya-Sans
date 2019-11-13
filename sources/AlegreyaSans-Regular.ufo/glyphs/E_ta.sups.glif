@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eta.sups" format="2">
+  <advance width="475"/>
+  <anchor x="238" y="338" name="bottom"/>
+  <anchor x="337" y="338" name="bottomright"/>
+  <anchor x="238" y="550" name="center"/>
+  <anchor x="238" y="762" name="top"/>
+  <anchor x="-17" y="762" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="419" y="762" type="line"/>
+      <point x="337" y="762" type="line"/>
+      <point x="341" y="465" type="line"/>
+      <point x="337" y="338" type="line"/>
+      <point x="418" y="338" type="line"/>
+      <point x="415" y="472" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="762" type="line"/>
+      <point x="61" y="762" type="line"/>
+      <point x="65" y="465" type="line"/>
+      <point x="61" y="338" type="line"/>
+      <point x="141" y="338" type="line"/>
+      <point x="138" y="472" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="584" type="line"/>
+      <point x="129" y="517" type="line"/>
+      <point x="235" y="518" type="line"/>
+      <point x="348" y="518" type="line"/>
+      <point x="348" y="584" type="line"/>
+      <point x="241" y="583" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>66</integer>
+        <key>verticalShift</key>
+        <integer>338</integer>
+        <key>weight</key>
+        <integer>-5</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softsign-cy.cond.sc" format="2">
+  <advance width="415"/>
+  <outline>
+    <contour>
+      <point x="108" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="336" y="0"/>
+      <point x="411" y="61"/>
+      <point x="411" y="166" type="curve" smooth="yes"/>
+      <point x="411" y="252"/>
+      <point x="359" y="300"/>
+      <point x="262" y="300" type="curve" smooth="yes"/>
+      <point x="104" y="300" type="line"/>
+      <point x="105" y="239" type="line"/>
+      <point x="235" y="241" type="line" smooth="yes"/>
+      <point x="294" y="242"/>
+      <point x="326" y="209"/>
+      <point x="326" y="155" type="curve" smooth="yes"/>
+      <point x="326" y="101"/>
+      <point x="293" y="67"/>
+      <point x="234" y="59" type="curve"/>
+      <point x="108" y="64" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="157" y="157" type="line"/>
+      <point x="161" y="501" type="line"/>
+      <point x="78" y="501" type="line"/>
+      <point x="82" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>13</integer>
+        <key>height</key>
+        <integer>78</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

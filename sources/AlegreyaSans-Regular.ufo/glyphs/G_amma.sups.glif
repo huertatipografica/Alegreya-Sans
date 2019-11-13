@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gamma.sups" format="2">
+  <advance width="315"/>
+  <anchor x="132" y="541" name="center"/>
+  <outline>
+    <contour>
+      <point x="143" y="762" type="line"/>
+      <point x="61" y="762" type="line"/>
+      <point x="65" y="465" type="line"/>
+      <point x="61" y="338" type="line"/>
+      <point x="142" y="338" type="line"/>
+      <point x="139" y="472" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="762" type="line"/>
+      <point x="120" y="762" type="line"/>
+      <point x="119" y="704" type="line"/>
+      <point x="120" y="699" type="line"/>
+      <point x="210" y="699" type="line"/>
+      <point x="308" y="697" type="line"/>
+      <point x="313" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>66</integer>
+        <key>verticalShift</key>
+        <integer>338</integer>
+        <key>weight</key>
+        <integer>-5</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

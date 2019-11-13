@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilivaria" format="2">
+  <anchor x="155" y="442" name="_top"/>
+  <anchor x="150" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="226" y="498" type="line"/>
+      <point x="233" y="499" type="line"/>
+      <point x="218" y="565"/>
+      <point x="210" y="623"/>
+      <point x="201" y="689" type="curve"/>
+      <point x="193" y="688" type="line"/>
+      <point x="164" y="676" type="line"/>
+      <point x="162" y="668" type="line"/>
+      <point x="223" y="498" type="line"/>
+    </contour>
+    <component base="psili" xScale="0.9526" xyScale="0.0329" yxScale="-0.0329" yScale="0.9526" xOffset="-73" yOffset="10"/>
+  </outline>
+</glyph>

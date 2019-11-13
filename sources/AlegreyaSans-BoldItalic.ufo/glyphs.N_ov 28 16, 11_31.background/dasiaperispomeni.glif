@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaperispomeni" format="2">
+  <anchor x="139" y="472" name="_top"/>
+  <anchor x="139" y="851" name="top"/>
+  <outline>
+    <contour>
+      <point x="150" y="523" type="curve"/>
+      <point x="207" y="544" type="line"/>
+      <point x="209" y="553" type="line"/>
+      <point x="175" y="595"/>
+      <point x="178" y="617"/>
+      <point x="209" y="646" type="curve"/>
+      <point x="209" y="656" type="line"/>
+      <point x="174" y="677"/>
+      <point x="142" y="691"/>
+      <point x="113" y="700" type="curve"/>
+      <point x="45" y="655"/>
+      <point x="62" y="578"/>
+    </contour>
+    <component base="perispomeni" xScale="0.8152" yScale="0.8152" xOffset="-2" yOffset="247"/>
+  </outline>
+</glyph>

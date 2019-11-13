@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghemiddlehook-cy.sc" format="2">
+  <advance width="527"/>
+  <outline>
+    <contour>
+      <point x="334" y="-157" type="line"/>
+      <point x="458" y="-83"/>
+      <point x="508" y="4"/>
+      <point x="508" y="149" type="curve" smooth="yes"/>
+      <point x="508" y="291"/>
+      <point x="460" y="345"/>
+      <point x="333" y="345" type="curve"/>
+      <point x="297" y="331"/>
+      <point x="265" y="311"/>
+      <point x="241" y="287" type="curve"/>
+      <point x="218" y="287" type="line"/>
+      <point x="221" y="178" type="line"/>
+      <point x="250" y="187"/>
+      <point x="271" y="190"/>
+      <point x="292" y="190" type="curve" smooth="yes"/>
+      <point x="328" y="190"/>
+      <point x="340" y="174"/>
+      <point x="340" y="118" type="curve" smooth="yes"/>
+      <point x="340" y="32"/>
+      <point x="315" y="-32"/>
+      <point x="267" y="-70" type="curve"/>
+      <point x="267" y="-84" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="229" y="168" type="line"/>
+      <point x="239" y="513" type="line"/>
+      <point x="51" y="513" type="line"/>
+      <point x="60" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="372" type="line"/>
+      <point x="310" y="372" type="line"/>
+      <point x="426" y="366" type="line"/>
+      <point x="437" y="501" type="line"/>
+      <point x="428" y="513" type="line"/>
+      <point x="188" y="513" type="line"/>
+      <point x="189" y="382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>7</integer>
+        <key>height</key>
+        <real>79.1</real>
+        <key>weight</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lambda" format="2">
+  <outline>
+    <contour>
+      <point x="220" y="415" type="line"/>
+      <point x="201" y="467" type="line"/>
+      <point x="20" y="2" type="line"/>
+      <point x="41" y="-2" type="line"/>
+      <point x="55" y="43" type="line"/>
+      <point x="204" y="415" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="457" type="curve" smooth="yes"/>
+      <point x="332" y="39" type="line" smooth="yes"/>
+      <point x="341" y="12"/>
+      <point x="354" y="-2"/>
+      <point x="373" y="-2" type="curve" smooth="yes"/>
+      <point x="384" y="-2"/>
+      <point x="397" y="1"/>
+      <point x="413" y="9" type="curve"/>
+      <point x="418" y="26" type="line"/>
+      <point x="413" y="29" type="line"/>
+      <point x="377" y="9"/>
+      <point x="364" y="13"/>
+      <point x="352" y="47" type="curve" smooth="yes"/>
+      <point x="214" y="457" type="line" smooth="yes"/>
+      <point x="159" y="621"/>
+      <point x="114" y="662"/>
+      <point x="-1" y="650" type="curve"/>
+      <point x="-8" y="634" type="line"/>
+      <point x="-6" y="630" type="line"/>
+      <point x="100" y="641"/>
+      <point x="145" y="605"/>
+    </contour>
+  </outline>
+</glyph>

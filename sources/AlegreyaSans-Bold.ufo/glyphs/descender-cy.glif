@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descender-cy" format="2">
+  <advance width="303"/>
+  <anchor x="4" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="132" y="-135" type="line"/>
+      <point x="257" y="-126" type="line"/>
+      <point x="257" y="140" type="line"/>
+      <point x="87" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="257" y="140" type="line"/>
+      <point x="47" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

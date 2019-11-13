@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kappa.sups" format="2">
+  <advance width="432"/>
+  <anchor x="242" y="320" name="bottom"/>
+  <anchor x="239" y="772" name="top"/>
+  <outline>
+    <contour>
+      <point x="486" y="772" type="line"/>
+      <point x="358" y="772" type="line"/>
+      <point x="327" y="725" type="line"/>
+      <point x="192" y="560" type="line"/>
+      <point x="191" y="553" type="line"/>
+      <point x="228" y="473"/>
+      <point x="269" y="396"/>
+      <point x="310" y="319" type="curve"/>
+      <point x="322" y="312" type="line"/>
+      <point x="363" y="316"/>
+      <point x="403" y="323"/>
+      <point x="444" y="332" type="curve"/>
+      <point x="447" y="345" type="line"/>
+      <point x="399" y="412"/>
+      <point x="353" y="481"/>
+      <point x="312" y="552" type="curve"/>
+    </contour>
+    <contour>
+      <point x="230" y="772" type="line"/>
+      <point x="108" y="772" type="line"/>
+      <point x="75" y="454" type="line"/>
+      <point x="52" y="320" type="line"/>
+      <point x="172" y="320" type="line"/>
+      <point x="185" y="465" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-70</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

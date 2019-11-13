@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma.sc" format="2">
+  <advance width="359"/>
+  <anchor x="136" y="225" name="center"/>
+  <outline>
+    <contour>
+      <point x="160" y="491" type="line"/>
+      <point x="139" y="491" type="line"/>
+      <point x="98" y="150" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="118" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="491" type="line"/>
+      <point x="152" y="491" type="line"/>
+      <point x="147" y="475" type="line"/>
+      <point x="150" y="471" type="line"/>
+      <point x="260" y="471" type="line"/>
+      <point x="367" y="471" type="line"/>
+      <point x="373" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>19</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=h.sc</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

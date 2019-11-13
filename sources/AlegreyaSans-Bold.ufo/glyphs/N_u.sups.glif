@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nu.sups" format="2">
+  <advance width="520"/>
+  <anchor x="260" y="320" name="bottom"/>
+  <anchor x="260" y="773" name="top"/>
+  <outline>
+    <contour>
+      <point x="471" y="776" type="line"/>
+      <point x="342" y="768" type="line"/>
+      <point x="346" y="532" type="line"/>
+      <point x="337" y="532" type="line"/>
+      <point x="202" y="773" type="line"/>
+      <point x="49" y="773" type="line"/>
+      <point x="56" y="453" type="line"/>
+      <point x="49" y="320" type="line"/>
+      <point x="177" y="320" type="line"/>
+      <point x="171" y="484" type="line"/>
+      <point x="172" y="561" type="line"/>
+      <point x="180" y="561" type="line"/>
+      <point x="316" y="320" type="line"/>
+      <point x="469" y="320" type="line"/>
+      <point x="463" y="468" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>5</integer>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-52</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

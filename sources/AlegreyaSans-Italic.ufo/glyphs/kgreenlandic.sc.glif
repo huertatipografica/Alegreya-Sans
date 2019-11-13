@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic.sc" format="2">
+  <advance width="481"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="223" y="499" name="top"/>
+  <outline>
+    <component base="k.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

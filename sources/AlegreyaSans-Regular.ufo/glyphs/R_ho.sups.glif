@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rho.sups" format="2">
+  <advance width="373"/>
+  <anchor x="-17" y="762" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="216" y="763" type="curve"/>
+      <point x="58" y="762" type="line"/>
+      <point x="104" y="700" type="line"/>
+      <point x="192" y="703" type="line"/>
+      <point x="245" y="701"/>
+      <point x="272" y="678"/>
+      <point x="272" y="627" type="curve" smooth="yes"/>
+      <point x="272" y="577"/>
+      <point x="248" y="547"/>
+      <point x="202" y="537" type="curve"/>
+      <point x="88" y="541" type="line"/>
+      <point x="88" y="477" type="line"/>
+      <point x="182" y="477" type="line"/>
+      <point x="289" y="477"/>
+      <point x="355" y="538"/>
+      <point x="355" y="635" type="curve" smooth="yes"/>
+      <point x="355" y="717"/>
+      <point x="305" y="763"/>
+    </contour>
+    <contour>
+      <point x="140" y="762" type="line"/>
+      <point x="58" y="762" type="line"/>
+      <point x="63" y="465" type="line"/>
+      <point x="58" y="338" type="line"/>
+      <point x="139" y="338" type="line"/>
+      <point x="136" y="472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>66</integer>
+        <key>verticalShift</key>
+        <integer>338</integer>
+        <key>weight</key>
+        <integer>-5</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

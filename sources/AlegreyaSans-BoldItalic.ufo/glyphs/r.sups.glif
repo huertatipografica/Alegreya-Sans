@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.sups" format="2">
+  <advance width="256"/>
+  <anchor x="270" y="10" name="bottom"/>
+  <anchor x="186" y="472" name="ogonek"/>
+  <anchor x="183" y="452" name="top"/>
+  <outline>
+    <contour>
+      <point x="281" y="645" type="line"/>
+      <point x="281" y="645" type="line"/>
+      <point x="245" y="628"/>
+      <point x="215" y="595"/>
+      <point x="185" y="545" type="curve"/>
+      <point x="162" y="545" type="line"/>
+      <point x="147" y="435" type="line"/>
+      <point x="189" y="490"/>
+      <point x="217" y="514"/>
+      <point x="251" y="514" type="curve"/>
+      <point x="274" y="510" type="line"/>
+      <point x="283" y="514" type="line"/>
+      <point x="300" y="642" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="646" type="line"/>
+      <point x="187" y="646" type="line"/>
+      <point x="77" y="639" type="line"/>
+      <point x="74" y="564" type="line"/>
+      <point x="41" y="317" type="line"/>
+      <point x="152" y="324" type="line"/>
+      <point x="155" y="399" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

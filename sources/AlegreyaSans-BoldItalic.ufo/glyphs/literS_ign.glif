@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="literSign" format="2">
+  <advance width="267"/>
+  <unicode hex="2113"/>
+  <anchor x="105" y="0" name="bottom"/>
+  <anchor x="183" y="700" name="top"/>
+  <anchor x="393" y="352" name="topright"/>
+  <outline>
+    <contour>
+      <point x="278" y="704" type="line"/>
+      <point x="99" y="693" type="line"/>
+      <point x="96" y="580" type="line"/>
+      <point x="17" y="-4" type="line"/>
+      <point x="196" y="7" type="line"/>
+      <point x="199" y="116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

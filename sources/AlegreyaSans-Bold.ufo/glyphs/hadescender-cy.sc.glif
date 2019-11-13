@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender-cy.sc" format="2">
+  <advance width="623"/>
+  <anchor x="341" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="554" y="513" type="line"/>
+      <point x="362" y="513" type="line"/>
+      <point x="336" y="453" type="line"/>
+      <point x="291" y="384" type="line"/>
+      <point x="254" y="442" type="line"/>
+      <point x="224" y="513" type="line"/>
+      <point x="3" y="513" type="line"/>
+      <point x="168" y="243" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="224" y="59" type="line"/>
+      <point x="276" y="127" type="line"/>
+      <point x="312" y="68" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="401" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="479" y="-135" type="line"/>
+      <point x="612" y="-126" type="line"/>
+      <point x="612" y="149" type="line"/>
+      <point x="430" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="612" y="149" type="line"/>
+      <point x="388" y="149" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>7</integer>
+        <key>height</key>
+        <real>79.1</real>
+        <key>weight</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

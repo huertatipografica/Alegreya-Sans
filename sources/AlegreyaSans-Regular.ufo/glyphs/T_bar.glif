@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="491"/>
+  <unicode hex="0166"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="249" y="321" name="center"/>
+  <anchor x="249" y="641" name="top"/>
+  <outline>
+    <contour>
+      <point x="392" y="345" type="line"/>
+      <point x="110" y="345" type="line"/>
+      <point x="106" y="298" type="line"/>
+      <point x="112" y="292" type="line"/>
+      <point x="395" y="292" type="line"/>
+      <point x="399" y="339" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="631" type="line"/>
+      <point x="203" y="631" type="line"/>
+      <point x="209" y="193" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="286" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="641" type="line"/>
+      <point x="28" y="641" type="line"/>
+      <point x="21" y="575" type="line"/>
+      <point x="27" y="567" type="line"/>
+      <point x="142" y="573" type="line"/>
+      <point x="352" y="573" type="line"/>
+      <point x="465" y="567" type="line"/>
+      <point x="471" y="633" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

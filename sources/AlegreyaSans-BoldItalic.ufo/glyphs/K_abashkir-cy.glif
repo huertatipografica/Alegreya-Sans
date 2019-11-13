@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance width="710"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="758" y="647" type="line"/>
+      <point x="550" y="647" type="line"/>
+      <point x="507" y="577" type="line"/>
+      <point x="340" y="344" type="line"/>
+      <point x="342" y="336" type="line"/>
+      <point x="385" y="222"/>
+      <point x="432" y="113"/>
+      <point x="480" y="4" type="curve"/>
+      <point x="502" y="-12" type="line"/>
+      <point x="567" y="-6"/>
+      <point x="632" y="4"/>
+      <point x="699" y="19" type="curve"/>
+      <point x="699" y="38" type="line"/>
+      <point x="640" y="135"/>
+      <point x="583" y="235"/>
+      <point x="533" y="337" type="curve"/>
+    </contour>
+    <contour>
+      <point x="405" y="647" type="line"/>
+      <point x="207" y="647" type="line"/>
+      <point x="160" y="190" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="340" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="493" type="line"/>
+      <point x="306" y="647" type="line"/>
+      <point x="70" y="647" type="line"/>
+      <point x="42" y="501" type="line"/>
+      <point x="52" y="487" type="line"/>
+      <point x="181" y="493" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

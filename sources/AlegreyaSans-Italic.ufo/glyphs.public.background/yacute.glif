@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yacute" format="2">
+  <outline>
+    <contour>
+      <point x="91" y="462" type="line"/>
+      <point x="8" y="457" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="129" y="-83"/>
+      <point x="80" y="-108"/>
+      <point x="-10" y="-127" type="curve"/>
+      <point x="-13" y="-137" type="line"/>
+      <point x="-3" y="-157"/>
+      <point x="10" y="-174"/>
+      <point x="27" y="-191" type="curve"/>
+      <point x="36" y="-191" type="line"/>
+      <point x="152" y="-158"/>
+      <point x="214" y="-101"/>
+      <point x="258" y="19" type="curve" smooth="yes"/>
+      <point x="419" y="459" type="line"/>
+      <point x="341" y="459" type="line"/>
+      <point x="326" y="393" type="line"/>
+      <point x="219" y="94" type="line"/>
+      <point x="212" y="94" type="line"/>
+      <point x="106" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="700" type="line"/>
+      <point x="250" y="645"/>
+      <point x="197" y="600"/>
+      <point x="141" y="554" type="curve"/>
+      <point x="164" y="520" type="line"/>
+      <point x="173" y="519" type="line"/>
+      <point x="231" y="559"/>
+      <point x="286" y="599"/>
+      <point x="346" y="645" type="curve"/>
+      <point x="348" y="654" type="line"/>
+      <point x="316" y="699" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.BRACKET.100" format="2">
+  <advance width="469"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="235" y="236" name="center"/>
+  <anchor x="342" y="45" name="ogonek"/>
+  <anchor x="238" y="472" name="top"/>
+  <anchor x="478" y="472" name="topright"/>
+  <outline>
+    <contour>
+      <point x="202" y="67" type="line"/>
+      <point x="108" y="137" type="line"/>
+      <point x="-14" y="-63" type="line"/>
+      <point x="-10" y="-79" type="line"/>
+      <point x="80" y="-132" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="411" type="line"/>
+      <point x="381" y="361" type="line"/>
+      <point x="481" y="525" type="line"/>
+      <point x="472" y="542" type="line"/>
+      <point x="387" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="484" type="line"/>
+      <point x="119" y="474"/>
+      <point x="12" y="361"/>
+      <point x="12" y="183" type="curve" smooth="yes"/>
+      <point x="12" y="72"/>
+      <point x="70" y="11"/>
+      <point x="162" y="-10" type="curve"/>
+      <point x="178" y="-12" type="line"/>
+      <point x="350" y="-3"/>
+      <point x="457" y="109"/>
+      <point x="457" y="301" type="curve" smooth="yes"/>
+      <point x="457" y="404"/>
+      <point x="396" y="462"/>
+      <point x="306" y="482" type="curve"/>
+    </contour>
+    <contour>
+      <point x="255" y="347" type="curve" smooth="yes"/>
+      <point x="278" y="347"/>
+      <point x="284" y="334"/>
+      <point x="284" y="290" type="curve" smooth="yes"/>
+      <point x="284" y="168"/>
+      <point x="276" y="121"/>
+      <point x="214" y="121" type="curve" smooth="yes"/>
+      <point x="190" y="121"/>
+      <point x="183" y="134"/>
+      <point x="183" y="179" type="curve" smooth="yes"/>
+      <point x="183" y="300"/>
+      <point x="191" y="347"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Bold Italic [100]</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

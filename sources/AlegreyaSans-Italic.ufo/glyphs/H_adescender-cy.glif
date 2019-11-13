@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance width="619"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <contour>
+      <point x="591" y="641" type="line"/>
+      <point x="498" y="641" type="line"/>
+      <point x="467" y="590" type="line"/>
+      <point x="314" y="389" type="line"/>
+      <point x="212" y="589" type="line"/>
+      <point x="193" y="641" type="line"/>
+      <point x="91" y="641" type="line"/>
+      <point x="249" y="327" type="line"/>
+      <point x="1" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="123" y="48" type="line"/>
+      <point x="292" y="267" type="line"/>
+      <point x="403" y="53" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="358" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="-127" type="line"/>
+      <point x="546" y="-120" type="line"/>
+      <point x="571" y="71" type="line"/>
+      <point x="486" y="68" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="571" y="71" type="line"/>
+      <point x="455" y="71" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

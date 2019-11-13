@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dnom" format="2">
+  <advance width="374"/>
+  <outline>
+    <contour>
+      <point x="192" y="383" type="curve" smooth="yes"/>
+      <point x="93" y="383"/>
+      <point x="39" y="313"/>
+      <point x="39" y="184" type="curve" smooth="yes"/>
+      <point x="39" y="62"/>
+      <point x="90" y="-5"/>
+      <point x="182" y="-5" type="curve" smooth="yes"/>
+      <point x="281" y="-5"/>
+      <point x="334" y="65"/>
+      <point x="334" y="195" type="curve" smooth="yes"/>
+      <point x="334" y="316"/>
+      <point x="284" y="383"/>
+    </contour>
+    <contour>
+      <point x="186" y="315" type="curve" smooth="yes"/>
+      <point x="245" y="315"/>
+      <point x="275" y="272"/>
+      <point x="275" y="185" type="curve" smooth="yes"/>
+      <point x="275" y="102"/>
+      <point x="246" y="59"/>
+      <point x="187" y="59" type="curve" smooth="yes"/>
+      <point x="128" y="59"/>
+      <point x="99" y="102"/>
+      <point x="99" y="190" type="curve" smooth="yes"/>
+      <point x="99" y="273"/>
+      <point x="128" y="315"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

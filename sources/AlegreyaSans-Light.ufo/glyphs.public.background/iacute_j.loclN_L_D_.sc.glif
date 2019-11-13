@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j.loclNLD.sc" format="2">
+  <outline>
+    <contour>
+      <point x="201" y="219" type="move"/>
+    </contour>
+    <component base="iacute.sc"/>
+    <component base="j.sc" xOffset="237"/>
+    <component base="acutecomb" xOffset="186" yOffset="39"/>
+  </outline>
+</glyph>

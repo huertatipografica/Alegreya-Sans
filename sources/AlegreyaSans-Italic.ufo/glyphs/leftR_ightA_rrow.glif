@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightArrow" format="2">
+  <advance width="699"/>
+  <unicode hex="2194"/>
+  <outline>
+    <contour>
+      <point x="264" y="40" type="line"/>
+      <point x="264" y="53" type="line"/>
+      <point x="91" y="232" type="line"/>
+      <point x="264" y="411" type="line"/>
+      <point x="264" y="424" type="line"/>
+      <point x="217" y="437" type="line"/>
+      <point x="23" y="238" type="line"/>
+      <point x="23" y="225" type="line"/>
+      <point x="217" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="677" y="226" type="line"/>
+      <point x="677" y="239" type="line"/>
+      <point x="483" y="437" type="line"/>
+      <point x="436" y="424" type="line"/>
+      <point x="436" y="411" type="line"/>
+      <point x="609" y="232" type="line"/>
+      <point x="436" y="53" type="line"/>
+      <point x="436" y="40" type="line"/>
+      <point x="483" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="205" type="line"/>
+      <point x="622" y="260" type="line"/>
+      <point x="73" y="260" type="line"/>
+      <point x="73" y="205" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=leftArrow</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|leftArrow</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

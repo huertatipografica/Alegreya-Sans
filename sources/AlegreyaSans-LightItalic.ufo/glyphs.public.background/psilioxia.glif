@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia" format="2">
+  <anchor x="226" y="442" name="_top"/>
+  <anchor x="231" y="686" name="top"/>
+  <outline>
+    <contour>
+      <point x="256" y="500" type="line"/>
+      <point x="259" y="500" type="line"/>
+      <point x="327" y="666" type="line"/>
+      <point x="327" y="674" type="line"/>
+      <point x="297" y="686" type="line"/>
+      <point x="291" y="687" type="line"/>
+      <point x="277" y="622"/>
+      <point x="264" y="565"/>
+      <point x="244" y="500" type="curve"/>
+    </contour>
+    <component base="psili" xScale="0.9526" xyScale="0.0329" yxScale="-0.0329" yScale="0.9526" xOffset="-3" yOffset="9"/>
+  </outline>
+</glyph>
