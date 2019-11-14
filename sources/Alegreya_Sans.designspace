@@ -49,7 +49,7 @@
     </rule>
   </rules>
   <sources>
-    <source filename="AlegreyaSans-Light.ufo" name="Alegreya Sans Light" familyname="Alegreya Sans" stylename="Light">
+    <source filename="AlegreyaSans-Thin.ufo" name="Alegreya Sans Thin" familyname="Alegreya Sans" stylename="Thin">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -63,7 +63,7 @@
         <dimension name="Weight" xvalue="71"/>
       </location>
     </source>
-    <source filename="AlegreyaSans-Bold.ufo" name="Alegreya Sans Bold" familyname="Alegreya Sans" stylename="Bold">
+    <source filename="AlegreyaSans-Black.ufo" name="Alegreya Sans Black" familyname="Alegreya Sans" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="175"/>
       </location>
@@ -137,9 +137,9 @@
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.48214</real>
+            <real>0.52941</real>
             <key>UUID0</key>
-            <real>0.51786</real>
+            <real>0.47059</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -178,9 +178,7 @@
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.91071</real>
-            <key>UUID0</key>
-            <real>0.08929</real>
+            <integer>1</integer>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -219,9 +217,9 @@
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.84848</real>
+            <real>0.80769</real>
             <key>6DC2006A-28B6-4A13-A5DF-3641E0854074</key>
-            <real>0.15152</real>
+            <real>0.19231</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -232,7 +230,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Alegreya Sans Bold" familyname="Alegreya Sans" stylename="Bold" filename="instance_ufos/AlegreyaSans-Bold.ufo" stylemapfamilyname="Alegreya Sans" stylemapstylename="bold">
+    <instance name="Alegreya Sans Bold" familyname="Alegreya Sans" stylename="Bold" filename="instance_ufos/AlegreyaSans-Bold.ufo">
       <location>
         <dimension name="Weight" xvalue="119"/>
       </location>
@@ -260,9 +258,9 @@
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.56566</real>
+            <real>0.53846</real>
             <key>6DC2006A-28B6-4A13-A5DF-3641E0854074</key>
-            <real>0.43434</real>
+            <real>0.46154</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -301,9 +299,9 @@
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.33333</real>
+            <real>0.31731</real>
             <key>6DC2006A-28B6-4A13-A5DF-3641E0854074</key>
-            <real>0.66667</real>
+            <real>0.68269</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -2854,9 +2852,9 @@ sub @siglo2 @siglo1' by @siglo2;</string>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.48214</real>
+            <real>0.52941</real>
             <key>UUID0</key>
-            <real>0.51786</real>
+            <real>0.47059</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -4112,9 +4110,7 @@ sub @siglo2 @siglo1' by @siglo2;</string>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.91071</real>
-            <key>UUID0</key>
-            <real>0.08929</real>
+            <integer>1</integer>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -5370,9 +5366,9 @@ sub @siglo2 @siglo1' by @siglo2;</string>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.84848</real>
+            <real>0.80769</real>
             <key>6DC2006A-28B6-4A13-A5DF-3641E0854074</key>
-            <real>0.15152</real>
+            <real>0.19231</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -5383,7 +5379,7 @@ sub @siglo2 @siglo1' by @siglo2;</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Alegreya Sans SC Bold" familyname="Alegreya Sans SC" stylename="Bold" filename="instance_ufos/AlegreyaSansSC-Bold.ufo" stylemapfamilyname="Alegreya Sans SC" stylemapstylename="bold">
+    <instance name="Alegreya Sans SC Bold" familyname="Alegreya Sans SC" stylename="Bold" filename="instance_ufos/AlegreyaSansSC-Bold.ufo">
       <location>
         <dimension name="Weight" xvalue="119"/>
       </location>
@@ -6628,9 +6624,9 @@ sub @siglo2 @siglo1' by @siglo2;</string>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.56566</real>
+            <real>0.53846</real>
             <key>6DC2006A-28B6-4A13-A5DF-3641E0854074</key>
-            <real>0.43434</real>
+            <real>0.46154</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
@@ -7886,9 +7882,9 @@ sub @siglo2 @siglo1' by @siglo2;</string>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
             <key>083C0576-DCB5-487A-B9F4-85809F200F55</key>
-            <real>0.33333</real>
+            <real>0.31731</real>
             <key>6DC2006A-28B6-4A13-A5DF-3641E0854074</key>
-            <real>0.66667</real>
+            <real>0.68269</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
           <false/>
