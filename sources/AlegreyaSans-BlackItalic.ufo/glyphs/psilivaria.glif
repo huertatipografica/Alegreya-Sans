@@ -8,8 +8,39 @@
   <anchor x="374" y="739" name="_topleft"/>
   <anchor x="276" y="792" name="top"/>
   <outline>
-    <component base="psili"/>
-    <component base="varia" xScale="0.9976" xyScale="-0.0698" yxScale="0.0698" yScale="0.9976" xOffset="141" yOffset="19"/>
+    <contour>
+      <point x="195" y="792" type="curve"/>
+      <point x="154" y="778"/>
+      <point x="114" y="756"/>
+      <point x="77" y="733" type="curve"/>
+      <point x="76" y="721" type="line"/>
+      <point x="92" y="707"/>
+      <point x="100" y="684"/>
+      <point x="100" y="662" type="curve" smooth="yes"/>
+      <point x="100" y="633"/>
+      <point x="86" y="604"/>
+      <point x="61" y="575" type="curve"/>
+      <point x="62" y="565" type="line"/>
+      <point x="118" y="530" type="line"/>
+      <point x="196" y="596"/>
+      <point x="234" y="650"/>
+      <point x="234" y="712" type="curve" smooth="yes"/>
+      <point x="234" y="746"/>
+      <point x="222" y="772"/>
+    </contour>
+    <contour>
+      <point x="323.3644" y="533.5468000000001" type="line"/>
+      <point x="426.7744" y="564.4058" type="line"/>
+      <point x="417.8336" y="637.2102"/>
+      <point x="410.539" y="704.8870000000001"/>
+      <point x="406.0976" y="770.3592" type="curve"/>
+      <point x="392.7594" y="780.3148000000001" type="line"/>
+      <point x="260.6488" y="740.4366" type="line"/>
+      <point x="250.55360000000002" y="725.1032" type="line"/>
+      <point x="271.9542" y="658.4444000000001"/>
+      <point x="290.9902" y="600.9734"/>
+      <point x="311.09360000000004" y="544.4302" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
