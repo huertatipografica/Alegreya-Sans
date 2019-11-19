@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>color</key>
+    <string>1,0.75,0,0.7</string>
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
@@ -1407,7 +1409,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.ampersand</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.ampersand.sc</key>
-      <integer>2</integer>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.anoteleia</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.aogonek</key>
@@ -1417,6 +1419,8 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.apostrophemod</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.approxequal</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.areas</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.aring</key>
       <integer>1</integer>
@@ -2845,7 +2849,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.multiply</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.n</key>
-      <integer>3</integer>
+      <integer>5</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.n.sc</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.n.sups</key>
@@ -3237,11 +3241,11 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.omicronvaria.sc</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.one</key>
-      <integer>2</integer>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.one.dnom</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.one.lf</key>
-      <integer>2</integer>
+      <integer>4</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.one.numr</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.one.sinf</key>
@@ -3759,11 +3763,11 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.thorn.sc</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.three</key>
-      <integer>6</integer>
+      <integer>8</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.three.dnom</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.three.lf</key>
-      <integer>6</integer>
+      <integer>8</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.three.numr</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.three.sinf</key>
@@ -3823,11 +3827,11 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.tugrik</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two</key>
-      <integer>4</integer>
+      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two.dnom</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two.lf</key>
-      <integer>4</integer>
+      <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two.numr</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.two.sinf</key>

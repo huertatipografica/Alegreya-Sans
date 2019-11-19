@@ -2,12 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>color</key>
+    <string>0,1,1,0.7</string>
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
       <string>B3007378-6AC5-4F8A-B1B9-542655DD08F0</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.alpha</key>
-      <integer>12</integer>
+      <integer>13</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.beta</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.chi</key>
@@ -21,7 +23,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.gamma</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.iota</key>
-      <integer>12</integer>
+      <integer>14</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.kappa</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.lambda</key>
@@ -29,7 +31,7 @@
       <key>com.schriftgestaltung.layerOrderInGlyph.mu</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.nu</key>
-      <integer>10</integer>
+      <integer>11</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.omicron</key>
       <integer>6</integer>
       <key>com.schriftgestaltung.layerOrderInGlyph.phi</key>

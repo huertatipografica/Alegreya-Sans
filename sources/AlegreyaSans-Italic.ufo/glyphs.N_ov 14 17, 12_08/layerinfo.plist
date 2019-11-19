@@ -2,12 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>color</key>
+    <string>0.5,0,1,0.7</string>
     <key>lib</key>
     <dict>
       <key>com.schriftgestaltung.layerId</key>
       <string>0B4A356B-22BE-46CF-BFDE-703A66377A7F</string>
       <key>com.schriftgestaltung.layerOrderInGlyph.ezh</key>
-      <integer>12</integer>
+      <integer>13</integer>
     </dict>
   </dict>
 </plist>
