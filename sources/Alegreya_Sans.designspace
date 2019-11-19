@@ -35,17 +35,27 @@
       <conditionset>
         <condition name="Weight" minimum="100" maximum="175"/>
       </conditionset>
-      <sub name="Oslash" with="Oslash.BRACKET.100"/>
       <sub name="ampersand.sc" with="ampersand.sc.BRACKET.100"/>
       <sub name="cedi" with="cedi.BRACKET.100"/>
       <sub name="cent" with="cent.BRACKET.100"/>
       <sub name="dollar" with="dollar.BRACKET.100"/>
       <sub name="euro" with="euro.BRACKET.100"/>
       <sub name="guarani" with="guarani.BRACKET.100"/>
-      <sub name="oslash" with="oslash.BRACKET.100"/>
-      <sub name="oslash.sc" with="oslash.sc.BRACKET.100"/>
+
       <sub name="peso" with="peso.BRACKET.100"/>
       <sub name="won" with="won.BRACKET.100"/>
+
+      <sub name="Oslash" with="Oslash.BRACKET.100"/>
+      <sub name="oslash" with="oslash.BRACKET.100"/>
+      <sub name="oslash.sc" with="oslash.sc.BRACKET.100"/>
+
+
+      <sub name="Oslashacute" with="Oslashacute.BRACKET.100"/>
+      <sub name="oslashacute" with="oslashacute.BRACKET.100"/>
+      <sub name="oslashacute.sc" with="oslashacute.sc.BRACKET.100"/>
+
+
+
     </rule>
   </rules>
   <sources>
