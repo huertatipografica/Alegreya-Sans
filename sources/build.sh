@@ -12,9 +12,9 @@ fontmake -m Alegreya_Sans-Italic.designspace -i -o ttf --output-dir ../fonts/ttf
 fontmake -m Alegreya_Sans.designspace -i -o otf --output-dir ../fonts/otf/
 fontmake -m Alegreya_Sans-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
-# echo "Generating VFs"
-# fontmake -m Alegreya_Sans.designspace -o variable --output-path ../fonts/vf/AlegreyaSans[wght].ttf
-# fontmake -m Alegreya_Sans-Italic.designspace -o variable --output-path ../fonts/vf/AlegreyaSans-Italic[wght].ttf
+echo "Generating VFs"
+fontmake -m Alegreya_Sans.designspace -o variable --output-path ../fonts/vf/AlegreyaSans[wght].ttf
+fontmake -m Alegreya_Sans-Italic.designspace -o variable --output-path ../fonts/vf/AlegreyaSans-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
