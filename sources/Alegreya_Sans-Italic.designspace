@@ -49,7 +49,7 @@
     </rule>
   </rules>
   <sources>
-    <source filename="AlegreyaSans-LightItalic.ufo" name="Alegreya Sans Light Italic" familyname="Alegreya Sans" stylename="Light Italic">
+    <source filename="AlegreyaSans-ThinItalic.ufo" name="Alegreya Sans Thin Italic" familyname="Alegreya Sans" stylename="Thin Italic">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -63,7 +63,7 @@
         <dimension name="Weight" xvalue="67"/>
       </location>
     </source>
-    <source filename="AlegreyaSans-BoldItalic.ufo" name="Alegreya Sans Bold Italic" familyname="Alegreya Sans" stylename="Bold Italic">
+    <source filename="AlegreyaSans-BlackItalic.ufo" name="Alegreya Sans Black Italic" familyname="Alegreya Sans" stylename="Black Italic">
       <location>
         <dimension name="Weight" xvalue="174"/>
       </location>

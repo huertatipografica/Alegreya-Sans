@@ -49,7 +49,7 @@
     </rule>
   </rules>
   <sources>
-    <source filename="AlegreyaSans-Light.ufo" name="Alegreya Sans Light" familyname="Alegreya Sans" stylename="Light">
+    <source filename="AlegreyaSans-Thin.ufo" name="Alegreya Sans Thin" familyname="Alegreya Sans" stylename="Thin">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -63,7 +63,7 @@
         <dimension name="Weight" xvalue="71"/>
       </location>
     </source>
-    <source filename="AlegreyaSans-Bold.ufo" name="Alegreya Sans Bold" familyname="Alegreya Sans" stylename="Bold">
+    <source filename="AlegreyaSans-Black.ufo" name="Alegreya Sans Black" familyname="Alegreya Sans" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="175"/>
       </location>
