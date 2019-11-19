@@ -3,8 +3,34 @@
   <advance width="531"/>
   <unicode hex="04B0"/>
   <outline>
-    <component base="Y"/>
-    <component base="strokeshortcomb" xScale="0.9042" xOffset="34" yOffset="-75"/>
+    <contour>
+      <point x="519" y="641" type="line"/>
+      <point x="429" y="641" type="line"/>
+      <point x="414" y="602" type="line"/>
+      <point x="263" y="321" type="line"/>
+      <point x="256" y="321" type="line"/>
+      <point x="119" y="604" type="line"/>
+      <point x="106" y="641" type="line"/>
+      <point x="14" y="641" type="line"/>
+      <point x="241" y="179" type="line"/>
+      <point x="269" y="179" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="273" type="line"/>
+      <point x="216" y="273" type="line"/>
+      <point x="218" y="186" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="296" y="186" type="line"/>
+    </contour>
+    <contour>
+      <point x="415.5724" y="211" type="line"/>
+      <point x="95.4856" y="211" type="line"/>
+      <point x="91.8688" y="157" type="line"/>
+      <point x="96.38980000000001" y="151" type="line"/>
+      <point x="417.3808" y="151" type="line"/>
+      <point x="420.0934" y="205" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

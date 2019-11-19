@@ -4,7 +4,26 @@
   <anchor x="111" y="0" name="_bottom"/>
   <anchor x="111" y="-211" name="bottom"/>
   <outline>
-    <component base="comma" yOffset="-111"/>
+    <contour>
+      <point x="111" y="-70" type="curve"/>
+      <point x="105" y="-73"/>
+      <point x="101" y="-77"/>
+      <point x="98" y="-81" type="curve"/>
+      <point x="98" y="-85" type="line"/>
+      <point x="117" y="-94"/>
+      <point x="128" y="-106"/>
+      <point x="128" y="-119" type="curve"/>
+      <point x="128" y="-143"/>
+      <point x="109" y="-171"/>
+      <point x="74" y="-197" type="curve"/>
+      <point x="73" y="-200" type="line"/>
+      <point x="83" y="-211" type="line"/>
+      <point x="126" y="-178"/>
+      <point x="149" y="-145"/>
+      <point x="149" y="-118" type="curve"/>
+      <point x="149" y="-98"/>
+      <point x="135" y="-81"/>
+    </contour>
   </outline>
   <lib>
     <dict>

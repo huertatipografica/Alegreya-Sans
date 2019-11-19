@@ -3,8 +3,48 @@
   <anchor x="196" y="459" name="_top"/>
   <anchor x="196" y="780" name="top"/>
   <outline>
-    <component base="brevecomb.case" xScale="0.9747" yScale="0.9747" xOffset="7" yOffset="-6"/>
-    <component base="tildecomb.case" xScale="0.9188" yScale="0.9515" xOffset="18" yOffset="148"/>
+    <contour>
+      <point x="300.3847" y="640.2261" type="line"/>
+      <point x="287.7136" y="640.2261" type="line"/>
+      <point x="273.0931" y="603.1875"/>
+      <point x="241.9027" y="581.7441"/>
+      <point x="197.0665" y="581.7441" type="curve" smooth="yes"/>
+      <point x="152.2303" y="581.7441"/>
+      <point x="120.0652" y="603.1875"/>
+      <point x="106.4194" y="640.2261" type="curve"/>
+      <point x="93.7483" y="640.2261" type="line"/>
+      <point x="71.3302" y="611.9598" type="line"/>
+      <point x="89.8495" y="554.4525"/>
+      <point x="133.711" y="522.2874"/>
+      <point x="195.1171" y="522.2874" type="curve" smooth="yes"/>
+      <point x="256.5232" y="522.2874"/>
+      <point x="302.3341" y="554.4525"/>
+      <point x="321.8281" y="611.9598" type="curve"/>
+    </contour>
+    <contour>
+      <point x="318.44759999999997" y="785.505" type="line"/>
+      <point x="311.0972" y="785.505" type="line"/>
+      <point x="287.2084" y="760.766"/>
+      <point x="272.5076" y="740.7845"/>
+      <point x="258.7256" y="740.7845" type="curve"/>
+      <point x="234.83679999999998" y="740.7845"/>
+      <point x="154.9012" y="771.2325"/>
+      <point x="116.3116" y="775.99" type="curve"/>
+      <point x="108.0424" y="773.1355" type="line"/>
+      <point x="50.158" y="705.579" type="line"/>
+      <point x="50.158" y="697.967" type="line"/>
+      <point x="73.128" y="672.2765" type="line"/>
+      <point x="81.3972" y="672.2765" type="line"/>
+      <point x="104.3672" y="696.064"/>
+      <point x="119.068" y="716.997"/>
+      <point x="133.7688" y="716.997" type="curve"/>
+      <point x="157.6576" y="716.997"/>
+      <point x="236.6744" y="686.549"/>
+      <point x="276.1828" y="681.7915" type="curve"/>
+      <point x="284.452" y="684.646" type="line"/>
+      <point x="342.33639999999997" y="752.2025" type="line"/>
+      <point x="342.33639999999997" y="759.8145" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

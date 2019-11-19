@@ -2,8 +2,31 @@
 <glyph name="ghestroke-cy.sc" format="2">
   <advance width="394"/>
   <outline>
-    <component base="ge-cy.sc" xOffset="19"/>
-    <component base="strokeshortcomb" xScale="0.8264" xOffset="-31" yOffset="-29"/>
+    <contour>
+      <point x="153" y="491" type="line"/>
+      <point x="132" y="491" type="line"/>
+      <point x="132" y="150" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="152" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="491" type="line"/>
+      <point x="145" y="491" type="line"/>
+      <point x="141" y="475" type="line"/>
+      <point x="145" y="471" type="line"/>
+      <point x="262" y="471" type="line"/>
+      <point x="370" y="471" type="line"/>
+      <point x="373" y="487" type="line"/>
+    </contour>
+    <contour>
+      <point x="297.9072" y="235" type="line"/>
+      <point x="35.9384" y="235" type="line"/>
+      <point x="34.2856" y="218" type="line"/>
+      <point x="36.76480000000001" y="215" type="line"/>
+      <point x="298.7336" y="215" type="line"/>
+      <point x="300.38640000000004" y="232" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

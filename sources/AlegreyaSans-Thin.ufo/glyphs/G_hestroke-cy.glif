@@ -3,8 +3,31 @@
   <advance width="458"/>
   <unicode hex="0492"/>
   <outline>
-    <component base="Ge-cy" xOffset="11"/>
-    <component base="strokeshortcomb" xScale="0.8264" xOffset="-4" yOffset="65"/>
+    <contour>
+      <point x="162" y="637" type="line"/>
+      <point x="142" y="637" type="line"/>
+      <point x="142" y="195" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="637" type="line"/>
+      <point x="154" y="637" type="line"/>
+      <point x="150" y="621" type="line"/>
+      <point x="154" y="617" type="line"/>
+      <point x="298" y="617" type="line"/>
+      <point x="429" y="617" type="line"/>
+      <point x="433" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="324.9072" y="329" type="line"/>
+      <point x="62.9384" y="329" type="line"/>
+      <point x="61.2856" y="312" type="line"/>
+      <point x="63.76480000000001" y="309" type="line"/>
+      <point x="325.7336" y="309" type="line"/>
+      <point x="327.38640000000004" y="326" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

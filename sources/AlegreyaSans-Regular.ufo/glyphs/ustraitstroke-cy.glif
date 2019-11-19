@@ -3,8 +3,32 @@
   <advance width="458"/>
   <unicode hex="04B1"/>
   <outline>
-    <component base="ustrait-cy" xOffset="20"/>
-    <component base="strokeshortcomb" xScale="0.8761" xOffset="7" yOffset="-269"/>
+    <contour>
+      <point x="187" y="-15" type="line"/>
+      <point x="256" y="-15" type="line"/>
+      <point x="435" y="459" type="line"/>
+      <point x="359" y="459" type="line"/>
+      <point x="343" y="397" type="line"/>
+      <point x="230" y="94" type="line"/>
+      <point x="224" y="94" type="line"/>
+      <point x="128" y="401" type="line"/>
+      <point x="115" y="462" type="line"/>
+      <point x="36" y="457" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="-185" type="line"/>
+      <point x="264" y="-185" type="line"/>
+      <point x="262" y="47" type="line"/>
+      <point x="183" y="47" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.7142" y="17" type="line"/>
+      <point x="66.5748" y="17" type="line"/>
+      <point x="63.0704" y="-37" type="line"/>
+      <point x="67.45089999999999" y="-43" type="line"/>
+      <point x="378.4664" y="-43" type="line"/>
+      <point x="381.0947" y="11" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
