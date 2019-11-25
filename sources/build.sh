@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
 
+rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
 echo "Generating Static fonts"
 mkdir -p ../fonts

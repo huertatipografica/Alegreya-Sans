@@ -2,8 +2,34 @@
 <glyph name="ustraitstroke-cy.sc" format="2">
   <advance width="475"/>
   <outline>
-    <component base="y.sc"/>
-    <component base="strokeshortcomb" xScale="0.8542" xOffset="20" yOffset="-122"/>
+    <contour>
+      <point x="453" y="499" type="line" smooth="yes"/>
+      <point x="368" y="499" type="line"/>
+      <point x="355" y="466" type="line"/>
+      <point x="236" y="259" type="line"/>
+      <point x="230" y="259" type="line"/>
+      <point x="121" y="469" type="line"/>
+      <point x="111" y="499" type="line"/>
+      <point x="24" y="499" type="line"/>
+      <point x="216" y="128" type="line"/>
+      <point x="242" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="269" y="213" type="line"/>
+      <point x="192" y="213" type="line"/>
+      <point x="194" y="142" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="267" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="380.4724" y="164" type="line"/>
+      <point x="78.0856" y="164" type="line"/>
+      <point x="74.6688" y="110" type="line"/>
+      <point x="78.93979999999999" y="104" type="line"/>
+      <point x="382.1808" y="104" type="line"/>
+      <point x="384.7434" y="158" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

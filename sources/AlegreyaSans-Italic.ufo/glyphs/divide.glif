@@ -1,11 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="divide" format="2">
-  <advance width="477.325"/>
+  <advance width="477"/>
   <unicode hex="00F7"/>
   <outline>
-    <component base="minus"/>
-    <component base="period" xScale="0.934" yScale="0.934" xOffset="135" yOffset="51"/>
-    <component base="period" xScale="0.934" yScale="0.934" xOffset="177" yOffset="400"/>
+    <contour>
+      <point x="446" y="294" type="line"/>
+      <point x="38" y="294" type="line"/>
+      <point x="33" y="241" type="line"/>
+      <point x="39" y="235" type="line"/>
+      <point x="448" y="235" type="line"/>
+      <point x="453" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="222.796" y="137.86200000000002" type="curve" smooth="yes"/>
+      <point x="193.842" y="137.86200000000002"/>
+      <point x="176.096" y="119.182"/>
+      <point x="176.096" y="91.162" type="curve" smooth="yes"/>
+      <point x="176.096" y="63.142"/>
+      <point x="191.974" y="46.33"/>
+      <point x="219.994" y="46.33" type="curve" smooth="yes"/>
+      <point x="248.014" y="46.33"/>
+      <point x="265.76" y="65.01"/>
+      <point x="265.76" y="93.964" type="curve" smooth="yes"/>
+      <point x="265.76" y="121.05"/>
+      <point x="249.882" y="137.86200000000002"/>
+    </contour>
+    <contour>
+      <point x="264.796" y="486.862" type="curve" smooth="yes"/>
+      <point x="235.842" y="486.862"/>
+      <point x="218.096" y="468.182"/>
+      <point x="218.096" y="440.162" type="curve" smooth="yes"/>
+      <point x="218.096" y="412.142"/>
+      <point x="233.974" y="395.33"/>
+      <point x="261.994" y="395.33" type="curve" smooth="yes"/>
+      <point x="290.014" y="395.33"/>
+      <point x="307.76" y="414.01"/>
+      <point x="307.76" y="442.964" type="curve" smooth="yes"/>
+      <point x="307.76" y="470.05"/>
+      <point x="291.882" y="486.862"/>
+    </contour>
   </outline>
   <lib>
     <dict>

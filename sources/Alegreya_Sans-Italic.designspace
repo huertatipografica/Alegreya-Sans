@@ -35,21 +35,30 @@
       <conditionset>
         <condition name="Weight" minimum="100" maximum="174"/>
       </conditionset>
-      <sub name="Oslash" with="Oslash.BRACKET.100"/>
+
       <sub name="ampersand.sc" with="ampersand.sc.BRACKET.100"/>
       <sub name="cedi" with="cedi.BRACKET.100"/>
       <sub name="cent" with="cent.BRACKET.100"/>
       <sub name="dollar" with="dollar.BRACKET.100"/>
       <sub name="euro" with="euro.BRACKET.100"/>
       <sub name="guarani" with="guarani.BRACKET.100"/>
-      <sub name="oslash" with="oslash.BRACKET.100"/>
-      <sub name="oslash.sc" with="oslash.sc.BRACKET.100"/>
+
       <sub name="peso" with="peso.BRACKET.100"/>
       <sub name="won" with="won.BRACKET.100"/>
+      
+      <sub name="Oslash" with="Oslash.BRACKET.100"/>
+      <sub name="oslash" with="oslash.BRACKET.100"/>
+      <sub name="oslash.sc" with="oslash.sc.BRACKET.100"/>
+
+      <sub name="Oslashacute" with="Oslashacute.BRACKET.100"/>
+      <sub name="oslashacute" with="oslashacute.BRACKET.100"/>
+      <sub name="oslashacute.sc" with="oslashacute.sc.BRACKET.100"/>
+
+
     </rule>
   </rules>
   <sources>
-    <source filename="AlegreyaSans-LightItalic.ufo" name="Alegreya Sans Light Italic" familyname="Alegreya Sans" stylename="Light Italic">
+    <source filename="AlegreyaSans-ThinItalic.ufo" name="Alegreya Sans Thin Italic" familyname="Alegreya Sans" stylename="Thin Italic">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -63,7 +72,7 @@
         <dimension name="Weight" xvalue="67"/>
       </location>
     </source>
-    <source filename="AlegreyaSans-BoldItalic.ufo" name="Alegreya Sans Bold Italic" familyname="Alegreya Sans" stylename="Bold Italic">
+    <source filename="AlegreyaSans-BlackItalic.ufo" name="Alegreya Sans Black Italic" familyname="Alegreya Sans" stylename="Black Italic">
       <location>
         <dimension name="Weight" xvalue="174"/>
       </location>

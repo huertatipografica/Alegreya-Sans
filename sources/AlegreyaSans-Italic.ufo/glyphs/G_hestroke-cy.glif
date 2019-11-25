@@ -3,8 +3,31 @@
   <advance width="449"/>
   <unicode hex="0492"/>
   <outline>
-    <component base="Ge-cy" xScale="0.97" xOffset="20"/>
-    <component base="strokeshortcomb" xScale="0.8563" xOffset="-10" yOffset="55"/>
+    <contour>
+      <point x="241.16" y="641" type="line"/>
+      <point x="157.74" y="641" type="line"/>
+      <point x="108.27" y="193" type="line"/>
+      <point x="81.11" y="0" type="line"/>
+      <point x="164.53" y="0" type="line"/>
+      <point x="185.87" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="472.99" y="641" type="line"/>
+      <point x="214.0" y="641" type="line"/>
+      <point x="204.29999999999998" y="579" type="line"/>
+      <point x="206.23999999999998" y="572" type="line"/>
+      <point x="332.34000000000003" y="572" type="line"/>
+      <point x="463.28999999999996" y="570" type="line"/>
+      <point x="477.84000000000003" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="329.9511" y="341" type="line"/>
+      <point x="44.8032" y="341" type="line"/>
+      <point x="36.240199999999994" y="288" type="line"/>
+      <point x="39.6654" y="282" type="line"/>
+      <point x="324.81329999999997" y="282" type="line"/>
+      <point x="333.37629999999996" y="335" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
