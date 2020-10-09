@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi.sups" format="2">
+  <advance width="506"/>
+  <anchor x="311" y="320" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="311" y="320" type="line"/>
+      <point x="452" y="320" type="line"/>
+      <point x="447" y="467" type="line"/>
+      <point x="455" y="773" type="line"/>
+      <point x="311" y="773" type="line"/>
+      <point x="318" y="453" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="320" type="line"/>
+      <point x="190" y="320" type="line"/>
+      <point x="185" y="467" type="line"/>
+      <point x="192" y="773" type="line"/>
+      <point x="49" y="773" type="line"/>
+      <point x="56" y="453" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="666" type="line"/>
+      <point x="330" y="666" type="line"/>
+      <point x="330" y="773" type="line"/>
+      <point x="164" y="773" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>5</integer>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-52</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="246" y="459" name="_top"/>
+  <anchor x="294" y="851" name="top"/>
+  <outline>
+    <contour>
+      <point x="361" y="643" type="line"/>
+      <point x="348" y="643" type="line"/>
+      <point x="329" y="605"/>
+      <point x="295" y="583"/>
+      <point x="249" y="583" type="curve" smooth="yes"/>
+      <point x="204" y="583"/>
+      <point x="173" y="604"/>
+      <point x="163" y="643" type="curve"/>
+      <point x="150" y="643" type="line"/>
+      <point x="124" y="614" type="line"/>
+      <point x="137" y="555"/>
+      <point x="182" y="522"/>
+      <point x="245" y="522" type="curve" smooth="yes"/>
+      <point x="308" y="522"/>
+      <point x="353" y="555"/>
+      <point x="381" y="614" type="curve"/>
+    </contour>
+    <contour>
+      <point x="391.79839999999996" y="783.9911999999999" type="line"/>
+      <point x="384.0608" y="783.9911999999999" type="line"/>
+      <point x="358.9136" y="758.8439999999999"/>
+      <point x="344.4056" y="738.5328"/>
+      <point x="327.9632" y="738.5328" type="curve"/>
+      <point x="303.78319999999997" y="738.5328"/>
+      <point x="220.60399999999998" y="769.4832"/>
+      <point x="179.0144" y="774.3191999999999" type="curve"/>
+      <point x="170.3096" y="770.4504" type="line"/>
+      <point x="108.4088" y="701.7792" type="line"/>
+      <point x="108.4088" y="694.0416" type="line"/>
+      <point x="134.52319999999997" y="667.9272" type="line"/>
+      <point x="142.2608" y="667.9272" type="line"/>
+      <point x="167.408" y="692.1071999999999"/>
+      <point x="181.916" y="713.3856"/>
+      <point x="198.3584" y="713.3856" type="curve"/>
+      <point x="222.5384" y="713.3856"/>
+      <point x="306.6848" y="682.4352"/>
+      <point x="347.30719999999997" y="677.5992" type="curve"/>
+      <point x="356.9792" y="680.5008" type="line"/>
+      <point x="417.9128" y="750.1392" type="line"/>
+      <point x="417.9128" y="757.8768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>405</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

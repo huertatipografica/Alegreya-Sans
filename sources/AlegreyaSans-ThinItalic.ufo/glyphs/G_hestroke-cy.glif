@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy" format="2">
+  <advance width="423"/>
+  <unicode hex="0492"/>
+  <outline>
+    <contour>
+      <point x="193.54" y="637" type="line"/>
+      <point x="174.14" y="637" type="line"/>
+      <point x="121.75999999999999" y="195" type="line"/>
+      <point x="98.47999999999999" y="0" type="line"/>
+      <point x="117.88" y="0" type="line"/>
+      <point x="141.16" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="443.8" y="637" type="line"/>
+      <point x="185.78" y="637" type="line"/>
+      <point x="179.95999999999998" y="621" type="line"/>
+      <point x="183.84" y="617" type="line"/>
+      <point x="313.82" y="617" type="line"/>
+      <point x="440.89" y="617" type="line"/>
+      <point x="446.71" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="301.1152" y="329" type="line"/>
+      <point x="55.6744" y="329" type="line"/>
+      <point x="52.3688" y="312" type="line"/>
+      <point x="54.0216" y="309" type="line"/>
+      <point x="299.4624" y="309" type="line"/>
+      <point x="302.76800000000003" y="326" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

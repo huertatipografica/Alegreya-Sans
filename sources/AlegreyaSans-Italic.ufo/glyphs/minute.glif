@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="169.579"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="172" y="639" type="line"/>
+      <point x="106" y="634" type="line"/>
+      <point x="79" y="446" type="line"/>
+      <point x="85" y="439" type="line"/>
+      <point x="129" y="445" type="line"/>
+      <point x="177" y="632" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

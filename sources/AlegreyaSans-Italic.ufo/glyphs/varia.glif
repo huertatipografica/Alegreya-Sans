@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="varia" format="2">
+  <advance width="191"/>
+  <unicode hex="1FEF"/>
+  <anchor x="153" y="459" name="top"/>
+  <anchor x="184" y="687" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="148" y="522" type="line"/>
+      <point x="194" y="540" type="line"/>
+      <point x="180" y="593"/>
+      <point x="168" y="647"/>
+      <point x="155" y="708" type="curve"/>
+      <point x="148" y="712" type="line"/>
+      <point x="92" y="692" type="line"/>
+      <point x="87" y="682" type="line"/>
+      <point x="105" y="627"/>
+      <point x="122" y="578"/>
+      <point x="141" y="526" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

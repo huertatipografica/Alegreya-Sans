@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilivaria" format="2">
+  <advance width="280"/>
+  <unicode hex="1FCD"/>
+  <anchor x="285" y="660" name="topleft"/>
+  <anchor x="216" y="674" name="top"/>
+  <outline>
+    <contour>
+      <point x="131" y="672" type="curve"/>
+      <point x="125" y="666"/>
+      <point x="121" y="661"/>
+      <point x="120" y="657" type="curve"/>
+      <point x="119" y="653" type="line"/>
+      <point x="141" y="648"/>
+      <point x="152" y="635"/>
+      <point x="152" y="619" type="curve" smooth="yes"/>
+      <point x="152" y="596"/>
+      <point x="135" y="568"/>
+      <point x="98" y="533" type="curve"/>
+      <point x="98" y="529" type="line"/>
+      <point x="109" y="519" type="line"/>
+      <point x="154" y="560"/>
+      <point x="174" y="596"/>
+      <point x="174" y="626" type="curve" smooth="yes"/>
+      <point x="174" y="649"/>
+      <point x="160" y="666"/>
+    </contour>
+    <contour>
+      <point x="247.98600000000002" y="517.427" type="line"/>
+      <point x="262.2802" y="522.6864" type="line"/>
+      <point x="250.54870000000003" y="566.3584"/>
+      <point x="241.02360000000002" y="613.9202"/>
+      <point x="230.0766" y="672.5712000000001" type="curve"/>
+      <point x="225.13590000000002" y="673.8313" type="line"/>
+      <point x="211.94490000000002" y="670.5168" type="line"/>
+      <point x="208.6353" y="664.6821000000001" type="line"/>
+      <point x="220.0007" y="614.0199"/>
+      <point x="230.62900000000002" y="568.403"/>
+      <point x="243.0453" y="518.6871000000001" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

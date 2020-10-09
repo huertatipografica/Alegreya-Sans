@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.sc" format="2">
+  <advance width="701"/>
+  <anchor x="595" y="-3" name="bottomright"/>
+  <anchor x="351" y="501" name="top"/>
+  <outline>
+    <contour>
+      <point x="605" y="-7" type="line"/>
+      <point x="632" y="-4"/>
+      <point x="658" y="1"/>
+      <point x="683" y="8" type="curve"/>
+      <point x="684" y="17" type="line"/>
+      <point x="613" y="95"/>
+      <point x="541" y="181"/>
+      <point x="478" y="265" type="curve"/>
+      <point x="670" y="501" type="line"/>
+      <point x="581" y="501" type="line"/>
+      <point x="550" y="455" type="line"/>
+      <point x="395" y="267" type="line"/>
+      <point x="395" y="262" type="line"/>
+      <point x="457" y="171"/>
+      <point x="525" y="82"/>
+      <point x="595" y="-3" type="curve"/>
+    </contour>
+    <contour>
+      <point x="96" y="-7" type="curve"/>
+      <point x="106" y="-3" type="line"/>
+      <point x="176" y="82"/>
+      <point x="245" y="171"/>
+      <point x="306" y="262" type="curve"/>
+      <point x="306" y="267" type="line"/>
+      <point x="151" y="455" type="line"/>
+      <point x="121" y="501" type="line"/>
+      <point x="31" y="501" type="line"/>
+      <point x="223" y="265" type="line"/>
+      <point x="160" y="181"/>
+      <point x="89" y="95"/>
+      <point x="17" y="17" type="curve"/>
+      <point x="18" y="8" type="line"/>
+      <point x="44" y="1"/>
+      <point x="70" y="-4"/>
+    </contour>
+    <contour>
+      <point x="310" y="0" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="388" y="157" type="line"/>
+      <point x="392" y="501" type="line"/>
+      <point x="310" y="501" type="line"/>
+      <point x="313" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>13</integer>
+        <key>height</key>
+        <integer>78</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

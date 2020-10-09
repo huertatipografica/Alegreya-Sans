@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss01.BRACKET.80" format="2">
+  <advance width="376"/>
+  <anchor x="192" y="0" name="bottom"/>
+  <anchor x="169" y="499" name="top"/>
+  <outline>
+    <contour>
+      <point x="168" y="494" type="line"/>
+      <point x="89" y="494" type="line"/>
+      <point x="92" y="152" type="line"/>
+      <point x="89" y="5" type="line"/>
+      <point x="351" y="5" type="line"/>
+      <point x="357" y="64" type="line"/>
+      <point x="352" y="71" type="line"/>
+      <point x="166" y="71" type="line"/>
+      <point x="164" y="159" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="36" type="line"/>
+      <point x="-40" y="36" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="499" type="line"/>
+      <point x="-40" y="499" type="line"/>
+      <point x="-40" y="463" type="line"/>
+      <point x="416" y="463" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Regular [80]</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.short" format="2">
+  <advance width="662"/>
+  <outline>
+    <contour>
+      <point x="380" y="659" type="curve" smooth="yes"/>
+      <point x="150" y="659"/>
+      <point x="24" y="498"/>
+      <point x="24" y="276" type="curve" smooth="yes"/>
+      <point x="24" y="78"/>
+      <point x="129" y="-12"/>
+      <point x="299" y="-12" type="curve" smooth="yes"/>
+      <point x="529" y="-12"/>
+      <point x="655" y="152"/>
+      <point x="655" y="374" type="curve" smooth="yes"/>
+      <point x="655" y="571"/>
+      <point x="550" y="659"/>
+    </contour>
+    <contour>
+      <point x="423" y="74" type="curve"/>
+      <point x="278" y="9" type="line"/>
+      <point x="351" y="-63"/>
+      <point x="435" y="-129"/>
+      <point x="520" y="-192" type="curve"/>
+      <point x="535" y="-185" type="line"/>
+      <point x="580" y="-149"/>
+      <point x="615" y="-107"/>
+      <point x="646" y="-58" type="curve"/>
+      <point x="641" y="-40" type="line"/>
+      <point x="566" y="-7"/>
+      <point x="495" y="32"/>
+    </contour>
+    <contour>
+      <point x="357" y="499" type="curve" smooth="yes"/>
+      <point x="428" y="499"/>
+      <point x="443" y="464"/>
+      <point x="443" y="362" type="curve" smooth="yes"/>
+      <point x="443" y="170"/>
+      <point x="390" y="136"/>
+      <point x="320" y="136" type="curve" smooth="yes"/>
+      <point x="249" y="136"/>
+      <point x="234" y="171"/>
+      <point x="234" y="273" type="curve" smooth="yes"/>
+      <point x="234" y="465"/>
+      <point x="287" y="499"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

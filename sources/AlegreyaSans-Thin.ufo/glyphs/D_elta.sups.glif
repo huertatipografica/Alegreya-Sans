@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta.sups" format="2">
+  <advance width="368"/>
+  <outline>
+    <contour>
+      <point x="18" y="348" type="line"/>
+      <point x="347" y="348" type="line"/>
+      <point x="347" y="364" type="line"/>
+      <point x="201" y="756" type="line"/>
+      <point x="178" y="756" type="line"/>
+      <point x="18" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="367" type="line"/>
+      <point x="187" y="728" type="line"/>
+      <point x="190" y="728" type="line"/>
+      <point x="325" y="367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>348</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

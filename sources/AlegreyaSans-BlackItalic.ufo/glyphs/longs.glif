@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs" format="2">
+  <advance width="300"/>
+  <unicode hex="017F"/>
+  <outline>
+    <contour>
+      <point x="370" y="702" type="line"/>
+      <point x="218" y="702"/>
+      <point x="123" y="624"/>
+      <point x="106" y="466" type="curve" smooth="yes"/>
+      <point x="77" y="190" type="line"/>
+      <point x="38" y="-108" type="line"/>
+      <point x="216" y="-97" type="line"/>
+      <point x="220" y="12" type="line"/>
+      <point x="245" y="210" type="line"/>
+      <point x="288" y="508" type="line" smooth="yes"/>
+      <point x="295" y="555"/>
+      <point x="311" y="574"/>
+      <point x="339" y="574" type="curve" smooth="yes"/>
+      <point x="358" y="574"/>
+      <point x="382" y="566"/>
+      <point x="422" y="545" type="curve"/>
+      <point x="445" y="553" type="line"/>
+      <point x="493" y="674" type="line"/>
+      <point x="484" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="362" type="line"/>
+      <point x="161" y="463" type="line"/>
+      <point x="37" y="463" type="line"/>
+      <point x="25" y="373" type="line"/>
+      <point x="33" y="362" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=f</string>
+    </dict>
+  </lib>
+</glyph>

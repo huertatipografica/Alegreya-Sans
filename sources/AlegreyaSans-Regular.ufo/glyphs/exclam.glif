@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="257"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="170" y="661" type="line"/>
+      <point x="104" y="657" type="line"/>
+      <point x="96" y="647" type="line"/>
+      <point x="97" y="224" type="line"/>
+      <point x="106" y="214" type="line"/>
+      <point x="156" y="220" type="line"/>
+      <point x="180" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="93" type="curve" smooth="yes"/>
+      <point x="89" y="93"/>
+      <point x="70" y="73"/>
+      <point x="70" y="43" type="curve" smooth="yes"/>
+      <point x="70" y="13"/>
+      <point x="87" y="-5"/>
+      <point x="117" y="-5" type="curve" smooth="yes"/>
+      <point x="147" y="-5"/>
+      <point x="166" y="15"/>
+      <point x="166" y="46" type="curve" smooth="yes"/>
+      <point x="166" y="75"/>
+      <point x="149" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

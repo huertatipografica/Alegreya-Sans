@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adotbelow" format="2">
+  <outline>
+    <contour>
+      <point x="440" y="647" type="line"/>
+      <point x="198" y="647" type="line"/>
+      <point x="2" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="217" y="119" type="line"/>
+      <point x="309" y="468" type="line"/>
+      <point x="321" y="468" type="line"/>
+      <point x="396" y="107" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="617" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="257" type="line"/>
+      <point x="309" y="255" type="line"/>
+      <point x="187" y="258" type="line"/>
+      <point x="187" y="107" type="line"/>
+      <point x="297" y="112" type="line"/>
+      <point x="412" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="-32" type="curve" smooth="yes"/>
+      <point x="249" y="-32"/>
+      <point x="210" y="-72"/>
+      <point x="210" y="-136" type="curve" smooth="yes"/>
+      <point x="210" y="-197"/>
+      <point x="243" y="-231"/>
+      <point x="304" y="-231" type="curve" smooth="yes"/>
+      <point x="366" y="-231"/>
+      <point x="405" y="-191"/>
+      <point x="405" y="-127" type="curve" smooth="yes"/>
+      <point x="405" y="-67"/>
+      <point x="371" y="-32"/>
+    </contour>
+  </outline>
+</glyph>

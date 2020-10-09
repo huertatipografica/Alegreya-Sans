@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.sc" format="2">
+  <advance width="627"/>
+  <anchor x="578" y="0" name="bottomright"/>
+  <anchor x="345" y="491" name="top"/>
+  <outline>
+    <contour>
+      <point x="554" y="-6" type="line"/>
+      <point x="559" y="-4"/>
+      <point x="565" y="-2"/>
+      <point x="570" y="1" type="curve"/>
+      <point x="569" y="5" type="line"/>
+      <point x="500" y="84"/>
+      <point x="432" y="174"/>
+      <point x="373" y="262" type="curve"/>
+      <point x="618" y="491" type="line"/>
+      <point x="589" y="491" type="line"/>
+      <point x="552" y="454" type="line"/>
+      <point x="348" y="263" type="line"/>
+      <point x="348" y="260" type="line"/>
+      <point x="408" y="169"/>
+      <point x="478" y="79"/>
+      <point x="550" y="-4" type="curve"/>
+    </contour>
+    <contour>
+      <point x="17" y="-6" type="curve"/>
+      <point x="21" y="-5" type="line"/>
+      <point x="112" y="79"/>
+      <point x="204" y="168"/>
+      <point x="287" y="260" type="curve"/>
+      <point x="287" y="263" type="line"/>
+      <point x="129" y="454" type="line"/>
+      <point x="102" y="491" type="line"/>
+      <point x="74" y="491" type="line"/>
+      <point x="262" y="262" type="line"/>
+      <point x="182" y="174"/>
+      <point x="90" y="84"/>
+      <point x="2" y="5" type="curve"/>
+      <point x="2" y="1" type="line"/>
+      <point x="5" y="-2"/>
+      <point x="12" y="-4"/>
+    </contour>
+    <contour>
+      <point x="275" y="0" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="314" y="151" type="line"/>
+      <point x="356" y="491" type="line"/>
+      <point x="335" y="491" type="line"/>
+      <point x="294" y="150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>19</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

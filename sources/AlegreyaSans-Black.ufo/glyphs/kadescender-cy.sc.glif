@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender-cy.sc" format="2">
+  <advance width="597"/>
+  <outline>
+    <contour>
+      <point x="395" y="270" type="curve"/>
+      <point x="545" y="513" type="line"/>
+      <point x="350" y="513" type="line"/>
+      <point x="323" y="455" type="line"/>
+      <point x="211" y="273" type="line"/>
+      <point x="211" y="262" type="line"/>
+      <point x="257" y="172"/>
+      <point x="305" y="77"/>
+      <point x="355" y="-10" type="curve"/>
+      <point x="375" y="-10" type="line"/>
+      <point x="560" y="18" type="line"/>
+      <point x="563" y="38" type="line"/>
+      <point x="504" y="114"/>
+      <point x="447" y="191"/>
+    </contour>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="229" y="168" type="line"/>
+      <point x="239" y="513" type="line"/>
+      <point x="51" y="513" type="line"/>
+      <point x="60" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="-135" type="line"/>
+      <point x="585" y="-126" type="line"/>
+      <point x="585" y="140" type="line"/>
+      <point x="410" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="-10" type="line"/>
+      <point x="575" y="0" type="line"/>
+      <point x="585" y="140" type="line"/>
+      <point x="383" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>7</integer>
+        <key>height</key>
+        <real>79.1</real>
+        <key>weight</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

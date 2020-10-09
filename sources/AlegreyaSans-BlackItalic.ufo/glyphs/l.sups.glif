@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.sups" format="2">
+  <advance width="172"/>
+  <anchor x="155" y="0" name="bottom"/>
+  <anchor x="155" y="472" name="top"/>
+  <anchor x="276" y="472" name="topright"/>
+  <outline>
+    <contour>
+      <point x="208" y="813" type="line"/>
+      <point x="208" y="813" type="line"/>
+      <point x="97" y="806" type="line"/>
+      <point x="95" y="730" type="line"/>
+      <point x="39" y="317" type="line"/>
+      <point x="150" y="324" type="line"/>
+      <point x="153" y="399" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

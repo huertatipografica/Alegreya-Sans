@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss01" format="2">
+  <advance width="452"/>
+  <outline>
+    <contour>
+      <point x="236" y="509" type="line"/>
+      <point x="51" y="509" type="line"/>
+      <point x="60" y="152" type="line"/>
+      <point x="51" y="6" type="line"/>
+      <point x="436" y="6" type="line"/>
+      <point x="442" y="237" type="line"/>
+      <point x="325" y="230" type="line"/>
+      <point x="310" y="154" type="line"/>
+      <point x="226.721" y="154" type="line"/>
+      <point x="226" y="171" type="line"/>
+    </contour>
+    <contour>
+      <point x="492" y="65" type="line"/>
+      <point x="-40" y="65" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="492" y="513" type="line"/>
+      <point x="-40" y="513" type="line"/>
+      <point x="-40" y="448" type="line"/>
+      <point x="492" y="448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

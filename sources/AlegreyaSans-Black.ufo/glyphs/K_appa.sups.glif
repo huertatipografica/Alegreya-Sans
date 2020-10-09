@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kappa.sups" format="2">
+  <advance width="460"/>
+  <anchor x="230" y="320" name="bottom"/>
+  <anchor x="310" y="320" name="bottomright"/>
+  <anchor x="230" y="773" name="top"/>
+  <outline>
+    <contour>
+      <point x="453" y="773" type="line"/>
+      <point x="304" y="773" type="line"/>
+      <point x="280" y="724" type="line"/>
+      <point x="174" y="561" type="line"/>
+      <point x="174" y="552" type="line"/>
+      <point x="217" y="473"/>
+      <point x="263" y="396"/>
+      <point x="310" y="320" type="curve"/>
+      <point x="325" y="312" type="line"/>
+      <point x="372" y="316"/>
+      <point x="419" y="324"/>
+      <point x="466" y="334" type="curve"/>
+      <point x="468" y="350" type="line"/>
+      <point x="414" y="417"/>
+      <point x="362" y="487"/>
+      <point x="315" y="559" type="curve"/>
+    </contour>
+    <contour>
+      <point x="192" y="773" type="line"/>
+      <point x="49" y="773" type="line"/>
+      <point x="56" y="453" type="line"/>
+      <point x="49" y="320" type="line"/>
+      <point x="190" y="320" type="line"/>
+      <point x="185" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>5</integer>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-52</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

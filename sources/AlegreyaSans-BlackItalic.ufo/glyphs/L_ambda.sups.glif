@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lambda.sups" format="2">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="7" y="320" type="line"/>
+      <point x="125" y="320" type="line"/>
+      <point x="148" y="395" type="line"/>
+      <point x="264" y="663" type="line"/>
+      <point x="271" y="663" type="line"/>
+      <point x="307" y="388" type="line"/>
+      <point x="311" y="320" type="line"/>
+      <point x="431" y="320" type="line"/>
+      <point x="353" y="772" type="line"/>
+      <point x="209" y="772" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>70</integer>
+        <key>verticalShift</key>
+        <integer>320</integer>
+        <key>weight</key>
+        <integer>-70</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

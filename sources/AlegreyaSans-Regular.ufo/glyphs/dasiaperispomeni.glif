@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaperispomeni" format="2">
+  <advance width="283"/>
+  <unicode hex="1FDF"/>
+  <anchor x="140" y="727" name="top"/>
+  <outline>
+    <contour>
+      <point x="153" y="502" type="curve"/>
+      <point x="179" y="515" type="line"/>
+      <point x="180" y="520" type="line"/>
+      <point x="139" y="556"/>
+      <point x="138" y="580"/>
+      <point x="179" y="595" type="curve"/>
+      <point x="179" y="601" type="line"/>
+      <point x="165" y="610"/>
+      <point x="153" y="618"/>
+      <point x="140" y="625" type="curve"/>
+      <point x="73" y="609"/>
+      <point x="79" y="544"/>
+    </contour>
+    <contour>
+      <point x="236.907" y="721.423" type="line"/>
+      <point x="230.132" y="721.423" type="line"/>
+      <point x="212.347" y="699.404"/>
+      <point x="200.49" y="681.619"/>
+      <point x="187.787" y="681.619" type="curve"/>
+      <point x="169.155" y="681.619"/>
+      <point x="108.178" y="707.873"/>
+      <point x="76.843" y="712.954" type="curve"/>
+      <point x="69.221" y="709.566" type="line"/>
+      <point x="22.641" y="650.283" type="line"/>
+      <point x="22.641" y="643.508" type="line"/>
+      <point x="44.661" y="620.642" type="line"/>
+      <point x="50.589" y="620.642" type="line"/>
+      <point x="69.221" y="641.814"/>
+      <point x="80.231" y="660.446"/>
+      <point x="93.781" y="660.446" type="curve"/>
+      <point x="111.566" y="660.446"/>
+      <point x="172.543" y="633.345"/>
+      <point x="204.725" y="629.111" type="curve"/>
+      <point x="211.5" y="632.498" type="line"/>
+      <point x="258.08" y="692.628" type="line"/>
+      <point x="258.08" y="699.404" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

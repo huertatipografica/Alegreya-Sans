@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Psi" format="2">
+  <advance width="675"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="347" y="637" type="line"/>
+      <point x="328" y="637" type="line"/>
+      <point x="328" y="195" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="347" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="591" y="637" type="line"/>
+      <point x="571" y="637" type="line"/>
+      <point x="571" y="359" type="line" smooth="yes"/>
+      <point x="571" y="222"/>
+      <point x="488" y="151"/>
+      <point x="338" y="151" type="curve" smooth="yes"/>
+      <point x="186" y="151"/>
+      <point x="104" y="222"/>
+      <point x="104" y="359" type="curve" smooth="yes"/>
+      <point x="104" y="637" type="line"/>
+      <point x="84" y="637" type="line"/>
+      <point x="84" y="452" type="line"/>
+      <point x="84" y="359" type="line" smooth="yes"/>
+      <point x="84" y="209"/>
+      <point x="173" y="131"/>
+      <point x="338" y="131" type="curve" smooth="yes"/>
+      <point x="501" y="131"/>
+      <point x="595" y="212"/>
+      <point x="591" y="359" type="curve"/>
+      <point x="591" y="442" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <advance width="524"/>
+  <unicode hex="043F"/>
+  <anchor x="359" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="359" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="440" y="165" type="line"/>
+      <point x="443" y="459" type="line"/>
+      <point x="360" y="459" type="line"/>
+      <point x="363" y="157" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="161" y="165" type="line"/>
+      <point x="165" y="459" type="line"/>
+      <point x="81" y="459" type="line"/>
+      <point x="84" y="157" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="398" type="line"/>
+      <point x="403" y="398" type="line"/>
+      <point x="403" y="459" type="line"/>
+      <point x="119" y="459" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <real>7.3</real>
+        <key>height</key>
+        <real>71.4</real>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <real>73.5</real>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

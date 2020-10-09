@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="382"/>
+  <unicode hex="013E"/>
+  <anchor x="141" y="0" name="bottom"/>
+  <anchor x="141" y="680" name="top"/>
+  <anchor x="262" y="472" name="topright"/>
+  <outline>
+    <contour>
+      <point x="302" y="88" type="move"/>
+    </contour>
+    <contour>
+      <point x="239" y="702" type="line"/>
+      <point x="45" y="689" type="line"/>
+      <point x="52" y="190" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="230" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="641" type="line"/>
+      <point x="270" y="633" type="line"/>
+      <point x="280" y="395" type="line"/>
+      <point x="293" y="385" type="line"/>
+      <point x="375" y="398" type="line"/>
+      <point x="419" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

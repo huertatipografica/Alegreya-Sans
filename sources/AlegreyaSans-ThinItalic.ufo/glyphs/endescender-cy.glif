@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy" format="2">
+  <advance width="459"/>
+  <unicode hex="04A3"/>
+  <outline>
+    <contour>
+      <point x="137" y="456" type="line"/>
+      <point x="112" y="452" type="line"/>
+      <point x="106" y="362" type="line"/>
+      <point x="57" y="-4" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="91" y="106" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="239" type="line"/>
+      <point x="97" y="220" type="line"/>
+      <point x="217" y="220" type="line"/>
+      <point x="343" y="220" type="line"/>
+      <point x="345" y="239" type="line"/>
+      <point x="219" y="239" type="line"/>
+    </contour>
+    <component base="_part.stemDescender-cy" xOffset="232"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

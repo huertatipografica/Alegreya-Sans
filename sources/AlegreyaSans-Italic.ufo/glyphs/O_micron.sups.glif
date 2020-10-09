@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicron.sups" format="2">
+  <advance width="438"/>
+  <anchor x="232" y="338" name="bottom"/>
+  <anchor x="258" y="550" name="center"/>
+  <anchor x="306" y="345" name="ogonek"/>
+  <anchor x="289" y="762" name="top"/>
+  <anchor x="63" y="762" name="topleft"/>
+  <anchor x="483" y="762" name="topright"/>
+  <outline>
+    <contour>
+      <point x="286" y="768" type="curve"/>
+      <point x="143" y="768"/>
+      <point x="64" y="667"/>
+      <point x="64" y="513" type="curve" smooth="yes"/>
+      <point x="64" y="394"/>
+      <point x="126" y="332"/>
+      <point x="230" y="332" type="curve" smooth="yes"/>
+      <point x="373" y="332"/>
+      <point x="453" y="435"/>
+      <point x="453" y="590" type="curve" smooth="yes"/>
+      <point x="453" y="707"/>
+      <point x="391" y="768"/>
+    </contour>
+    <contour>
+      <point x="277" y="704" type="curve" smooth="yes"/>
+      <point x="342" y="704"/>
+      <point x="370" y="666"/>
+      <point x="370" y="584" type="curve" smooth="yes"/>
+      <point x="370" y="450"/>
+      <point x="323" y="393"/>
+      <point x="238" y="393" type="curve" smooth="yes"/>
+      <point x="173" y="393"/>
+      <point x="145" y="431"/>
+      <point x="145" y="515" type="curve" smooth="yes"/>
+      <point x="145" y="648"/>
+      <point x="192" y="704"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>66</integer>
+        <key>verticalShift</key>
+        <integer>338</integer>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

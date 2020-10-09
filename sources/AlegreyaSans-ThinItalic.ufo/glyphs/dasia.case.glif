@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasia.case" format="2">
+  <advance width="178"/>
+  <anchor x="195" y="661" name="topleft"/>
+  <anchor x="154" y="572" name="top"/>
+  <outline>
+    <component base="dasia"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

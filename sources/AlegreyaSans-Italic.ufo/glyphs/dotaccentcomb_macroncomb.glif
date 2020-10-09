@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb_macroncomb" format="2">
+  <anchor x="157" y="459" name="_top"/>
+  <anchor x="192" y="738" name="top"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="-8" yOffset="-25"/>
+    <component base="macroncomb.i" xOffset="-66" yOffset="101"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>242</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

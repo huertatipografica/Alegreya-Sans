@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy" format="2">
+  <advance width="477"/>
+  <unicode hex="0492"/>
+  <outline>
+    <contour>
+      <point x="203" y="641" type="line"/>
+      <point x="116" y="641" type="line"/>
+      <point x="120" y="193" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="199" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="641" type="line"/>
+      <point x="170" y="641" type="line"/>
+      <point x="168" y="579" type="line"/>
+      <point x="170" y="572" type="line"/>
+      <point x="307" y="572" type="line"/>
+      <point x="443" y="570" type="line"/>
+      <point x="450" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="353.35859999999997" y="342" type="line"/>
+      <point x="50.22839999999999" y="342" type="line"/>
+      <point x="46.8032" y="288" type="line"/>
+      <point x="51.0847" y="282" type="line"/>
+      <point x="355.0712" y="282" type="line"/>
+      <point x="357.64009999999996" y="336" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

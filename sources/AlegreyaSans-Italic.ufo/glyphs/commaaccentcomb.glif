@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="60" y="0" name="_bottom"/>
+  <anchor x="46" y="-115" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="74.68719999999999" y="-47.0176" type="curve"/>
+      <point x="53.4088" y="-52.820800000000006"/>
+      <point x="34.0648" y="-62.4928"/>
+      <point x="16.6552" y="-74.0992" type="curve"/>
+      <point x="16.6552" y="-81.83680000000001" type="line"/>
+      <point x="35.999199999999995" y="-95.3776"/>
+      <point x="46.63839999999999" y="-110.8528"/>
+      <point x="46.63839999999999" y="-129.2296" type="curve"/>
+      <point x="46.63839999999999" y="-158.2456"/>
+      <point x="28.261599999999994" y="-187.2616"/>
+      <point x="-6.557600000000001" y="-215.31040000000002" type="curve"/>
+      <point x="-6.557600000000001" y="-222.0808" type="line"/>
+      <point x="21.4912" y="-247.228" type="line"/>
+      <point x="84.3592" y="-201.7696"/>
+      <point x="115.30959999999999" y="-157.2784"/>
+      <point x="115.30959999999999" y="-113.7544" type="curve"/>
+      <point x="115.30959999999999" y="-86.6728"/>
+      <point x="100.8016" y="-64.4272"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>232</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

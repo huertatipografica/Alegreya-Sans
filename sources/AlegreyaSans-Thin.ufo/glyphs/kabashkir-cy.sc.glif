@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kabashkir-cy.sc" format="2">
+  <advance width="515"/>
+  <outline>
+    <contour>
+      <point x="475" y="491" type="line"/>
+      <point x="446" y="491" type="line"/>
+      <point x="411" y="454" type="line"/>
+      <point x="209" y="263" type="line"/>
+      <point x="209" y="260" type="line"/>
+      <point x="289" y="169"/>
+      <point x="379" y="79"/>
+      <point x="469" y="-4" type="curve"/>
+      <point x="473" y="-6" type="line"/>
+      <point x="478" y="-4"/>
+      <point x="485" y="-2"/>
+      <point x="489" y="1" type="curve"/>
+      <point x="489" y="5" type="line"/>
+      <point x="401" y="84"/>
+      <point x="312" y="174"/>
+      <point x="235" y="262" type="curve"/>
+    </contour>
+    <contour>
+      <point x="187" y="491" type="line"/>
+      <point x="166" y="491" type="line"/>
+      <point x="166" y="150" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="186" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="471" type="line"/>
+      <point x="177" y="491" type="line"/>
+      <point x="6" y="491" type="line"/>
+      <point x="3" y="475" type="line"/>
+      <point x="6" y="471" type="line"/>
+      <point x="92" y="471" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>19</integer>
+        <key>height</key>
+        <integer>77</integer>
+        <key>width</key>
+        <integer>82</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

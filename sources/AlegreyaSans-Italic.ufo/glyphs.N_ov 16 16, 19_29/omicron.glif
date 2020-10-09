@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicron" format="2">
+  <advance width="504"/>
+  <unicode hex="03BF"/>
+  <anchor x="253" y="459" name="top"/>
+  <outline>
+    <contour>
+      <point x="257" y="467" type="curve" smooth="yes"/>
+      <point x="124" y="467"/>
+      <point x="48" y="378"/>
+      <point x="48" y="222" type="curve" smooth="yes"/>
+      <point x="48" y="76"/>
+      <point x="120" y="-8"/>
+      <point x="247" y="-8" type="curve" smooth="yes"/>
+      <point x="380" y="-8"/>
+      <point x="456" y="81"/>
+      <point x="456" y="236" type="curve" smooth="yes"/>
+      <point x="456" y="383"/>
+      <point x="384" y="467"/>
+    </contour>
+    <contour>
+      <point x="252" y="407" type="curve" smooth="yes"/>
+      <point x="334" y="407"/>
+      <point x="377" y="347"/>
+      <point x="377" y="223" type="curve" smooth="yes"/>
+      <point x="377" y="109"/>
+      <point x="333" y="51"/>
+      <point x="252" y="51" type="curve" smooth="yes"/>
+      <point x="170" y="51"/>
+      <point x="127" y="110"/>
+      <point x="127" y="235" type="curve" smooth="yes"/>
+      <point x="127" y="349"/>
+      <point x="170" y="407"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

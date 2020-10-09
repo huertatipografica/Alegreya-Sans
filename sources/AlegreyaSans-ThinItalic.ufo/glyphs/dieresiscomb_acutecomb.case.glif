@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb_acutecomb.case" format="2">
+  <anchor x="241" y="736" name="top"/>
+  <outline>
+    <contour>
+      <point x="308" y="595" type="curve" smooth="yes"/>
+      <point x="296" y="595"/>
+      <point x="288" y="587"/>
+      <point x="288" y="575" type="curve" smooth="yes"/>
+      <point x="288" y="563"/>
+      <point x="296" y="555"/>
+      <point x="308" y="555" type="curve" smooth="yes"/>
+      <point x="320" y="555"/>
+      <point x="328" y="563"/>
+      <point x="328" y="575" type="curve" smooth="yes"/>
+      <point x="328" y="587"/>
+      <point x="320" y="595"/>
+    </contour>
+    <contour>
+      <point x="168" y="595" type="curve" smooth="yes"/>
+      <point x="156" y="595"/>
+      <point x="148" y="587"/>
+      <point x="148" y="575" type="curve" smooth="yes"/>
+      <point x="148" y="563"/>
+      <point x="156" y="555"/>
+      <point x="168" y="555" type="curve" smooth="yes"/>
+      <point x="180" y="555"/>
+      <point x="188" y="563"/>
+      <point x="188" y="575" type="curve" smooth="yes"/>
+      <point x="188" y="587"/>
+      <point x="180" y="595"/>
+    </contour>
+    <contour>
+      <point x="341" y="726" type="line"/>
+      <point x="269" y="699"/>
+      <point x="209" y="680"/>
+      <point x="151" y="664" type="curve"/>
+      <point x="155" y="648" type="line"/>
+      <point x="160" y="644" type="line"/>
+      <point x="223" y="663"/>
+      <point x="283" y="682"/>
+      <point x="347" y="705" type="curve"/>
+      <point x="350" y="710" type="line"/>
+      <point x="345" y="723" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>385</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

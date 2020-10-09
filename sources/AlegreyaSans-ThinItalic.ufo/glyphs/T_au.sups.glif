@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tau.sups" format="2">
+  <advance width="269"/>
+  <anchor x="149" y="348" name="bottom"/>
+  <anchor x="178" y="552" name="center"/>
+  <anchor x="199" y="756" name="top"/>
+  <outline>
+    <contour>
+      <point x="210" y="750" type="line"/>
+      <point x="188" y="750" type="line"/>
+      <point x="154" y="473" type="line"/>
+      <point x="138" y="348" type="line"/>
+      <point x="159" y="348" type="line"/>
+      <point x="174" y="473" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="756" type="line"/>
+      <point x="70" y="756" type="line"/>
+      <point x="65" y="740" type="line"/>
+      <point x="67" y="736" type="line"/>
+      <point x="133" y="737" type="line"/>
+      <point x="263" y="737" type="line"/>
+      <point x="327" y="736" type="line"/>
+      <point x="332" y="753" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>64</integer>
+        <key>verticalShift</key>
+        <integer>348</integer>
+        <key>width</key>
+        <integer>66</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

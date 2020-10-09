@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m" format="2">
+  <advance width="814"/>
+  <unicode hex="006D"/>
+  <anchor x="408" y="0" name="bottom"/>
+  <anchor x="408" y="472" name="top"/>
+  <outline>
+    <contour>
+      <point x="622" y="478" type="curve"/>
+      <point x="571" y="462"/>
+      <point x="530" y="437"/>
+      <point x="496" y="404" type="curve"/>
+      <point x="473" y="404" type="line"/>
+      <point x="473" y="297" type="line"/>
+      <point x="501" y="317"/>
+      <point x="524" y="326"/>
+      <point x="546" y="326" type="curve" smooth="yes"/>
+      <point x="577" y="326"/>
+      <point x="593" y="307"/>
+      <point x="593" y="265" type="curve"/>
+      <point x="583" y="0" type="line"/>
+      <point x="776" y="0" type="line"/>
+      <point x="769" y="210" type="line"/>
+      <point x="773" y="346" type="line" smooth="yes"/>
+      <point x="775" y="431"/>
+      <point x="721" y="478"/>
+    </contour>
+    <contour>
+      <point x="225" y="474" type="line"/>
+      <point x="42" y="461" type="line"/>
+      <point x="49" y="190" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="225" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="478" type="curve"/>
+      <point x="301" y="462"/>
+      <point x="265" y="437"/>
+      <point x="232" y="404" type="curve"/>
+      <point x="202" y="404" type="line"/>
+      <point x="201" y="297" type="line"/>
+      <point x="230" y="317"/>
+      <point x="251" y="326"/>
+      <point x="273" y="326" type="curve" smooth="yes"/>
+      <point x="305" y="326"/>
+      <point x="321" y="307"/>
+      <point x="321" y="265" type="curve"/>
+      <point x="311" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="496" y="210" type="line"/>
+      <point x="500" y="346" type="line" smooth="yes"/>
+      <point x="502" y="431"/>
+      <point x="449" y="478"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>idotless</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

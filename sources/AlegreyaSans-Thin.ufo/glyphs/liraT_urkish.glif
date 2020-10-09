@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish" format="2">
+  <advance width="425"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="276" y="26"/>
+      <point x="357" y="98"/>
+      <point x="406" y="233" type="curve"/>
+      <point x="404" y="237" type="line"/>
+      <point x="388" y="239" type="line"/>
+      <point x="343" y="117"/>
+      <point x="271" y="50"/>
+      <point x="150" y="20" type="curve"/>
+    </contour>
+    <contour>
+      <point x="56" y="141" type="line"/>
+      <point x="150" y="199" type="line"/>
+      <point x="161" y="204" type="line"/>
+      <point x="292" y="289" type="line"/>
+      <point x="286" y="303" type="line"/>
+      <point x="281" y="305" type="line"/>
+      <point x="159" y="227" type="line"/>
+      <point x="148" y="222" type="line"/>
+      <point x="45" y="158" type="line"/>
+      <point x="51" y="144" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="163" y="12" type="line"/>
+      <point x="163" y="151" type="line"/>
+      <point x="163" y="491" type="line"/>
+      <point x="143" y="491" type="line"/>
+      <point x="143" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="281" type="line"/>
+      <point x="150" y="339" type="line"/>
+      <point x="161" y="344" type="line"/>
+      <point x="292" y="429" type="line"/>
+      <point x="286" y="443" type="line"/>
+      <point x="281" y="445" type="line"/>
+      <point x="159" y="367" type="line"/>
+      <point x="148" y="362" type="line"/>
+      <point x="45" y="298" type="line"/>
+      <point x="51" y="284" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

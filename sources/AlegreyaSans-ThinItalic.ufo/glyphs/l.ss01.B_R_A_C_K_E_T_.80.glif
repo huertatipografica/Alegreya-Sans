@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss01.BRACKET.80" format="2">
+  <advance width="365"/>
+  <outline>
+    <contour>
+      <point x="380" y="20" type="line"/>
+      <point x="-65" y="20" type="line"/>
+      <point x="-67" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="491" type="line"/>
+      <point x="-7" y="491" type="line"/>
+      <point x="-9" y="471" type="line"/>
+      <point x="436" y="471" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="491" type="line"/>
+      <point x="142" y="491" type="line"/>
+      <point x="99" y="150" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="119" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="19" type="line"/>
+      <point x="94" y="19" type="line"/>
+      <point x="88" y="3" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="305" y="16" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>[80]</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

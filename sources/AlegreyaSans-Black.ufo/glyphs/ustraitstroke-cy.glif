@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraitstroke-cy" format="2">
+  <advance width="483"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="151" y="-32" type="line"/>
+      <point x="317" y="-32" type="line"/>
+      <point x="482" y="472" type="line"/>
+      <point x="314" y="472" type="line"/>
+      <point x="296" y="376" type="line"/>
+      <point x="251" y="199" type="line"/>
+      <point x="241" y="199" type="line"/>
+      <point x="206" y="387" type="line"/>
+      <point x="193" y="476" type="line"/>
+      <point x="11" y="469" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="-185" type="line"/>
+      <point x="332" y="-185" type="line"/>
+      <point x="327" y="81" type="line"/>
+      <point x="144" y="81" type="line"/>
+    </contour>
+    <contour>
+      <point x="428.15999999999997" y="38" type="line"/>
+      <point x="33.36" y="38" type="line"/>
+      <point x="27.72" y="-53" type="line"/>
+      <point x="35.239999999999995" y="-63" type="line"/>
+      <point x="430.97999999999996" y="-63" type="line"/>
+      <point x="435.67999999999995" y="28" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

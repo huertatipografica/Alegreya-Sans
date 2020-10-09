@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tail-cy.case" format="2">
+  <advance width="316"/>
+  <anchor x="15" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="54" y="-145" type="line"/>
+      <point x="200" y="-137" type="line"/>
+      <point x="314" y="162" type="line"/>
+      <point x="101" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="314" y="162" type="line"/>
+      <point x="60" y="162" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

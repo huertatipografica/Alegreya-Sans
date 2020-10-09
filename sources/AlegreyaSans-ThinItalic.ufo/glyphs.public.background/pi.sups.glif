@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi.sups" format="2">
+  <outline>
+    <contour>
+      <point x="755" y="-5" type="curve"/>
+      <point x="787" y="1"/>
+      <point x="807" y="18"/>
+      <point x="844" y="69" type="curve"/>
+      <point x="836" y="80" type="line"/>
+      <point x="829" y="80" type="line"/>
+      <point x="800" y="37"/>
+      <point x="773" y="15"/>
+      <point x="751" y="15" type="curve" smooth="yes"/>
+      <point x="726" y="15"/>
+      <point x="711" y="34"/>
+      <point x="711" y="67" type="curve"/>
+      <point x="713" y="87" type="line"/>
+      <point x="772" y="439" type="line"/>
+      <point x="753" y="439" type="line"/>
+      <point x="693" y="86" type="line"/>
+      <point x="691" y="64" type="line"/>
+      <point x="691" y="19"/>
+      <point x="713" y="-5"/>
+    </contour>
+    <contour>
+      <point x="472" y="-4" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="508" y="106" type="line"/>
+      <point x="557" y="442" type="line"/>
+      <point x="539" y="439" type="line"/>
+    </contour>
+    <contour>
+      <point x="415" y="432" type="line"/>
+      <point x="901" y="432" type="line"/>
+      <point x="904" y="448" type="line"/>
+      <point x="901" y="452" type="line"/>
+      <point x="414" y="452" type="line"/>
+      <point x="411" y="436" type="line"/>
+    </contour>
+  </outline>
+</glyph>

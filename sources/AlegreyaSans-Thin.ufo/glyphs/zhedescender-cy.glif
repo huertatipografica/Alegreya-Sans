@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender-cy" format="2">
+  <advance width="632"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="34" y="-7" type="curve"/>
+      <point x="38" y="-6" type="line"/>
+      <point x="116" y="72"/>
+      <point x="195" y="154"/>
+      <point x="269" y="238" type="curve"/>
+      <point x="269" y="243" type="line"/>
+      <point x="95" y="418" type="line"/>
+      <point x="66" y="452" type="line"/>
+      <point x="36" y="452" type="line"/>
+      <point x="243" y="241" type="line"/>
+      <point x="173" y="163"/>
+      <point x="95" y="78"/>
+      <point x="20" y="5" type="curve"/>
+      <point x="20" y="1" type="line"/>
+      <point x="23" y="-3"/>
+      <point x="29" y="-5"/>
+    </contour>
+    <contour>
+      <point x="280" y="0" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="300" y="196" type="line"/>
+      <point x="300" y="452" type="line"/>
+      <point x="280" y="452" type="line"/>
+      <point x="280" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="597" y="-100" type="line"/>
+      <point x="616" y="-97" type="line"/>
+      <point x="616" y="19" type="line"/>
+      <point x="595" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="559" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="616" y="19" type="line"/>
+      <point x="563" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="559" y="0" type="line"/>
+      <point x="579" y="5" type="line"/>
+      <point x="579" y="9" type="line"/>
+      <point x="501" y="82"/>
+      <point x="426" y="160"/>
+      <point x="357" y="241" type="curve"/>
+      <point x="571" y="452" type="line"/>
+      <point x="542" y="452" type="line"/>
+      <point x="511" y="418" type="line"/>
+      <point x="331" y="242" type="line"/>
+      <point x="331" y="239" type="line"/>
+      <point x="403" y="155"/>
+      <point x="477" y="78"/>
+      <point x="557" y="1" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xi" format="2">
+  <advance width="544"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="471" y="18" type="line"/>
+      <point x="467" y="22" type="line"/>
+      <point x="266" y="22" type="line"/>
+      <point x="78" y="22" type="line"/>
+      <point x="75" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="319" type="line"/>
+      <point x="253" y="320" type="line"/>
+      <point x="423" y="319" type="line"/>
+      <point x="427" y="337" type="line"/>
+      <point x="424" y="341" type="line"/>
+      <point x="266" y="341" type="line"/>
+      <point x="118" y="341" type="line"/>
+      <point x="114" y="323" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="615" type="line"/>
+      <point x="262" y="615" type="line"/>
+      <point x="463" y="615" type="line"/>
+      <point x="467" y="633" type="line"/>
+      <point x="464" y="637" type="line"/>
+      <point x="83" y="637" type="line"/>
+      <point x="79" y="619" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

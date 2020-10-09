@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="207" y="472" name="_top"/>
+  <anchor x="196" y="763" name="top"/>
+  <outline>
+    <contour>
+      <point x="220" y="568" type="curve"/>
+      <point x="162" y="522" type="line"/>
+      <point x="147" y="527" type="line"/>
+      <point x="98" y="578"/>
+      <point x="49" y="631"/>
+      <point x="2" y="686" type="curve"/>
+      <point x="5" y="700" type="line"/>
+      <point x="95" y="763" type="line"/>
+      <point x="108" y="759" type="line"/>
+      <point x="144" y="694"/>
+      <point x="181" y="631"/>
+    </contour>
+    <contour>
+      <point x="385" y="568" type="curve"/>
+      <point x="327" y="522" type="line"/>
+      <point x="312" y="527" type="line"/>
+      <point x="263" y="578"/>
+      <point x="214" y="631"/>
+      <point x="167" y="686" type="curve"/>
+      <point x="170" y="700" type="line"/>
+      <point x="260" y="763" type="line"/>
+      <point x="273" y="759" type="line"/>
+      <point x="309" y="694"/>
+      <point x="346" y="631"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|hungarumlautcomb</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|hungarumlautcomb</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>388</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

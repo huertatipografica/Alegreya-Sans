@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zedescender-cy" format="2">
+  <advance width="487"/>
+  <unicode hex="0498"/>
+  <outline>
+    <contour>
+      <point x="186" y="-9" type="curve" smooth="yes"/>
+      <point x="342" y="-9"/>
+      <point x="449" y="73"/>
+      <point x="449" y="200" type="curve" smooth="yes"/>
+      <point x="449" y="281"/>
+      <point x="395" y="330"/>
+      <point x="293" y="342" type="curve"/>
+      <point x="295" y="321" type="line"/>
+      <point x="393" y="346"/>
+      <point x="456" y="422"/>
+      <point x="456" y="509" type="curve" smooth="yes"/>
+      <point x="456" y="593"/>
+      <point x="387" y="647"/>
+      <point x="272" y="647" type="curve" smooth="yes"/>
+      <point x="213" y="647"/>
+      <point x="152" y="630"/>
+      <point x="99" y="599" type="curve"/>
+      <point x="82" y="520" type="line"/>
+      <point x="92" y="516" type="line"/>
+      <point x="148" y="552"/>
+      <point x="203" y="572"/>
+      <point x="259" y="572" type="curve" smooth="yes"/>
+      <point x="329" y="572"/>
+      <point x="367" y="544"/>
+      <point x="367" y="491" type="curve" smooth="yes"/>
+      <point x="367" y="434"/>
+      <point x="327" y="383"/>
+      <point x="272" y="362" type="curve"/>
+      <point x="146" y="363" type="line"/>
+      <point x="133" y="304" type="line"/>
+      <point x="139" y="297" type="line"/>
+      <point x="269" y="297" type="line"/>
+      <point x="329" y="286"/>
+      <point x="363" y="250"/>
+      <point x="363" y="198" type="curve" smooth="yes"/>
+      <point x="363" y="119"/>
+      <point x="290" y="64"/>
+      <point x="194" y="64" type="curve" smooth="yes"/>
+      <point x="139" y="64"/>
+      <point x="86" y="85"/>
+      <point x="51" y="121" type="curve"/>
+      <point x="42" y="118" type="line"/>
+      <point x="16" y="41" type="line"/>
+      <point x="56" y="9"/>
+      <point x="118" y="-9"/>
+    </contour>
+    <contour>
+      <point x="153" y="-147" type="line"/>
+      <point x="217" y="-140" type="line"/>
+      <point x="249" y="41" type="line"/>
+      <point x="167" y="41" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

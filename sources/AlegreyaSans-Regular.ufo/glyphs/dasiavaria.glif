@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiavaria" format="2">
+  <advance width="329"/>
+  <unicode hex="1FDD"/>
+  <anchor x="221" y="694" name="topleft"/>
+  <anchor x="164" y="717" name="top"/>
+  <outline>
+    <contour>
+      <point x="97" y="710" type="curve"/>
+      <point x="63" y="697"/>
+      <point x="48" y="675"/>
+      <point x="48" y="642" type="curve" smooth="yes"/>
+      <point x="48" y="603"/>
+      <point x="69" y="563"/>
+      <point x="115" y="518" type="curve"/>
+      <point x="144" y="537" type="line"/>
+      <point x="145" y="543" type="line"/>
+      <point x="120" y="573"/>
+      <point x="107" y="600"/>
+      <point x="107" y="623" type="curve" smooth="yes"/>
+      <point x="107" y="645"/>
+      <point x="119" y="663"/>
+      <point x="142" y="673" type="curve"/>
+      <point x="142" y="679" type="line"/>
+      <point x="130" y="690"/>
+      <point x="114" y="701"/>
+    </contour>
+    <contour>
+      <point x="236.4876" y="523.3444000000001" type="line"/>
+      <point x="280.082" y="539.683" type="line"/>
+      <point x="262.1254" y="593.333"/>
+      <point x="245.2046" y="647.9432"/>
+      <point x="227.5504" y="709.5772" type="curve"/>
+      <point x="219.7176" y="713.8716000000001" type="line"/>
+      <point x="166.0676" y="695.915" type="line"/>
+      <point x="161.6976" y="686.0862" type="line"/>
+      <point x="184.5686" y="630.2511999999999"/>
+      <point x="205.6704" y="580.4798000000001"/>
+      <point x="228.6548" y="527.6388" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iota.sups" format="2">
+  <advance width="204"/>
+  <anchor x="115" y="338" name="bottom"/>
+  <anchor x="153" y="338" name="ogonek"/>
+  <anchor x="169" y="762" name="top"/>
+  <anchor x="53" y="762" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="207" y="762" type="line"/>
+      <point x="128" y="762" type="line"/>
+      <point x="95" y="465" type="line"/>
+      <point x="75" y="338" type="line"/>
+      <point x="153" y="338" type="line"/>
+      <point x="167" y="472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>66</integer>
+        <key>verticalShift</key>
+        <integer>338</integer>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>68</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

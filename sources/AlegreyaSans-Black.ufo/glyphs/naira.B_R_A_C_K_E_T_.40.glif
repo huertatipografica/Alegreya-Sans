@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira.BRACKET.40" format="2">
+  <advance width="723"/>
+  <anchor x="359" y="0" name="bottom"/>
+  <anchor x="359" y="513" name="top"/>
+  <outline>
+    <contour>
+      <point x="543" y="375" type="line"/>
+      <point x="543" y="291" type="line"/>
+      <point x="711" y="291" type="line"/>
+      <point x="716" y="366" type="line"/>
+      <point x="711" y="375" type="line"/>
+    </contour>
+    <contour>
+      <point x="543" y="218" type="line"/>
+      <point x="543" y="134" type="line"/>
+      <point x="711" y="134" type="line"/>
+      <point x="716" y="209" type="line"/>
+      <point x="711" y="218" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="134" type="line"/>
+      <point x="170" y="218" type="line"/>
+      <point x="12" y="218" type="line"/>
+      <point x="6" y="143" type="line"/>
+      <point x="12" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="291" type="line"/>
+      <point x="170" y="375" type="line"/>
+      <point x="12" y="375" type="line"/>
+      <point x="6" y="300" type="line"/>
+      <point x="12" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="615" y="516" type="line"/>
+      <point x="445" y="506" type="line"/>
+      <point x="451" y="277" type="line"/>
+      <point x="440" y="277" type="line"/>
+      <point x="308" y="513" type="line"/>
+      <point x="106" y="513" type="line"/>
+      <point x="115" y="150" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="267" y="190" type="line"/>
+      <point x="268" y="236" type="line"/>
+      <point x="278" y="236" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="605" y="172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Bold [40]</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

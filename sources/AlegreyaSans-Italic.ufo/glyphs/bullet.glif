@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="242"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="123.878" y="293.741" type="curve" smooth="yes"/>
+      <point x="88.631" y="293.741"/>
+      <point x="67.02799999999999" y="271.001"/>
+      <point x="67.02799999999999" y="236.891" type="curve" smooth="yes"/>
+      <point x="67.02799999999999" y="202.781"/>
+      <point x="86.357" y="182.315"/>
+      <point x="120.467" y="182.315" type="curve" smooth="yes"/>
+      <point x="154.577" y="182.315"/>
+      <point x="176.18" y="205.055"/>
+      <point x="176.18" y="240.302" type="curve" smooth="yes"/>
+      <point x="176.18" y="273.275"/>
+      <point x="156.851" y="293.741"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perispomeni" format="2">
+  <advance width="348"/>
+  <unicode hex="1FC0"/>
+  <anchor x="174" y="459" name="top"/>
+  <outline>
+    <contour>
+      <point x="288" y="670" type="line"/>
+      <point x="280" y="670" type="line"/>
+      <point x="259" y="644"/>
+      <point x="245" y="623"/>
+      <point x="230" y="623" type="curve"/>
+      <point x="208" y="623"/>
+      <point x="136" y="654"/>
+      <point x="99" y="660" type="curve"/>
+      <point x="90" y="656" type="line"/>
+      <point x="35" y="586" type="line"/>
+      <point x="35" y="578" type="line"/>
+      <point x="61" y="551" type="line"/>
+      <point x="68" y="551" type="line"/>
+      <point x="90" y="576"/>
+      <point x="103" y="598"/>
+      <point x="119" y="598" type="curve"/>
+      <point x="140" y="598"/>
+      <point x="212" y="566"/>
+      <point x="250" y="561" type="curve"/>
+      <point x="258" y="565" type="line"/>
+      <point x="313" y="636" type="line"/>
+      <point x="313" y="644" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tilde</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tilde</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

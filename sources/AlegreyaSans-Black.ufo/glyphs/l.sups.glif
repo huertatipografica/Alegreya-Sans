@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.sups" format="2">
+  <advance width="205"/>
+  <anchor x="104" y="0" name="bottom"/>
+  <anchor x="104" y="469" name="top"/>
+  <anchor x="192" y="327" name="topright"/>
+  <outline>
+    <contour>
+      <point x="171" y="804" type="line"/>
+      <point x="34" y="795" type="line"/>
+      <point x="39" y="453" type="line"/>
+      <point x="33" y="322" type="line"/>
+      <point x="171" y="322" type="line"/>
+      <point x="166" y="467" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n.sups</string>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=n.sups</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

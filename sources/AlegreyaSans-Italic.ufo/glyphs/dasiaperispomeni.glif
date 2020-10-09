@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaperispomeni" format="2">
+  <advance width="266"/>
+  <unicode hex="1FDF"/>
+  <anchor x="195" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="189" y="502" type="curve"/>
+      <point x="215" y="515" type="line"/>
+      <point x="216" y="520" type="line"/>
+      <point x="175" y="556"/>
+      <point x="174" y="580"/>
+      <point x="215" y="595" type="curve"/>
+      <point x="215" y="601" type="line"/>
+      <point x="201" y="610"/>
+      <point x="189" y="618"/>
+      <point x="176" y="625" type="curve"/>
+      <point x="109" y="609"/>
+      <point x="115" y="544"/>
+    </contour>
+    <contour>
+      <point x="283" y="720" type="line"/>
+      <point x="277" y="720" type="line"/>
+      <point x="258" y="698"/>
+      <point x="247" y="680"/>
+      <point x="234" y="680" type="curve"/>
+      <point x="216" y="680"/>
+      <point x="154" y="707"/>
+      <point x="123" y="711" type="curve"/>
+      <point x="116" y="709" type="line"/>
+      <point x="69" y="649" type="line"/>
+      <point x="69" y="642" type="line"/>
+      <point x="91" y="621" type="line"/>
+      <point x="97" y="621" type="line"/>
+      <point x="116" y="642"/>
+      <point x="127" y="660"/>
+      <point x="140" y="660" type="curve"/>
+      <point x="158" y="660"/>
+      <point x="219" y="633"/>
+      <point x="251" y="629" type="curve"/>
+      <point x="257" y="632" type="line"/>
+      <point x="304" y="691" type="line"/>
+      <point x="304" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

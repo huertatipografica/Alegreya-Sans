@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy.sc" format="2">
+  <advance width="399"/>
+  <outline>
+    <contour>
+      <point x="216" y="499" type="line"/>
+      <point x="135" y="499" type="line"/>
+      <point x="96" y="150" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="171" y="157" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="499" type="line"/>
+      <point x="189" y="499" type="line"/>
+      <point x="181" y="441" type="line"/>
+      <point x="182" y="435" type="line"/>
+      <point x="290" y="435" type="line"/>
+      <point x="402" y="433" type="line"/>
+      <point x="416" y="492" type="line"/>
+    </contour>
+    <contour>
+      <point x="308.9511" y="250" type="line"/>
+      <point x="23.803199999999997" y="250" type="line"/>
+      <point x="15.240199999999994" y="197" type="line"/>
+      <point x="18.665399999999998" y="191" type="line"/>
+      <point x="303.81329999999997" y="191" type="line"/>
+      <point x="312.37629999999996" y="244" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>13</integer>
+        <key>height</key>
+        <integer>78</integer>
+        <key>weight</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>83</integer>
+      </dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
